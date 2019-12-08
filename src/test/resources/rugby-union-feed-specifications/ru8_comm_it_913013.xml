@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2013 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a06.nexus.opta.net
+     production time:    20130203T165454,390Z
+     production module:  Opta::Feed::XML::RugbyUnion::RU8
+-->
+<RugbyCommentary>
+  <GameDetail away_score="18" away_team_id="650" away_team_name="France" game_id="913013" home_score="23" home_team_id="952" home_team_name="Italy" />
+  <Message type="Leader Table">
+    <Category name="">
+      <Players name="Thierry Dusautoir" number="13" player_id="7286" team_id="650" team_name="France" />
+      <Players name="Fulgence Ouedraogo" number="11" player_id="8436" team_id="650" team_name="France" />
+      <Players name="Pascal Pape" number="11" player_id="3383" team_id="650" team_name="France" />
+    </Category>
+    <Category name="Difensori superati">
+      <Players name="Sergio Parisse" number="3" player_id="3347" team_id="952" team_name="Italy" />
+      <Players name="Giovanbattista Venditti" number="3" player_id="18304" team_id="952" team_name="Italy" />
+      <Players name="Frederic Michalak" number="2" player_id="2475" team_id="650" team_name="France" />
+      <Players name="Wesley Fofana" number="2" player_id="9948" team_id="650" team_name="France" />
+      <Players name="Yoann Huget" number="2" player_id="8471" team_id="650" team_name="France" />
+    </Category>
+  </Message>
+  <Message type="Leader Table">
+    <Category name="">
+      <Players name="Thierry Dusautoir" number="13" player_id="7286" team_id="650" team_name="France" />
+      <Players name="Fulgence Ouedraogo" number="11" player_id="8436" team_id="650" team_name="France" />
+      <Players name="Pascal Pape" number="11" player_id="3383" team_id="650" team_name="France" />
+    </Category>
+    <Category name="Difensori superati">
+      <Players name="Sergio Parisse" number="3" player_id="3347" team_id="952" team_name="Italy" />
+      <Players name="Giovanbattista Venditti" number="3" player_id="18304" team_id="952" team_name="Italy" />
+      <Players name="Frederic Michalak" number="2" player_id="2475" team_id="650" team_name="France" />
+      <Players name="Wesley Fofana" number="2" player_id="9948" team_id="650" team_name="France" />
+      <Players name="Yoann Huget" number="2" player_id="8471" team_id="650" team_name="France" />
+    </Category>
+  </Message>
+  <Message id="857" comment="La partita è finita." player_id="0" team_id="952" time="80+1" type="End Of Second Half" />
+  <Message id="838" comment="Leonardo Ghiraldini entra in campo." player_id="7914" team_id="952" time="79" type="Substitution on" />
+  <Message id="837" comment="Kristopher Burton esce dal campo." player_id="9252" team_id="952" time="79" type="Substitution off" />
+  <Message id="834" comment="Davide Giazzon (Italy) viene ammonito." player_id="9072" team_id="952" time="79" type="Yellow card" />
+  <Message id="770" comment="La linea difensiva è stata saltata da Giovanbattista Venditti." player_id="18304" team_id="952" time="73" type="Clean Break" />
+  <Message id="764" comment="Gonzalo Canale entra in campo." player_id="3671" team_id="952" time="71" type="Substitution on" />
+  <Message id="763" comment="Tommaso Benvenuti esce dal campo." player_id="16858" team_id="952" time="71" type="Substitution off" />
+  <Message id="762" comment="Antonio Pavanello entra in campo." player_id="7852" team_id="952" time="71" type="Substitution on" />
+  <Message id="761" comment="Quintin Geldenhuys esce dal campo." player_id="8960" team_id="952" time="71" type="Substitution off" />
+  <Message id="747" comment="Francois Trinh-Duc entra in campo." player_id="8615" team_id="650" time="71" type="Substitution on" />
+  <Message id="746" comment="Yoann Huget esce dal campo." player_id="8471" team_id="650" time="71" type="Substitution off" />
+  <Message id="728" comment="Kristopher Burton calcia un drop." player_id="9252" team_id="952" time="68" type="Drop Goal - Kicked" />
+  <Message id="675" comment="Damien Chouly entra in campo." player_id="8306" team_id="650" time="68" type="Substitution on" />
+  <Message id="674" comment="Louis Picamoles esce dal campo." player_id="9093" team_id="650" time="68" type="Substitution off" />
+  <Message id="644" comment="Luc Ducalcon entra in campo." player_id="8373" team_id="650" time="66" type="Substitution on" />
+  <Message id="643" comment="Nicolas Mas esce dal campo." player_id="2283" team_id="650" time="66" type="Substitution off" />
+  <Message id="677" comment="Kristopher Burton entra in campo." player_id="9252" team_id="952" time="63" type="Substitution on" />
+  <Message id="676" comment="Luciano Orquera esce dal campo." player_id="7015" team_id="952" time="63" type="Substitution off" />
+  <Message id="672" comment="Paul Derbyshire entra in campo." player_id="8890" team_id="952" time="63" type="Substitution on" />
+  <Message id="671" comment="Simone Favaro esce dal campo." player_id="9978" team_id="952" time="63" type="Substitution off" />
+  <Message id="666" comment="Lorenzo Cittadini entra in campo." player_id="7913" team_id="952" time="62" type="Substitution on" />
+  <Message id="665" comment="Martin Castrogiovanni esce dal campo." player_id="3345" team_id="952" time="62" type="Substitution off" />
+  <Message id="619" comment="Mathieu Bastareaud entra in campo." player_id="9609" team_id="650" time="62" type="Substitution on" />
+  <Message id="618" comment="Florian Fritz esce dal campo." player_id="3951" team_id="650" time="62" type="Substitution off" />
+  <Message id="617" comment="Morgan Parra entra in campo." player_id="8805" team_id="650" time="62" type="Substitution on" />
+  <Message id="616" comment="Maxime Machenaud esce dal campo." player_id="17312" team_id="650" time="62" type="Substitution off" />
+  <Message type="Leader Table">
+    <Category name="">
+      <Players name="Pascal Pape" number="11" player_id="3383" team_id="650" team_name="France" />
+      <Players name="Thierry Dusautoir" number="11" player_id="7286" team_id="650" team_name="France" />
+      <Players name="Yoann Maestri" number="10" player_id="9847" team_id="650" team_name="France" />
+    </Category>
+    <Category name="Difensori superati">
+      <Players name="Sergio Parisse" number="3" player_id="3347" team_id="952" team_name="Italy" />
+      <Players name="Alessandro Zanni" number="2" player_id="7796" team_id="952" team_name="Italy" />
+      <Players name="Wesley Fofana" number="2" player_id="9948" team_id="650" team_name="France" />
+      <Players name="Maxime Machenaud" number="2" player_id="17312" team_id="650" team_name="France" />
+      <Players name="Benjamin Fall" number="2" player_id="9813" team_id="650" team_name="France" />
+    </Category>
+  </Message>
+  <Message id="613" comment="Luciano Orquera trasforma la meta." player_id="7015" team_id="952" time="58" type="Conversion - Kicked" />
+  <Message id="563" comment="Romain Taofifenua entra in campo." player_id="9831" team_id="650" time="58" type="Substitution on" />
+  <Message id="562" comment="Pascal Pape esce dal campo." player_id="3383" team_id="650" time="58" type="Substitution off" />
+  <Message id="607" comment="Luciano Orquera serve un assist per la meta." player_id="7015" team_id="952" time="56" type="Try Assist" />
+  <Message id="605" comment="Un assist del compagno lancia in meta Martin Castrogiovanni." player_id="3345" team_id="952" time="56" type="Try - Passing Move" />
+  <Message id="580" comment="La linea difensiva è stata saltata da Sergio Parisse." player_id="3347" team_id="952" time="55" type="Clean Break" />
+  <Message id="570" comment="Edoardo Gori entra in campo." player_id="18554" team_id="952" time="55" type="Substitution on" />
+  <Message id="569" comment="Tobie Botes esce dal campo." player_id="9719" team_id="952" time="55" type="Substitution off" />
+  <Message id="568" comment="Alberto De Marchi entra in campo." player_id="8525" team_id="952" time="55" type="Substitution on" />
+  <Message id="567" comment="Andrea Lo Cicero esce dal campo." player_id="1706" team_id="952" time="55" type="Substitution off" />
+  <Message id="566" comment="Davide Giazzon entra in campo." player_id="9072" team_id="952" time="55" type="Substitution on" />
+  <Message id="565" comment="Leonardo Ghiraldini esce dal campo." player_id="7914" team_id="952" time="55" type="Substitution off" />
+  <Message id="542" comment="La linea difensiva è stata saltata da Maxime Machenaud." player_id="17312" team_id="650" time="55" type="Clean Break" />
+  <Message id="470" comment="Vincent Debaty entra in campo." player_id="3269" team_id="650" time="52" type="Substitution on" />
+  <Message id="469" comment="Yannick Forestier esce dal campo." player_id="6081" team_id="650" time="52" type="Substitution off" />
+  <Message id="468" comment="Benjamin Kayser entra in campo." player_id="6130" team_id="650" time="52" type="Substitution on" />
+  <Message id="467" comment="Dimitri Szarzewski esce dal campo." player_id="3258" team_id="650" time="52" type="Substitution off" />
+  <Message id="462" comment="Frederic Michalak calcia corta la punizione." player_id="2475" team_id="650" time="51" type="Penalty Goal - Dropped Short" />
+  <Message id="449" comment="Frederic Michalak calcia la punizione." player_id="2475" team_id="650" time="49" type="Penalty Goal - Kicked" />
+  <Message id="362" comment="Il secondo tempo è in corso." player_id="0" team_id="650" time="40" type="Start Of Second Half" />
+  <Message id="359" comment="L'arbitro fischia la fine del primo tempo." player_id="0" team_id="650" time="40" type="End Of First Half" />
+  <Message id="347" comment="La linea difensiva è stata saltata da Alessandro Zanni." player_id="7796" team_id="952" time="36" type="Clean Break" />
+  <Message id="324" comment="La linea difensiva è stata saltata da Wesley Fofana." player_id="9948" team_id="650" time="36" type="Clean Break" />
+  <Message id="297" comment="Frederic Michalak trasforma la meta." player_id="2475" team_id="650" time="33" type="Conversion - Kicked" />
+  <Message id="295" comment="La linea difensiva è stata saltata da Benjamin Fall." player_id="9813" team_id="650" time="33" type="Clean Break" />
+  <Message id="291" comment="Florian Fritz serve un assist per la meta." player_id="3951" team_id="650" time="33" type="Try Assist" />
+  <Message id="289" comment="Un assist del compagno lancia in meta Benjamin Fall." player_id="9813" team_id="650" time="33" type="Try - Passing Move" />
+  <Message id="251" comment="Frederic Michalak calcia la punizione." player_id="2475" team_id="650" time="27" type="Penalty Goal - Kicked" />
+  <Message type="Leader Table">
+    <Category name="">
+      <Players name="Pascal Pape" number="6" player_id="3383" team_id="650" team_name="France" />
+      <Players name="Thierry Dusautoir" number="6" player_id="7286" team_id="650" team_name="France" />
+      <Players name="Frederic Michalak" number="5" player_id="2475" team_id="650" team_name="France" />
+      <Players name="Florian Fritz" number="5" player_id="3951" team_id="650" team_name="France" />
+      <Players name="Dimitri Szarzewski" number="5" player_id="3258" team_id="650" team_name="France" />
+    </Category>
+    <Category name="Difensori superati">
+      <Players name="Sergio Parisse" number="3" player_id="3347" team_id="952" team_name="Italy" />
+      <Players name="Leonardo Ghiraldini" number="1" player_id="7914" team_id="952" team_name="Italy" />
+      <Players name="Alessandro Zanni" number="1" player_id="7796" team_id="952" team_name="Italy" />
+      <Players name="Luciano Orquera" number="1" player_id="7015" team_id="952" team_name="Italy" />
+      <Players name="Tobie Botes" number="1" player_id="9719" team_id="952" team_name="Italy" />
+    </Category>
+  </Message>
+  <Message id="190" comment="Luciano Orquera calcia la punizione." player_id="7015" team_id="952" time="17" type="Penalty Goal - Kicked" />
+  <Message id="156" comment="Luciano Orquera calcia un drop." player_id="7015" team_id="952" time="14" type="Drop Goal - Kicked" />
+  <Message id="103" comment="Frederic Michalak ha spedito la trasformazione a sinistra dei pali." player_id="2475" team_id="650" time="12" type="Conversion - Missed Right" />
+  <Message id="101" comment="Frederic Michalak serve un assist per la meta." player_id="2475" team_id="650" time="11" type="Try Assist" />
+  <Message id="100" comment="Un assist del compagno lancia in meta Louis Picamoles." player_id="9093" team_id="650" time="11" type="Try - Passing Move" />
+  <Message id="85" comment="Luciano Orquera trasforma la meta." player_id="7015" team_id="952" time="5" type="Conversion - Kicked" />
+  <Message id="80" comment="Luciano Orquera serve un assist per la meta." player_id="7015" team_id="952" time="4" type="Try Assist" />
+  <Message id="79" comment="Un assist del compagno lancia in meta Sergio Parisse." player_id="3347" team_id="952" time="4" type="Try - Passing Move" />
+  <Message id="77" comment="La linea difensiva è stata saltata da Luciano Orquera." player_id="7015" team_id="952" time="4" type="Clean Break" />
+  <Message id="3" comment="La partita è cominciata." player_id="0" team_id="952" time="0" type="Start Of First Half" />
+</RugbyCommentary>

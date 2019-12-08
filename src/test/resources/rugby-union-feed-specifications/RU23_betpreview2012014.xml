@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2013 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a01.nexus.opta.net
+     production time:    20131229T155855,356Z
+     production module:  Opta::Feed::XML::RugbyUnion::RU23
+-->
+<comp id="201" name="Aviva Premiership" season="Season 2013/2014" season_id="2014">
+  <teams>
+    <team id="84" name="Exeter">
+      <av_points first_half="8.7" first_half_con="11.7" second_half="10.6" second_half_con="6.8" />
+      <double_result draw_draw="0" draw_lose="0" draw_win="0" lose_draw="0" lose_lose="5" lose_win="1" win_draw="0" win_lose="0" win_win="5" />
+      <points_breakdown>
+        <fiftytofiftynine conceded="0" match_total="2" scored="0" />
+        <fortytofortynine conceded="0" match_total="3" scored="1" />
+        <seventyplus conceded="0" match_total="0" scored="0" />
+        <sixtytosixtynine conceded="0" match_total="0" scored="0" />
+        <tentonineteen conceded="3" match_total="1" scored="4" />
+        <thirtytothirtynine conceded="1" match_total="3" scored="1" />
+        <twentytotwentynine conceded="5" match_total="2" scored="2" />
+        <zerotonine conceded="2" match_total="0" scored="3" />
+      </points_breakdown>
+      <score_times>
+        <firstquarter av_points_conceded="5.9" av_points_scored="4.6" points_conceded="65" points_scored="51" tries_conceded="6" tries_scored="3" />
+        <forthquarter av_points_conceded="5.1" av_points_scored="4.8" points_conceded="56" points_scored="53" tries_conceded="5" tries_scored="5" />
+        <secondquarter av_points_conceded="4.8" av_points_scored="4.1" points_conceded="53" points_scored="45" tries_conceded="6" tries_scored="2" />
+        <thirdquarter av_points_conceded="2.7" av_points_scored="5.8" points_conceded="30" points_scored="64" tries_conceded="1" tries_scored="7" />
+      </score_times>
+      <scoring_types av_time_first_try="52" first_points_by_drop="0" first_points_by_pen="5" first_points_by_try="1" firstpoints="6" firsttry="4" last_points_by_drop="0" last_points_by_pen="2" last_points_by_try="0" lastpoints="5" lasttry="4" no_try="0" />
+      <team_stats av_shirtno_per_try="8" conversions="13" draw="0" drop_goals="0" lost="5" matches="11" penalty_goals="34" red_cards="0" tries="17" tries_con="18" won="6" yellow_cards="3" />
+    </team>
+    <team id="1350" name="Newcastle">
+      <av_points first_half="5.4" first_half_con="9.2" second_half="3.1" second_half_con="12.3" />
+      <double_result draw_draw="0" draw_lose="0" draw_win="0" lose_draw="0" lose_lose="7" lose_win="2" win_draw="0" win_lose="1" win_win="1" />
+      <points_breakdown>
+        <fiftytofiftynine conceded="0" match_total="0" scored="0" />
+        <fortytofortynine conceded="1" match_total="2" scored="0" />
+        <seventyplus conceded="0" match_total="0" scored="0" />
+        <sixtytosixtynine conceded="0" match_total="0" scored="0" />
+        <tentonineteen conceded="6" match_total="2" scored="5" />
+        <thirtytothirtynine conceded="2" match_total="2" scored="0" />
+        <twentytotwentynine conceded="2" match_total="5" scored="0" />
+        <zerotonine conceded="0" match_total="0" scored="6" />
+      </points_breakdown>
+      <score_times>
+        <firstquarter av_points_conceded="4.2" av_points_scored="2.9" points_conceded="46" points_scored="32" tries_conceded="5" tries_scored="2" />
+        <forthquarter av_points_conceded="5.7" av_points_scored="1.2" points_conceded="63" points_scored="13" tries_conceded="9" tries_scored="1" />
+        <secondquarter av_points_conceded="4.7" av_points_scored="2.2" points_conceded="52" points_scored="24" tries_conceded="4" tries_scored="0" />
+        <thirdquarter av_points_conceded="6.8" av_points_scored="1.5" points_conceded="75" points_scored="17" tries_conceded="8" tries_scored="1" />
+      </score_times>
+      <scoring_types av_time_first_try="63" first_points_by_drop="0" first_points_by_pen="2" first_points_by_try="1" firstpoints="3" firsttry="2" last_points_by_drop="0" last_points_by_pen="2" last_points_by_try="0" lastpoints="4" lasttry="2" no_try="0" />
+      <team_stats av_shirtno_per_try="11" conversions="4" draw="0" drop_goals="1" lost="8" matches="11" penalty_goals="19" red_cards="0" tries="5" tries_con="26" won="3" yellow_cards="5" />
+    </team>
+    <team id="1550" name="London Wasps">
+      <av_points first_half="8.9" first_half_con="8.5" second_half="10.8" second_half_con="11.3" />
+      <double_result draw_draw="0" draw_lose="0" draw_win="0" lose_draw="0" lose_lose="5" lose_win="0" win_draw="0" win_lose="1" win_win="5" />
+      <points_breakdown>
+        <fiftytofiftynine conceded="0" match_total="1" scored="0" />
+        <fortytofortynine conceded="0" match_total="2" scored="0" />
+        <seventyplus conceded="0" match_total="0" scored="0" />
+        <sixtytosixtynine conceded="0" match_total="1" scored="0" />
+        <tentonineteen conceded="7" match_total="0" scored="5" />
+        <thirtytothirtynine conceded="2" match_total="6" scored="2" />
+        <twentytotwentynine conceded="2" match_total="1" scored="3" />
+        <zerotonine conceded="0" match_total="0" scored="1" />
+      </points_breakdown>
+      <score_times>
+        <firstquarter av_points_conceded="3.8" av_points_scored="4.7" points_conceded="42" points_scored="52" tries_conceded="2" tries_scored="4" />
+        <forthquarter av_points_conceded="5.5" av_points_scored="7.4" points_conceded="61" points_scored="81" tries_conceded="5" tries_scored="11" />
+        <secondquarter av_points_conceded="4.7" av_points_scored="3.6" points_conceded="52" points_scored="40" tries_conceded="3" tries_scored="3" />
+        <thirdquarter av_points_conceded="5.1" av_points_scored="3.8" points_conceded="56" points_scored="42" tries_conceded="7" tries_scored="4" />
+      </score_times>
+      <scoring_types av_time_first_try="39" first_points_by_drop="0" first_points_by_pen="3" first_points_by_try="4" firstpoints="7" firsttry="6" last_points_by_drop="1" last_points_by_pen="2" last_points_by_try="1" lastpoints="6" lasttry="7" no_try="0" />
+      <team_stats av_shirtno_per_try="11" conversions="13" draw="0" drop_goals="3" lost="6" matches="11" penalty_goals="24" red_cards="0" tries="22" tries_con="17" won="5" yellow_cards="6" />
+    </team>
+    <team id="3300" name="Worcester">
+      <av_points first_half="5.5" first_half_con="13.4" second_half="5.3" second_half_con="13.5" />
+      <double_result draw_draw="0" draw_lose="1" draw_win="0" lose_draw="0" lose_lose="9" lose_win="0" win_draw="0" win_lose="1" win_win="0" />
+      <points_breakdown>
+        <fiftytofiftynine conceded="0" match_total="1" scored="0" />
+        <fortytofortynine conceded="1" match_total="4" scored="0" />
+        <seventyplus conceded="0" match_total="0" scored="0" />
+        <sixtytosixtynine conceded="0" match_total="0" scored="0" />
+        <tentonineteen conceded="2" match_total="1" scored="7" />
+        <thirtytothirtynine conceded="4" match_total="3" scored="0" />
+        <twentytotwentynine conceded="4" match_total="2" scored="0" />
+        <zerotonine conceded="0" match_total="0" scored="4" />
+      </points_breakdown>
+      <score_times>
+        <firstquarter av_points_conceded="7.5" av_points_scored="3.1" points_conceded="82" points_scored="34" tries_conceded="7" tries_scored="1" />
+        <forthquarter av_points_conceded="6.5" av_points_scored="3.3" points_conceded="71" points_scored="36" tries_conceded="8" tries_scored="6" />
+        <secondquarter av_points_conceded="5.3" av_points_scored="2.5" points_conceded="58" points_scored="27" tries_conceded="7" tries_scored="2" />
+        <thirdquarter av_points_conceded="7.6" av_points_scored="2.0" points_conceded="84" points_scored="22" tries_conceded="12" tries_scored="1" />
+      </score_times>
+      <scoring_types av_time_first_try="59" first_points_by_drop="0" first_points_by_pen="4" first_points_by_try="0" firstpoints="4" firsttry="2" last_points_by_drop="0" last_points_by_pen="0" last_points_by_try="1" lastpoints="1" lasttry="4" no_try="1" />
+      <team_stats av_shirtno_per_try="11" conversions="6" draw="0" drop_goals="0" lost="11" matches="11" penalty_goals="19" red_cards="0" tries="10" tries_con="34" won="0" yellow_cards="7" />
+    </team>
+    <team id="1450" name="Sale">
+      <av_points first_half="9.8" first_half_con="8.8" second_half="8.1" second_half_con="10.1" />
+      <double_result draw_draw="0" draw_lose="0" draw_win="0" lose_draw="0" lose_lose="4" lose_win="0" win_draw="0" win_lose="2" win_win="5" />
+      <points_breakdown>
+        <fiftytofiftynine conceded="0" match_total="1" scored="0" />
+        <fortytofortynine conceded="0" match_total="3" scored="0" />
+        <seventyplus conceded="0" match_total="0" scored="0" />
+        <sixtytosixtynine conceded="0" match_total="0" scored="0" />
+        <tentonineteen conceded="5" match_total="1" scored="6" />
+        <thirtytothirtynine conceded="2" match_total="4" scored="0" />
+        <twentytotwentynine conceded="3" match_total="2" scored="4" />
+        <zerotonine conceded="1" match_total="0" scored="1" />
+      </points_breakdown>
+      <score_times>
+        <firstquarter av_points_conceded="4.1" av_points_scored="3.5" points_conceded="45" points_scored="39" tries_conceded="3" tries_scored="4" />
+        <forthquarter av_points_conceded="5.9" av_points_scored="3.3" points_conceded="65" points_scored="36" tries_conceded="7" tries_scored="3" />
+        <secondquarter av_points_conceded="4.7" av_points_scored="5.1" points_conceded="52" points_scored="56" tries_conceded="3" tries_scored="4" />
+        <thirdquarter av_points_conceded="4.2" av_points_scored="5.7" points_conceded="46" points_scored="63" tries_conceded="5" tries_scored="7" />
+      </score_times>
+      <scoring_types av_time_first_try="36" first_points_by_drop="1" first_points_by_pen="3" first_points_by_try="1" firstpoints="5" firsttry="7" last_points_by_drop="1" last_points_by_pen="3" last_points_by_try="1" lastpoints="7" lasttry="6" no_try="0" />
+      <team_stats av_shirtno_per_try="12" conversions="13" draw="0" drop_goals="3" lost="6" matches="11" penalty_goals="24" red_cards="0" tries="18" tries_con="18" won="5" yellow_cards="6" />
+    </team>
+    <team id="1500" name="Saracens">
+      <av_points first_half="13.6" first_half_con="8.3" second_half="16.6" second_half_con="6.5" />
+      <double_result draw_draw="0" draw_lose="0" draw_win="0" lose_draw="0" lose_lose="1" lose_win="3" win_draw="0" win_lose="0" win_win="7" />
+      <points_breakdown>
+        <fiftytofiftynine conceded="0" match_total="2" scored="0" />
+        <fortytofortynine conceded="1" match_total="3" scored="4" />
+        <seventyplus conceded="0" match_total="0" scored="0" />
+        <sixtytosixtynine conceded="0" match_total="2" scored="0" />
+        <tentonineteen conceded="6" match_total="0" scored="2" />
+        <thirtytothirtynine conceded="0" match_total="3" scored="1" />
+        <twentytotwentynine conceded="1" match_total="1" scored="4" />
+        <zerotonine conceded="3" match_total="0" scored="0" />
+      </points_breakdown>
+      <score_times>
+        <firstquarter av_points_conceded="3.5" av_points_scored="6.2" points_conceded="38" points_scored="68" tries_conceded="2" tries_scored="7" />
+        <forthquarter av_points_conceded="3.8" av_points_scored="9.2" points_conceded="42" points_scored="101" tries_conceded="6" tries_scored="12" />
+        <secondquarter av_points_conceded="4.5" av_points_scored="6.1" points_conceded="50" points_scored="67" tries_conceded="4" tries_scored="6" />
+        <thirdquarter av_points_conceded="2.5" av_points_scored="8.2" points_conceded="28" points_scored="90" tries_conceded="3" tries_scored="9" />
+      </score_times>
+      <scoring_types av_time_first_try="26" first_points_by_drop="0" first_points_by_pen="4" first_points_by_try="2" firstpoints="6" firsttry="9" last_points_by_drop="0" last_points_by_pen="1" last_points_by_try="1" lastpoints="5" lasttry="7" no_try="0" />
+      <team_stats av_shirtno_per_try="11" conversions="28" draw="0" drop_goals="0" lost="1" matches="11" penalty_goals="34" red_cards="0" tries="35" tries_con="15" won="10" yellow_cards="5" />
+    </team>
+    <team id="1250" name="Leicester">
+      <av_points first_half="11.5" first_half_con="9.6" second_half="9.6" second_half_con="10.5" />
+      <double_result draw_draw="0" draw_lose="0" draw_win="0" lose_draw="1" lose_lose="4" lose_win="1" win_draw="0" win_lose="0" win_win="5" />
+      <points_breakdown>
+        <fiftytofiftynine conceded="0" match_total="2" scored="0" />
+        <fortytofortynine conceded="1" match_total="2" scored="0" />
+        <seventyplus conceded="0" match_total="0" scored="0" />
+        <sixtytosixtynine conceded="0" match_total="0" scored="0" />
+        <tentonineteen conceded="4" match_total="0" scored="4" />
+        <thirtytothirtynine conceded="0" match_total="7" scored="3" />
+        <twentytotwentynine conceded="4" match_total="0" scored="4" />
+        <zerotonine conceded="2" match_total="0" scored="0" />
+      </points_breakdown>
+      <score_times>
+        <firstquarter av_points_conceded="3.6" av_points_scored="5.7" points_conceded="40" points_scored="63" tries_conceded="4" tries_scored="6" />
+        <forthquarter av_points_conceded="4.9" av_points_scored="6.4" points_conceded="54" points_scored="70" tries_conceded="5" tries_scored="7" />
+        <secondquarter av_points_conceded="4.0" av_points_scored="5.2" points_conceded="44" points_scored="57" tries_conceded="1" tries_scored="5" />
+        <thirdquarter av_points_conceded="7.5" av_points_scored="3.9" points_conceded="83" points_scored="43" tries_conceded="9" tries_scored="5" />
+      </score_times>
+      <scoring_types av_time_first_try="35" first_points_by_drop="0" first_points_by_pen="3" first_points_by_try="4" firstpoints="7" firsttry="5" last_points_by_drop="0" last_points_by_pen="2" last_points_by_try="0" lastpoints="6" lasttry="7" no_try="0" />
+      <team_stats av_shirtno_per_try="10" conversions="17" draw="1" drop_goals="0" lost="4" matches="11" penalty_goals="28" red_cards="0" tries="23" tries_con="19" won="6" yellow_cards="8" />
+    </team>
+    <team id="1150" name="Harlequins">
+      <av_points first_half="10.7" first_half_con="5.7" second_half="9.1" second_half_con="7.7" />
+      <double_result draw_draw="0" draw_lose="2" draw_win="0" lose_draw="0" lose_lose="1" lose_win="1" win_draw="0" win_lose="1" win_win="6" />
+      <points_breakdown>
+        <fiftytofiftynine conceded="0" match_total="1" scored="0" />
+        <fortytofortynine conceded="0" match_total="2" scored="0" />
+        <seventyplus conceded="0" match_total="0" scored="0" />
+        <sixtytosixtynine conceded="0" match_total="0" scored="0" />
+        <tentonineteen conceded="7" match_total="2" scored="3" />
+        <thirtytothirtynine conceded="0" match_total="4" scored="2" />
+        <twentytotwentynine conceded="1" match_total="2" scored="4" />
+        <zerotonine conceded="3" match_total="0" scored="2" />
+      </points_breakdown>
+      <score_times>
+        <firstquarter av_points_conceded="4.1" av_points_scored="3.7" points_conceded="45" points_scored="41" tries_conceded="2" tries_scored="2" />
+        <forthquarter av_points_conceded="4.2" av_points_scored="3.6" points_conceded="46" points_scored="40" tries_conceded="6" tries_scored="4" />
+        <secondquarter av_points_conceded="1.6" av_points_scored="6.2" points_conceded="18" points_scored="68" tries_conceded="0" tries_scored="6" />
+        <thirdquarter av_points_conceded="3.5" av_points_scored="6.3" points_conceded="39" points_scored="69" tries_conceded="4" tries_scored="8" />
+      </score_times>
+      <scoring_types av_time_first_try="49" first_points_by_drop="0" first_points_by_pen="3" first_points_by_try="2" firstpoints="5" firsttry="5" last_points_by_drop="0" last_points_by_pen="2" last_points_by_try="1" lastpoints="5" lasttry="4" no_try="0" />
+      <team_stats av_shirtno_per_try="11" conversions="17" draw="0" drop_goals="0" lost="4" matches="11" penalty_goals="28" red_cards="0" tries="20" tries_con="12" won="7" yellow_cards="6" />
+    </team>
+    <team id="1000" name="Bath">
+      <av_points first_half="12.7" first_half_con="8.9" second_half="8.6" second_half_con="6.9" />
+      <double_result draw_draw="0" draw_lose="0" draw_win="0" lose_draw="0" lose_lose="3" lose_win="0" win_draw="0" win_lose="0" win_win="8" />
+      <points_breakdown>
+        <fiftytofiftynine conceded="0" match_total="1" scored="0" />
+        <fortytofortynine conceded="1" match_total="2" scored="0" />
+        <seventyplus conceded="0" match_total="0" scored="0" />
+        <sixtytosixtynine conceded="0" match_total="1" scored="0" />
+        <tentonineteen conceded="4" match_total="1" scored="4" />
+        <thirtytothirtynine conceded="1" match_total="3" scored="1" />
+        <twentytotwentynine conceded="1" match_total="3" scored="6" />
+        <zerotonine conceded="4" match_total="0" scored="0" />
+      </points_breakdown>
+      <score_times>
+        <firstquarter av_points_conceded="2.6" av_points_scored="6.7" points_conceded="29" points_scored="74" tries_conceded="2" tries_scored="5" />
+        <forthquarter av_points_conceded="3.5" av_points_scored="4.8" points_conceded="38" points_scored="53" tries_conceded="5" tries_scored="5" />
+        <secondquarter av_points_conceded="5.6" av_points_scored="5.7" points_conceded="62" points_scored="63" tries_conceded="7" tries_scored="6" />
+        <thirdquarter av_points_conceded="3.9" av_points_scored="4.1" points_conceded="43" points_scored="45" tries_conceded="6" tries_scored="5" />
+      </score_times>
+      <scoring_types av_time_first_try="39" first_points_by_drop="0" first_points_by_pen="6" first_points_by_try="1" firstpoints="7" firsttry="8" last_points_by_drop="0" last_points_by_pen="3" last_points_by_try="2" lastpoints="8" lasttry="5" no_try="0" />
+      <team_stats av_shirtno_per_try="12" conversions="14" draw="0" drop_goals="2" lost="3" matches="11" penalty_goals="32" red_cards="0" tries="21" tries_con="20" won="8" yellow_cards="3" />
+    </team>
+    <team id="1400" name="Northampton">
+      <av_points first_half="13.5" first_half_con="6.9" second_half="13.5" second_half_con="7.6" />
+      <double_result draw_draw="0" draw_lose="0" draw_win="1" lose_draw="0" lose_lose="0" lose_win="1" win_draw="1" win_lose="1" win_win="7" />
+      <points_breakdown>
+        <fiftytofiftynine conceded="0" match_total="1" scored="0" />
+        <fortytofortynine conceded="0" match_total="3" scored="2" />
+        <seventyplus conceded="0" match_total="0" scored="0" />
+        <sixtytosixtynine conceded="0" match_total="2" scored="0" />
+        <tentonineteen conceded="6" match_total="2" scored="5" />
+        <thirtytothirtynine conceded="0" match_total="3" scored="3" />
+        <twentytotwentynine conceded="3" match_total="0" scored="1" />
+        <zerotonine conceded="2" match_total="0" scored="0" />
+      </points_breakdown>
+      <score_times>
+        <firstquarter av_points_conceded="2.8" av_points_scored="6.1" points_conceded="31" points_scored="67" tries_conceded="1" tries_scored="6" />
+        <forthquarter av_points_conceded="4.7" av_points_scored="8.0" points_conceded="52" points_scored="88" tries_conceded="6" tries_scored="11" />
+        <secondquarter av_points_conceded="3.2" av_points_scored="7.5" points_conceded="35" points_scored="82" tries_conceded="3" tries_scored="9" />
+        <thirdquarter av_points_conceded="3.5" av_points_scored="5.4" points_conceded="39" points_scored="59" tries_conceded="4" tries_scored="8" />
+      </score_times>
+      <scoring_types av_time_first_try="28" first_points_by_drop="0" first_points_by_pen="6" first_points_by_try="3" firstpoints="9" firsttry="9" last_points_by_drop="0" last_points_by_pen="2" last_points_by_try="1" lastpoints="8" lasttry="8" no_try="0" />
+      <team_stats av_shirtno_per_try="11" conversions="30" draw="1" drop_goals="0" lost="1" matches="11" penalty_goals="24" red_cards="0" tries="34" tries_con="14" won="9" yellow_cards="7" />
+    </team>
+    <team id="1300" name="London Irish">
+      <av_points first_half="8.0" first_half_con="13.6" second_half="7.0" second_half_con="8.5" />
+      <double_result draw_draw="0" draw_lose="0" draw_win="2" lose_draw="0" lose_lose="6" lose_win="0" win_draw="0" win_lose="2" win_win="0" />
+      <points_breakdown>
+        <fiftytofiftynine conceded="0" match_total="2" scored="0" />
+        <fortytofortynine conceded="1" match_total="0" scored="0" />
+        <seventyplus conceded="0" match_total="0" scored="0" />
+        <sixtytosixtynine conceded="0" match_total="1" scored="0" />
+        <tentonineteen conceded="6" match_total="1" scored="6" />
+        <thirtytothirtynine conceded="1" match_total="5" scored="0" />
+        <twentytotwentynine conceded="2" match_total="1" scored="3" />
+        <zerotonine conceded="0" match_total="0" scored="1" />
+      </points_breakdown>
+      <score_times>
+        <firstquarter av_points_conceded="6.8" av_points_scored="3.3" points_conceded="75" points_scored="36" tries_conceded="6" tries_scored="2" />
+        <forthquarter av_points_conceded="5.6" av_points_scored="4.2" points_conceded="62" points_scored="46" tries_conceded="7" tries_scored="5" />
+        <secondquarter av_points_conceded="6.7" av_points_scored="4.4" points_conceded="74" points_scored="48" tries_conceded="8" tries_scored="5" />
+        <thirdquarter av_points_conceded="2.5" av_points_scored="3.5" points_conceded="27" points_scored="39" tries_conceded="0" tries_scored="4" />
+      </score_times>
+      <scoring_types av_time_first_try="44" first_points_by_drop="0" first_points_by_pen="2" first_points_by_try="2" firstpoints="4" firsttry="4" last_points_by_drop="0" last_points_by_pen="2" last_points_by_try="2" lastpoints="5" lasttry="4" no_try="0" />
+      <team_stats av_shirtno_per_try="11" conversions="10" draw="0" drop_goals="0" lost="8" matches="11" penalty_goals="23" red_cards="0" tries="16" tries_con="21" won="2" yellow_cards="7" />
+    </team>
+    <team id="1100" name="Gloucester">
+      <av_points first_half="7.4" first_half_con="12.2" second_half="10.5" second_half_con="11.5" />
+      <double_result draw_draw="0" draw_lose="0" draw_win="0" lose_draw="0" lose_lose="5" lose_win="2" win_draw="0" win_lose="2" win_win="1" />
+      <points_breakdown>
+        <fiftytofiftynine conceded="0" match_total="2" scored="0" />
+        <fortytofortynine conceded="1" match_total="2" scored="0" />
+        <seventyplus conceded="0" match_total="0" scored="0" />
+        <sixtytosixtynine conceded="0" match_total="1" scored="0" />
+        <tentonineteen conceded="2" match_total="1" scored="7" />
+        <thirtytothirtynine conceded="1" match_total="3" scored="1" />
+        <twentytotwentynine conceded="5" match_total="1" scored="2" />
+        <zerotonine conceded="1" match_total="0" scored="0" />
+      </points_breakdown>
+      <score_times>
+        <firstquarter av_points_conceded="5.2" av_points_scored="3.5" points_conceded="57" points_scored="38" tries_conceded="5" tries_scored="3" />
+        <forthquarter av_points_conceded="6.3" av_points_scored="5.6" points_conceded="69" points_scored="62" tries_conceded="7" tries_scored="6" />
+        <secondquarter av_points_conceded="6.3" av_points_scored="3.8" points_conceded="69" points_scored="42" tries_conceded="6" tries_scored="4" />
+        <thirdquarter av_points_conceded="5.4" av_points_scored="5.1" points_conceded="59" points_scored="56" tries_conceded="6" tries_scored="6" />
+      </score_times>
+      <scoring_types av_time_first_try="40" first_points_by_drop="0" first_points_by_pen="2" first_points_by_try="1" firstpoints="3" firsttry="4" last_points_by_drop="0" last_points_by_pen="4" last_points_by_try="0" lastpoints="6" lasttry="7" no_try="1" />
+      <team_stats av_shirtno_per_try="12" conversions="11" draw="0" drop_goals="0" lost="7" matches="11" penalty_goals="28" red_cards="1" tries="19" tries_con="24" won="3" yellow_cards="8" />
+    </team>
+  </teams>
+</comp>

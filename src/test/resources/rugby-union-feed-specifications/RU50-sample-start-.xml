@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2013 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a04.nexus.opta.net
+     production time:    20131229T140208,935Z
+     production module:  Opta::Feed::XML::RugbyUnion::RU50
+-->
+<RU50_EventFeed>
+  <Game away_score="0" game_id="114113" home_score="0" status="First half" timer_running="1">
+    <Event id="2053591" direction="Left to Right" direction_of_play_x="0.00" direction_of_play_y="0.00" event_id="3" event_type_id="22" event_type_name="Start" game_id="114113" last_modified="2013-12-29 14:02:03" outcome="0" period="First Half" period_id="2" period_minute="0" period_second="0" player_id="0" team_id="1300" timestamp="2013-12-29 14:02:03" timestamp_milliseconds="64" x="0.00" y="0.00">
+      <Qualifiers id="2751628" name="Direction of Play" qualifier_id="52" value="Left to Right" />
+    </Event>
+  </Game>
+</RU50_EventFeed>

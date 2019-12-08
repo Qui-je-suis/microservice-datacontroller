@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2013 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a02.nexus.opta.net
+     production time:    20131229T155819,13Z
+     production module:  Opta::Feed::XML::RugbyUnion::RU50
+-->
+<RU50_EventFeed>
+  <Game away_score="22" game_id="114113" home_score="19" status="Second half" timer_running="1">
+    <Event id="2055131" direction="Left to Right" direction_of_play_x="69.8" direction_of_play_y="65.2" event_id="738" event_type_id="5" event_type_name="Drop goal" game_id="114113" last_modified="2013-12-29 15:58:15" outcome="0" period="Second Half" period_id="4" period_minute="79" period_second="56" player_id="10183" team_id="1100" timestamp="2013-12-29 15:58:09" timestamp_milliseconds="478" x="69.8" y="65.2">
+      <Qualifiers id="2753985" name="Possession" qualifier_id="163" value="-1" />
+      <Qualifiers id="2753989" name="Metres" qualifier_id="166" value="41.03" />
+      <Qualifiers id="2753987" direction_of_play_end_x="102.14" name="End X" qualifier_id="167" value="102.14" />
+      <Qualifiers id="2753988" direction_of_play_end_y="42.77" name="End Y" qualifier_id="168" value="42.77" />
+      <Qualifiers id="2753986" name="Missed right" qualifier_id="78" value="" />
+    </Event>
+  </Game>
+</RU50_EventFeed>

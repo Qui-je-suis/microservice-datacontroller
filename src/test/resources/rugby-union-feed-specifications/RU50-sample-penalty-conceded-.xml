@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2013 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a04.nexus.opta.net
+     production time:    20131229T140503,716Z
+     production module:  Opta::Feed::XML::RugbyUnion::RU50
+-->
+<RU50_EventFeed>
+  <Game away_score="0" game_id="114113" home_score="7" status="First half" timer_running="1">
+    <Event id="2053624" direction="Right to Left" direction_of_play_x="60.9" direction_of_play_y="16" event_id="17" event_type_id="15" event_type_name="Penalty conceded" game_id="114113" last_modified="2013-12-29 14:05:02" outcome="1" period="First Half" period_id="2" period_minute="2" period_second="58" player_id="19930" team_id="1100" timestamp="2013-12-29 14:05:03" timestamp_milliseconds="33" x="39.1" y="84">
+      <Qualifiers id="2751693" name="Offside" qualifier_id="26" value="" />
+      <Qualifiers id="2751692" name="Defence" qualifier_id="88" value="" />
+    </Event>
+  </Game>
+</RU50_EventFeed>

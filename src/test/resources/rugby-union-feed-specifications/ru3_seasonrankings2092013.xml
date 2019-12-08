@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2013 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a03.nexus.opta.net
+     production time:    20131212T133024,557Z
+     production module:  Opta::Feed::XML::RugbyUnion::RU3
+-->
+<seasonrankings>
+  <competition id="209" long_name="Six Nations" name="Six Nations" season_id="2013" short_name="6N" />
+  <rankings>
+    <playerstats>
+      <bad_passes>
+        <player player_id="2475" rank="1" value="10" />
+        <player player_id="9144" rank="2" value="8" />
+        <player player_id="9757" rank="3" value="5" />
+        <player player_id="3347" rank="4" value="4" />
+        <player player_id="18554" rank="4" value="4" />
+        <player player_id="17312" rank="4" value="4" />
+        <player player_id="8805" rank="7" value="3" />
+        <player player_id="9938" rank="7" value="3" />
+        <player player_id="8615" rank="7" value="3" />
+        <player player_id="2652" rank="7" value="3" />
+      </bad_passes>
+      <carries>
+        <player player_id="9093" rank="1" value="70" />
+        <player player_id="8487" rank="2" value="69" />
+        <player player_id="11029" rank="3" value="63" />
+        <player player_id="7656" rank="4" value="57" />
+        <player player_id="3486" rank="5" value="53" />
+        <player player_id="7796" rank="6" value="50" />
+        <player player_id="7697" rank="7" value="47" />
+        <player player_id="3347" rank="7" value="47" />
+        <player player_id="9486" rank="9" value="46" />
+        <player player_id="8471" rank="10" value="45" />
+      </carries>
+      <clean_breaks>
+        <player player_id="7655" rank="1" value="5" />
+        <player player_id="19411" rank="1" value="5" />
+        <player player_id="9093" rank="1" value="5" />
+        <player player_id="18273" rank="4" value="4" />
+        <player player_id="18304" rank="4" value="4" />
+        <player player_id="9139" rank="4" value="4" />
+        <player player_id="3347" rank="7" value="3" />
+        <player player_id="17133" rank="7" value="3" />
+        <player player_id="18622" rank="7" value="3" />
+        <player player_id="3901" rank="7" value="3" />
+        <player player_id="9948" rank="7" value="3" />
+        <player player_id="2652" rank="7" value="3" />
+        <player player_id="7796" rank="7" value="3" />
+      </clean_breaks>
+      <conversion_goals>
+        <player player_id="16273" rank="1" value="6" />
+        <player player_id="8420" rank="2" value="5" />
+        <player player_id="9938" rank="3" value="3" />
+        <player player_id="7015" rank="3" value="3" />
+        <player player_id="2475" rank="3" value="3" />
+        <player player_id="15055" rank="3" value="3" />
+        <player player_id="18568" rank="7" value="1" />
+        <player player_id="8805" rank="7" value="1" />
+        <player player_id="17312" rank="7" value="1" />
+        <player player_id="9757" rank="7" value="1" />
+        <player player_id="9723" rank="7" value="1" />
+        <player player_id="9252" rank="7" value="1" />
+      </conversion_goals>
+      <defenders_beaten>
+        <player player_id="9093" rank="1" value="15" />
+        <player player_id="9609" rank="1" value="15" />
+        <player player_id="19411" rank="3" value="14" />
+        <player player_id="7768" rank="3" value="14" />
+        <player player_id="18273" rank="3" value="14" />
+        <player player_id="18622" rank="6" value="12" />
+        <player player_id="7655" rank="6" value="12" />
+        <player player_id="9948" rank="6" value="12" />
+        <player player_id="8487" rank="6" value="12" />
+        <player player_id="8471" rank="6" value="12" />
+        <player player_id="2652" rank="6" value="12" />
+      </defenders_beaten>
+      <drop_goals_converted>
+        <player player_id="9757" rank="1" value="1" />
+        <player player_id="7015" rank="1" value="1" />
+        <player player_id="9252" rank="1" value="1" />
+      </drop_goals_converted>
+      <kicks_from_hand>
+        <player player_id="9757" rank="1" value="48" />
+        <player player_id="8420" rank="2" value="47" />
+        <player player_id="2475" rank="3" value="45" />
+        <player player_id="9144" rank="4" value="42" />
+        <player player_id="10308" rank="5" value="41" />
+        <player player_id="8805" rank="6" value="34" />
+        <player player_id="9486" rank="6" value="34" />
+        <player player_id="2652" rank="8" value="30" />
+        <player player_id="16273" rank="9" value="27" />
+        <player player_id="9938" rank="10" value="26" />
+      </kicks_from_hand>
+      <lineout_won_steal>
+        <player player_id="3347" rank="1" value="4" />
+        <player player_id="3613" rank="1" value="4" />
+        <player player_id="7637" rank="3" value="2" />
+        <player player_id="3901" rank="3" value="2" />
+        <player player_id="10949" rank="3" value="2" />
+        <player player_id="16250" rank="3" value="2" />
+        <player player_id="16927" rank="7" value="1" />
+        <player player_id="9430" rank="7" value="1" />
+        <player player_id="2370" rank="7" value="1" />
+        <player player_id="17125" rank="7" value="1" />
+        <player player_id="9802" rank="7" value="1" />
+        <player player_id="9438" rank="7" value="1" />
+        <player player_id="7852" rank="7" value="1" />
+        <player player_id="10268" rank="7" value="1" />
+        <player player_id="7796" rank="7" value="1" />
+        <player player_id="3427" rank="7" value="1" />
+        <player player_id="3248" rank="7" value="1" />
+        <player player_id="7926" rank="7" value="1" />
+        <player player_id="9847" rank="7" value="1" />
+      </lineout_won_steal>
+      <lineouts_to_own_player>
+        <player player_id="5093" rank="1" value="23" />
+        <player player_id="7796" rank="2" value="19" />
+        <player player_id="9847" rank="3" value="16" />
+        <player player_id="3901" rank="4" value="14" />
+        <player player_id="6113" rank="5" value="13" />
+        <player player_id="7663" rank="6" value="12" />
+        <player player_id="9438" rank="6" value="12" />
+        <player player_id="10268" rank="8" value="11" />
+        <player player_id="3613" rank="8" value="11" />
+        <player player_id="3427" rank="10" value="10" />
+      </lineouts_to_own_player>
+      <metres>
+        <player player_id="9486" rank="1" value="387" />
+        <player player_id="9093" rank="2" value="351" />
+        <player player_id="7655" rank="3" value="347" />
+        <player player_id="18622" rank="4" value="336" />
+        <player player_id="8471" rank="5" value="288" />
+        <player player_id="18273" rank="6" value="282" />
+        <player player_id="9948" rank="7" value="280" />
+        <player player_id="3486" rank="8" value="279" />
+        <player player_id="9791" rank="9" value="259" />
+        <player player_id="19411" rank="10" value="254" />
+      </metres>
+      <minutes_played_total>
+        <player player_id="11029" rank="1" value="401" />
+        <player player_id="9796" rank="2" value="400" />
+        <player player_id="16161" rank="2" value="400" />
+        <player player_id="7796" rank="2" value="400" />
+        <player player_id="7768" rank="2" value="400" />
+        <player player_id="17133" rank="2" value="400" />
+        <player player_id="7655" rank="2" value="400" />
+        <player player_id="18273" rank="2" value="400" />
+        <player player_id="18304" rank="2" value="400" />
+        <player player_id="9948" rank="2" value="400" />
+        <player player_id="16273" rank="2" value="400" />
+        <player player_id="19411" rank="2" value="400" />
+        <player player_id="7697" rank="2" value="400" />
+        <player player_id="8402" rank="2" value="400" />
+        <player player_id="5028" rank="2" value="400" />
+        <player player_id="7656" rank="2" value="400" />
+      </minutes_played_total>
+      <missed_conversion_goals>
+        <player player_id="16273" rank="1" value="2" />
+        <player player_id="9938" rank="1" value="2" />
+        <player player_id="18568" rank="3" value="1" />
+        <player player_id="8420" rank="3" value="1" />
+        <player player_id="7015" rank="3" value="1" />
+        <player player_id="2475" rank="3" value="1" />
+      </missed_conversion_goals>
+      <missed_penalty_goals>
+        <player player_id="18568" rank="1" value="5" />
+        <player player_id="9938" rank="1" value="5" />
+        <player player_id="16273" rank="3" value="4" />
+        <player player_id="8805" rank="4" value="3" />
+        <player player_id="7015" rank="4" value="3" />
+        <player player_id="2475" rank="4" value="3" />
+        <player player_id="8420" rank="7" value="2" />
+        <player player_id="18622" rank="8" value="1" />
+        <player player_id="9792" rank="8" value="1" />
+        <player player_id="1619" rank="8" value="1" />
+      </missed_penalty_goals>
+      <missed_tackles>
+        <player player_id="9796" rank="1" value="10" />
+        <player player_id="8420" rank="1" value="10" />
+        <player player_id="17133" rank="3" value="9" />
+        <player player_id="7656" rank="3" value="9" />
+        <player player_id="18622" rank="5" value="7" />
+        <player player_id="7697" rank="5" value="7" />
+        <player player_id="9847" rank="5" value="7" />
+        <player player_id="9723" rank="5" value="7" />
+        <player player_id="5028" rank="5" value="7" />
+        <player player_id="7913" rank="5" value="7" />
+        <player player_id="8487" rank="5" value="7" />
+      </missed_tackles>
+      <offload>
+        <player player_id="7796" rank="1" value="12" />
+        <player player_id="9093" rank="2" value="8" />
+        <player player_id="9609" rank="3" value="6" />
+        <player player_id="9655" rank="3" value="6" />
+        <player player_id="7656" rank="3" value="6" />
+        <player player_id="9719" rank="6" value="5" />
+        <player player_id="8402" rank="6" value="5" />
+        <player player_id="17312" rank="6" value="5" />
+        <player player_id="8142" rank="6" value="5" />
+        <player player_id="7680" rank="10" value="4" />
+        <player player_id="2475" rank="10" value="4" />
+        <player player_id="9486" rank="10" value="4" />
+        <player player_id="9796" rank="10" value="4" />
+        <player player_id="19411" rank="10" value="4" />
+        <player player_id="3347" rank="10" value="4" />
+        <player player_id="8890" rank="10" value="4" />
+        <player player_id="8471" rank="10" value="4" />
+      </offload>
+      <passes>
+        <player player_id="2652" rank="1" value="282" />
+        <player player_id="10308" rank="2" value="264" />
+        <player player_id="9144" rank="3" value="200" />
+        <player player_id="18554" rank="4" value="186" />
+        <player player_id="8805" rank="5" value="182" />
+        <player player_id="9719" rank="6" value="167" />
+        <player player_id="8420" rank="7" value="164" />
+        <player player_id="17312" rank="8" value="146" />
+        <player player_id="7635" rank="9" value="127" />
+        <player player_id="2475" rank="10" value="121" />
+      </passes>
+      <pen_defs>
+        <player player_id="8399" rank="1" value="8" />
+        <player player_id="6024" rank="1" value="8" />
+        <player player_id="9054" rank="1" value="8" />
+        <player player_id="3345" rank="4" value="6" />
+        <player player_id="5093" rank="5" value="5" />
+        <player player_id="8475" rank="5" value="5" />
+        <player player_id="1967" rank="5" value="5" />
+        <player player_id="10238" rank="5" value="5" />
+        <player player_id="8487" rank="5" value="5" />
+        <player player_id="10268" rank="10" value="4" />
+        <player player_id="7914" rank="10" value="4" />
+        <player player_id="7697" rank="10" value="4" />
+        <player player_id="4048" rank="10" value="4" />
+        <player player_id="3613" rank="10" value="4" />
+        <player player_id="6144" rank="10" value="4" />
+      </pen_defs>
+      <pen_offs>
+        <player player_id="8787" rank="1" value="4" />
+        <player player_id="9978" rank="2" value="3" />
+        <player player_id="3077" rank="2" value="3" />
+        <player player_id="7913" rank="2" value="3" />
+        <player player_id="2283" rank="2" value="3" />
+        <player player_id="3345" rank="6" value="2" />
+        <player player_id="16250" rank="6" value="2" />
+        <player player_id="1619" rank="6" value="2" />
+        <player player_id="3293" rank="6" value="2" />
+        <player player_id="3258" rank="6" value="2" />
+        <player player_id="6024" rank="6" value="2" />
+        <player player_id="9093" rank="6" value="2" />
+        <player player_id="1967" rank="6" value="2" />
+        <player player_id="9054" rank="6" value="2" />
+        <player player_id="5047" rank="6" value="2" />
+        <player player_id="8525" rank="6" value="2" />
+        <player player_id="17133" rank="6" value="2" />
+        <player player_id="9423" rank="6" value="2" />
+        <player player_id="3613" rank="6" value="2" />
+        <player player_id="8142" rank="6" value="2" />
+        <player player_id="8487" rank="6" value="2" />
+      </pen_offs>
+      <penalty_goals>
+        <player player_id="16273" rank="1" value="19" />
+        <player player_id="8420" rank="2" value="17" />
+        <player player_id="9938" rank="3" value="13" />
+        <player player_id="2475" rank="4" value="9" />
+        <player player_id="6035" rank="5" value="8" />
+        <player player_id="18568" rank="5" value="8" />
+        <player player_id="7015" rank="5" value="8" />
+        <player player_id="15055" rank="8" value="3" />
+        <player player_id="9252" rank="8" value="3" />
+        <player player_id="8805" rank="10" value="2" />
+        <player player_id="1619" rank="10" value="2" />
+      </penalty_goals>
+      <points>
+        <player player_id="16273" rank="1" value="74" />
+        <player player_id="8420" rank="2" value="61" />
+        <player player_id="9938" rank="3" value="45" />
+        <player player_id="2475" rank="4" value="33" />
+        <player player_id="7015" rank="4" value="33" />
+        <player player_id="18568" rank="6" value="26" />
+        <player player_id="6035" rank="7" value="24" />
+        <player player_id="19411" rank="8" value="20" />
+        <player player_id="15055" rank="9" value="15" />
+        <player player_id="9252" rank="10" value="14" />
+      </points>
+      <tackles>
+        <player player_id="9438" rank="1" value="70" />
+        <player player_id="7732" rank="2" value="69" />
+        <player player_id="7656" rank="3" value="65" />
+        <player player_id="7286" rank="4" value="58" />
+        <player player_id="8475" rank="5" value="52" />
+        <player player_id="18571" rank="6" value="51" />
+        <player player_id="3901" rank="7" value="50" />
+        <player player_id="5093" rank="8" value="48" />
+        <player player_id="11029" rank="9" value="46" />
+        <player player_id="9847" rank="10" value="45" />
+        <player player_id="8787" rank="10" value="45" />
+      </tackles>
+      <tries>
+        <player player_id="19411" rank="1" value="4" />
+        <player player_id="9948" rank="2" value="2" />
+        <player player_id="18622" rank="2" value="2" />
+        <player player_id="9093" rank="2" value="2" />
+        <player player_id="8402" rank="2" value="2" />
+        <player player_id="3347" rank="6" value="1" />
+        <player player_id="7929" rank="6" value="1" />
+        <player player_id="16161" rank="6" value="1" />
+        <player player_id="3345" rank="6" value="1" />
+        <player player_id="18304" rank="6" value="1" />
+        <player player_id="5097" rank="6" value="1" />
+        <player player_id="3901" rank="6" value="1" />
+        <player player_id="7635" rank="6" value="1" />
+        <player player_id="17133" rank="6" value="1" />
+        <player player_id="14747" rank="6" value="1" />
+        <player player_id="16273" rank="6" value="1" />
+        <player player_id="11186" rank="6" value="1" />
+        <player player_id="18556" rank="6" value="1" />
+        <player player_id="5028" rank="6" value="1" />
+        <player player_id="7697" rank="6" value="1" />
+        <player player_id="9796" rank="6" value="1" />
+        <player player_id="6134" rank="6" value="1" />
+        <player player_id="7796" rank="6" value="1" />
+        <player player_id="9813" rank="6" value="1" />
+        <player player_id="11030" rank="6" value="1" />
+        <player player_id="9423" rank="6" value="1" />
+        <player player_id="1617" rank="6" value="1" />
+        <player player_id="9791" rank="6" value="1" />
+        <player player_id="18273" rank="6" value="1" />
+        <player player_id="9655" rank="6" value="1" />
+      </tries>
+      <try_assist>
+        <player player_id="7015" rank="1" value="3" />
+        <player player_id="9757" rank="1" value="3" />
+        <player player_id="9144" rank="3" value="2" />
+        <player player_id="9655" rank="3" value="2" />
+        <player player_id="3347" rank="5" value="1" />
+        <player player_id="16161" rank="5" value="1" />
+        <player player_id="9938" rank="5" value="1" />
+        <player player_id="2475" rank="5" value="1" />
+        <player player_id="17133" rank="5" value="1" />
+        <player player_id="5087" rank="5" value="1" />
+        <player player_id="13119" rank="5" value="1" />
+        <player player_id="10308" rank="5" value="1" />
+        <player player_id="9723" rank="5" value="1" />
+        <player player_id="3951" rank="5" value="1" />
+        <player player_id="7981" rank="5" value="1" />
+        <player player_id="17312" rank="5" value="1" />
+        <player player_id="3248" rank="5" value="1" />
+        <player player_id="8420" rank="5" value="1" />
+        <player player_id="1617" rank="5" value="1" />
+      </try_assist>
+      <turnovers_conceded>
+        <player player_id="9093" rank="1" value="11" />
+        <player player_id="9438" rank="1" value="11" />
+        <player player_id="8420" rank="3" value="9" />
+        <player player_id="9796" rank="4" value="8" />
+        <player player_id="7981" rank="4" value="8" />
+        <player player_id="2475" rank="4" value="8" />
+        <player player_id="19411" rank="4" value="8" />
+        <player player_id="3347" rank="4" value="8" />
+        <player player_id="18554" rank="9" value="7" />
+        <player player_id="9792" rank="9" value="7" />
+        <player player_id="7015" rank="9" value="7" />
+      </turnovers_conceded>
+      <yellow_cards>
+        <player player_id="10308" rank="1" value="2" />
+        <player player_id="3347" rank="2" value="1" />
+        <player player_id="3345" rank="2" value="1" />
+        <player player_id="9072" rank="2" value="1" />
+        <player player_id="6144" rank="2" value="1" />
+        <player player_id="2659" rank="2" value="1" />
+        <player player_id="5093" rank="2" value="1" />
+        <player player_id="4048" rank="2" value="1" />
+        <player player_id="9054" rank="2" value="1" />
+        <player player_id="3607" rank="2" value="1" />
+        <player player_id="1617" rank="2" value="1" />
+        <player player_id="18554" rank="2" value="1" />
+        <player player_id="8475" rank="2" value="1" />
+      </yellow_cards>
+    </playerstats>
+    <teamstats>
+      <carries>
+        <team rank="1" team_id="952" value="611" />
+        <team rank="2" team_id="500" value="571" />
+        <team rank="3" team_id="650" value="536" />
+        <team rank="4" team_id="550" value="507" />
+        <team rank="5" team_id="600" value="468" />
+        <team rank="6" team_id="700" value="337" />
+      </carries>
+      <clean_breaks>
+        <team rank="1" team_id="500" value="21" />
+        <team rank="2" team_id="550" value="19" />
+        <team rank="3" team_id="952" value="18" />
+        <team rank="4" team_id="700" value="17" />
+        <team rank="5" team_id="650" value="16" />
+        <team rank="6" team_id="600" value="11" />
+      </clean_breaks>
+      <conversion_goals>
+        <team rank="1" team_id="500" value="7" />
+        <team rank="2" team_id="700" value="6" />
+        <team rank="3" team_id="650" value="5" />
+        <team rank="4" team_id="952" value="4" />
+        <team rank="4" team_id="600" value="4" />
+        <team rank="6" team_id="550" value="3" />
+      </conversion_goals>
+      <defenders_beaten>
+        <team rank="1" team_id="650" value="81" />
+        <team rank="2" team_id="500" value="80" />
+        <team rank="3" team_id="952" value="66" />
+        <team rank="4" team_id="550" value="59" />
+        <team rank="5" team_id="600" value="58" />
+        <team rank="6" team_id="700" value="42" />
+      </defenders_beaten>
+      <drop_goals_converted>
+        <team rank="1" team_id="952" value="2" />
+        <team rank="2" team_id="500" value="1" />
+      </drop_goals_converted>
+      <kicks_from_hand>
+        <team rank="1" team_id="650" value="145" />
+        <team rank="2" team_id="700" value="139" />
+        <team rank="2" team_id="550" value="139" />
+        <team rank="4" team_id="600" value="137" />
+        <team rank="5" team_id="500" value="133" />
+        <team rank="6" team_id="952" value="127" />
+      </kicks_from_hand>
+      <lineouts_Lost>
+        <team rank="1" team_id="600" value="14" />
+        <team rank="2" team_id="650" value="13" />
+        <team rank="3" team_id="550" value="11" />
+        <team rank="4" team_id="500" value="10" />
+        <team rank="4" team_id="700" value="10" />
+        <team rank="6" team_id="952" value="5" />
+      </lineouts_Lost>
+      <lineouts_won>
+        <team rank="1" team_id="600" value="57" />
+        <team rank="2" team_id="500" value="56" />
+        <team rank="3" team_id="650" value="55" />
+        <team rank="4" team_id="550" value="52" />
+        <team rank="5" team_id="952" value="47" />
+        <team rank="5" team_id="700" value="47" />
+      </lineouts_won>
+      <metres>
+        <team rank="1" team_id="952" value="2104" />
+        <team rank="2" team_id="650" value="1877" />
+        <team rank="3" team_id="550" value="1847" />
+        <team rank="4" team_id="500" value="1582" />
+        <team rank="5" team_id="600" value="1346" />
+        <team rank="6" team_id="700" value="1281" />
+      </metres>
+      <missed_tackles>
+        <team rank="1" team_id="700" value="83" />
+        <team rank="2" team_id="550" value="80" />
+        <team rank="3" team_id="952" value="63" />
+        <team rank="4" team_id="650" value="60" />
+        <team rank="5" team_id="600" value="56" />
+        <team rank="6" team_id="500" value="45" />
+      </missed_tackles>
+      <offloads>
+        <team rank="1" team_id="952" value="54" />
+        <team rank="2" team_id="650" value="43" />
+        <team rank="2" team_id="550" value="43" />
+        <team rank="4" team_id="700" value="26" />
+        <team rank="5" team_id="500" value="21" />
+        <team rank="6" team_id="600" value="15" />
+      </offloads>
+      <passes>
+        <team rank="1" team_id="952" value="713" />
+        <team rank="2" team_id="550" value="658" />
+        <team rank="3" team_id="650" value="647" />
+        <team rank="4" team_id="500" value="637" />
+        <team rank="5" team_id="600" value="527" />
+        <team rank="6" team_id="700" value="362" />
+      </passes>
+      <penalty_goals>
+        <team rank="1" team_id="550" value="21" />
+        <team rank="2" team_id="500" value="20" />
+        <team rank="3" team_id="700" value="17" />
+        <team rank="4" team_id="600" value="13" />
+        <team rank="5" team_id="952" value="12" />
+        <team rank="6" team_id="650" value="11" />
+      </penalty_goals>
+      <player_tries>
+        <team rank="1" team_id="500" value="9" />
+        <team rank="2" team_id="700" value="7" />
+        <team rank="3" team_id="650" value="6" />
+        <team rank="4" team_id="952" value="5" />
+        <team rank="4" team_id="600" value="5" />
+        <team rank="4" team_id="550" value="5" />
+      </player_tries>
+      <rucks_lost>
+        <team rank="1" team_id="700" value="31" />
+        <team rank="2" team_id="952" value="28" />
+        <team rank="3" team_id="550" value="24" />
+        <team rank="4" team_id="650" value="20" />
+        <team rank="5" team_id="600" value="16" />
+        <team rank="6" team_id="500" value="14" />
+      </rucks_lost>
+      <rucks_success>
+        <team rank="1" team_id="500" value="0.97" />
+        <team rank="2" team_id="600" value="0.96" />
+        <team rank="3" team_id="650" value="0.95" />
+        <team rank="4" team_id="952" value="0.94" />
+        <team rank="4" team_id="550" value="0.94" />
+        <team rank="6" team_id="700" value="0.89" />
+      </rucks_success>
+      <rucks_total>
+        <team rank="1" team_id="500" value="487" />
+        <team rank="2" team_id="952" value="486" />
+        <team rank="3" team_id="650" value="438" />
+        <team rank="4" team_id="600" value="418" />
+        <team rank="5" team_id="550" value="399" />
+        <team rank="6" team_id="700" value="284" />
+      </rucks_total>
+      <rucks_won>
+        <team rank="1" team_id="500" value="473" />
+        <team rank="2" team_id="952" value="458" />
+        <team rank="3" team_id="650" value="418" />
+        <team rank="4" team_id="600" value="402" />
+        <team rank="5" team_id="550" value="375" />
+        <team rank="6" team_id="700" value="253" />
+      </rucks_won>
+      <scrums_lost>
+        <team rank="1" team_id="550" value="10" />
+        <team rank="2" team_id="700" value="9" />
+        <team rank="3" team_id="600" value="7" />
+        <team rank="4" team_id="650" value="5" />
+        <team rank="4" team_id="500" value="5" />
+        <team rank="6" team_id="952" value="3" />
+      </scrums_lost>
+      <scrums_success>
+        <team rank="1" team_id="952" value="0.91" />
+        <team rank="2" team_id="650" value="0.89" />
+        <team rank="3" team_id="500" value="0.87" />
+        <team rank="4" team_id="600" value="0.78" />
+        <team rank="5" team_id="550" value="0.72" />
+        <team rank="6" team_id="700" value="0.70" />
+      </scrums_success>
+      <scrums_total>
+        <team rank="1" team_id="650" value="46" />
+        <team rank="2" team_id="500" value="38" />
+        <team rank="3" team_id="550" value="36" />
+        <team rank="4" team_id="952" value="35" />
+        <team rank="5" team_id="600" value="32" />
+        <team rank="6" team_id="700" value="30" />
+      </scrums_total>
+      <scrums_won>
+        <team rank="1" team_id="650" value="41" />
+        <team rank="2" team_id="500" value="33" />
+        <team rank="3" team_id="952" value="32" />
+        <team rank="4" team_id="550" value="26" />
+        <team rank="5" team_id="600" value="25" />
+        <team rank="6" team_id="700" value="21" />
+      </scrums_won>
+      <tackles>
+        <team rank="1" team_id="700" value="645" />
+        <team rank="2" team_id="550" value="627" />
+        <team rank="3" team_id="650" value="522" />
+        <team rank="4" team_id="500" value="521" />
+        <team rank="5" team_id="600" value="518" />
+        <team rank="6" team_id="952" value="496" />
+      </tackles>
+      <total_games>
+        <team rank="1" team_id="650" value="5" />
+        <team rank="1" team_id="952" value="5" />
+        <team rank="1" team_id="500" value="5" />
+        <team rank="1" team_id="600" value="5" />
+        <team rank="1" team_id="700" value="5" />
+        <team rank="1" team_id="550" value="5" />
+      </total_games>
+      <total_tackle_attempts>
+        <team rank="1" team_id="700" value="728" />
+        <team rank="2" team_id="550" value="707" />
+        <team rank="3" team_id="650" value="582" />
+        <team rank="4" team_id="600" value="574" />
+        <team rank="5" team_id="500" value="566" />
+        <team rank="6" team_id="952" value="559" />
+      </total_tackle_attempts>
+      <total_tries>
+        <team rank="1" team_id="500" value="9" />
+        <team rank="2" team_id="700" value="7" />
+        <team rank="3" team_id="650" value="6" />
+        <team rank="4" team_id="952" value="5" />
+        <team rank="4" team_id="600" value="5" />
+        <team rank="4" team_id="550" value="5" />
+      </total_tries>
+      <turnovers_conceded>
+        <team rank="1" team_id="952" value="79" />
+        <team rank="2" team_id="650" value="74" />
+        <team rank="3" team_id="550" value="73" />
+        <team rank="4" team_id="500" value="59" />
+        <team rank="4" team_id="600" value="59" />
+        <team rank="4" team_id="700" value="59" />
+      </turnovers_conceded>
+      <yellow_cards>
+        <team rank="1" team_id="600" value="5" />
+        <team rank="2" team_id="952" value="4" />
+        <team rank="3" team_id="700" value="2" />
+        <team rank="3" team_id="550" value="2" />
+        <team rank="5" team_id="500" value="1" />
+      </yellow_cards>
+    </teamstats>
+  </rankings>
+  <teams>
+    <team sfms_id="FR" team_id="650" team_name="France">
+      <players>
+        <player minutes_played_total="131" player_id="8436" player_name="Fulgence Ouedraogo" sfms_id="" total_games="2" />
+        <player minutes_played_total="229" player_id="8805" player_name="Morgan Parra" sfms_id="PA143" total_games="5" />
+        <player minutes_played_total="155" player_id="8084" player_name="Maxime Mermoz" sfms_id="ME71" total_games="2" />
+        <player minutes_played_total="338" player_id="2475" player_name="Frederic Michalak" sfms_id="KMI28" total_games="5" />
+        <player minutes_played_total="154" player_id="9430" player_name="Christophe Samson" sfms_id="FSA78" total_games="3" />
+        <player minutes_played_total="100" player_id="10949" player_name="Sebastien Vahaamahina" sfms_id="" total_games="2" />
+        <player minutes_played_total="264" player_id="9609" player_name="Mathieu Bastareaud" sfms_id="9BA28" total_games="5" />
+        <player minutes_played_total="102" player_id="6081" player_name="Yannick Forestier" sfms_id="FO24" total_games="2" />
+        <player minutes_played_total="58" player_id="3383" player_name="Pascal Papé" sfms_id="KPA44" total_games="1" />
+        <player minutes_played_total="240" player_id="3024" player_name="Vincent Clerc" sfms_id="CL12" total_games="3" />
+        <player minutes_played_total="160" player_id="6134" player_name="Maxime Medard" sfms_id="KME13" total_games="2" />
+        <player minutes_played_total="171" player_id="17312" player_name="Maxime Machenaud" sfms_id="" total_games="4" />
+        <player minutes_played_total="6" player_id="19857" player_name="Gael Fickou" sfms_id="" total_games="1" />
+        <player minutes_played_total="127" player_id="3258" player_name="Dimitri Szarzewski" sfms_id="SW15" total_games="3" />
+        <player minutes_played_total="111" player_id="8615" player_name="Francois Trinh-Duc" sfms_id="TR31" total_games="4" />
+        <player minutes_played_total="174" player_id="8322" player_name="Thomas Domingo" sfms_id="FDO26" total_games="3" />
+        <player minutes_played_total="400" player_id="9948" player_name="Wesley Fofana" sfms_id="FO67" total_games="5" />
+        <player minutes_played_total="81" player_id="9854" player_name="Jocelino Suta" sfms_id="FSU9" total_games="2" />
+        <player minutes_played_total="41" player_id="8306" player_name="Damien Chouly" sfms_id="CH85" total_games="2" />
+        <player minutes_played_total="94" player_id="9669" player_name="Antonie Claassen" sfms_id="ZCL18" total_games="3" />
+        <player minutes_played_total="391" player_id="8471" player_name="Yoann Huget" sfms_id="HU99" total_games="5" />
+        <player minutes_played_total="234" player_id="6130" player_name="Benjamin Kayser" sfms_id="KA25" total_games="5" />
+        <player minutes_played_total="135" player_id="3951" player_name="Florian Fritz" sfms_id="FR48" total_games="4" />
+        <player minutes_played_total="388" player_id="9093" player_name="Louis Picamoles" sfms_id="PI43" total_games="5" />
+        <player minutes_played_total="396" player_id="7286" player_name="Thierry Dusautoir" sfms_id="KDU35" total_games="5" />
+        <player minutes_played_total="328" player_id="2283" player_name="Nicolas Mas" sfms_id="KMS1" total_games="5" />
+        <player minutes_played_total="150" player_id="3248" player_name="Yannick Nyanga" sfms_id="NY2" total_games="3" />
+        <player minutes_played_total="200" player_id="9813" player_name="Benjamin Fall" sfms_id="" total_games="3" />
+        <player minutes_played_total="37" player_id="9831" player_name="Romain Taofifenua" sfms_id="" total_games="2" />
+        <player minutes_played_total="39" player_id="7926" player_name="Guilhem Guirado" sfms_id="GU39" total_games="2" />
+        <player minutes_played_total="72" player_id="8373" player_name="Luc Ducalcon" sfms_id="DU68" total_games="4" />
+        <player minutes_played_total="370" player_id="9847" player_name="Yoann Maestri" sfms_id="" total_games="5" />
+        <player minutes_played_total="124" player_id="3269" player_name="Vincent Debaty" sfms_id="KDE55" total_games="5" />
+      </players>
+    </team>
+    <team sfms_id="IT" team_id="952" team_name="Italy">
+      <players>
+        <player minutes_played_total="119" player_id="16864" player_name="Josh Furno" sfms_id="10692" total_games="2" />
+        <player minutes_played_total="310" player_id="3347" player_name="Sergio Parisse" sfms_id="YPA18" total_games="4" />
+        <player minutes_played_total="400" player_id="18304" player_name="Giovanbattista Venditti" sfms_id="524S" total_games="5" />
+        <player minutes_played_total="213" player_id="3345" player_name="Martin Castrogiovanni" sfms_id="KCA88" total_games="4" />
+        <player minutes_played_total="237" player_id="1706" player_name="Andrea Lo Cicero" sfms_id="KLO8" total_games="5" />
+        <player minutes_played_total="153" player_id="8525" player_name="Alberto De Marchi" sfms_id="YDE31" total_games="5" />
+        <player minutes_played_total="274" player_id="9978" player_name="Simone Favaro" sfms_id="YFA30" total_games="5" />
+        <player minutes_played_total="80" player_id="8550" player_name="Alberto Sgarbi" sfms_id="SG2" total_games="1" />
+        <player minutes_played_total="174" player_id="7913" player_name="Lorenzo Cittadini" sfms_id="YCI8" total_games="5" />
+        <player minutes_played_total="77" player_id="9083" player_name="Manoa Vosawai" sfms_id="VO9" total_games="1" />
+        <player minutes_played_total="64" player_id="8890" player_name="Paul Derbyshire" sfms_id="DE80" total_games="4" />
+        <player minutes_played_total="151" player_id="9719" player_name="Tobie Botes" sfms_id="BO128" total_games="5" />
+        <player minutes_played_total="129" player_id="9252" player_name="Kristopher Burton" sfms_id="BU111" total_games="3" />
+        <player minutes_played_total="244" player_id="18554" player_name="Edoardo Gori" sfms_id="518S" total_games="5" />
+        <player minutes_played_total="62" player_id="8521" player_name="Robert Barbieri" sfms_id="BA5" total_games="1" />
+        <player minutes_played_total="177" player_id="9792" player_name="Gonzalo Garcia" sfms_id="GGA28" total_games="3" />
+        <player minutes_played_total="99" player_id="9072" player_name="Davide Giazzon" sfms_id="GI71" total_games="5" />
+        <player minutes_played_total="144" player_id="7852" player_name="Antonio Pavanello" sfms_id="YPA17" total_games="5" />
+        <player minutes_played_total="301" player_id="7914" player_name="Leonardo Ghiraldini" sfms_id="GH5" total_games="5" />
+        <player minutes_played_total="400" player_id="7796" player_name="Alessandro Zanni" sfms_id="ZA9" total_games="5" />
+        <player minutes_played_total="270" player_id="7015" player_name="Luciano Orquera" sfms_id="OR17" total_games="4" />
+        <player minutes_played_total="255" player_id="16858" player_name="Tommaso Benvenuti" sfms_id="507S" total_games="5" />
+        <player minutes_played_total="16" player_id="7539" player_name="Michele Rizzo" sfms_id="YRI9" total_games="1" />
+        <player minutes_played_total="255" player_id="9596" player_name="Francesco Minto" sfms_id="MI123" total_games="5" />
+        <player minutes_played_total="282" player_id="8960" player_name="Quintin Geldenhuys" sfms_id="ZGE17" total_games="5" />
+        <player minutes_played_total="391" player_id="9791" player_name="Luke McLean" sfms_id="10299" total_games="5" />
+        <player minutes_played_total="312" player_id="3671" player_name="Gonzalo Canale" sfms_id="KCA87" total_games="5" />
+        <player minutes_played_total="380" player_id="3486" player_name="Andrea Masi" sfms_id="YMA26" total_games="5" />
+      </players>
+    </team>
+    <team sfms_id="SC" team_id="700" team_name="Scotland">
+      <players>
+        <player minutes_played_total="368" player_id="5047" player_name="John Beattie" sfms_id="BE143" total_games="5" />
+        <player minutes_played_total="93" player_id="4043" player_name="Alasdair Strokosch" sfms_id="ST35" total_games="2" />
+        <player minutes_played_total="233" player_id="16927" player_name="Rob Harley" sfms_id="932W" total_games="3" />
+        <player minutes_played_total="400" player_id="17133" player_name="Matthew Scott" sfms_id="3253B" total_games="5" />
+        <player minutes_played_total="91" player_id="17127" player_name="Dave Denton" sfms_id="1838W" total_games="3" />
+        <player minutes_played_total="23" player_id="18260" player_name="Ryan Wilson" sfms_id="10465" total_games="2" />
+        <player minutes_played_total="269" player_id="16250" player_name="Richie Gray" sfms_id="109S" total_games="4" />
+        <player minutes_played_total="53" player_id="17125" player_name="Grant Gilchrist" sfms_id="931W" total_games="1" />
+        <player minutes_played_total="234" player_id="9723" player_name="Ruaridh Jackson" sfms_id="JA90" total_games="5" />
+        <player minutes_played_total="400" player_id="5028" player_name="Sean Lamont" sfms_id="LA66" total_games="5" />
+        <player minutes_played_total="0" player_id="16253" player_name="Jon Welsh" sfms_id="WE84" total_games="" />
+        <player minutes_played_total="352" player_id="8475" player_name="Ryan Grant" sfms_id="GR195" total_games="5" />
+        <player minutes_played_total="88" player_id="3077" player_name="Dougie Hall" sfms_id="KHA65" total_games="3" />
+        <player minutes_played_total="50" player_id="9148" player_name="Moray Low" sfms_id="SLO6" total_games="3" />
+        <player minutes_played_total="290" player_id="6024" player_name="Euan Murray" sfms_id="KMU17" total_games="4" />
+        <player minutes_played_total="389" player_id="18622" player_name="Stuart Hogg" sfms_id="1841W" total_games="5" />
+        <player minutes_played_total="312" player_id="3983" player_name="Ross Ford" sfms_id="FO12" total_games="5" />
+        <player minutes_played_total="166" player_id="11190" player_name="Duncan Weir" sfms_id="13888" total_games="3" />
+        <player minutes_played_total="126" player_id="3427" player_name="Alastair Kellock" sfms_id="KE28" total_games="5" />
+        <player minutes_played_total="18" player_id="10131" player_name="Henry Pyrgos" sfms_id="1026N" total_games="3" />
+        <player minutes_played_total="0" player_id="16165" player_name="Pat MacArthur" sfms_id="MC183" total_games="" />
+        <player minutes_played_total="400" player_id="8402" player_name="Tim Visser" sfms_id="VI33" total_games="5" />
+        <player minutes_played_total="382" player_id="8420" player_name="Greig Laidlaw" sfms_id="LA101" total_games="5" />
+        <player minutes_played_total="105" player_id="4048" player_name="Geoff Cross" sfms_id="CR20" total_games="4" />
+        <player minutes_played_total="352" player_id="3613" player_name="James Hamilton" sfms_id="HA298" total_games="5" />
+        <player minutes_played_total="61" player_id="9419" player_name="Max Evans" sfms_id="EV69" total_games="3" />
+        <player minutes_played_total="350" player_id="9655" player_name="Sean Maitland" sfms_id="NMC72" total_games="5" />
+        <player minutes_played_total="385" player_id="7732" player_name="Kelly Brown" sfms_id="BR31" total_games="5" />
+      </players>
+    </team>
+    <team sfms_id="IR" team_id="600" team_name="Ireland">
+      <players>
+        <player minutes_played_total="297" player_id="1588" player_name="Mike McCarthy" sfms_id="MC63" total_games="4" />
+        <player minutes_played_total="224" player_id="18568" player_name="Paddy Jackson" sfms_id="15376" total_games="3" />
+        <player minutes_played_total="14" player_id="6145" player_name="Declan Fitzpatrick" sfms_id="FI46" total_games="2" />
+        <player minutes_played_total="373" player_id="6144" player_name="Rory Best" sfms_id="BE123" total_games="5" />
+        <player minutes_played_total="25" player_id="15056" player_name="Devin Toner" sfms_id="TO43" total_games="2" />
+        <player minutes_played_total="89" player_id="11186" player_name="Simon Zebo" sfms_id="ZE2" total_games="2" />
+        <player minutes_played_total="44" player_id="8497" player_name="Chris Henry" sfms_id="HE9" total_games="2" />
+        <player minutes_played_total="1" player_id="7983" player_name="Paul Marshall" sfms_id="MA302" total_games="1" />
+        <player minutes_played_total="299" player_id="18556" player_name="Craig Gilroy" sfms_id="14673" total_games="4" />
+        <player minutes_played_total="363" player_id="10308" player_name="Conor Murray" sfms_id="4I" total_games="5" />
+        <player minutes_played_total="106" player_id="2370" player_name="Donncha O'Callaghan" sfms_id="KOC1" total_games="4" />
+        <player minutes_played_total="290" player_id="9139" player_name="Keith Earls" sfms_id="EA17" total_games="5" />
+        <player minutes_played_total="51" player_id="8581" player_name="Luke Fitzgerald" sfms_id="FI58" total_games="3" />
+        <player minutes_played_total="385" player_id="8487" player_name="Sean O'Brien" sfms_id="OB13" total_games="5" />
+        <player minutes_played_total="400" player_id="7697" player_name="Jamie Heaslip" sfms_id="HE45" total_games="5" />
+        <player minutes_played_total="65" player_id="1619" player_name="Ronan O'Gara" sfms_id="KOY4" total_games="2" />
+        <player minutes_played_total="360" player_id="5093" player_name="Donnacha Ryan" sfms_id="RY2" total_games="5" />
+        <player minutes_played_total="372" player_id="8399" player_name="Mike Ross" sfms_id="9RO12" total_games="5" />
+        <player minutes_played_total="14" player_id="16923" player_name="Stephen Archer" sfms_id="IAR5" total_games="1" />
+        <player minutes_played_total="358" player_id="10268" player_name="Peter O'Mahony" sfms_id="9I" total_games="5" />
+        <player minutes_played_total="62" player_id="10254" player_name="Ian Madigan" sfms_id="IMA34" total_games="2" />
+        <player minutes_played_total="124" player_id="2460" player_name="Gordon D'Arcy" sfms_id="IDA16" total_games="2" />
+        <player minutes_played_total="18" player_id="8430" player_name="Sean Cronin" sfms_id="CR82" total_games="3" />
+        <player minutes_played_total="400" player_id="7768" player_name="Rob Kearney" sfms_id="KE100" total_games="5" />
+        <player minutes_played_total="111" player_id="15055" player_name="Jonny Sexton" sfms_id="SE47" total_games="2" />
+        <player minutes_played_total="49" player_id="11027" player_name="Dave Kilcoyne" sfms_id="13759" total_games="4" />
+        <player minutes_played_total="296" player_id="9423" player_name="Cian Healy" sfms_id="HE109" total_games="4" />
+        <player minutes_played_total="30" player_id="3947" player_name="Eoin Reddan" sfms_id="KRE10" total_games="3" />
+        <player minutes_played_total="178" player_id="18504" player_name="Luke Marshall" sfms_id="2445W" total_games="3" />
+        <player minutes_played_total="62" player_id="9135" player_name="Fergus McFadden" sfms_id="MC167" total_games="1" />
+        <player minutes_played_total="386" player_id="1617" player_name="Brian O'Driscoll" sfms_id="IOY51" total_games="5" />
+        <player minutes_played_total="55" player_id="8161" player_name="Tom Court" sfms_id="CO251" total_games="1" />
+        <player minutes_played_total="57" player_id="18677" player_name="Iain Henderson" sfms_id="15628" total_games="3" />
+      </players>
+    </team>
+    <team sfms_id="WA" team_id="500" team_name="Wales">
+      <players>
+        <player minutes_played_total="400" player_id="16161" player_name="Jonathan Davies" sfms_id="DA212" total_games="5" />
+        <player minutes_played_total="16" player_id="7929" player_name="Craig Mitchell" sfms_id="MI105" total_games="3" />
+        <player minutes_played_total="189" player_id="7680" player_name="Alun Wyn Jones" sfms_id="JO148" total_games="3" />
+        <player minutes_played_total="401" player_id="11029" player_name="Toby Faletau" sfms_id="236W" total_games="5" />
+        <player minutes_played_total="218" player_id="5097" player_name="Richard Hibbard" sfms_id="HI49" total_games="4" />
+        <player minutes_played_total="24" player_id="6014" player_name="James Hook" sfms_id="HO155" total_games="3" />
+        <player minutes_played_total="7" player_id="10157" player_name="Scott Andrews" sfms_id="9AN10" total_games="1" />
+        <player minutes_played_total="1" player_id="9963" player_name="Ryan Bevington" sfms_id="WBE16" total_games="1" />
+        <player minutes_played_total="247" player_id="10238" player_name="Sam Warburton" sfms_id="WWA30" total_games="4" />
+        <player minutes_played_total="400" player_id="16273" player_name="Leigh Halfpenny" sfms_id="WHA26" total_games="5" />
+        <player minutes_played_total="308" player_id="13119" player_name="Justin Tipuric" sfms_id="9TI3" total_games="5" />
+        <player minutes_played_total="194" player_id="5087" player_name="Ryan Jones" sfms_id="JO100" total_games="3" />
+        <player minutes_played_total="221" player_id="7663" player_name="Andrew Coombs" sfms_id="CO231" total_games="4" />
+        <player minutes_played_total="171" player_id="2659" player_name="Paul James" sfms_id="KJA23" total_games="5" />
+        <player minutes_played_total="2" player_id="8411" player_name="Lou Reed" sfms_id="RE99" total_games="1" />
+        <player minutes_played_total="7" player_id="7031" player_name="Ollie Kohn" sfms_id="KO3" total_games="1" />
+        <player minutes_played_total="139" player_id="8412" player_name="Ken Owens" sfms_id="OW12" total_games="5" />
+        <player minutes_played_total="226" player_id="3293" player_name="Gethin Jenkins" sfms_id="KJE17" total_games="4" />
+        <player minutes_played_total="343" player_id="2652" player_name="Mike Phillips" sfms_id="PH2" total_games="5" />
+        <player minutes_played_total="375" player_id="7981" player_name="Jamie Roberts" sfms_id="WRO28" total_games="5" />
+        <player minutes_played_total="25" player_id="15007" player_name="Scott Williams" sfms_id="9WI43" total_games="4" />
+        <player minutes_played_total="377" player_id="1967" player_name="Adam Jones" sfms_id="KJO63" total_games="5" />
+        <player minutes_played_total="400" player_id="19411" player_name="Alex Cuthbert" sfms_id="CU75" total_games="5" />
+        <player minutes_played_total="57" player_id="14749" player_name="Lloyd Williams" sfms_id="9WI35" total_games="5" />
+        <player minutes_played_total="376" player_id="9757" player_name="Dan Biggar" sfms_id="9BI6" total_games="5" />
+        <player minutes_played_total="51" player_id="10292" player_name="Aaron Shingler" sfms_id="12693" total_games="3" />
+        <player minutes_played_total="381" player_id="6113" player_name="Ian Evans" sfms_id="EV55" total_games="5" />
+        <player minutes_played_total="43" player_id="3918" player_name="Matthew Rees" sfms_id="KRE35" total_games="1" />
+        <player minutes_played_total="400" player_id="18273" player_name="George North" sfms_id="75W" total_games="5" />
+      </players>
+    </team>
+    <team sfms_id="EN" team_id="550" team_name="England">
+      <players>
+        <player minutes_played_total="125" player_id="6035" player_name="Toby Flood" sfms_id="FL30" total_games="4" />
+        <player minutes_played_total="110" player_id="7637" player_name="Tom Croft" sfms_id="CR70" total_games="2" />
+        <player minutes_played_total="45" player_id="18311" player_name="Ben Morgan" sfms_id="596N" total_games="1" />
+        <player minutes_played_total="288" player_id="9938" player_name="Owen Farrell" sfms_id="9FA3" total_games="4" />
+        <player minutes_played_total="386" player_id="8142" player_name="Brad Barritt" sfms_id="BA254" total_games="5" />
+        <player minutes_played_total="118" player_id="7635" player_name="Danny Care" sfms_id="KCA28" total_games="4" />
+        <player minutes_played_total="365" player_id="3901" player_name="Geoff Parling" sfms_id="PA26" total_games="5" />
+        <player minutes_played_total="144" player_id="14747" player_name="Billy Twelvetrees" sfms_id="9TW1" total_games="4" />
+        <player minutes_played_total="323" player_id="18571" player_name="Joe Launchbury" sfms_id="13485" total_games="5" />
+        <player minutes_played_total="24" player_id="3618" player_name="Dave Wilson" sfms_id="WI2" total_games="4" />
+        <player minutes_played_total="153" player_id="9802" player_name="Courtney Lawes" sfms_id="LA129" total_games="5" />
+        <player minutes_played_total="371" player_id="9486" player_name="Alex Goode" sfms_id="9GO7" total_games="5" />
+        <player minutes_played_total="400" player_id="7655" player_name="Mike Brown" sfms_id="UBR5" total_games="5" />
+        <player minutes_played_total="387" player_id="9438" player_name="Tom Wood" sfms_id="NWO17" total_games="5" />
+        <player minutes_played_total="400" player_id="9796" player_name="Chris Ashton" sfms_id="LAS7" total_games="5" />
+        <player minutes_played_total="255" player_id="8787" player_name="Tom Youngs" sfms_id="9YO5" total_games="5" />
+        <player minutes_played_total="145" player_id="7761" player_name="Dylan Hartley" sfms_id="HA327" total_games="5" />
+        <player minutes_played_total="282" player_id="9144" player_name="Ben Youngs" sfms_id="YO21" total_games="5" />
+        <player minutes_played_total="400" player_id="7656" player_name="Chris Robshaw" sfms_id="RO172" total_games="5" />
+        <player minutes_played_total="167" player_id="17164" player_name="Mako Vunipola" sfms_id="VU3" total_games="5" />
+        <player minutes_played_total="233" player_id="16267" player_name="Joe Marler" sfms_id="9MA24" total_games="5" />
+        <player minutes_played_total="273" player_id="11030" player_name="Manu Tuilagi" sfms_id="11118" total_games="4" />
+        <player minutes_played_total="0" player_id="10183" player_name="Freddie Burns" sfms_id="BU139" total_games="" />
+        <player minutes_played_total="10" player_id="7222" player_name="Thomas Waldrom" sfms_id="WA29" total_games="1" />
+        <player minutes_played_total="13" player_id="3885" player_name="David Strettle" sfms_id="ST136" total_games="1" />
+        <player minutes_played_total="197" player_id="3607" player_name="James Haskell" sfms_id="HA179" total_games="5" />
+        <player minutes_played_total="375" player_id="9054" player_name="Dan Cole" sfms_id="9CO16" total_games="5" />
+      </players>
+    </team>
+  </teams>
+</seasonrankings>

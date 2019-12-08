@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2013 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a02.nexus.opta.net
+     production time:    20131229T145058,757Z
+     production module:  Opta::Feed::XML::RugbyUnion::RU50
+-->
+<RU50_EventFeed>
+  <Game away_score="16" game_id="114113" home_score="7" status="First half" timer_running="1">
+    <Event id="2054239" direction="Right to Left" direction_of_play_x="84.3" direction_of_play_y="28.9" event_id="351" event_type_id="33" event_type_name="Penalty Goal" game_id="114113" last_modified="2013-12-29 14:50:56" outcome="1" period="First Half" period_id="2" period_minute="41" period_second="7" player_id="14747" team_id="1100" timestamp="2013-12-29 14:50:49" timestamp_milliseconds="441" x="15.7" y="71.1">
+      <Qualifiers id="2752574" name="Metres" qualifier_id="166" value="28.79" />
+      <Qualifiers id="2752572" direction_of_play_end_x="104.461781609195" name="End X" qualifier_id="167" value="-4.4617816091954" />
+      <Qualifiers id="2752573" direction_of_play_end_y="52.08" name="End Y" qualifier_id="168" value="47.92" />
+      <Qualifiers id="2752571" name="Middle" qualifier_id="76" value="" />
+    </Event>
+  </Game>
+</RU50_EventFeed>

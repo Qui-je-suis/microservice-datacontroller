@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2013 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a01.nexus.opta.net
+     production time:    20131229T140418,909Z
+     production module:  Opta::Feed::XML::RugbyUnion::RU50
+-->
+<RU50_EventFeed>
+  <Game away_score="0" game_id="114113" home_score="7" status="First half" timer_running="1">
+    <Event id="2053614" direction="Left to Right" direction_of_play_x="76.8" direction_of_play_y="77.1" event_id="17" event_type_id="3" event_type_name="Conversion" game_id="114113" last_modified="2013-12-29 14:04:17" outcome="1" period="First Half" period_id="2" period_minute="2" period_second="12" player_id="7640" team_id="1300" timestamp="2013-12-29 14:04:15" timestamp_milliseconds="952" x="76.8" y="77.1">
+      <Qualifiers id="2751660" name="Metres" qualifier_id="166" value="34.37" />
+      <Qualifiers id="2751658" direction_of_play_end_x="101.24" name="End X" qualifier_id="167" value="101.24" />
+      <Qualifiers id="2751659" direction_of_play_end_y="50.25" name="End Y" qualifier_id="168" value="50.25" />
+      <Qualifiers id="2751657" name="Middle" qualifier_id="76" value="" />
+    </Event>
+  </Game>
+</RU50_EventFeed>

@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2013 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a07.nexus.opta.net
+     production time:    20130317T191947,335Z
+     production module:  Opta::Feed::XML::RugbyUnion::RU6
+-->
+<wapresults>
+  <Officials>
+    <Official id="89" official_name="Steve Walsh" role="referee" />
+    <Official id="119" official_name="Craig Joubert" role="assistant" />
+    <Official id="241" official_name="Mathieu Raynal" role="assistant" />
+    <Official id="1000239" official_name="Marshall Kilgore" role="TMO" />
+  </Officials>
+  <feed-info comp-id="209" comp_name="Six Nations" />
+  <match attendance="0" game-id="913052" grp-id="" period_minute="80" period_second="53" rnd-id="" status="Result">
+    <away-team>
+      <HTscore>3</HTscore>
+      <score>3</score>
+      <team-id>550</team-id>
+      <team-name>England</team-name>
+    </away-team>
+    <descriptions format="OPTA_MAX" length="162">
+      <text>Six Nations: 
+Wales 30 England 3
+Wales
+Try: Cuthbert 56,65, Conv: Biggar 66, Penk: Halfpenny 10,17,23,51, Biggar 70, Dropg: Biggar 64, 
+England
+Penk: Farrell 20, </text>
+    </descriptions>
+    <descriptions format="OPTA_LARGE" length="124">
+      <text>Six Nations: 
+Wales 30
+Try: Cuthbert(2), Conv: Biggar, Penk: Halfpenny(4), Biggar, Dropg: Biggar, 
+England 3
+Penk: Farrell, </text>
+    </descriptions>
+    <descriptions format="OPTA_MEDIUM" length="67">
+      <text>6N: 
+Wales  30 (2 try, 1 conv, 5 penk, 1 dropg)
+England  3 (1 penk)</text>
+    </descriptions>
+    <descriptions format="OPTA_SMALL" length="47">
+      <text>6N: 
+Wales  30 (2T, 1C, 5P, 1D)
+England  3 (1P)</text>
+    </descriptions>
+    <descriptions format="OPTA_SCORELINE" length="22">
+      <text>6N: Wales 30 England 3</text>
+    </descriptions>
+    <events>
+      <event period="First Half" secs="0" time="0" type="START">
+        <team-id>500</team-id>
+      </event>
+      <event period="First Half" secs="0" time="0" type="START">
+        <team-id>550</team-id>
+      </event>
+      <event period="First Half" secs="35" time="10" type="PENK">
+        <player-code>16273</player-code>
+        <player-name>Halfpenny</player-name>
+        <team-id>500</team-id>
+      </event>
+      <event period="First Half" secs="36" time="17" type="PENK">
+        <player-code>16273</player-code>
+        <player-name>Halfpenny</player-name>
+        <team-id>500</team-id>
+      </event>
+      <event period="First Half" secs="0" time="20" type="PENK">
+        <player-code>9938</player-code>
+        <player-name>Farrell</player-name>
+        <team-id>550</team-id>
+      </event>
+      <event period="First Half" secs="40" time="23" type="PENK">
+        <player-code>16273</player-code>
+        <player-name>Halfpenny</player-name>
+        <team-id>500</team-id>
+      </event>
+      <event period="First Half" secs="35" time="40" type="END">
+        <team-id>500</team-id>
+      </event>
+      <event period="First Half" secs="44" time="40" type="END">
+        <team-id>550</team-id>
+      </event>
+      <event period="Second Half" secs="0" time="40" type="START">
+        <team-id>500</team-id>
+      </event>
+      <event period="Second Half" secs="0" time="40" type="START">
+        <team-id>550</team-id>
+      </event>
+      <event period="Second Half" secs="49" time="51" type="PENK">
+        <player-code>16273</player-code>
+        <player-name>Halfpenny</player-name>
+        <team-id>500</team-id>
+      </event>
+      <event period="Second Half" secs="18" time="56" type="TRY">
+        <player-code>19411</player-code>
+        <player-name>Cuthbert</player-name>
+        <team-id>500</team-id>
+      </event>
+      <event period="Second Half" secs="40" time="64" type="DROPG">
+        <player-code>9757</player-code>
+        <player-name>Biggar</player-name>
+        <team-id>500</team-id>
+      </event>
+      <event period="Second Half" secs="39" time="65" type="TRY">
+        <player-code>19411</player-code>
+        <player-name>Cuthbert</player-name>
+        <team-id>500</team-id>
+      </event>
+      <event period="Second Half" secs="56" time="66" type="CONV">
+        <player-code>9757</player-code>
+        <player-name>Biggar</player-name>
+        <team-id>500</team-id>
+      </event>
+      <event period="Second Half" secs="28" time="70" type="PENK">
+        <player-code>9757</player-code>
+        <player-name>Biggar</player-name>
+        <team-id>500</team-id>
+      </event>
+      <event period="Second Half" secs="53" time="80" type="END">
+        <team-id>550</team-id>
+      </event>
+      <event period="Second Half" secs="53" time="80" type="END">
+        <team-id>500</team-id>
+      </event>
+      <event period="Post Game" secs="0" time="0" type="END">
+        <team-id>500</team-id>
+      </event>
+      <event period="Post Game" secs="0" time="0" type="END">
+        <team-id>550</team-id>
+      </event>
+      <event period="Post Game" secs="53" time="80" type="END">
+        <team-id>550</team-id>
+      </event>
+      <event period="Post Game" secs="53" time="80" type="END">
+        <team-id>500</team-id>
+      </event>
+    </events>
+    <home-team>
+      <HTscore>9</HTscore>
+      <score>30</score>
+      <team-id>500</team-id>
+      <team-name>Wales</team-name>
+    </home-team>
+    <subs>
+      <sub period="Second Half" secs="13" time="44">
+        <player-code>17164</player-code>
+        <team-id>550</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="13" time="44">
+        <player-code>16267</player-code>
+        <team-id>550</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="12" time="52">
+        <player-code>7761</player-code>
+        <team-id>550</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="12" time="52">
+        <player-code>8787</player-code>
+        <team-id>550</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="24" time="52">
+        <player-code>8412</player-code>
+        <team-id>500</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="24" time="52">
+        <player-code>5097</player-code>
+        <team-id>500</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="45" time="52">
+        <player-code>9802</player-code>
+        <team-id>550</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="45" time="52">
+        <player-code>18571</player-code>
+        <team-id>550</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="54" time="61">
+        <player-code>2659</player-code>
+        <team-id>500</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="54" time="61">
+        <player-code>3293</player-code>
+        <team-id>500</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="34" time="64">
+        <player-code>14747</player-code>
+        <team-id>550</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="34" time="64">
+        <player-code>9486</player-code>
+        <team-id>550</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="57" time="64">
+        <player-code>7635</player-code>
+        <team-id>550</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="57" time="64">
+        <player-code>9144</player-code>
+        <team-id>550</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="28" time="67">
+        <player-code>6035</player-code>
+        <team-id>550</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="28" time="67">
+        <player-code>9938</player-code>
+        <team-id>550</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="35" time="67">
+        <player-code>3607</player-code>
+        <team-id>550</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="35" time="67">
+        <player-code>9438</player-code>
+        <team-id>550</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="3" time="70">
+        <player-code>7663</player-code>
+        <team-id>500</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="3" time="70">
+        <player-code>6113</player-code>
+        <team-id>500</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="54" time="72">
+        <player-code>3618</player-code>
+        <team-id>550</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="54" time="72">
+        <player-code>9054</player-code>
+        <team-id>550</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="26" time="73">
+        <player-code>10157</player-code>
+        <team-id>500</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="26" time="73">
+        <player-code>1967</player-code>
+        <team-id>500</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="33" time="75">
+        <player-code>15007</player-code>
+        <team-id>500</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="33" time="75">
+        <player-code>6014</player-code>
+        <team-id>500</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="33" time="75">
+        <player-code>10292</player-code>
+        <team-id>500</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="33" time="75">
+        <player-code>10238</player-code>
+        <team-id>500</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="33" time="75">
+        <player-code>9757</player-code>
+        <team-id>500</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="33" time="75">
+        <player-code>7981</player-code>
+        <team-id>500</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="47" time="75">
+        <player-code>14749</player-code>
+        <team-id>500</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="47" time="75">
+        <player-code>2652</player-code>
+        <team-id>500</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+    </subs>
+    <teams home_or_away="home" team_id="500" team_name="Wales">
+      <Player id="16273" first="Leigh" known_name="Leigh Halfpenny" last="Halfpenny" played="1" position="Back 7" position_id="15" shirt_no="15" />
+      <Player id="19411" first="Alex" known_name="Alex Cuthbert" last="Cuthbert" played="1" position="Back 6" position_id="14" shirt_no="14" />
+      <Player id="16161" first="Jonathan" known_name="Jonathan Davies" last="Davies" played="1" position="Back 5" position_id="13" shirt_no="13" />
+      <Player id="7981" first="Jamie" known_name="Jamie Roberts" last="Roberts" played="1" position="Back 4" position_id="12" shirt_no="12" />
+      <Player id="18273" first="George" known_name="George North" last="North" played="1" position="Back 3" position_id="11" shirt_no="11" />
+      <Player id="9757" first="Dan" known_name="Dan Biggar" last="Biggar" played="1" position="Back 2" position_id="10" shirt_no="10" />
+      <Player id="2652" first="Mike" known_name="Mike Phillips" last="Phillips" played="1" position="Back 1" position_id="9" shirt_no="9" />
+      <Player id="3293" first="Gethin" known_name="Gethin Jenkins" last="Jenkins" played="1" position="Forward 1" position_id="1" shirt_no="1" />
+      <Player id="5097" first="Richard" known_name="Richard Hibbard" last="Hibbard" played="1" position="Forward 2" position_id="2" shirt_no="2" />
+      <Player id="1967" first="Adam" known_name="Adam Jones" last="Jones" played="1" position="Forward 3" position_id="3" shirt_no="3" />
+      <Player id="7680" first="Alun Wyn" known_name="Alun Wyn Jones" last="Jones" played="1" position="Forward 4" position_id="4" shirt_no="4" />
+      <Player id="6113" first="Ian" known_name="Ian Evans" last="Evans" played="1" position="Forward 5" position_id="5" shirt_no="5" />
+      <Player id="10238" first="Sam" known_name="Sam Warburton" last="Warburton" played="1" position="Forward 6" position_id="6" shirt_no="6" />
+      <Player id="13119" first="Justin" known_name="Justin Tipuric" last="Tipuric" played="1" position="Forward 7" position_id="7" shirt_no="7" />
+      <Player id="11029" first="Toby" known_name="Toby Faletau" last="Faletau" played="1" position="Forward 8" position_id="8" shirt_no="8" />
+      <Player id="8412" first="Ken" known_name="Ken Owens" last="Owens" played="1" position="Replacement 1" position_id="16" shirt_no="16" />
+      <Player id="2659" first="Paul" known_name="Paul James" last="James" played="1" position="Replacement 2" position_id="17" shirt_no="17" />
+      <Player id="10157" first="Scott" known_name="Scott Andrews" last="Andrews" played="1" position="Replacement 3" position_id="18" shirt_no="18" />
+      <Player id="7663" first="Andrew" known_name="Andrew Coombs" last="Coombs" played="1" position="Replacement 4" position_id="19" shirt_no="19" />
+      <Player id="10292" first="Aaron" known_name="Aaron Shingler" last="Shingler" played="1" position="Replacement 5" position_id="20" shirt_no="20" />
+      <Player id="14749" first="Lloyd" known_name="Lloyd Williams" last="Williams" played="1" position="Replacement 6" position_id="21" shirt_no="21" />
+      <Player id="6014" first="James" known_name="James Hook" last="Hook" played="1" position="Replacement 7" position_id="22" shirt_no="22" />
+      <Player id="15007" first="Scott" known_name="Scott Williams" last="Williams" played="1" position="Replacement 8" position_id="23" shirt_no="23" />
+    </teams>
+    <teams home_or_away="away" team_id="550" team_name="England">
+      <Player id="9486" first="Alex" known_name="Alex Goode" last="Goode" played="1" position="Back 7" position_id="15" shirt_no="15" />
+      <Player id="9796" first="Chris" known_name="Chris Ashton" last="Ashton" played="1" position="Back 6" position_id="14" shirt_no="14" />
+      <Player id="11030" first="Manu" known_name="Manu Tuilagi" last="Tuilagi" played="1" position="Back 5" position_id="13" shirt_no="13" />
+      <Player id="8142" first="Bradley" known_name="Brad Barritt" last="Barritt" played="1" position="Back 4" position_id="12" shirt_no="12" />
+      <Player id="7655" first="Mike" known_name="Mike Brown" last="Brown" played="1" position="Back 3" position_id="11" shirt_no="11" />
+      <Player id="9938" first="Owen" known_name="Owen Farrell" last="Farrell" played="1" position="Back 2" position_id="10" shirt_no="10" />
+      <Player id="9144" first="Ben" known_name="Ben Youngs" last="Youngs" played="1" position="Back 1" position_id="9" shirt_no="9" />
+      <Player id="16267" first="Joe" known_name="Joe Marler" last="Marler" played="1" position="Forward 1" position_id="1" shirt_no="1" />
+      <Player id="8787" first="Tom" known_name="Tom Youngs" last="Youngs" played="1" position="Forward 2" position_id="2" shirt_no="2" />
+      <Player id="9054" first="Dan" known_name="Dan Cole" last="Cole" played="1" position="Forward 3" position_id="3" shirt_no="3" />
+      <Player id="18571" first="Joe" known_name="Joe Launchbury" last="Launchbury" played="1" position="Forward 4" position_id="4" shirt_no="4" />
+      <Player id="3901" first="Geoff" known_name="Geoff Parling" last="Parling" played="1" position="Forward 5" position_id="5" shirt_no="5" />
+      <Player id="7637" first="Tom" known_name="Tom Croft" last="Croft" played="1" position="Forward 6" position_id="6" shirt_no="6" />
+      <Player id="7656" first="Chris" known_name="Chris Robshaw" last="Robshaw" played="1" position="Forward 7" position_id="7" shirt_no="7" />
+      <Player id="9438" first="Tom" known_name="Tom Wood" last="Wood" played="1" position="Forward 8" position_id="8" shirt_no="8" />
+      <Player id="7761" first="Dylan" known_name="Dylan Hartley" last="Hartley" played="1" position="Replacement 1" position_id="16" shirt_no="16" />
+      <Player id="3618" first="Dave" known_name="Dave Wilson" last="Wilson" played="1" position="Replacement 2" position_id="17" shirt_no="17" />
+      <Player id="17164" first="Mako" known_name="Mako Vunipola" last="Vunipola" played="1" position="Replacement 3" position_id="18" shirt_no="18" />
+      <Player id="9802" first="Courtney" known_name="Courtney Lawes" last="Lawes" played="1" position="Replacement 4" position_id="19" shirt_no="19" />
+      <Player id="3607" first="James" known_name="James Haskell" last="Haskell" played="1" position="Replacement 5" position_id="20" shirt_no="20" />
+      <Player id="7635" first="Daniel" known_name="Danny Care" last="Care" played="1" position="Replacement 6" position_id="21" shirt_no="21" />
+      <Player id="6035" first="Toby" known_name="Toby Flood" last="Flood" played="1" position="Replacement 7" position_id="22" shirt_no="22" />
+      <Player id="14747" first="Billy" known_name="Billy Twelvetrees" last="Twelvetrees" played="1" position="Replacement 8" position_id="23" shirt_no="23" />
+    </teams>
+  </match>
+  <meta>
+      <dateline>17/03/2013 19:19:47 +0000</dateline>
+  </meta>
+</wapresults>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2013 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a04.nexus.opta.net
+     production time:    20131205T115009,555Z
+     production module:  Opta::Feed::XML::RugbyUnion::RU11
+-->
+<RU11_OptaFacts>
+  <facts language="en">
+    <fact order="1" text="England have lost four of their last five games against Wales in Cardiff, this coming after a run of five consecutive victories in the Welsh capital." />
+    <fact order="2" text="Wales have lost their last five home games in all competitions, their worst ever run of this type." />
+    <fact order="3" text="Wales have the best tackle success rate in the competition so far, completing 93% of the 458 tackles they have attempted." />
+    <fact order="4" text="England have the worst lineout success rate in this tournament (82%), however Wales have only performed marginally better (83%) in this facet of the game." />
+    <fact order="5" text="Chris Ashton has missed a tournament high eight tackles so far, achieving just a 65% tackle success rate in his 320 minutes of action." />
+    <fact order="6" text="Dan Cole has conceded a competition joint-high eight penalties so far (as has Martin Castrogiovanni)." />
+    <fact order="7" text="Chris Robshaw has claimed 13 re-start catches for England, no other player from any nation has won more than seven for their side." />
+    <fact order="8" text="Five of the seven tries Wales have scored so far have originated from lineouts, the other five nations have scored a combined total of six tries where the phase of play began at a lineout." />
+    <fact order="9" text="England and Wales are the only two sides yet to score a try in the opening quarter of their matches this season. Wales meanwhile are the only side yet to concede a try in the final quarter of their matches." />
+    <fact order="10" text="Wales are the only side yet to score a try from the first phase of action in the 2013 RBS 6 Nations so far." />
+    <fact order="11" text="Three of the last four matches between these sides have been settled by margins of seven points or fewer." />
+    <fact order="12" text="England have not scored a try in the last 196 minutes of play between these two nations.  Their last came via Manu Tuilagi's score in a RWC warm-up game at Twickenham in 2011. " />
+    <fact order="13" text="Since 1995, England have failed to score a try just twice in Cardiff (10 Tests), whilst on every other occasion in this period they have scored at least two and 26 in total. " />
+    <fact order="14" text="If Wales win this match they will draw level in the head-to-head battle between these teams with 56 wins a piece (D12)." />
+  </facts>
+  <facts language="fr" />
+  <facts language="de" />
+  <facts language="es" />
+  <facts language="it">
+    <fact order="1" text="L’Inghilterra ha perso quattro delle ultime cinque sfide contro il Galles giocate a Cardiff, dopo che si erano imposti in tutti i precedenti cinque confronti nella capitale gallese." />
+    <fact order="2" text="Il Galles ha perso tutte le ultime cinque gare ufficiali giocate in casa: si tratta per i gallesi della peggior striscia di sconfitte interne di sempre." />
+    <fact order="3" text="Il Galles ha fatto registrare la più alta percentuale di riuscita dei placcaggi in questo Sei Nazioni, il 93%." />
+    <fact order="4" text="Chris Ashton ha fallito otto placcaggi finora, più di tutti in questo Sei Nazioni: la sua percentuale di riuscita è appena del 65%." />
+    <fact order="5" text="Dan Cole ha provocato otto punizioni finora, un primato negativo in questo Sei Nazioni condiviso con Martin Castrogiovanni." />
+    <fact order="6" text="Cinque delle sette mete del Galles sono nate da rimesse laterali: le altre cinque nazionali insieme hanno realizzato sei mete nella stessa fase di gioco." />
+    <fact order="7" text="Inghilterra e Galles sono le uniche due squadre a non aver ancora realizzato una meta nel primo quarto di gara in questo Sei Nazioni. Il Galles è anche l’unica Nazione a non averne ancora subite nell’ultimo quarto." />
+    <fact order="8" text="Tre degli ultimi quattro match tra Inghilterra e Galles sono terminati con un margine di punti tra le due squadre inferiore a otto." />
+    <fact order="9" text="L’Inghilterra non realizza una meta contro il Galles da 196 minuti di gioco." />
+  </facts>
+  <game id="913052" away_team="550" away_team_name="England" game_date="2013-03-16 17:00:00" home_team="500" home_team_name="Wales" />
+</RU11_OptaFacts>

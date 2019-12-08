@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2013 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a06.nexus.opta.net
+     production time:    20131229T140443,571Z
+     production module:  Opta::Feed::XML::RugbyUnion::RU50
+-->
+<RU50_EventFeed>
+  <Game away_score="0" game_id="114113" home_score="7" status="First half" timer_running="1">
+    <Event id="2053615" direction="Right to Left" direction_of_play_x="49.8" direction_of_play_y="50" event_id="12" event_type_id="18" event_type_name="Restart" game_id="114113" last_modified="2013-12-29 14:04:40" outcome="1" period="First Half" period_id="2" period_minute="2" period_second="35" player_id="14747" team_id="1100" timestamp="2013-12-29 14:04:40" timestamp_milliseconds="34" x="50.2" y="50">
+      <Qualifiers id="2751667" name="Metres" qualifier_id="166" value="42.37" />
+      <Qualifiers id="2751665" direction_of_play_end_x="75.54" name="End X" qualifier_id="167" value="24.46" />
+      <Qualifiers id="2751666" direction_of_play_end_y="7.98" name="End Y" qualifier_id="168" value="92.02" />
+      <Qualifiers id="2751663" name="Right" qualifier_id="38" value="" />
+      <Qualifiers id="2751661" name="HalfWay" qualifier_id="90" value="" />
+      <Qualifiers id="2751662" name="Opp Player" qualifier_id="92" value="" />
+      <Qualifiers id="2751664" name="Long" qualifier_id="97" value="" />
+    </Event>
+  </Game>
+</RU50_EventFeed>

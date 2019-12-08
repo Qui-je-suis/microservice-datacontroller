@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2019 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a03.nexus.opta.net
+     production time:    20190824T140317,194Z
+     production module:  Opta::Feed::XML::RugbyUnion::RU50
+-->
+<RU50_EventFeed>
+  <Game away_score="0" game_id="8195" home_score="0" status="First half" timer_running="1">
+    <Event id="8727383" direction="Right to Left" direction_of_play_x="37.3" direction_of_play_y="45.9" event_id="16" event_type_id="8" event_type_name="Kick" game_id="8195" last_modified="2019-08-24 15:03:15" outcome="1" period="First Half" period_id="2" period_minute="0" period_second="46" player_id="9938" team_id="550" timestamp="2019-08-24 15:02:32" timestamp_milliseconds="148" x="62.7" y="54.1">
+      <Qualifiers id="11383098" name="Outside 22" qualifier_id="120" value="" />
+      <Qualifiers id="11383099" name="Possession Retained" qualifier_id="124" value="" />
+      <Qualifiers id="11383100" name="Metres" qualifier_id="166" value="31.42" />
+    </Event>
+  </Game>
+</RU50_EventFeed>

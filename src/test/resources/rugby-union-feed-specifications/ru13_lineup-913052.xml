@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2013 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a02.nexus.opta.net
+     production time:    20130316T175609,46Z
+     production module:  Opta::Feed::XML::RugbyUnion::RU13
+-->
+<RU13LINEUP id="913052" away_score="3" away_team="England" away_team_id="550" comp_id="209" comp_name="Six Nations" home_score="9" home_team="Wales" home_team_id="500" live_scores="11" period_minute="40" period_second="0" timer_running="1" timer_timestamp="2013-03-16 17:56:02" venue_id="4">
+  <Officials>
+    <Official id="89" official_name="Steve Walsh" />
+    <Official id="119" official_name="Craig Joubert" />
+    <Official id="241" official_name="Mathieu Raynal" />
+    <Official id="1000239" official_name="Marshall Kilgore" />
+  </Officials>
+  <TeamDetail>
+    <Team home_or_away="home" sfms_id="WA" team_id="500" team_name="Wales">
+      <Player id="16273" player_name="Leigh Halfpenny" position="Back 7" position_id="15" sfms_id="WHA26" />
+      <Player id="19411" player_name="Alex Cuthbert" position="Back 6" position_id="14" sfms_id="CU75" />
+      <Player id="16161" player_name="Jonathan Davies" position="Back 5" position_id="13" sfms_id="DA212" />
+      <Player id="7981" player_name="Jamie Roberts" position="Back 4" position_id="12" sfms_id="WRO28" />
+      <Player id="18273" player_name="George North" position="Back 3" position_id="11" sfms_id="75W" />
+      <Player id="9757" player_name="Dan Biggar" position="Back 2" position_id="10" sfms_id="9BI6" />
+      <Player id="2652" player_name="Mike Phillips" position="Back 1" position_id="9" sfms_id="PH2" />
+      <Player id="3293" player_name="Gethin Jenkins" position="Forward 1" position_id="1" sfms_id="KJE17" />
+      <Player id="5097" player_name="Richard Hibbard" position="Forward 2" position_id="2" sfms_id="HI49" />
+      <Player id="1967" player_name="Adam Jones" position="Forward 3" position_id="3" sfms_id="KJO63" />
+      <Player id="7680" player_name="Alun Wyn Jones" position="Forward 4" position_id="4" sfms_id="JO148" />
+      <Player id="6113" player_name="Ian Evans" position="Forward 5" position_id="5" sfms_id="EV55" />
+      <Player id="10238" player_name="Sam Warburton" position="Forward 6" position_id="6" sfms_id="WWA30" />
+      <Player id="13119" player_name="Justin Tipuric" position="Forward 7" position_id="7" sfms_id="9TI3" />
+      <Player id="11029" player_name="Toby Faletau" position="Forward 8" position_id="8" sfms_id="236W" />
+      <Player id="8412" player_name="Ken Owens" position="Replacement 1" position_id="16" sfms_id="OW12" />
+      <Player id="2659" player_name="Paul James" position="Replacement 2" position_id="17" sfms_id="KJA23" />
+      <Player id="10157" player_name="Scott Andrews" position="Replacement 3" position_id="18" sfms_id="9AN10" />
+      <Player id="7663" player_name="Andrew Coombs" position="Replacement 4" position_id="19" sfms_id="CO231" />
+      <Player id="10292" player_name="Aaron Shingler" position="Replacement 5" position_id="20" sfms_id="12693" />
+      <Player id="14749" player_name="Lloyd Williams" position="Replacement 6" position_id="21" sfms_id="9WI35" />
+      <Player id="6014" player_name="James Hook" position="Replacement 7" position_id="22" sfms_id="HO155" />
+      <Player id="15007" player_name="Scott Williams" position="Replacement 8" position_id="23" sfms_id="9WI43" />
+    </Team>
+    <Team home_or_away="away" sfms_id="EN" team_id="550" team_name="England">
+      <Player id="9486" player_name="Alex Goode" position="Back 7" position_id="15" sfms_id="9GO7" />
+      <Player id="9796" player_name="Chris Ashton" position="Back 6" position_id="14" sfms_id="LAS7" />
+      <Player id="11030" player_name="Manu Tuilagi" position="Back 5" position_id="13" sfms_id="11118" />
+      <Player id="8142" player_name="Brad Barritt" position="Back 4" position_id="12" sfms_id="BA254" />
+      <Player id="7655" player_name="Mike Brown" position="Back 3" position_id="11" sfms_id="UBR5" />
+      <Player id="9938" player_name="Owen Farrell" position="Back 2" position_id="10" sfms_id="9FA3" />
+      <Player id="9144" player_name="Ben Youngs" position="Back 1" position_id="9" sfms_id="YO21" />
+      <Player id="16267" player_name="Joe Marler" position="Forward 1" position_id="1" sfms_id="9MA24" />
+      <Player id="8787" player_name="Tom Youngs" position="Forward 2" position_id="2" sfms_id="9YO5" />
+      <Player id="9054" player_name="Dan Cole" position="Forward 3" position_id="3" sfms_id="9CO16" />
+      <Player id="18571" player_name="Joe Launchbury" position="Forward 4" position_id="4" sfms_id="13485" />
+      <Player id="3901" player_name="Geoff Parling" position="Forward 5" position_id="5" sfms_id="PA26" />
+      <Player id="7637" player_name="Tom Croft" position="Forward 6" position_id="6" sfms_id="CR70" />
+      <Player id="7656" player_name="Chris Robshaw" position="Forward 7" position_id="7" sfms_id="RO172" />
+      <Player id="9438" player_name="Tom Wood" position="Forward 8" position_id="8" sfms_id="NWO17" />
+      <Player id="7761" player_name="Dylan Hartley" position="Replacement 1" position_id="16" sfms_id="HA327" />
+      <Player id="3618" player_name="Dave Wilson" position="Replacement 2" position_id="17" sfms_id="WI2" />
+      <Player id="17164" player_name="Mako Vunipola" position="Replacement 3" position_id="18" sfms_id="VU3" />
+      <Player id="9802" player_name="Courtney Lawes" position="Replacement 4" position_id="19" sfms_id="LA129" />
+      <Player id="3607" player_name="James Haskell" position="Replacement 5" position_id="20" sfms_id="HA179" />
+      <Player id="7635" player_name="Danny Care" position="Replacement 6" position_id="21" sfms_id="KCA28" />
+      <Player id="6035" player_name="Toby Flood" position="Replacement 7" position_id="22" sfms_id="FL30" />
+      <Player id="14747" player_name="Billy Twelvetrees" position="Replacement 8" position_id="23" sfms_id="9TW1" />
+    </Team>
+  </TeamDetail>
+</RU13LINEUP>

@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Copyright 2001-2011 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        jobqueue01.sportingstatz.com
+     production time:    20110703T154440,430Z
+     production module:  Opta::Feed::XML::RugbyLeague::RL6
+-->
+<rlresults>
+  <feed-info comp-id="1" />
+  <match attendance="" game-id="116205" grp-id="" period-minute="80" period-second="7" rnd-id="" status="Result">
+    <Officials>
+      <Official id="" official_name=" " role="Referee" />
+      <Official id="" official_name=" " role="Touch Judge 1" />
+      <Official id="" official_name=" " role="Touch Judge 2" />
+      <Official id="" official_name=" " role="Video Referee" />
+    </Officials>
+    <away-team>
+      <ht-score>0</ht-score>
+      <score>12</score>
+      <team-id>7250</team-id>
+      <team-name>Crusaders</team-name>
+    </away-team>
+    <events>
+      <event period="First Half" secs="0" time="0" type="START">
+        <team-id>0</team-id>
+      </event>
+      <event period="First Half" secs="17" time="3" type="TRY">
+        <player-code>2504</player-code>
+        <player-name>Fa'alogo</player-name>
+        <team-id>150</team-id>
+      </event>
+      <event period="First Half" secs="23" time="4" type="CONV">
+        <player-code>10148</player-code>
+        <player-name>McNally</player-name>
+        <team-id>150</team-id>
+      </event>
+      <event period="First Half" secs="30" time="6" type="TRY">
+        <player-code>3258</player-code>
+        <player-name>Wardle</player-name>
+        <team-id>150</team-id>
+      </event>
+      <event period="First Half" secs="34" time="7" type="CONV">
+        <player-code>10148</player-code>
+        <player-name>McNally</player-name>
+        <team-id>150</team-id>
+      </event>
+      <event period="First Half" secs="35" time="22" type="TRY">
+        <player-code>1795</player-code>
+        <player-name>Brown</player-name>
+        <team-id>150</team-id>
+      </event>
+      <event period="First Half" secs="59" time="23" type="CONV">
+        <player-code>10148</player-code>
+        <player-name>McNally</player-name>
+        <team-id>150</team-id>
+      </event>
+      <event period="First Half" secs="9" time="40" type="END">
+        <team-id>0</team-id>
+      </event>
+      <event period="Second Half" secs="0" time="40" type="START">
+        <team-id>0</team-id>
+      </event>
+      <event period="Second Half" secs="51" time="41" type="TRY">
+        <player-code>303</player-code>
+        <player-name>Martin</player-name>
+        <team-id>7250</team-id>
+      </event>
+      <event period="Second Half" secs="59" time="42" type="CONV">
+        <player-code>2084</player-code>
+        <player-name>Witt</player-name>
+        <team-id>7250</team-id>
+      </event>
+      <event period="Second Half" secs="18" time="46" type="TRY">
+        <player-code>303</player-code>
+        <player-name>Martin</player-name>
+        <team-id>7250</team-id>
+      </event>
+      <event period="Second Half" secs="35" time="47" type="CONV">
+        <player-code>2084</player-code>
+        <player-name>Witt</player-name>
+        <team-id>7250</team-id>
+      </event>
+      <event period="Second Half" secs="17" time="50" type="TRY">
+        <player-code>573</player-code>
+        <player-name>Hodgson</player-name>
+        <team-id>150</team-id>
+      </event>
+      <event period="Second Half" secs="47" time="58" type="YELC">
+        <player-code>342</player-code>
+        <player-name>Moore</player-name>
+        <team-id>7250</team-id>
+      </event>
+      <event period="Second Half" secs="13" time="59" type="TRY">
+        <player-code>573</player-code>
+        <player-name>Hodgson</player-name>
+        <team-id>150</team-id>
+      </event>
+      <event period="Second Half" secs="22" time="61" type="CONV">
+        <player-code>10148</player-code>
+        <player-name>McNally</player-name>
+        <team-id>150</team-id>
+      </event>
+      <event period="Second Half" secs="36" time="69" type="TRY">
+        <player-code>573</player-code>
+        <player-name>Hodgson</player-name>
+        <team-id>150</team-id>
+      </event>
+      <event period="Second Half" secs="11" time="71" type="CONV">
+        <player-code>10148</player-code>
+        <player-name>McNally</player-name>
+        <team-id>150</team-id>
+      </event>
+      <event period="Second Half" secs="29" time="74" type="TRY">
+        <player-code>4839</player-code>
+        <player-name>Lawrence</player-name>
+        <team-id>150</team-id>
+      </event>
+      <event period="Second Half" secs="43" time="75" type="CONV">
+        <player-code>10148</player-code>
+        <player-name>McNally</player-name>
+        <team-id>150</team-id>
+      </event>
+      <event period="Second Half" secs="3" time="80" type="YELC">
+        <player-code>5060</player-code>
+        <player-name>Cahill</player-name>
+        <team-id>7250</team-id>
+      </event>
+      <event period="Second Half" secs="7" time="80" type="END">
+        <team-id>0</team-id>
+      </event>
+    </events>
+    <home-team>
+      <ht-score>18</ht-score>
+      <score>40</score>
+      <team-id>150</team-id>
+      <team-name>Huddersfield</team-name>
+    </home-team>
+    <subs>
+      <sub period="First Half" secs="31" time="13">
+        <player-code>342</player-code>
+        <team-id>7250</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="First Half" secs="32" time="13">
+        <player-code>2007</player-code>
+        <team-id>7250</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="First Half" secs="36" time="13">
+        <player-code>2574</player-code>
+        <team-id>7250</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="First Half" secs="37" time="13">
+        <player-code>3237</player-code>
+        <team-id>7250</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="First Half" secs="37" time="21">
+        <player-code>172</player-code>
+        <team-id>150</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="First Half" secs="38" time="21">
+        <player-code>316</player-code>
+        <team-id>150</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="First Half" secs="40" time="21">
+        <player-code>472</player-code>
+        <team-id>150</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="First Half" secs="41" time="21">
+        <player-code>2504</player-code>
+        <team-id>150</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="First Half" secs="36" time="27">
+        <player-code>2799</player-code>
+        <team-id>150</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="First Half" secs="37" time="27">
+        <player-code>2038</player-code>
+        <team-id>150</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="First Half" secs="36" time="29">
+        <player-code>2091</player-code>
+        <team-id>7250</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="First Half" secs="37" time="29">
+        <player-code>2278</player-code>
+        <team-id>7250</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="First Half" secs="52" time="32">
+        <player-code>2875</player-code>
+        <team-id>150</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="First Half" secs="53" time="32">
+        <player-code>581</player-code>
+        <team-id>150</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="26" time="47">
+        <player-code>2007</player-code>
+        <team-id>7250</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="27" time="47">
+        <player-code>342</player-code>
+        <team-id>7250</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="14" time="48">
+        <player-code>581</player-code>
+        <team-id>150</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="15" time="48">
+        <player-code>2875</player-code>
+        <team-id>150</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="18" time="48">
+        <player-code>2038</player-code>
+        <team-id>150</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="19" time="48">
+        <player-code>2799</player-code>
+        <team-id>150</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="3" time="52">
+        <player-code>3237</player-code>
+        <team-id>7250</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="4" time="52">
+        <player-code>2574</player-code>
+        <team-id>7250</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="8" time="55">
+        <player-code>316</player-code>
+        <team-id>150</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="9" time="55">
+        <player-code>472</player-code>
+        <team-id>150</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="57" time="55">
+        <player-code>10513</player-code>
+        <team-id>7250</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="58" time="55">
+        <player-code>438</player-code>
+        <team-id>7250</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="20" time="57">
+        <player-code>342</player-code>
+        <team-id>7250</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="21" time="57">
+        <player-code>2091</player-code>
+        <team-id>7250</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="51" time="60">
+        <player-code>2504</player-code>
+        <team-id>150</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="52" time="60">
+        <player-code>172</player-code>
+        <team-id>150</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="54" time="62">
+        <player-code>2278</player-code>
+        <team-id>7250</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="55" time="62">
+        <player-code>5060</player-code>
+        <team-id>7250</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="14" time="63">
+        <player-code>438</player-code>
+        <team-id>7250</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="15" time="63">
+        <player-code>3218</player-code>
+        <team-id>7250</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="42" time="70">
+        <player-code>2574</player-code>
+        <team-id>7250</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="43" time="70">
+        <player-code>2007</player-code>
+        <team-id>7250</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="47" time="70">
+        <player-code>2875</player-code>
+        <team-id>150</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="48" time="70">
+        <player-code>581</player-code>
+        <team-id>150</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="16" time="72">
+        <player-code>2799</player-code>
+        <team-id>150</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="17" time="72">
+        <player-code>316</player-code>
+        <team-id>150</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="16" time="77">
+        <player-code>5060</player-code>
+        <team-id>7250</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="17" time="77">
+        <player-code>2278</player-code>
+        <team-id>7250</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+      <sub period="Second Half" secs="50" time="77">
+        <player-code>2091</player-code>
+        <team-id>7250</team-id>
+        <type event_name="SUB_ON" />
+      </sub>
+      <sub period="Second Half" secs="51" time="77">
+        <player-code>10119</player-code>
+        <team-id>7250</team-id>
+        <type event_name="SUB_OFF" />
+      </sub>
+    </subs>
+    <teams home_or_away="home" team_id="150" team_name="Huddersfield">
+      <Player id="10148" first="Greg" known_name="Greg McNally" last="McNally" played="1" position_id="1" shirt_number="28" />
+      <Player id="10167" first="Jermaine" known_name="Jermaine McGillvary" last="McGillvary" played="1" position_id="2" shirt_number="20" />
+      <Player id="3258" first="Josef" known_name="Joe Wardle" last="Wardle" played="1" position_id="3" shirt_number="29" />
+      <Player id="2919" first="Leroy" known_name="Leroy Cudjoe" last="Cudjoe" played="1" position_id="4" shirt_number="3" />
+      <Player id="573" first="David" known_name="David Hodgson" last="Hodgson" played="1" position_id="5" shirt_number="5" />
+      <Player id="1795" first="Kevin" known_name="Kevin Brown" last="Brown" played="1" position_id="6" shirt_number="6" />
+      <Player id="2789" first="Scott" known_name="Scott Grix" last="Grix" played="1" position_id="7" shirt_number="1" />
+      <Player id="2504" first="David" known_name="David Fa'alogo" last="Fa'alogo" played="1" position_id="8" shirt_number="12" />
+      <Player id="581" first="Luke" known_name="Luke Robinson" last="Robinson" played="1" position_id="9" shirt_number="9" />
+      <Player id="316" first="Darrell" known_name="Darrell Griffin" last="Griffin" played="1" position_id="10" shirt_number="10" />
+      <Player id="2406" first="Dale" known_name="Dale Ferguson" last="Ferguson" played="1" position_id="11" shirt_number="37" />
+      <Player id="4839" first="Mike" known_name="Mike Lawrence" last="Lawrence" played="1" position_id="12" shirt_number="2" />
+      <Player id="2038" first="Luke" known_name="Luke O'Donnell" last="O'Donnell" played="1" position_id="13" shirt_number="11" />
+      <Player id="172" first="Eorl" known_name="Eorl Crabtree" last="Crabtree" played="1" position_id="14" shirt_number="8" />
+      <Player id="472" first="Keith" known_name="Keith Mason" last="Mason" played="1" position_id="15" shirt_number="15" />
+      <Player id="2799" first="Larne" known_name="Larne Patrick" last="Patrick" played="1" position_id="16" shirt_number="18" />
+      <Player id="2875" first="Kyle" known_name="Kyle Wood" last="Wood" played="1" position_id="17" shirt_number="23" />
+    </teams>
+    <teams home_or_away="away" team_id="7250" team_name="Crusaders">
+      <Player id="1826" first="Jordan" known_name="Jordan Tansey" last="Tansey" played="1" position_id="1" shirt_number="27" />
+      <Player id="438" first="Stuart" known_name="Stuart Reardon" last="Reardon" played="1" position_id="2" shirt_number="5" />
+      <Player id="10814" first="Gareth" known_name="Gareth Thomas" last="Thomas" played="1" position_id="3" shirt_number="2" />
+      <Player id="303" first="Tony" known_name="Tony Martin" last="Martin" played="1" position_id="4" shirt_number="3" />
+      <Player id="2043" first="Vince" known_name="Vince Mellars" last="Mellars" played="1" position_id="5" shirt_number="4" />
+      <Player id="2084" first="Michael" known_name="Michael Witt" last="Witt" played="1" position_id="6" shirt_number="6" />
+      <Player id="3218" first="Jarrod" known_name="Jarrod Sammut" last="Sammut" played="1" position_id="7" shirt_number="7" />
+      <Player id="3237" first="Ben" known_name="Ben Flower" last="Flower" played="1" position_id="8" shirt_number="16" />
+      <Player id="2079" first="Lincoln" known_name="Lincoln Withers" last="Withers" played="1" position_id="9" shirt_number="9" />
+      <Player id="2007" first="Ryan" known_name="Ryan O'Hara" last="O'Hara" played="1" position_id="10" shirt_number="8" />
+      <Player id="2278" first="Frank" known_name="Frank Winterstein" last="Winterstein" played="1" position_id="11" shirt_number="13" />
+      <Player id="10119" first="Jason" known_name="Jason Chan" last="Chan" played="1" position_id="12" shirt_number="12" />
+      <Player id="5060" first="Hep" known_name="Hep Cahill" last="Cahill" played="1" position_id="13" shirt_number="11" />
+      <Player id="2574" first="Mark" known_name="Mark Bryant" last="Bryant" played="1" position_id="14" shirt_number="10" />
+      <Player id="2091" first="Jordan" known_name="Jordan James" last="James" played="1" position_id="15" shirt_number="15" />
+      <Player id="10513" first="Elliott" known_name="Elliott Kear" last="Kear" played="1" position_id="16" shirt_number="18" />
+      <Player id="342" first="Richard" known_name="Richard Moore" last="Moore" played="1" position_id="17" shirt_number="22" />
+    </teams>
+  </match>
+  <meta>
+      <dateline>03/07/2011 16:44:40 +0000</dateline>
+  </meta>
+</rlresults>

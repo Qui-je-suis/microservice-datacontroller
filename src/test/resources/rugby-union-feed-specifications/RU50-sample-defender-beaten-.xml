@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2013 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a03.nexus.opta.net
+     production time:    20131229T140308,751Z
+     production module:  Opta::Feed::XML::RugbyUnion::RU50
+-->
+<RU50_EventFeed>
+  <Game away_score="0" game_id="114113" home_score="0" status="First half" timer_running="1">
+    <Event id="2053606" direction="Left to Right" direction_of_play_x="87.3" direction_of_play_y="21.6" event_id="11" event_type_id="4" event_type_name="Defender beaten" game_id="114113" last_modified="2013-12-29 14:03:07" outcome="1" period="First Half" period_id="2" period_minute="1" period_second="4" player_id="18252" team_id="1300" timestamp="2013-12-29 14:03:07" timestamp_milliseconds="203" x="87.3" y="21.6">
+      <Qualifiers></Qualifiers>
+    </Event>
+  </Game>
+</RU50_EventFeed>

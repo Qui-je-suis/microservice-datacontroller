@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2013 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a03.nexus.opta.net
+     production time:    20131229T140758,616Z
+     production module:  Opta::Feed::XML::RugbyUnion::RU50
+-->
+<RU50_EventFeed>
+  <Game away_score="0" game_id="114113" home_score="7" status="First half" timer_running="1">
+    <Event id="2053653" direction="Right to Left" direction_of_play_x="74.3" direction_of_play_y="100.3" event_id="33" event_type_id="11" event_type_name="Line-out throw" game_id="114113" last_modified="2013-12-29 14:07:58" outcome="1" period="First Half" period_id="2" period_minute="5" period_second="53" player_id="8101" team_id="1100" timestamp="2013-12-29 14:07:58" timestamp_milliseconds="812" x="25.7" y="-0.3">
+      <Qualifiers id="2751747" name="Won clean" qualifier_id="157" value="" />
+      <Qualifiers id="2751748" name="Possession" qualifier_id="163" value="1" />
+    </Event>
+  </Game>
+</RU50_EventFeed>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2013 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a07.nexus.opta.net
+     production time:    20131229T133215,557Z
+     production module:  Opta::Feed::XML::RugbyUnion::RU50
+-->
+<RU50_EventFeed>
+  <Game away_score="0" game_id="114113" home_score="0" status="" timer_running="0">
+    <Event comp_name="Aviva Premiership" event_id="2050343" game_id="114113" timestamp="2013-12-27 20:01:06">
+      <Officials>
+        <Official id="125" official_name="Andrew Small" />
+        <Official id="1000399" official_name="Nigel Carrick" />
+        <Official id="1000345" official_name="Paul Burton" />
+        <Official id="25" official_name="Graham Hughes" />
+      </Officials>
+      <TeamDetail>
+        <Team home_or_away="home" sfms_id="LIRI" team_id="1300" team_name="London Irish">
+          <Player id="9680" player_name="James O'Connor" position="Back 7" position_id="15" sfms_id="" />
+          <Player id="6037" player_name="Topsy Ojo" position="Back 6" position_id="14" sfms_id="OJ1" />
+          <Player id="18252" player_name="Fergus Mulchrone" position="Back 5" position_id="13" sfms_id="10420" />
+          <Player id="10259" player_name="Eamonn Sheridan" position="Back 4" position_id="12" sfms_id="ISH9" />
+          <Player id="11039" player_name="Alex Lewington" position="Back 3" position_id="11" sfms_id="" />
+          <Player id="7640" player_name="Ian Humphreys" position="Back 2" position_id="10" sfms_id="HU92" />
+          <Player id="7701" player_name="Tomas O'Leary" position="Back 1" position_id="9" sfms_id="OL19" />
+          <Player id="7731" player_name="Matt Parr" position="Forward 1" position_id="1" sfms_id="PA100" />
+          <Player id="11043" player_name="Jimmy Stevens" position="Forward 2" position_id="2" sfms_id="" />
+          <Player id="5015" player_name="C. J. van der Linde" position="Forward 3" position_id="3" sfms_id="ZVA64" />
+          <Player id="3629" player_name="George Skivington" position="Forward 4" position_id="4" sfms_id="SK9" />
+          <Player id="1742" player_name="Ian Gough" position="Forward 5" position_id="5" sfms_id="KGO6" />
+          <Player id="11156" player_name="Kieran Low" position="Forward 6" position_id="6" sfms_id="1434W" />
+          <Player id="9415" player_name="Ofisa Treviranus" position="Forward 7" position_id="7" sfms_id="TR45" />
+          <Player id="19624" player_name="Blair Cowan" position="Forward 8" position_id="8" sfms_id="" />
+          <Player id="10578" player_name="Mike Mayhew" position="Replacement 1" position_id="16" sfms_id="" />
+          <Player id="3428" player_name="John Yapp" position="Replacement 2" position_id="17" sfms_id="YA1" />
+          <Player id="19396" player_name="Leo Halavatau" position="Replacement 3" position_id="18" sfms_id="9HA8" />
+          <Player id="8018" player_name="Nic Rouse" position="Replacement 4" position_id="19" sfms_id="" />
+          <Player id="10042" player_name="Jebb Sinclair" position="Replacement 5" position_id="20" sfms_id="" />
+          <Player id="10233" player_name="Andrew Fenby" position="Replacement 6" position_id="21" sfms_id="FE51" />
+          <Player id="7760" player_name="Shane Geraghty" position="Replacement 7" position_id="22" sfms_id="GE20" />
+          <Player id="20924" player_name="Ed Hoadley" position="Replacement 8" position_id="23" sfms_id="" />
+        </Team>
+        <Team home_or_away="away" sfms_id="GLOS" team_id="1100" team_name="Gloucester">
+          <Player id="20152" player_name="Rob Cook" position="Back 7" position_id="15" sfms_id="9CO3" />
+          <Player id="9281" player_name="Charlie Sharples" position="Back 6" position_id="14" sfms_id="9SH8" />
+          <Player id="9282" player_name="Henry Trinder" position="Back 5" position_id="13" sfms_id="TR42" />
+          <Player id="1037" player_name="Mike Tindall" position="Back 4" position_id="12" sfms_id="ETI3" />
+          <Player id="16965" player_name="Jonny May" position="Back 3" position_id="11" sfms_id="1068N" />
+          <Player id="14747" player_name="Billy Twelvetrees" position="Back 2" position_id="10" sfms_id="9TW1" />
+          <Player id="7019" player_name="Jimmy Cowan" position="Back 1" position_id="9" sfms_id="" />
+          <Player id="3612" player_name="Nick Wood" position="Forward 1" position_id="1" sfms_id="WO16" />
+          <Player id="8101" player_name="Huia Edmonds" position="Forward 2" position_id="2" sfms_id="AED4" />
+          <Player id="19930" player_name="Sila Puafisi" position="Forward 3" position_id="3" sfms_id="" />
+          <Player id="19662" player_name="Elliot Stooke" position="Forward 4" position_id="4" sfms_id="" />
+          <Player id="2687" player_name="James Hudson" position="Forward 5" position_id="5" sfms_id="HU47" />
+          <Player id="9058" player_name="Matt Cox" position="Forward 6" position_id="6" sfms_id="9CO13" />
+          <Player id="11072" player_name="Matt Kvesic" position="Forward 7" position_id="7" sfms_id="1509W" />
+          <Player id="18311" player_name="Ben Morgan" position="Forward 8" position_id="8" sfms_id="596N" />
+          <Player id="18224" player_name="Koree Britton" position="Replacement 1" position_id="16" sfms_id="1425W" />
+          <Player id="9945" player_name="Yann Thomas" position="Replacement 2" position_id="17" sfms_id="11516" />
+          <Player id="10188" player_name="Shaun Knight" position="Replacement 3" position_id="18" sfms_id="9KN4" />
+          <Player id="8219" player_name="Will James" position="Replacement 4" position_id="19" sfms_id="KJA13" />
+          <Player id="19181" player_name="Gareth Evans" position="Replacement 5" position_id="20" sfms_id="" />
+          <Player id="18549" player_name="Dan Robson" position="Replacement 6" position_id="21" sfms_id="RO221" />
+          <Player id="10183" player_name="Freddie Burns" position="Replacement 7" position_id="22" sfms_id="BU139" />
+          <Player id="8414" player_name="Martyn Thomas" position="Replacement 8" position_id="23" sfms_id="TH143" />
+        </Team>
+      </TeamDetail>
+    </Event>
+  </Game>
+</RU50_EventFeed>

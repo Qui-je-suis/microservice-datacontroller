@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2014 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a01.nexus.opta.net
+     production time:    20140912T060006,711Z
+     production module:  Opta::Feed::XML::RugbyUnion::RU52_Preview
+-->
+<Logsheet ThirdParty_ID="415026" Version="2.0.1">
+  <Date>12-Sep-2014</Date>
+  <Description>PRO Season 2014/2015, Ulster v Zebre, 12/09/2014, id=415026</Description>
+  <Keywords>
+    <Keyword Type="Keyword">Ulster</Keyword>
+    <Keyword Type="Keyword">Zebre</Keyword>
+  </Keywords>
+  <Name>Ulster v Zebre</Name>
+</Logsheet>

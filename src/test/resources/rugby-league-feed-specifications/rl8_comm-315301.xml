@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2015 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a08.nexus.opta.net
+     production time:    20151005T125147,564Z
+     production module:  Opta::Feed::XML::RugbyLeague::RL8
+-->
+<RugbyLeagueCommentary>
+  <GameDetail away_score="17" away_team_id="2150" away_team_name="Cowboys" game_id="315301" home_score="16" home_team_id="900" home_team_name="Broncos" />
+  <Message type="Leader Table">
+    <Category name="Good Tackles">
+      <Players name="Andrew McCullough" number="46" player_id="6444" team_id="900" team_name="Broncos" />
+      <Players name="Corey Parker" number="44" player_id="2009" team_id="900" team_name="Broncos" />
+    </Category>
+    <Category name="Defenders Beaten">
+      <Players name="Anthony Milford" number="8" player_id="20803" team_id="900" team_name="Broncos" />
+      <Players name="Ben Hunt" number="5" player_id="10838" team_id="900" team_name="Broncos" />
+    </Category>
+  </Message>
+  <Message type="Leader Table">
+    <Category name="Good Tackles">
+      <Players name="Andrew McCullough" number="46" player_id="6444" team_id="900" team_name="Broncos" />
+      <Players name="Corey Parker" number="44" player_id="2009" team_id="900" team_name="Broncos" />
+    </Category>
+    <Category name="Defenders Beaten">
+      <Players name="Anthony Milford" number="8" player_id="20803" team_id="900" team_name="Broncos" />
+      <Players name="Ben Hunt" number="5" player_id="10838" team_id="900" team_name="Broncos" />
+    </Category>
+  </Message>
+  <Message id="1365" comment="Johnathan Thurston has kicked a drop goal." period="5" player_id="1087" second="7" team_id="2150" time="82" type="Drop Goal - Kicked" />
+  <Message id="1251" comment="Sam Thaiday has made 40 good tackles so far this game." period="5" player_id="2054" second="45" team_id="900" time="81" type="Player Good Tackles" />
+  <Message id="1332" comment="Johnathan Thurston misses the conversion." period="4" player_id="1087" second="1" team_id="2150" time="80" type="Conversion - Missed" />
+  <Message id="1312" comment="Silky skills by Cowboys ends with a try for Kyle Feldt." period="4" player_id="11441" second="1" team_id="2150" time="80" type="Try - Passing Move" />
+  <Message id="1311" comment="Here's a chance for Cowboys as the break the line." period="4" player_id="11441" second="0" team_id="2150" time="80" type="Clean Break" />
+  <Message id="1234" comment="It's all over! The the hooter goes to end the game." period="4" player_id="0" second="0" team_id="900" time="80" type="End Of Second Half" />
+  <Message id="1318" comment="Michael Morgan sets up the try." period="4" player_id="10946" second="55" team_id="2150" time="79" type="Try Assist" />
+  <Message id="1219" comment="Matt Gillett has made 40 good tackles so far this game." period="4" player_id="10837" second="19" team_id="900" time="79" type="Player Good Tackles" />
+  <Message id="1209" comment="The defensive line has been broken as Broncos go through a gap." period="4" player_id="20803" second="50" team_id="900" time="78" type="Clean Break" />
+  <Message id="1186" comment="Alex Glenn has made 40 good tackles so far this game." period="4" player_id="6036" second="26" team_id="900" time="77" type="Player Good Tackles" />
+  <Message id="1223" comment="Michael Morgan has made 10 good tackles so far this game." period="4" player_id="10946" second="12" team_id="2150" time="76" type="Player Good Tackles" />
+  <Message id="1219" comment="Jake Granville has made 30 good tackles so far this game." period="4" player_id="20720" second="57" team_id="2150" time="75" type="Player Good Tackles" />
+  <Message id="1146" comment="Justin Hodges has made 10 good tackles so far this game." period="4" player_id="965" second="21" team_id="900" time="75" type="Player Good Tackles" />
+  <Message id="1185" comment="Cowboys decide to make a substitution, Matthew Scott enters the fray." period="4" player_id="2541" second="0" team_id="2150" time="74" type="Substitution on" />
+  <Message id="1184" comment="John Asiata comes off." period="4" player_id="21009" second="0" team_id="2150" time="74" type="Substitution off" />
+  <Message id="1137" comment="Corey Parker has made 40 good tackles so far this game." period="4" player_id="2009" second="52" team_id="900" time="74" type="Player Good Tackles" />
+  <Message id="1110" comment="Ben Hunt has made 20 good tackles so far this game." period="4" player_id="10838" second="5" team_id="900" time="73" type="Player Good Tackles" />
+  <Message id="1096" comment="The defensive line has been broken as Broncos go through a gap." period="4" player_id="10838" second="32" team_id="900" time="72" type="Clean Break" />
+  <Message id="1120" comment="Jason Taumalolo has made 30 good tackles so far this game." period="4" player_id="11381" second="12" team_id="2150" time="71" type="Player Good Tackles" />
+  <Message id="1080" comment="Adam Blair has made 30 good tackles so far this game." period="4" player_id="2721" second="47" team_id="900" time="71" type="Player Good Tackles" />
+  <Message id="1116" comment="James Tamou has made 20 good tackles so far this game." period="4" player_id="10933" second="51" team_id="2150" time="70" type="Player Good Tackles" />
+  <Message id="1077" comment="Kane Linnett has made 10 good tackles so far this game." period="4" player_id="10911" second="5" team_id="2150" time="69" type="Player Good Tackles" />
+  <Message id="1050" comment="Andrew McCullough has made 40 good tackles so far this game." period="4" player_id="6444" second="47" team_id="900" time="69" type="Player Good Tackles" />
+  <Message id="1043" comment="Sam Thaiday has made 30 good tackles so far this game." period="4" player_id="2054" second="35" team_id="900" time="69" type="Player Good Tackles" />
+  <Message id="1084" comment="Cowboys make a substitution with Jason Taumalolo coming on." period="4" player_id="11381" second="0" team_id="2150" time="68" type="Substitution on" />
+  <Message id="1083" comment="Cowboys make a substitution with Matthew Scott coming off." period="4" player_id="2541" second="0" team_id="2150" time="68" type="Substitution off" />
+  <Message id="1017" comment="Broncos sub Andrew McCullough comes onto the field." period="4" player_id="6444" second="0" team_id="900" time="67" type="Substitution on" />
+  <Message id="1016" comment="Kodi Nikorima departs for Broncos." period="4" player_id="20428" second="0" team_id="900" time="67" type="Substitution off" />
+  <Message id="1002" comment="Jake Granville has made 20 good tackles so far this game." period="4" player_id="20720" second="15" team_id="2150" time="64" type="Player Good Tackles" />
+  <Message id="999" comment="John Asiata has made 10 good tackles so far this game." period="4" player_id="21009" second="7" team_id="2150" time="64" type="Player Good Tackles" />
+  <Message id="993" comment="Matthew Scott has made 20 good tackles so far this game." period="4" player_id="2541" second="55" team_id="2150" time="63" type="Player Good Tackles" />
+  <Message id="962" comment="Adam Blair comes on for Broncos." period="4" player_id="2721" second="0" team_id="900" time="63" type="Substitution on" />
+  <Message id="961" comment="Jo Ofahengaue leaves the field." period="4" player_id="20973" second="0" team_id="900" time="63" type="Substitution off" />
+  <Message id="940" comment="Jo Ofahengaue has made 10 good tackles so far this game." period="4" player_id="20973" second="23" team_id="900" time="63" type="Player Good Tackles" />
+  <Message id="938" comment="Matt Gillett has made 30 good tackles so far this game." period="4" player_id="10837" second="16" team_id="900" time="63" type="Player Good Tackles" />
+  <Message id="1004" comment="Jake Granville comes on." period="4" player_id="20720" second="0" team_id="2150" time="62" type="Substitution on" />
+  <Message id="1003" comment="Rory Kostjasyn comes off." period="4" player_id="6089" second="0" team_id="2150" time="62" type="Substitution off" />
+  <Message id="934" comment="Rory Kostjasyn has made 20 good tackles so far this game." period="4" player_id="6089" second="8" team_id="2150" time="61" type="Player Good Tackles" />
+  <Message type="Leader Table">
+    <Category name="Good Tackles">
+      <Players name="Andrew McCullough" number="38" player_id="6444" team_id="900" team_name="Broncos" />
+      <Players name="Alex Glenn" number="36" player_id="6036" team_id="900" team_name="Broncos" />
+    </Category>
+    <Category name="Defenders Beaten">
+      <Players name="Anthony Milford" number="5" player_id="20803" team_id="900" team_name="Broncos" />
+      <Players name="Jarrod Wallace" number="3" player_id="20478" team_id="900" team_name="Broncos" />
+      <Players name="Jordan Kahu" number="3" player_id="11217" team_id="900" team_name="Broncos" />
+    </Category>
+  </Message>
+  <Message id="881" comment="Corey Parker has made 30 good tackles so far this game." period="4" player_id="2009" second="5" team_id="900" time="60" type="Player Good Tackles" />
+  <Message id="875" comment="James Tamou comes on." period="4" player_id="10933" second="0" team_id="2150" time="57" type="Substitution on" />
+  <Message id="874" comment="Ben Hannant comes off." period="4" player_id="1688" second="0" team_id="2150" time="57" type="Substitution off" />
+  <Message id="848" comment="Ethan Lowe has made 20 good tackles so far this game." period="4" player_id="20379" second="45" team_id="2150" time="56" type="Player Good Tackles" />
+  <Message id="846" comment="Ben Hannant has made 30 good tackles so far this game." period="4" player_id="1688" second="38" team_id="2150" time="56" type="Player Good Tackles" />
+  <Message id="846" comment="Kodi Nikorima comes on." period="4" player_id="20428" second="0" team_id="900" time="56" type="Substitution on" />
+  <Message id="845" comment="Andrew McCullough comes off." period="4" player_id="6444" second="0" team_id="900" time="56" type="Substitution off" />
+  <Message id="783" comment="Sam Thaiday has made 20 good tackles so far this game." period="4" player_id="2054" second="26" team_id="900" time="53" type="Player Good Tackles" />
+  <Message id="754" comment="Matt Gillett has made 20 good tackles so far this game." period="4" player_id="10837" second="35" team_id="900" time="51" type="Player Good Tackles" />
+  <Message id="745" comment="Broncos decide to make a substitution, Jo Ofahengaue enters the fray." period="4" player_id="20973" second="0" team_id="900" time="51" type="Substitution on" />
+  <Message id="744" comment="Jarrod Wallace comes off." period="4" player_id="20478" second="0" team_id="900" time="51" type="Substitution off" />
+  <Message id="731" comment="Cowboys make a substitution with Matthew Scott coming on." period="4" player_id="2541" second="0" team_id="2150" time="50" type="Substitution on" />
+  <Message id="730" comment="Cowboys make a substitution with Scott Bolton coming off." period="4" player_id="5041" second="0" team_id="2150" time="50" type="Substitution off" />
+  <Message id="728" comment="Cowboys sub John Asiata comes onto the field." period="4" player_id="21009" second="0" team_id="2150" time="50" type="Substitution on" />
+  <Message id="727" comment="Jason Taumalolo departs for Cowboys." period="4" player_id="11381" second="0" team_id="2150" time="50" type="Substitution off" />
+  <Message id="726" comment="Gavin Cooper has made 30 good tackles so far this game." period="4" player_id="2570" second="25" team_id="2150" time="50" type="Player Good Tackles" />
+  <Message id="708" comment="Ben Hunt has made 10 good tackles so far this game." period="4" player_id="10838" second="6" team_id="900" time="49" type="Player Good Tackles" />
+  <Message id="717" comment="Corey Parker comes on for Broncos." period="4" player_id="2009" second="0" team_id="900" time="48" type="Substitution on" />
+  <Message id="716" comment="Mitchell Dodds leaves the field." period="4" player_id="10843" second="0" team_id="900" time="48" type="Substitution off" />
+  <Message id="714" comment="Sam Thaiday comes on." period="4" player_id="2054" second="0" team_id="900" time="48" type="Substitution on" />
+  <Message id="713" comment="Adam Blair comes off." period="4" player_id="2721" second="0" team_id="900" time="48" type="Substitution off" />
+  <Message id="681" comment="Rory Kostjasyn has made 10 good tackles so far this game." period="4" player_id="6089" second="17" team_id="2150" time="48" type="Player Good Tackles" />
+  <Message id="684" comment="Jack Reed has made 10 good tackles so far this game." period="4" player_id="11359" second="54" team_id="900" time="47" type="Player Good Tackles" />
+  <Message id="681" comment="Andrew McCullough has made 30 good tackles so far this game." period="4" player_id="6444" second="48" team_id="900" time="47" type="Player Good Tackles" />
+  <Message id="657" comment="The defensive line has been broken as Broncos go through a gap." period="4" player_id="20803" second="44" team_id="900" time="46" type="Clean Break" />
+  <Message id="646" comment="Scott Bolton has made 20 good tackles so far this game." period="4" player_id="5041" second="22" team_id="2150" time="46" type="Player Good Tackles" />
+  <Message id="642" comment="Anthony Milford has made 10 good tackles so far this game." period="4" player_id="20803" second="11" team_id="900" time="46" type="Player Good Tackles" />
+  <Message id="634" comment="Alex Glenn has made 30 good tackles so far this game." period="4" player_id="6036" second="44" team_id="900" time="45" type="Player Good Tackles" />
+  <Message id="615" comment="Adam Blair has made 20 good tackles so far this game." period="4" player_id="2721" second="38" team_id="900" time="44" type="Player Good Tackles" />
+  <Message id="614" comment="Mitchell Dodds has made 10 good tackles so far this game." period="4" player_id="10843" second="37" team_id="900" time="44" type="Player Good Tackles" />
+  <Message id="587" comment="Ben Hannant has made 20 good tackles so far this game." period="4" player_id="1688" second="33" team_id="2150" time="43" type="Player Good Tackles" />
+  <Message id="583" comment="Jordan Kahu kicks the penalty." period="4" player_id="11217" second="31" team_id="900" time="42" type="Penalty Goal - Kicked" />
+  <Message id="568" comment="Jason Taumalolo has made 20 good tackles so far this game." period="4" player_id="11381" second="29" team_id="2150" time="41" type="Player Good Tackles" />
+  <Message id="553" comment="Jarrod Wallace has made 10 good tackles so far this game." period="4" player_id="20478" second="19" team_id="900" time="40" type="Player Good Tackles" />
+  <Message id="542" comment="The teams are back out and the second half is underway." period="4" player_id="0" second="0" team_id="2150" time="40" type="Start Of Second Half" />
+  <Message id="539" comment="The hooter goes and the referee blows for half time." period="2" player_id="0" second="0" team_id="2150" time="40" type="End Of First Half" />
+  <Message id="489" comment="Andrew McCullough has made 20 good tackles so far this game." period="2" player_id="6444" second="37" team_id="900" time="36" type="Player Good Tackles" />
+  <Message id="462" comment="The defensive line has been broken as Cowboys go through a gap." period="2" player_id="1087" second="29" team_id="2150" time="36" type="Clean Break" />
+  <Message id="454" comment="Scott Bolton has made 10 good tackles so far this game." period="2" player_id="5041" second="1" team_id="2150" time="36" type="Player Good Tackles" />
+  <Message id="462" comment="Jordan Kahu does the business as his conversion attempt goes over." period="2" player_id="11217" second="51" team_id="900" time="34" type="Conversion - Kicked" />
+  <Message id="459" comment="Adam Blair comes on." period="2" player_id="2721" second="0" team_id="900" time="33" type="Substitution on" />
+  <Message id="458" comment="Corey Parker comes off." period="2" player_id="2009" second="0" team_id="900" time="33" type="Substitution off" />
+  <Message id="456" comment="Spellbinding play by Matt Gillett is finished off with a try." period="2" player_id="10837" second="48" team_id="900" time="33" type="Try Assist" />
+  <Message id="452" comment="A wonderful passing move by Broncos is finished off by Jack Reed." period="2" player_id="11359" second="45" team_id="900" time="33" type="Try - Passing Move" />
+  <Message id="448" comment="The defensive line has been broken as Broncos go through a gap." period="2" player_id="10837" second="34" team_id="900" time="33" type="Clean Break" />
+  <Message id="440" comment="Adam Blair has made 10 good tackles so far this game." period="2" player_id="2721" second="17" team_id="900" time="33" type="Player Good Tackles" />
+  <Message id="424" comment="Ben Hannant has made 10 good tackles so far this game." period="2" player_id="1688" second="46" team_id="2150" time="32" type="Player Good Tackles" />
+  <Message id="417" comment="Alex Glenn has made 20 good tackles so far this game." period="2" player_id="6036" second="5" team_id="900" time="32" type="Player Good Tackles" />
+  <Message id="423" comment="Jason Taumalolo comes on." period="2" player_id="11381" second="0" team_id="2150" time="31" type="Substitution on" />
+  <Message id="422" comment="James Tamou comes off." period="2" player_id="10933" second="0" team_id="2150" time="31" type="Substitution off" />
+  <Message id="419" comment="Cowboys decide to make a substitution, Rory Kostjasyn enters the fray." period="2" player_id="6089" second="0" team_id="2150" time="31" type="Substitution on" />
+  <Message id="418" comment="Jake Granville comes off." period="2" player_id="20720" second="0" team_id="2150" time="31" type="Substitution off" />
+  <Message id="407" comment="Corey Parker has made 20 good tackles so far this game." period="2" player_id="2009" second="31" team_id="900" time="31" type="Player Good Tackles" />
+  <Message id="390" comment="Gavin Cooper has made 20 good tackles so far this game." period="2" player_id="2570" second="52" team_id="2150" time="30" type="Player Good Tackles" />
+  <Message id="363" comment="Broncos make a substitution with Mitchell Dodds coming on." period="2" player_id="10843" second="0" team_id="900" time="27" type="Substitution on" />
+  <Message id="362" comment="Broncos make a substitution with Sam Thaiday coming off." period="2" player_id="2054" second="0" team_id="900" time="27" type="Substitution off" />
+  <Message id="357" comment="Ethan Lowe has made 10 good tackles so far this game." period="2" player_id="20379" second="52" team_id="2150" time="27" type="Player Good Tackles" />
+  <Message id="331" comment="Johnathan Thurston makes no mistake with that conversion attempt." period="2" player_id="1087" second="47" team_id="2150" time="25" type="Conversion - Kicked" />
+  <Message id="328" comment="Jake Granville played a key part in that try." period="2" player_id="20720" second="24" team_id="2150" time="24" type="Try Assist" />
+  <Message id="327" comment="Cowboys are only a few metres out, surely they must score! And they do with James Tamou touching down." period="2" player_id="10933" second="19" team_id="2150" time="24" type="Try - Close range" />
+  <Message id="301" comment="Matt Gillett has made 10 good tackles so far this game." period="2" player_id="10837" second="24" team_id="900" time="23" type="Player Good Tackles" />
+  <Message id="298" comment="Sam Thaiday has made 10 good tackles so far this game." period="2" player_id="2054" second="18" team_id="900" time="23" type="Player Good Tackles" />
+  <Message id="298" comment="Cowboys sub Scott Bolton comes onto the field." period="2" player_id="5041" second="0" team_id="2150" time="22" type="Substitution on" />
+  <Message id="297" comment="Matthew Scott departs for Cowboys." period="2" player_id="2541" second="0" team_id="2150" time="22" type="Substitution off" />
+  <Message type="Leader Table">
+    <Category name="Good Tackles">
+      <Players name="Gavin Cooper" number="16" player_id="2570" team_id="2150" team_name="Cowboys" />
+      <Players name="Jake Granville" number="15" player_id="20720" team_id="2150" team_name="Cowboys" />
+    </Category>
+    <Category name="Defenders Beaten">
+      <Players name="Jack Reed" number="2" player_id="11359" team_id="900" team_name="Broncos" />
+      <Players name="Anthony Milford" number="2" player_id="20803" team_id="900" team_name="Broncos" />
+      <Players name="Jake Granville" number="1" player_id="20720" team_id="2150" team_name="Cowboys" />
+    </Category>
+  </Message>
+  <Message id="259" comment="Jarrod Wallace comes on for Broncos." period="2" player_id="20478" second="0" team_id="900" time="20" type="Substitution on" />
+  <Message id="258" comment="Adam Blair leaves the field." period="2" player_id="2721" second="0" team_id="900" time="20" type="Substitution off" />
+  <Message id="257" comment="Matthew Scott has made 10 good tackles so far this game." period="2" player_id="2541" second="13" team_id="2150" time="20" type="Player Good Tackles" />
+  <Message id="248" comment="Ben Hannant comes on." period="2" player_id="1688" second="0" team_id="2150" time="19" type="Substitution on" />
+  <Message id="247" comment="Jason Taumalolo comes off." period="2" player_id="11381" second="0" team_id="2150" time="19" type="Substitution off" />
+  <Message id="231" comment="Andrew McCullough has made 10 good tackles so far this game." period="2" player_id="6444" second="20" team_id="900" time="19" type="Player Good Tackles" />
+  <Message id="226" comment="Alex Glenn has made 10 good tackles so far this game." period="2" player_id="6036" second="0" team_id="900" time="19" type="Player Good Tackles" />
+  <Message id="222" comment="Corey Parker has made 10 good tackles so far this game." period="2" player_id="2009" second="47" team_id="900" time="18" type="Player Good Tackles" />
+  <Message id="220" comment="James Tamou has made 10 good tackles so far this game." period="2" player_id="10933" second="51" team_id="2150" time="17" type="Player Good Tackles" />
+  <Message id="170" comment="This is dangerous for the defence as Broncos are on the attack." period="2" player_id="20803" second="3" team_id="900" time="15" type="Clean Break" />
+  <Message id="173" comment="Jake Granville has made 10 good tackles so far this game." period="2" player_id="20720" second="43" team_id="2150" time="14" type="Player Good Tackles" />
+  <Message id="142" comment="Gavin Cooper has made 10 good tackles so far this game." period="2" player_id="2570" second="26" team_id="2150" time="13" type="Player Good Tackles" />
+  <Message id="139" comment="Jason Taumalolo has made 10 good tackles so far this game." period="2" player_id="11381" second="10" team_id="2150" time="13" type="Player Good Tackles" />
+  <Message id="103" comment="Johnathan Thurston converts the try." period="2" player_id="1087" second="4" team_id="2150" time="11" type="Conversion - Kicked" />
+  <Message id="98" comment="That's a great try assist by Jake Granville." period="2" player_id="20720" second="55" team_id="2150" time="9" type="Try Assist" />
+  <Message id="97" comment="A series of passes by Cowboys results in a try for Justin O'Neill." period="2" player_id="10869" second="48" team_id="2150" time="9" type="Try - Passing Move" />
+  <Message id="96" comment="Here's a chance for Cowboys as the break the line." period="2" player_id="10869" second="46" team_id="2150" time="9" type="Clean Break" />
+  <Message id="94" comment="Corey Parker has kicked a conversion." period="2" player_id="2009" second="57" team_id="900" time="7" type="Conversion - Kicked" />
+  <Message id="89" comment="Jack Reed sets up the try." period="2" player_id="11359" second="39" team_id="900" time="6" type="Try Assist" />
+  <Message id="88" comment="Great hands by Broncos leads to a try for Corey Oates." period="2" player_id="20722" second="34" team_id="900" time="6" type="Try - Passing Move" />
+  <Message id="84" comment="The defensive line has been broken as Broncos go through a gap." period="2" player_id="11359" second="20" team_id="900" time="6" type="Clean Break" />
+  <Message id="74" comment="Corey Parker has kicked a penalty goal." period="2" player_id="2009" second="28" team_id="900" time="5" type="Penalty Goal - Kicked" />
+  <Message id="3" comment="We are underway as the referee blows his whistle." period="2" player_id="0" second="0" team_id="900" time="0" type="Start Of First Half" />
+</RugbyLeagueCommentary>

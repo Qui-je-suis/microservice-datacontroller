@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2013 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a05.nexus.opta.net
+     production time:    20131205T114937,768Z
+     production module:  Opta::Feed::XML::RugbyUnion::RU4
+-->
+<seasonstats>
+  <categories>
+    <playerstats bad_passes="1" carries="1" clean_breaks="1" conversion_goals="1" defenders_beaten="1" drop_goals_converted="1" kicks_from_hand="1" lineout_won_steal="1" lineouts_to_own_player="1" metres="1" minutes_played_total="1" missed_conversion_goals="1" missed_penalty_goals="1" missed_tackles="1" offload="1" passes="1" pen_defs="1" pen_offs="1" penalty_goals="1" player_id="1" player_team_id="1" points="1" red_cards="1" tackles="1" total_games="1" tries="1" try_assist="1" turnovers_conceded="1" yellow_cards="1" />
+    <teamstats carries="1" clean_breaks="1" conversion_goals="1" defenders_beaten="1" drop_goals_converted="1" kicks_from_hand="1" lineouts_Lost="1" lineouts_won="1" metres="1" missed_tackles="1" offloads="1" passes="1" penalties_conceded="1" penalty_goals="1" penalty_tries="1" player_tries="1" red_cards="1" restart_success="1" restarts_total="1" rucks_lost="1" rucks_success="1" rucks_total="1" rucks_won="1" scrums_lost="1" scrums_success="1" scrums_total="1" scrums_won="1" tackle_success="1" tackles="1" team_id="1" total_games="1" total_tackle_attempts="1" total_tackles="1" total_tries="1" turnovers_conceded="1" yellow_cards="1" />
+  </categories>
+  <competition id="209" long_name="Six Nations" name="Six Nations" season_id="2013" short_name="6N" />
+  <teams>
+    <team sfms_id="FR" team_id="650" team_name="France">
+      <players>
+        <player dob="1986-07-21" height="190" player_first_name="Fulgence" player_id="8436" player_known_name="Fulgence Ouedraogo" player_last_name="Ouedraogo" position_id="6" position_name="Forward 6" regular_position="Flanker" sfms_id="" weight="104">
+          <playerstats carries="8" lineouts_to_own_player="5" metres="19" minutes_played_total="131" missed_tackles="2" passes="3" pen_defs="2" player_id="8436" player_team_id="650" points="0" tackles="23" total_games="2" turnovers_conceded="2" />
+        </player>
+        <player dob="1988-11-15" height="181" player_first_name="Morgan" player_id="8805" player_known_name="Morgan Parra" player_last_name="Parra" position_id="9" position_name="Back 1" regular_position="Scrum Half" sfms_id="PA143" weight="85">
+          <playerstats bad_passes="3" carries="9" conversion_goals="1" kicks_from_hand="34" lineouts_to_own_player="1" metres="25" minutes_played_total="229" missed_penalty_goals="3" missed_tackles="1" passes="182" pen_defs="1" penalty_goals="2" player_id="8805" player_team_id="650" points="8" tackles="13" total_games="5" turnovers_conceded="2" />
+        </player>
+        <player dob="1986-07-28" height="180" player_first_name="Maxime" player_id="8084" player_known_name="Maxime Mermoz" player_last_name="Mermoz" position_id="12" position_name="Back 4" regular_position="Centre" sfms_id="ME71" weight="86">
+          <playerstats carries="10" kicks_from_hand="1" metres="27" minutes_played_total="155" missed_tackles="1" passes="9" pen_defs="1" player_id="8084" player_team_id="650" points="0" tackles="17" total_games="2" turnovers_conceded="1" />
+        </player>
+        <player dob="1982-10-16" height="180" player_first_name="Frederic" player_id="2475" player_known_name="Frederic Michalak" player_last_name="Michalak" position_id="10" position_name="Back 2" regular_position="Fly Half" sfms_id="KMI28" weight="78">
+          <playerstats bad_passes="10" carries="28" conversion_goals="3" defenders_beaten="2" kicks_from_hand="45" lineouts_to_own_player="2" metres="64" minutes_played_total="338" missed_conversion_goals="1" missed_penalty_goals="3" missed_tackles="4" offload="4" passes="121" penalty_goals="9" player_id="2475" player_team_id="650" points="33" tackles="32" total_games="5" try_assist="1" turnovers_conceded="8" />
+        </player>
+        <player dob="1984-03-01" height="198" player_first_name="Christophe" player_id="9430" player_known_name="Christophe Samson" player_last_name="Samson" position_id="19" position_name="Replacement 4" regular_position="Lock" sfms_id="FSA78" weight="107">
+          <playerstats carries="4" lineout_won_steal="1" lineouts_to_own_player="4" metres="2" minutes_played_total="154" missed_tackles="1" passes="1" pen_defs="1" player_id="9430" player_team_id="650" points="0" tackles="24" total_games="3" />
+        </player>
+        <player dob="1991-10-21" height="200" player_first_name="Sebastien" player_id="10949" player_known_name="Sebastien Vahaamahina" player_last_name="Vahaamahina" position_id="4" position_name="Forward 4" regular_position="Lock" sfms_id="" weight="119">
+          <playerstats carries="9" lineout_won_steal="2" lineouts_to_own_player="4" metres="16" minutes_played_total="100" passes="3" pen_defs="1" pen_offs="1" player_id="10949" player_team_id="650" points="0" tackles="7" total_games="2" />
+        </player>
+        <player dob="1988-09-17" height="183" player_first_name="Mathieu" player_id="9609" player_known_name="Mathieu Bastareaud" player_last_name="Bastareaud" position_id="13" position_name="Back 5" regular_position="Centre" sfms_id="9BA28" weight="110">
+          <playerstats carries="32" clean_breaks="1" defenders_beaten="15" metres="117" minutes_played_total="264" missed_tackles="4" offload="6" passes="13" pen_defs="1" player_id="9609" player_team_id="650" points="0" tackles="19" total_games="5" turnovers_conceded="2" />
+        </player>
+        <player dob="1982-01-03" height="181" player_first_name="Yannick" player_id="6081" player_known_name="Yannick Forestier" player_last_name="Forestier" position_id="1" position_name="Forward 1" regular_position="Prop" sfms_id="FO24" weight="109">
+          <playerstats carries="5" metres="1" minutes_played_total="102" passes="2" pen_defs="1" player_id="6081" player_team_id="650" points="0" tackles="10" total_games="2" turnovers_conceded="1" />
+        </player>
+        <player dob="1980-10-05" height="196" player_first_name="Pascal" player_id="3383" player_known_name="Pascal Papé" player_last_name="Papé" position_id="4" position_name="Forward 4" regular_position="Lock" sfms_id="KPA44" weight="112">
+          <playerstats carries="7" metres="4" minutes_played_total="58" passes="1" player_id="3383" player_team_id="650" points="0" tackles="12" total_games="1" turnovers_conceded="1" />
+        </player>
+        <player dob="1981-05-07" height="178" player_first_name="Vincent" player_id="3024" player_known_name="Vincent Clerc" player_last_name="Clerc" position_id="14" position_name="Back 6" regular_position="Winger" sfms_id="CL12" weight="87">
+          <playerstats bad_passes="1" carries="20" defenders_beaten="2" kicks_from_hand="5" metres="60" minutes_played_total="240" missed_tackles="2" passes="7" pen_offs="1" player_id="3024" player_team_id="650" points="0" tackles="11" total_games="3" turnovers_conceded="5" />
+        </player>
+        <player dob="1986-11-16" height="180" player_first_name="Maxime" player_id="6134" player_known_name="Maxime Medard" player_last_name="Medard" position_id="11" position_name="Back 3" regular_position="Full Back" sfms_id="KME13" weight="85">
+          <playerstats carries="11" clean_breaks="1" defenders_beaten="1" kicks_from_hand="2" metres="83" minutes_played_total="160" offload="1" passes="3" player_id="6134" player_team_id="650" points="5" tackles="4" total_games="2" tries="1" turnovers_conceded="1" />
+        </player>
+        <player dob="1988-12-30" height="173" player_first_name="Maxime" player_id="17312" player_known_name="Maxime Machenaud" player_last_name="Machenaud" position_id="21" position_name="Replacement 6" regular_position="Scrum Half" sfms_id="" weight="82">
+          <playerstats bad_passes="4" carries="9" clean_breaks="1" conversion_goals="1" defenders_beaten="4" kicks_from_hand="20" metres="75" minutes_played_total="171" missed_tackles="5" offload="5" passes="146" player_id="17312" player_team_id="650" points="2" tackles="15" total_games="4" try_assist="1" turnovers_conceded="4" />
+        </player>
+        <player dob="1994-03-26" height="190" player_first_name="Gael" player_id="19857" player_known_name="Gael Fickou" player_last_name="Fickou" position_id="23" position_name="Replacement 8" regular_position="Centre" sfms_id="" weight="90">
+          <playerstats carries="1" metres="7" minutes_played_total="6" player_id="19857" player_team_id="650" points="0" tackles="1" total_games="1" />
+        </player>
+        <player dob="1983-01-26" height="180" player_first_name="Dimitri" player_id="3258" player_known_name="Dimitri Szarzewski" player_last_name="Szarzewski" position_id="16" position_name="Replacement 1" regular_position="Hooker" sfms_id="SW15" weight="96">
+          <playerstats carries="15" defenders_beaten="1" metres="20" minutes_played_total="127" missed_tackles="2" passes="3" pen_defs="1" pen_offs="2" player_id="3258" player_team_id="650" points="0" tackles="15" total_games="3" turnovers_conceded="1" />
+        </player>
+        <player dob="1986-11-11" height="184" player_first_name="Francois" player_id="8615" player_known_name="Francois Trinh-Duc" player_last_name="Trinh-Duc" position_id="22" position_name="Replacement 7" regular_position="Fly Half" sfms_id="TR31" weight="82">
+          <playerstats bad_passes="3" carries="12" kicks_from_hand="10" metres="29" minutes_played_total="111" missed_tackles="6" offload="1" passes="20" player_id="8615" player_team_id="650" points="0" tackles="3" total_games="4" turnovers_conceded="1" />
+        </player>
+        <player dob="1985-08-20" height="173" player_first_name="Thomas" player_id="8322" player_known_name="Thomas Domingo" player_last_name="Domingo" position_id="1" position_name="Forward 1" regular_position="Prop" sfms_id="FDO26" weight="107">
+          <playerstats bad_passes="1" carries="8" metres="17" minutes_played_total="174" missed_tackles="2" passes="3" pen_defs="3" player_id="8322" player_team_id="650" points="0" tackles="13" total_games="3" />
+        </player>
+        <player dob="1988-01-20" height="178" player_first_name="Wesley" player_id="9948" player_known_name="Wesley Fofana" player_last_name="Fofana" position_id="12" position_name="Back 4" regular_position="Centre" sfms_id="FO67" weight="88">
+          <playerstats bad_passes="1" carries="36" clean_breaks="3" defenders_beaten="12" lineouts_to_own_player="1" metres="280" minutes_played_total="400" missed_tackles="2" offload="2" passes="19" pen_defs="1" pen_offs="1" player_id="9948" player_team_id="650" points="10" tackles="16" total_games="5" tries="2" turnovers_conceded="4" />
+        </player>
+        <player dob="1982-11-18" height="195" player_first_name="Jocelino" player_id="9854" player_known_name="Jocelino Suta" player_last_name="Suta" position_id="19" position_name="Replacement 4" regular_position="Lock" sfms_id="FSU9" weight="112">
+          <playerstats bad_passes="1" carries="8" lineouts_to_own_player="5" metres="2" minutes_played_total="81" passes="3" player_id="9854" player_team_id="650" points="0" tackles="10" total_games="2" />
+        </player>
+        <player dob="1985-11-27" height="192" player_first_name="Damien" player_id="8306" player_known_name="Damien Chouly" player_last_name="Chouly" position_id="20" position_name="Replacement 5" regular_position="No. 8" sfms_id="CH85" weight="102">
+          <playerstats carries="4" lineouts_to_own_player="1" minutes_played_total="41" passes="2" player_id="8306" player_team_id="650" points="0" tackles="7" total_games="2" turnovers_conceded="1" />
+        </player>
+        <player dob="1984-10-20" height="193" player_first_name="Antonie" player_id="9669" player_known_name="Antonie Claassen" player_last_name="Claassen" position_id="6" position_name="Forward 6" regular_position="Back Row" sfms_id="ZCL18" weight="107">
+          <playerstats carries="9" lineouts_to_own_player="2" metres="16" minutes_played_total="94" passes="2" player_id="9669" player_team_id="650" points="0" tackles="4" total_games="3" turnovers_conceded="2" />
+        </player>
+        <player dob="1987-08-02" height="189" player_first_name="Yoann" player_id="8471" player_known_name="Yoann Huget" player_last_name="Huget" position_id="15" position_name="Back 7" regular_position="Winger" sfms_id="HU99" weight="92">
+          <playerstats bad_passes="1" carries="45" clean_breaks="2" defenders_beaten="12" kicks_from_hand="22" lineouts_to_own_player="1" metres="288" minutes_played_total="391" missed_tackles="6" offload="4" passes="14" pen_defs="1" player_id="8471" player_team_id="650" points="0" tackles="10" total_games="5" turnovers_conceded="5" />
+        </player>
+        <player dob="1984-07-26" height="182" player_first_name="Benjamin" player_id="6130" player_known_name="Benjamin Kayser" player_last_name="Kayser" position_id="2" position_name="Forward 2" regular_position="Hooker" sfms_id="KA25" weight="102">
+          <playerstats carries="25" defenders_beaten="5" metres="34" minutes_played_total="234" missed_tackles="2" passes="3" player_id="6130" player_team_id="650" points="0" tackles="28" total_games="5" turnovers_conceded="1" />
+        </player>
+        <player dob="1984-01-17" height="178" player_first_name="Florian" player_id="3951" player_known_name="Florian Fritz" player_last_name="Fritz" position_id="13" position_name="Back 5" regular_position="Centre" sfms_id="FR48" weight="96">
+          <playerstats bad_passes="1" carries="11" defenders_beaten="1" kicks_from_hand="3" metres="28" minutes_played_total="135" missed_tackles="1" offload="2" passes="7" pen_defs="1" player_id="3951" player_team_id="650" points="0" tackles="12" total_games="4" try_assist="1" turnovers_conceded="1" />
+        </player>
+        <player dob="1986-02-05" height="192" player_first_name="Louis" player_id="9093" player_known_name="Louis Picamoles" player_last_name="Picamoles" position_id="8" position_name="Forward 8" regular_position="Back Row" sfms_id="PI43" weight="106">
+          <playerstats carries="70" clean_breaks="5" defenders_beaten="15" lineouts_to_own_player="1" metres="351" minutes_played_total="388" missed_tackles="3" offload="8" passes="27" pen_defs="2" pen_offs="2" player_id="9093" player_team_id="650" points="10" tackles="34" total_games="5" tries="2" turnovers_conceded="11" />
+        </player>
+        <player dob="1981-12-18" height="188" player_first_name="Thierry" player_id="7286" player_known_name="Thierry Dusautoir" player_last_name="Dusautoir" position_id="7" position_name="Forward 7" regular_position="Flanker" sfms_id="KDU35" weight="95">
+          <playerstats carries="28" defenders_beaten="1" lineouts_to_own_player="4" metres="41" minutes_played_total="396" missed_tackles="2" offload="1" passes="12" pen_defs="2" pen_offs="1" player_id="7286" player_team_id="650" points="0" tackles="58" total_games="5" turnovers_conceded="5" />
+        </player>
+        <player dob="1980-05-23" height="180" player_first_name="Nicolas" player_id="2283" player_known_name="Nicolas Mas" player_last_name="Mas" position_id="3" position_name="Forward 3" regular_position="Prop" sfms_id="KMS1" weight="110">
+          <playerstats carries="18" lineouts_to_own_player="1" metres="21" minutes_played_total="328" missed_tackles="4" offload="1" passes="8" pen_defs="2" pen_offs="3" player_id="2283" player_team_id="650" points="0" tackles="20" total_games="5" turnovers_conceded="1" />
+        </player>
+        <player dob="1983-12-19" height="186" player_first_name="Yannick" player_id="3248" player_known_name="Yannick Nyanga" player_last_name="Nyanga" position_id="20" position_name="Replacement 5" regular_position="Back Row" sfms_id="NY2" weight="91">
+          <playerstats carries="10" defenders_beaten="2" lineout_won_steal="1" lineouts_to_own_player="5" metres="13" minutes_played_total="150" offload="2" passes="6" pen_defs="1" player_id="3248" player_team_id="650" points="0" tackles="16" total_games="3" try_assist="1" turnovers_conceded="3" />
+        </player>
+        <player dob="1989-04-29" height="186" player_first_name="Benjamin" player_id="9813" player_known_name="Benjamin Fall" player_last_name="Fall" position_id="11" position_name="Back 3" regular_position="Winger" sfms_id="" weight="90">
+          <playerstats bad_passes="1" carries="13" clean_breaks="1" defenders_beaten="2" kicks_from_hand="2" metres="92" minutes_played_total="200" missed_tackles="1" offload="2" passes="6" player_id="9813" player_team_id="650" points="5" tackles="17" total_games="3" tries="1" turnovers_conceded="4" />
+        </player>
+        <player dob="1990-09-14" height="200" player_first_name="Romain" player_id="9831" player_known_name="Romain Taofifenua" player_last_name="Taofifenua" position_id="19" position_name="Replacement 4" regular_position="Lock" sfms_id="" weight="121">
+          <playerstats carries="10" defenders_beaten="1" metres="2" minutes_played_total="37" missed_tackles="1" offload="2" passes="2" player_id="9831" player_team_id="650" points="0" tackles="3" total_games="2" turnovers_conceded="2" />
+        </player>
+        <player dob="1986-06-17" height="181" player_first_name="Guilhem" player_id="7926" player_known_name="Guilhem Guirado" player_last_name="Guirado" position_id="16" position_name="Replacement 1" regular_position="Hooker" sfms_id="GU39" weight="99">
+          <playerstats carries="3" clean_breaks="1" lineout_won_steal="1" metres="34" minutes_played_total="39" passes="1" player_id="7926" player_team_id="650" points="0" tackles="3" total_games="2" />
+        </player>
+        <player dob="1984-01-02" height="183" player_first_name="Luc" player_id="8373" player_known_name="Luc Ducalcon" player_last_name="Ducalcon" position_id="18" position_name="Replacement 3" regular_position="Prop" sfms_id="DU68" weight="115">
+          <playerstats carries="11" metres="15" minutes_played_total="72" offload="1" passes="1" pen_defs="1" pen_offs="1" player_id="8373" player_team_id="650" points="0" tackles="10" total_games="4" />
+        </player>
+        <player dob="1988-01-14" height="201" player_first_name="Yoann" player_id="9847" player_known_name="Yoann Maestri" player_last_name="Maestri" position_id="5" position_name="Forward 5" regular_position="Lock" sfms_id="" weight="112">
+          <playerstats bad_passes="2" carries="28" defenders_beaten="1" kicks_from_hand="1" lineout_won_steal="1" lineouts_to_own_player="16" metres="39" minutes_played_total="370" missed_tackles="7" passes="13" pen_defs="3" pen_offs="1" player_id="9847" player_team_id="650" points="0" tackles="45" total_games="5" turnovers_conceded="2" />
+        </player>
+        <player dob="1981-10-02" height="180" player_first_name="Vincent" player_id="3269" player_known_name="Vincent Debaty" player_last_name="Debaty" position_id="17" position_name="Replacement 2" regular_position="Prop" sfms_id="KDE55" weight="112">
+          <playerstats carries="19" clean_breaks="1" defenders_beaten="4" metres="55" minutes_played_total="124" missed_tackles="1" offload="1" passes="4" pen_defs="3" pen_offs="1" player_id="3269" player_team_id="650" points="0" tackles="10" total_games="5" turnovers_conceded="3" />
+        </player>
+      </players>
+      <teamstats carries="536" clean_breaks="16" conversion_goals="5" defenders_beaten="81" kicks_from_hand="145" lineouts_Lost="13" lineouts_won="55" metres="1877" missed_tackles="60" offloads="43" passes="647" penalty_goals="11" player_tries="6" points="73" rucks_lost="20" rucks_success="0.95" rucks_total="438" rucks_won="418" scrums_lost="5" scrums_success="0.89" scrums_total="46" scrums_won="41" tackles="522" team_id="650" total_games="5" total_tackle_attempts="582" total_tries="6" turnovers_conceded="74" />
+    </team>
+    <team sfms_id="IT" team_id="952" team_name="Italy">
+      <players>
+        <player dob="1989-10-21" height="198" player_first_name="Josh" player_id="16864" player_known_name="Josh Furno" player_last_name="Furno" position_id="5" position_name="Forward 5" regular_position="Lock" sfms_id="10692" weight="108">
+          <playerstats carries="14" clean_breaks="1" defenders_beaten="2" lineouts_to_own_player="2" metres="29" minutes_played_total="119" missed_tackles="1" passes="2" player_id="16864" player_team_id="952" points="0" tackles="15" total_games="2" turnovers_conceded="2" />
+        </player>
+        <player dob="1983-09-12" height="191" player_first_name="Sergio" player_id="3347" player_known_name="Sergio Parisse" player_last_name="Parisse" position_id="8" position_name="Forward 8" regular_position="No. 8" sfms_id="YPA18" weight="104">
+          <playerstats bad_passes="4" carries="47" clean_breaks="3" defenders_beaten="6" kicks_from_hand="1" lineout_won_steal="4" lineouts_to_own_player="9" metres="250" minutes_played_total="310" missed_tackles="4" offload="4" passes="47" pen_defs="1" player_id="3347" player_team_id="952" points="5" tackles="30" total_games="4" tries="1" try_assist="1" turnovers_conceded="8" yellow_cards="1" />
+        </player>
+        <player dob="1990-03-27" height="189" player_first_name="Giovanbattista" player_id="18304" player_known_name="Giovanbattista Venditti" player_last_name="Venditti" position_id="14" position_name="Back 6" regular_position="Winger" sfms_id="524S" weight="111">
+          <playerstats carries="34" clean_breaks="4" defenders_beaten="10" kicks_from_hand="2" metres="232" minutes_played_total="400" missed_tackles="1" offload="3" passes="6" pen_offs="1" player_id="18304" player_team_id="952" points="5" tackles="11" total_games="5" tries="1" turnovers_conceded="4" />
+        </player>
+        <player dob="1981-10-21" height="188" player_first_name="Martin" player_id="3345" player_known_name="Martin Castrogiovanni" player_last_name="Castrogiovanni" position_id="3" position_name="Forward 3" regular_position="Prop" sfms_id="KCA88" weight="122">
+          <playerstats bad_passes="1" carries="18" lineouts_to_own_player="1" metres="12" minutes_played_total="213" missed_tackles="3" passes="3" pen_defs="6" pen_offs="2" player_id="3345" player_team_id="952" points="5" tackles="19" total_games="4" tries="1" yellow_cards="1" />
+        </player>
+        <player dob="1976-05-07" height="185" player_first_name="Andrea" player_id="1706" player_known_name="Andrea Lo Cicero" player_last_name="Lo Cicero" position_id="1" position_name="Forward 1" regular_position="Prop" sfms_id="KLO8" weight="117">
+          <playerstats carries="13" defenders_beaten="1" metres="26" minutes_played_total="237" missed_tackles="1" passes="1" pen_defs="3" pen_offs="1" player_id="1706" player_team_id="952" points="0" tackles="13" total_games="5" />
+        </player>
+        <player dob="1986-03-13" height="183" player_first_name="Alberto" player_id="8525" player_known_name="Alberto De Marchi" player_last_name="De Marchi" position_id="18" position_name="Replacement 3" regular_position="Prop" sfms_id="YDE31" weight="123">
+          <playerstats bad_passes="1" carries="23" defenders_beaten="3" metres="34" minutes_played_total="153" missed_tackles="3" offload="1" passes="2" pen_defs="3" pen_offs="2" player_id="8525" player_team_id="952" points="0" tackles="16" total_games="5" turnovers_conceded="3" />
+        </player>
+        <player dob="1988-11-07" height="183" player_first_name="Simone" player_id="9978" player_known_name="Simone Favaro" player_last_name="Favaro" position_id="7" position_name="Forward 7" regular_position="Flanker" sfms_id="YFA30" weight="99">
+          <playerstats bad_passes="1" carries="36" defenders_beaten="6" metres="102" minutes_played_total="274" missed_tackles="2" offload="3" passes="10" pen_defs="2" pen_offs="3" player_id="9978" player_team_id="952" points="0" tackles="34" total_games="5" turnovers_conceded="6" />
+        </player>
+        <player dob="1986-11-26" height="190" player_first_name="Alberto" player_id="8550" player_known_name="Alberto Sgarbi" player_last_name="Sgarbi" position_id="12" position_name="Back 4" regular_position="Centre" sfms_id="SG2" weight="97">
+          <playerstats carries="7" kicks_from_hand="1" metres="39" minutes_played_total="80" missed_tackles="3" passes="3" player_id="8550" player_team_id="952" points="0" tackles="11" total_games="1" turnovers_conceded="1" />
+        </player>
+        <player dob="1982-12-17" height="188" player_first_name="Lorenzo" player_id="7913" player_known_name="Lorenzo Cittadini" player_last_name="Cittadini" position_id="3" position_name="Forward 3" regular_position="Prop" sfms_id="YCI8" weight="116">
+          <playerstats carries="7" metres="15" minutes_played_total="174" missed_tackles="7" passes="4" pen_defs="1" pen_offs="3" player_id="7913" player_team_id="952" points="0" tackles="17" total_games="5" turnovers_conceded="1" />
+        </player>
+        <player dob="1983-08-12" height="188" player_first_name="Manoa" player_id="9083" player_known_name="Manoa Vosawai" player_last_name="Vosawai" position_id="8" position_name="Forward 8" regular_position="No. 8" sfms_id="VO9" weight="112">
+          <playerstats carries="12" defenders_beaten="3" metres="10" minutes_played_total="77" missed_tackles="1" passes="3" pen_defs="1" player_id="9083" player_team_id="952" points="0" tackles="7" total_games="1" turnovers_conceded="1" />
+        </player>
+        <player dob="1986-11-03" height="191" player_first_name="Paul" player_id="8890" player_known_name="Paul Derbyshire" player_last_name="Derbyshire" position_id="21" position_name="Replacement 6" regular_position="Back Row" sfms_id="DE80" weight="96">
+          <playerstats carries="8" defenders_beaten="1" lineouts_to_own_player="3" metres="16" minutes_played_total="64" missed_tackles="1" offload="4" passes="8" player_id="8890" player_team_id="952" points="0" tackles="14" total_games="4" turnovers_conceded="1" />
+        </player>
+        <player dob="1984-04-26" height="180" player_first_name="Tobie" player_id="9719" player_known_name="Tobie Botes" player_last_name="Botes" position_id="22" position_name="Replacement 7" regular_position="Scrum Half" sfms_id="BO128" weight="88">
+          <playerstats bad_passes="1" carries="16" defenders_beaten="1" kicks_from_hand="14" metres="51" minutes_played_total="151" missed_tackles="3" offload="5" passes="167" pen_offs="1" player_id="9719" player_team_id="952" points="0" tackles="7" total_games="5" turnovers_conceded="1" />
+        </player>
+        <player dob="1980-08-04" height="177" player_first_name="Kristopher" player_id="9252" player_known_name="Kristopher Burton" player_last_name="Burton" position_id="10" position_name="Back 2" regular_position="Fly Half" sfms_id="BU111" weight="87">
+          <playerstats carries="16" clean_breaks="1" conversion_goals="1" defenders_beaten="2" drop_goals_converted="1" kicks_from_hand="21" metres="31" minutes_played_total="129" missed_tackles="2" offload="1" passes="32" penalty_goals="3" player_id="9252" player_team_id="952" points="14" tackles="2" total_games="3" turnovers_conceded="3" />
+        </player>
+        <player dob="1990-03-05" height="178" player_first_name="Edoardo" player_id="18554" player_known_name="Edoardo Gori" player_last_name="Gori" position_id="9" position_name="Back 1" regular_position="Scrum Half" sfms_id="518S" weight="81">
+          <playerstats bad_passes="4" carries="27" clean_breaks="1" defenders_beaten="1" kicks_from_hand="19" metres="95" minutes_played_total="244" missed_tackles="4" offload="3" passes="186" pen_defs="2" pen_offs="1" player_id="18554" player_team_id="952" points="0" tackles="12" total_games="5" turnovers_conceded="7" yellow_cards="1" />
+        </player>
+        <player dob="1984-06-05" height="185" player_first_name="Robert" player_id="8521" player_known_name="Robert Barbieri" player_last_name="Barbieri" position_id="7" position_name="Forward 7" regular_position="Back Row" sfms_id="BA5" weight="104">
+          <playerstats carries="3" metres="1" minutes_played_total="62" passes="2" player_id="8521" player_team_id="952" points="0" tackles="13" total_games="1" />
+        </player>
+        <player dob="1984-02-18" height="185" player_first_name="Gonzalo" player_id="9792" player_known_name="Gonzalo Garcia" player_last_name="Garcia" position_id="12" position_name="Back 4" regular_position="Centre" sfms_id="GGA28" weight="96">
+          <playerstats carries="11" defenders_beaten="3" metres="36" minutes_played_total="177" missed_penalty_goals="1" missed_tackles="4" passes="4" pen_defs="2" penalty_goals="1" player_id="9792" player_team_id="952" points="3" tackles="17" total_games="3" turnovers_conceded="7" />
+        </player>
+        <player dob="1986-01-16" height="183" player_first_name="Davide" player_id="9072" player_known_name="Davide Giazzon" player_last_name="Giazzon" position_id="16" position_name="Replacement 1" regular_position="Hooker" sfms_id="GI71" weight="108">
+          <playerstats carries="18" defenders_beaten="1" metres="37" minutes_played_total="99" offload="1" passes="1" pen_defs="1" player_id="9072" player_team_id="952" points="0" tackles="11" total_games="5" turnovers_conceded="1" yellow_cards="1" />
+        </player>
+        <player dob="1982-10-13" height="193" player_first_name="Antonio" player_id="7852" player_known_name="Antonio Pavanello" player_last_name="Pavanello" position_id="19" position_name="Replacement 4" regular_position="Lock" sfms_id="YPA17" weight="108">
+          <playerstats carries="4" lineout_won_steal="1" lineouts_to_own_player="4" metres="5" minutes_played_total="144" passes="1" pen_defs="2" player_id="7852" player_team_id="952" points="0" tackles="16" total_games="5" />
+        </player>
+        <player dob="1984-12-26" height="184" player_first_name="Leonardo" player_id="7914" player_known_name="Leonardo Ghiraldini" player_last_name="Ghiraldini" position_id="2" position_name="Forward 2" regular_position="Hooker" sfms_id="GH5" weight="99">
+          <playerstats carries="39" defenders_beaten="6" metres="60" minutes_played_total="301" offload="3" passes="13" pen_defs="4" pen_offs="1" player_id="7914" player_team_id="952" points="0" tackles="37" total_games="5" turnovers_conceded="3" />
+        </player>
+        <player dob="1984-01-31" height="193" player_first_name="Alessandro" player_id="7796" player_known_name="Alessandro Zanni" player_last_name="Zanni" position_id="6" position_name="Forward 6" regular_position="Back Row" sfms_id="ZA9" weight="100">
+          <playerstats carries="50" clean_breaks="3" defenders_beaten="4" lineout_won_steal="1" lineouts_to_own_player="19" metres="241" minutes_played_total="400" missed_tackles="1" offload="12" passes="19" pen_defs="2" pen_offs="1" player_id="7796" player_team_id="952" points="5" tackles="34" total_games="5" tries="1" turnovers_conceded="3" />
+        </player>
+        <player dob="1981-10-12" height="171" player_first_name="Luciano" player_id="7015" player_known_name="Luciano Orquera" player_last_name="Orquera" position_id="10" position_name="Back 2" regular_position="Fly Half" sfms_id="OR17" weight="79">
+          <playerstats bad_passes="2" carries="15" clean_breaks="2" conversion_goals="3" defenders_beaten="1" drop_goals_converted="1" kicks_from_hand="21" metres="76" minutes_played_total="270" missed_conversion_goals="1" missed_penalty_goals="3" missed_tackles="4" offload="2" passes="98" penalty_goals="8" player_id="7015" player_team_id="952" points="33" tackles="9" total_games="4" try_assist="3" turnovers_conceded="7" />
+        </player>
+        <player dob="1990-12-12" height="187" player_first_name="Tommaso" player_id="16858" player_known_name="Tommaso Benvenuti" player_last_name="Benvenuti" position_id="23" position_name="Replacement 8" regular_position="Centre" sfms_id="507S" weight="95">
+          <playerstats bad_passes="1" carries="18" defenders_beaten="2" kicks_from_hand="2" metres="40" minutes_played_total="255" missed_tackles="3" offload="3" passes="8" pen_offs="1" player_id="16858" player_team_id="952" points="0" tackles="10" total_games="5" turnovers_conceded="4" />
+        </player>
+        <player dob="1982-09-16" height="188" player_first_name="Michele" player_id="7539" player_known_name="Michele Rizzo" player_last_name="Rizzo" position_id="17" position_name="Replacement 2" regular_position="Prop" sfms_id="YRI9" weight="114">
+          <playerstats minutes_played_total="16" player_id="7539" player_team_id="952" points="0" tackles="2" total_games="1" />
+        </player>
+        <player dob="1987-05-20" height="192" player_first_name="Francesco" player_id="9596" player_known_name="Francesco Minto" player_last_name="Minto" position_id="20" position_name="Replacement 5" regular_position="Back Row" sfms_id="MI123" weight="90">
+          <playerstats bad_passes="1" carries="35" defenders_beaten="3" lineouts_to_own_player="4" metres="42" minutes_played_total="255" missed_tackles="3" offload="2" passes="7" pen_defs="1" pen_offs="1" player_id="9596" player_team_id="952" points="0" tackles="26" total_games="5" turnovers_conceded="2" />
+        </player>
+        <player dob="1981-06-19" height="203" player_first_name="Quintin" player_id="8960" player_known_name="Quintin Geldenhuys" player_last_name="Geldenhuys" position_id="4" position_name="Forward 4" regular_position="Lock" sfms_id="ZGE17" weight="116">
+          <playerstats carries="24" kicks_from_hand="1" lineouts_to_own_player="4" metres="23" minutes_played_total="282" offload="2" passes="8" pen_defs="1" player_id="8960" player_team_id="952" points="0" tackles="37" total_games="5" turnovers_conceded="3" />
+        </player>
+        <player dob="1987-05-11" height="193" player_first_name="Luke" player_id="9791" player_known_name="Luke McLean" player_last_name="McLean" position_id="11" position_name="Back 3" regular_position="Full Back" sfms_id="10299" weight="85">
+          <playerstats carries="42" clean_breaks="2" defenders_beaten="4" kicks_from_hand="24" metres="259" minutes_played_total="391" missed_tackles="2" offload="1" passes="27" player_id="9791" player_team_id="952" points="5" tackles="13" total_games="5" tries="1" turnovers_conceded="5" />
+        </player>
+        <player dob="1982-11-11" height="180" player_first_name="Gonzalo" player_id="3671" player_known_name="Gonzalo Canale" player_last_name="Canale" position_id="13" position_name="Back 5" regular_position="Centre" sfms_id="KCA87" weight="94">
+          <playerstats bad_passes="2" carries="21" defenders_beaten="1" kicks_from_hand="5" metres="63" minutes_played_total="312" missed_tackles="4" offload="1" passes="12" player_id="3671" player_team_id="952" points="0" tackles="30" total_games="5" turnovers_conceded="1" />
+        </player>
+        <player dob="1981-03-30" height="185" player_first_name="Andrea" player_id="3486" player_known_name="Andrea Masi" player_last_name="Masi" position_id="15" position_name="Back 7" regular_position="Utility Back" sfms_id="YMA26" weight="92">
+          <playerstats bad_passes="1" carries="53" clean_breaks="1" defenders_beaten="5" kicks_from_hand="16" lineouts_to_own_player="1" metres="279" minutes_played_total="380" missed_tackles="6" offload="3" passes="38" pen_offs="1" player_id="3486" player_team_id="952" points="0" tackles="33" total_games="5" turnovers_conceded="5" />
+        </player>
+      </players>
+      <teamstats carries="611" clean_breaks="18" conversion_goals="4" defenders_beaten="66" drop_goals_converted="2" kicks_from_hand="127" lineouts_Lost="5" lineouts_won="47" metres="2104" missed_tackles="63" offloads="54" passes="713" penalty_goals="12" player_tries="5" points="75" rucks_lost="28" rucks_success="0.94" rucks_total="486" rucks_won="458" scrums_lost="3" scrums_success="0.91" scrums_total="35" scrums_won="32" tackles="496" team_id="952" total_games="5" total_tackle_attempts="559" total_tries="5" turnovers_conceded="79" yellow_cards="4" />
+    </team>
+    <team sfms_id="SC" team_id="700" team_name="Scotland">
+      <players>
+        <player dob="1985-11-21" height="193" player_first_name="John" player_id="5047" player_known_name="John Beattie" player_last_name="Beattie" position_id="8" position_name="Forward 8" regular_position="No. 8" sfms_id="BE143" weight="106">
+          <playerstats bad_passes="2" carries="37" clean_breaks="1" defenders_beaten="5" kicks_from_hand="4" lineouts_to_own_player="7" metres="121" minutes_played_total="368" missed_tackles="3" offload="1" passes="26" pen_defs="3" pen_offs="2" player_id="5047" player_team_id="700" points="0" tackles="36" total_games="5" turnovers_conceded="6" />
+        </player>
+        <player dob="1983-02-21" height="191" player_first_name="Alasdair" player_id="4043" player_known_name="Alasdair Strokosch" player_last_name="Strokosch" position_id="6" position_name="Forward 6" regular_position="Back Row" sfms_id="ST35" weight="104">
+          <playerstats carries="3" kicks_from_hand="1" metres="8" minutes_played_total="93" missed_tackles="1" passes="5" player_id="4043" player_team_id="700" points="0" tackles="19" total_games="2" />
+        </player>
+        <player dob="1990-05-26" height="197" player_first_name="Rob" player_id="16927" player_known_name="Rob Harley" player_last_name="Harley" position_id="6" position_name="Forward 6" regular_position="Back Row" sfms_id="932W" weight="110">
+          <playerstats bad_passes="2" carries="4" lineout_won_steal="1" lineouts_to_own_player="4" metres="3" minutes_played_total="233" missed_tackles="2" passes="4" pen_defs="1" player_id="16927" player_team_id="700" points="0" tackles="36" total_games="3" turnovers_conceded="1" />
+        </player>
+        <player dob="1990-09-30" height="187" player_first_name="Matthew" player_id="17133" player_known_name="Matthew Scott" player_last_name="Scott" position_id="12" position_name="Back 4" regular_position="Centre" sfms_id="3253B" weight="94">
+          <playerstats carries="23" clean_breaks="3" defenders_beaten="2" kicks_from_hand="5" metres="141" minutes_played_total="400" missed_tackles="9" offload="2" passes="8" pen_defs="2" pen_offs="2" player_id="17133" player_team_id="700" points="5" tackles="42" total_games="5" tries="1" try_assist="1" turnovers_conceded="3" />
+        </player>
+        <player dob="1990-02-05" height="198" player_first_name="Dave" player_id="17127" player_known_name="Dave Denton" player_last_name="Denton" position_id="20" position_name="Replacement 5" regular_position="Back Row" sfms_id="1838W" weight="109">
+          <playerstats bad_passes="1" carries="7" clean_breaks="1" lineouts_to_own_player="1" metres="30" minutes_played_total="91" missed_tackles="1" offload="1" passes="6" player_id="17127" player_team_id="700" points="0" tackles="12" total_games="3" turnovers_conceded="1" />
+        </player>
+        <player dob="1989-05-18" height="193" player_first_name="Ryan" player_id="18260" player_known_name="Ryan Wilson" player_last_name="Wilson" position_id="20" position_name="Replacement 5" regular_position="Back Row" sfms_id="10465" weight="105">
+          <playerstats carries="7" metres="4" minutes_played_total="23" passes="2" player_id="18260" player_team_id="700" points="0" total_games="2" turnovers_conceded="1" />
+        </player>
+        <player dob="1989-08-24" height="205" player_first_name="Richie" player_id="16250" player_known_name="Richie Gray" player_last_name="Gray" position_id="4" position_name="Forward 4" regular_position="Lock" sfms_id="109S" weight="120">
+          <playerstats carries="10" lineout_won_steal="2" lineouts_to_own_player="7" metres="2" minutes_played_total="269" missed_tackles="4" offload="1" passes="1" pen_defs="3" pen_offs="2" player_id="16250" player_team_id="700" points="0" tackles="37" total_games="4" />
+        </player>
+        <player dob="1990-08-08" height="203" player_first_name="Grant" player_id="17125" player_known_name="Grant Gilchrist" player_last_name="Gilchrist" position_id="4" position_name="Forward 4" regular_position="Lock" sfms_id="931W" weight="112">
+          <playerstats carries="3" lineout_won_steal="1" minutes_played_total="53" pen_defs="1" player_id="17125" player_team_id="700" points="0" tackles="7" total_games="1" turnovers_conceded="1" />
+        </player>
+        <player dob="1988-02-12" height="180" player_first_name="Ruaridh" player_id="9723" player_known_name="Ruaridh Jackson" player_last_name="Jackson" position_id="22" position_name="Replacement 7" regular_position="Fly Half" sfms_id="JA90" weight="85">
+          <playerstats carries="8" clean_breaks="1" conversion_goals="1" defenders_beaten="2" kicks_from_hand="19" metres="13" minutes_played_total="234" missed_tackles="7" offload="1" passes="41" pen_defs="1" player_id="9723" player_team_id="700" points="2" tackles="30" total_games="5" try_assist="1" turnovers_conceded="4" />
+        </player>
+        <player dob="1981-01-15" height="188" player_first_name="Sean" player_id="5028" player_known_name="Sean Lamont" player_last_name="Lamont" position_id="13" position_name="Back 5" regular_position="Winger" sfms_id="LA66" weight="95">
+          <playerstats carries="18" clean_breaks="2" defenders_beaten="5" kicks_from_hand="6" metres="99" minutes_played_total="400" missed_tackles="7" passes="7" pen_defs="3" pen_offs="1" player_id="5028" player_team_id="700" points="5" tackles="40" total_games="5" tries="1" turnovers_conceded="2" />
+        </player>
+        <player dob="1986-10-13" height="185" player_first_name="Jon" player_id="16253" player_known_name="Jon Welsh" player_last_name="Welsh" position_id="17" position_name="Replacement 2" regular_position="Prop" sfms_id="WE84" weight="120">
+          <playerstats player_id="16253" player_team_id="700" points="0" />
+        </player>
+        <player dob="1985-10-08" height="183" player_first_name="Ryan" player_id="8475" player_known_name="Ryan Grant" player_last_name="Grant" position_id="1" position_name="Forward 1" regular_position="Prop" sfms_id="GR195" weight="109">
+          <playerstats carries="23" metres="34" minutes_played_total="352" missed_tackles="3" passes="1" pen_defs="5" pen_offs="1" player_id="8475" player_team_id="700" points="0" tackles="52" total_games="5" turnovers_conceded="2" yellow_cards="1" />
+        </player>
+        <player dob="1980-09-24" height="183" player_first_name="Dougie" player_id="3077" player_known_name="Dougie Hall" player_last_name="Hall" position_id="16" position_name="Replacement 1" regular_position="Hooker" sfms_id="KHA65" weight="101">
+          <playerstats carries="8" metres="15" minutes_played_total="88" offload="1" passes="3" pen_defs="1" pen_offs="3" player_id="3077" player_team_id="700" points="0" tackles="14" total_games="3" />
+        </player>
+        <player dob="1984-11-28" height="188" player_first_name="Moray" player_id="9148" player_known_name="Moray Low" player_last_name="Low" position_id="17" position_name="Replacement 2" regular_position="Prop" sfms_id="SLO6" weight="115">
+          <playerstats carries="2" minutes_played_total="50" pen_defs="1" player_id="9148" player_team_id="700" points="0" tackles="7" total_games="3" turnovers_conceded="1" />
+        </player>
+        <player dob="1980-08-07" height="185" player_first_name="Euan" player_id="6024" player_known_name="Euan Murray" player_last_name="Murray" position_id="3" position_name="Forward 3" regular_position="Prop" sfms_id="KMU17" weight="120">
+          <playerstats carries="4" defenders_beaten="1" minutes_played_total="290" missed_tackles="5" passes="4" pen_defs="8" pen_offs="2" player_id="6024" player_team_id="700" points="0" tackles="38" total_games="4" />
+        </player>
+        <player dob="1992-06-24" height="180" player_first_name="Stuart" player_id="18622" player_known_name="Stuart Hogg" player_last_name="Hogg" position_id="15" position_name="Back 7" regular_position="Full Back" sfms_id="1841W" weight="83">
+          <playerstats bad_passes="1" carries="43" clean_breaks="3" defenders_beaten="12" kicks_from_hand="25" lineouts_to_own_player="4" metres="336" minutes_played_total="389" missed_penalty_goals="1" missed_tackles="7" offload="3" passes="19" player_id="18622" player_team_id="700" points="10" tackles="9" total_games="5" tries="2" turnovers_conceded="5" />
+        </player>
+        <player dob="1984-04-23" height="185" player_first_name="Ross" player_id="3983" player_known_name="Ross Ford" player_last_name="Ford" position_id="2" position_name="Forward 2" regular_position="Hooker" sfms_id="FO12" weight="102">
+          <playerstats carries="14" kicks_from_hand="1" metres="12" minutes_played_total="312" missed_tackles="6" passes="4" pen_defs="2" pen_offs="1" player_id="3983" player_team_id="700" points="0" tackles="40" total_games="5" turnovers_conceded="2" />
+        </player>
+        <player dob="1991-05-10" height="176" player_first_name="Duncan" player_id="11190" player_known_name="Duncan Weir" player_last_name="Weir" position_id="10" position_name="Back 2" regular_position="Fly Half" sfms_id="13888" weight="91">
+          <playerstats bad_passes="2" carries="6" defenders_beaten="2" kicks_from_hand="16" metres="36" minutes_played_total="166" missed_tackles="2" passes="17" player_id="11190" player_team_id="700" points="0" tackles="16" total_games="3" turnovers_conceded="2" />
+        </player>
+        <player dob="1981-06-14" height="205" player_first_name="Alastair" player_id="3427" player_known_name="Alastair Kellock" player_last_name="Kellock" position_id="19" position_name="Replacement 4" regular_position="Lock" sfms_id="KE28" weight="115">
+          <playerstats carries="11" lineout_won_steal="1" lineouts_to_own_player="10" metres="13" minutes_played_total="126" missed_tackles="1" passes="1" pen_defs="1" pen_offs="1" player_id="3427" player_team_id="700" points="0" tackles="13" total_games="5" turnovers_conceded="4" />
+        </player>
+        <player dob="1989-07-09" height="178" player_first_name="Henry" player_id="10131" player_known_name="Henry Pyrgos" player_last_name="Pyrgos" position_id="21" position_name="Replacement 6" regular_position="Scrum Half" sfms_id="1026N" weight="76">
+          <playerstats carries="2" defenders_beaten="1" kicks_from_hand="1" minutes_played_total="18" passes="13" player_id="10131" player_team_id="700" points="0" tackles="2" total_games="3" />
+        </player>
+        <player dob="1987-04-27" height="183" player_first_name="Pat" player_id="16165" player_known_name="Pat MacArthur" player_last_name="MacArthur" position_id="16" position_name="Replacement 1" regular_position="Hooker" sfms_id="MC183" weight="100">
+          <playerstats player_id="16165" player_team_id="700" points="0" />
+        </player>
+        <player dob="1987-05-29" height="196" player_first_name="Tim" player_id="8402" player_known_name="Tim Visser" player_last_name="Visser" position_id="11" position_name="Back 3" regular_position="Winger" sfms_id="VI33" weight="106">
+          <playerstats carries="19" clean_breaks="2" defenders_beaten="5" kicks_from_hand="8" metres="175" minutes_played_total="400" missed_tackles="4" offload="5" passes="10" player_id="8402" player_team_id="700" points="10" tackles="23" total_games="5" tries="2" turnovers_conceded="5" />
+        </player>
+        <player dob="1985-10-12" height="175" player_first_name="Greig" player_id="8420" player_known_name="Greig Laidlaw" player_last_name="Laidlaw" position_id="9" position_name="Back 1" regular_position="Scrum Half" sfms_id="LA101" weight="82">
+          <playerstats bad_passes="2" carries="11" conversion_goals="5" defenders_beaten="2" kicks_from_hand="47" metres="19" minutes_played_total="382" missed_conversion_goals="1" missed_penalty_goals="2" missed_tackles="10" offload="2" passes="164" pen_defs="1" penalty_goals="17" player_id="8420" player_team_id="700" points="61" tackles="32" total_games="5" try_assist="1" turnovers_conceded="9" />
+        </player>
+        <player dob="1982-12-11" height="185" player_first_name="Geoff" player_id="4048" player_known_name="Geoff Cross" player_last_name="Cross" position_id="18" position_name="Replacement 3" regular_position="Prop" sfms_id="CR20" weight="115">
+          <playerstats carries="4" defenders_beaten="1" metres="14" minutes_played_total="105" passes="1" pen_defs="4" player_id="4048" player_team_id="700" points="0" tackles="12" total_games="4" yellow_cards="1" />
+        </player>
+        <player dob="1982-11-17" height="203" player_first_name="James" player_id="3613" player_known_name="James Hamilton" player_last_name="Hamilton" position_id="5" position_name="Forward 5" regular_position="Lock" sfms_id="HA298" weight="126">
+          <playerstats carries="17" clean_breaks="1" lineout_won_steal="4" lineouts_to_own_player="11" metres="15" minutes_played_total="352" missed_tackles="5" offload="2" passes="10" pen_defs="4" pen_offs="2" player_id="3613" player_team_id="700" points="0" tackles="33" total_games="5" turnovers_conceded="2" />
+        </player>
+        <player dob="1983-09-28" height="175" player_first_name="Max" player_id="9419" player_known_name="Max Evans" player_last_name="Evans" position_id="23" position_name="Replacement 8" regular_position="Centre" sfms_id="EV69" weight="85">
+          <playerstats carries="3" clean_breaks="2" defenders_beaten="2" kicks_from_hand="4" metres="52" minutes_played_total="61" missed_tackles="1" pen_defs="1" player_id="9419" player_team_id="700" points="0" tackles="4" total_games="3" turnovers_conceded="2" />
+        </player>
+        <player dob="1988-09-14" height="189" player_first_name="Sean" player_id="9655" player_known_name="Sean Maitland" player_last_name="Maitland" position_id="14" position_name="Back 6" regular_position="Winger" sfms_id="NMC72" weight="97">
+          <playerstats bad_passes="1" carries="26" clean_breaks="1" defenders_beaten="2" kicks_from_hand="2" metres="112" minutes_played_total="350" missed_tackles="2" offload="6" passes="11" player_id="9655" player_team_id="700" points="5" tackles="22" total_games="5" tries="1" try_assist="2" turnovers_conceded="2" />
+        </player>
+        <player dob="1982-06-08" height="193" player_first_name="Kelly" player_id="7732" player_known_name="Kelly Brown" player_last_name="Brown" position_id="7" position_name="Forward 7" regular_position="Back Row" sfms_id="BR31" weight="106">
+          <playerstats carries="24" lineouts_to_own_player="2" metres="27" minutes_played_total="385" missed_tackles="3" offload="1" passes="4" pen_defs="3" pen_offs="1" player_id="7732" player_team_id="700" points="0" tackles="69" total_games="5" turnovers_conceded="4" />
+        </player>
+      </players>
+      <teamstats carries="337" clean_breaks="17" conversion_goals="6" defenders_beaten="42" kicks_from_hand="139" lineouts_Lost="10" lineouts_won="47" metres="1281" missed_tackles="83" offloads="26" passes="362" penalty_goals="17" player_tries="7" points="98" rucks_lost="31" rucks_success="0.89" rucks_total="284" rucks_won="253" scrums_lost="9" scrums_success="0.70" scrums_total="30" scrums_won="21" tackles="645" team_id="700" total_games="5" total_tackle_attempts="728" total_tries="7" turnovers_conceded="59" yellow_cards="2" />
+    </team>
+    <team sfms_id="IR" team_id="600" team_name="Ireland">
+      <players>
+        <player dob="1981-11-27" height="193" player_first_name="Mike" player_id="1588" player_known_name="Mike McCarthy" player_last_name="McCarthy" position_id="4" position_name="Forward 4" regular_position="Lock" sfms_id="MC63" weight="115">
+          <playerstats carries="16" defenders_beaten="1" lineouts_to_own_player="5" metres="23" minutes_played_total="297" missed_tackles="2" pen_defs="1" player_id="1588" player_team_id="600" points="0" tackles="41" total_games="4" turnovers_conceded="4" />
+        </player>
+        <player dob="1992-01-05" height="178" player_first_name="Paddy" player_id="18568" player_known_name="Paddy Jackson" player_last_name="Jackson" position_id="10" position_name="Back 2" regular_position="Fly Half" sfms_id="15376" weight="84">
+          <playerstats carries="11" conversion_goals="1" defenders_beaten="2" kicks_from_hand="16" metres="30" minutes_played_total="224" missed_conversion_goals="1" missed_penalty_goals="5" missed_tackles="3" passes="72" penalty_goals="8" player_id="18568" player_team_id="600" points="26" tackles="17" total_games="3" turnovers_conceded="2" />
+        </player>
+        <player dob="1983-07-12" height="180" player_first_name="Declan" player_id="6145" player_known_name="Declan Fitzpatrick" player_last_name="Fitzpatrick" position_id="18" position_name="Replacement 3" regular_position="Prop" sfms_id="FI46" weight="110">
+          <playerstats minutes_played_total="14" pen_defs="1" player_id="6145" player_team_id="600" points="0" tackles="5" total_games="2" />
+        </player>
+        <player dob="1982-08-15" height="180" player_first_name="Rory" player_id="6144" player_known_name="Rory Best" player_last_name="Best" position_id="2" position_name="Forward 2" regular_position="Hooker" sfms_id="BE123" weight="105">
+          <playerstats carries="18" clean_breaks="1" defenders_beaten="1" metres="29" minutes_played_total="373" missed_tackles="4" passes="7" pen_defs="4" player_id="6144" player_team_id="600" points="0" tackles="41" total_games="5" turnovers_conceded="1" yellow_cards="1" />
+        </player>
+        <player dob="1986-06-29" height="208" player_first_name="Devin" player_id="15056" player_known_name="Devin Toner" player_last_name="Toner" position_id="19" position_name="Replacement 4" regular_position="Lock" sfms_id="TO43" weight="120">
+          <playerstats carries="1" metres="1" minutes_played_total="25" player_id="15056" player_team_id="600" points="0" tackles="2" total_games="2" />
+        </player>
+        <player dob="1990-03-16" height="188" player_first_name="Simon" player_id="11186" player_known_name="Simon Zebo" player_last_name="Zebo" position_id="11" position_name="Back 3" regular_position="Winger" sfms_id="ZE2" weight="94">
+          <playerstats carries="5" clean_breaks="2" kicks_from_hand="1" metres="31" minutes_played_total="89" missed_tackles="2" player_id="11186" player_team_id="600" points="5" tackles="4" total_games="2" tries="1" turnovers_conceded="1" />
+        </player>
+        <player dob="1984-10-17" height="188" player_first_name="Chris" player_id="8497" player_known_name="Chris Henry" player_last_name="Henry" position_id="20" position_name="Replacement 5" regular_position="Back Row" sfms_id="HE9" weight="107">
+          <playerstats carries="1" lineouts_to_own_player="1" metres="2" minutes_played_total="44" passes="1" player_id="8497" player_team_id="600" points="0" tackles="11" total_games="2" />
+        </player>
+        <player dob="1985-07-26" height="170" player_first_name="Paul" player_id="7983" player_known_name="Paul Marshall" player_last_name="Marshall" position_id="21" position_name="Replacement 6" regular_position="Scrum Half" sfms_id="MA302" weight="79">
+          <playerstats minutes_played_total="1" player_id="7983" player_team_id="600" points="0" total_games="1" />
+        </player>
+        <player dob="1991-03-11" height="183" player_first_name="Craig" player_id="18556" player_known_name="Craig Gilroy" player_last_name="Gilroy" position_id="14" position_name="Back 6" regular_position="Winger" sfms_id="14673" weight="90">
+          <playerstats carries="30" defenders_beaten="1" kicks_from_hand="8" metres="142" minutes_played_total="299" missed_tackles="5" offload="3" passes="9" player_id="18556" player_team_id="600" points="5" tackles="10" total_games="4" tries="1" turnovers_conceded="4" />
+        </player>
+        <player dob="1989-04-20" height="185" player_first_name="Conor" player_id="10308" player_known_name="Conor Murray" player_last_name="Murray" position_id="9" position_name="Back 1" regular_position="Scrum Half" sfms_id="4I" weight="84">
+          <playerstats bad_passes="2" carries="21" defenders_beaten="2" kicks_from_hand="41" metres="66" minutes_played_total="363" missed_tackles="2" passes="264" pen_defs="3" player_id="10308" player_team_id="600" points="0" tackles="34" total_games="5" try_assist="1" turnovers_conceded="6" yellow_cards="2" />
+        </player>
+        <player dob="1979-03-23" height="198" player_first_name="Donncha" player_id="2370" player_known_name="Donncha O'Callaghan" player_last_name="O'Callaghan" position_id="19" position_name="Replacement 4" regular_position="Lock" sfms_id="KOC1" weight="110">
+          <playerstats carries="7" lineout_won_steal="1" lineouts_to_own_player="3" metres="2" minutes_played_total="106" passes="1" pen_offs="1" player_id="2370" player_team_id="600" points="0" tackles="10" total_games="4" turnovers_conceded="1" />
+        </player>
+        <player dob="1987-10-02" height="180" player_first_name="Keith" player_id="9139" player_known_name="Keith Earls" player_last_name="Earls" position_id="11" position_name="Back 3" regular_position="Centre" sfms_id="EA17" weight="87">
+          <playerstats carries="18" clean_breaks="4" defenders_beaten="4" kicks_from_hand="6" metres="180" minutes_played_total="290" missed_tackles="4" passes="5" pen_offs="1" player_id="9139" player_team_id="600" points="0" tackles="17" total_games="5" turnovers_conceded="3" />
+        </player>
+        <player dob="1987-09-13" height="185" player_first_name="Luke" player_id="8581" player_known_name="Luke Fitzgerald" player_last_name="Fitzgerald" position_id="23" position_name="Replacement 8" regular_position="Full Back" sfms_id="FI58" weight="92">
+          <playerstats carries="6" kicks_from_hand="1" metres="38" minutes_played_total="51" missed_tackles="2" player_id="8581" player_team_id="600" points="0" tackles="2" total_games="3" turnovers_conceded="1" />
+        </player>
+        <player dob="1987-02-14" height="188" player_first_name="Sean" player_id="8487" player_known_name="Sean O'Brien" player_last_name="O'Brien" position_id="7" position_name="Forward 7" regular_position="Back Row" sfms_id="OB13" weight="105">
+          <playerstats carries="69" clean_breaks="1" defenders_beaten="12" kicks_from_hand="1" lineouts_to_own_player="7" metres="187" minutes_played_total="385" missed_tackles="7" offload="3" passes="12" pen_defs="5" pen_offs="2" player_id="8487" player_team_id="600" points="0" tackles="43" total_games="5" turnovers_conceded="5" />
+        </player>
+        <player dob="1983-12-15" height="193" player_first_name="Jamie" player_id="7697" player_known_name="Jamie Heaslip" player_last_name="Heaslip" position_id="8" position_name="Forward 8" regular_position="No. 8" sfms_id="HE45" weight="109">
+          <playerstats bad_passes="1" carries="47" defenders_beaten="4" lineouts_to_own_player="6" metres="67" minutes_played_total="400" missed_tackles="7" passes="15" pen_defs="4" pen_offs="1" player_id="7697" player_team_id="600" points="5" tackles="42" total_games="5" tries="1" turnovers_conceded="4" />
+        </player>
+        <player dob="1977-03-07" height="180" player_first_name="Ronan" player_id="1619" player_known_name="Ronan O'Gara" player_last_name="O'Gara" position_id="22" position_name="Replacement 7" regular_position="Fly Half" sfms_id="KOY4" weight="83">
+          <playerstats bad_passes="2" carries="3" defenders_beaten="1" kicks_from_hand="11" metres="4" minutes_played_total="65" missed_penalty_goals="1" passes="18" pen_offs="2" penalty_goals="2" player_id="1619" player_team_id="600" points="6" tackles="2" total_games="2" turnovers_conceded="1" />
+        </player>
+        <player dob="1983-12-11" height="198" player_first_name="Donnacha" player_id="5093" player_known_name="Donnacha Ryan" player_last_name="Ryan" position_id="5" position_name="Forward 5" regular_position="Lock" sfms_id="RY2" weight="89">
+          <playerstats carries="21" lineouts_to_own_player="23" metres="17" minutes_played_total="360" missed_tackles="2" passes="2" pen_defs="5" player_id="5093" player_team_id="600" points="0" tackles="48" total_games="5" turnovers_conceded="3" yellow_cards="1" />
+        </player>
+        <player dob="1979-12-01" height="188" player_first_name="Mike" player_id="8399" player_known_name="Mike Ross" player_last_name="Ross" position_id="3" position_name="Forward 3" regular_position="Prop" sfms_id="9RO12" weight="124">
+          <playerstats carries="9" metres="8" minutes_played_total="372" missed_tackles="1" offload="1" passes="1" pen_defs="8" pen_offs="1" player_id="8399" player_team_id="600" points="0" tackles="24" total_games="5" turnovers_conceded="3" />
+        </player>
+        <player dob="1988-01-29" height="190" player_first_name="Stephen" player_id="16923" player_known_name="Stephen Archer" player_last_name="Archer" position_id="18" position_name="Replacement 3" regular_position="Prop" sfms_id="IAR5" weight="113">
+          <playerstats carries="1" metres="3" minutes_played_total="14" pen_defs="1" player_id="16923" player_team_id="600" points="0" tackles="1" total_games="1" />
+        </player>
+        <player dob="1989-09-17" height="191" player_first_name="Peter" player_id="10268" player_known_name="Peter O'Mahony" player_last_name="O'Mahony" position_id="6" position_name="Forward 6" regular_position="Flanker" sfms_id="9I" weight="105">
+          <playerstats carries="35" clean_breaks="1" defenders_beaten="6" kicks_from_hand="1" lineout_won_steal="1" lineouts_to_own_player="11" metres="125" minutes_played_total="358" missed_tackles="1" offload="1" passes="6" pen_defs="4" player_id="10268" player_team_id="600" points="0" tackles="27" total_games="5" turnovers_conceded="3" />
+        </player>
+        <player dob="1989-03-21" height="181" player_first_name="Ian" player_id="10254" player_known_name="Ian Madigan" player_last_name="Madigan" position_id="22" position_name="Replacement 7" regular_position="Fly Half" sfms_id="IMA34" weight="89">
+          <playerstats carries="7" kicks_from_hand="2" metres="12" minutes_played_total="62" missed_tackles="1" offload="1" passes="10" pen_defs="1" player_id="10254" player_team_id="600" points="0" tackles="8" total_games="2" turnovers_conceded="1" />
+        </player>
+        <player dob="1980-02-10" height="180" player_first_name="Gordon" player_id="2460" player_known_name="Gordon D'Arcy" player_last_name="D'Arcy" position_id="12" position_name="Back 4" regular_position="Centre" sfms_id="IDA16" weight="88">
+          <playerstats bad_passes="1" carries="8" defenders_beaten="1" metres="9" minutes_played_total="124" missed_tackles="1" offload="1" passes="4" player_id="2460" player_team_id="600" points="0" tackles="10" total_games="2" turnovers_conceded="1" />
+        </player>
+        <player dob="1986-05-06" height="183" player_first_name="Sean" player_id="8430" player_known_name="Sean Cronin" player_last_name="Cronin" position_id="16" position_name="Replacement 1" regular_position="Hooker" sfms_id="CR82" weight="99">
+          <playerstats carries="2" metres="13" minutes_played_total="18" player_id="8430" player_team_id="600" points="0" total_games="3" />
+        </player>
+        <player dob="1986-03-26" height="185" player_first_name="Rob" player_id="7768" player_known_name="Rob Kearney" player_last_name="Kearney" position_id="15" position_name="Back 7" regular_position="Full Back" sfms_id="KE100" weight="95">
+          <playerstats carries="33" defenders_beaten="14" kicks_from_hand="18" metres="165" minutes_played_total="400" missed_tackles="4" offload="2" passes="13" pen_offs="1" player_id="7768" player_team_id="600" points="0" tackles="11" total_games="5" turnovers_conceded="4" />
+        </player>
+        <player dob="1985-07-11" height="188" player_first_name="Jonathan" player_id="15055" player_known_name="Jonny Sexton" player_last_name="Sexton" position_id="10" position_name="Back 2" regular_position="Fly Half" sfms_id="SE47" weight="92">
+          <playerstats carries="6" conversion_goals="3" kicks_from_hand="12" metres="17" minutes_played_total="111" missed_tackles="1" passes="16" pen_defs="1" penalty_goals="3" player_id="15055" player_team_id="600" points="15" tackles="14" total_games="2" />
+        </player>
+        <player dob="1988-12-14" height="183" player_first_name="Dave" player_id="11027" player_known_name="Dave Kilcoyne" player_last_name="Kilcoyne" position_id="17" position_name="Replacement 2" regular_position="Prop" sfms_id="13759" weight="110">
+          <playerstats carries="4" defenders_beaten="2" metres="8" minutes_played_total="49" missed_tackles="1" pen_defs="2" player_id="11027" player_team_id="600" points="0" tackles="3" total_games="4" />
+        </player>
+        <player dob="1987-10-07" height="186" player_first_name="Cian" player_id="9423" player_known_name="Cian Healy" player_last_name="Healy" position_id="1" position_name="Forward 1" regular_position="Prop" sfms_id="HE109" weight="110">
+          <playerstats carries="30" defenders_beaten="1" metres="34" minutes_played_total="296" passes="2" pen_defs="2" pen_offs="2" player_id="9423" player_team_id="600" points="5" tackles="34" total_games="4" tries="1" turnovers_conceded="2" />
+        </player>
+        <player dob="1980-11-20" height="170" player_first_name="Eoin" player_id="3947" player_known_name="Eoin Reddan" player_last_name="Reddan" position_id="21" position_name="Replacement 6" regular_position="Scrum Half" sfms_id="KRE10" weight="80">
+          <playerstats carries="4" kicks_from_hand="3" metres="8" minutes_played_total="30" missed_tackles="1" offload="1" passes="32" player_id="3947" player_team_id="600" points="0" tackles="5" total_games="3" turnovers_conceded="1" />
+        </player>
+        <player dob="1991-03-03" height="181" player_first_name="Luke" player_id="18504" player_known_name="Luke Marshall" player_last_name="Marshall" position_id="12" position_name="Back 4" regular_position="Centre" sfms_id="2445W" weight="92">
+          <playerstats bad_passes="2" carries="15" clean_breaks="2" defenders_beaten="3" kicks_from_hand="4" metres="61" minutes_played_total="178" offload="1" passes="8" player_id="18504" player_team_id="600" points="0" tackles="10" total_games="3" turnovers_conceded="5" />
+        </player>
+        <player dob="1986-05-17" height="180" player_first_name="Fergus" player_id="9135" player_known_name="Fergus McFadden" player_last_name="McFadden" position_id="14" position_name="Back 6" regular_position="Centre" sfms_id="MC167" weight="90">
+          <playerstats carries="6" defenders_beaten="1" metres="35" minutes_played_total="62" passes="1" pen_defs="1" player_id="9135" player_team_id="600" points="0" tackles="3" total_games="1" turnovers_conceded="2" />
+        </player>
+        <player dob="1979-01-21" height="175" player_first_name="Brian" player_id="1617" player_known_name="Brian O'Driscoll" player_last_name="O'Driscoll" position_id="13" position_name="Back 5" regular_position="Centre" sfms_id="IOY51" weight="95">
+          <playerstats bad_passes="1" carries="23" defenders_beaten="2" kicks_from_hand="12" metres="23" minutes_played_total="386" missed_tackles="4" offload="1" passes="26" pen_offs="1" player_id="1617" player_team_id="600" points="5" tackles="33" total_games="5" tries="1" try_assist="1" turnovers_conceded="1" yellow_cards="1" />
+        </player>
+        <player dob="1980-11-06" height="191" player_first_name="Tom" player_id="8161" player_known_name="Tom Court" player_last_name="Court" position_id="1" position_name="Forward 1" regular_position="Prop" sfms_id="CO251" weight="122">
+          <playerstats carries="2" minutes_played_total="55" passes="1" pen_offs="1" player_id="8161" player_team_id="600" points="0" tackles="1" total_games="1" />
+        </player>
+        <player dob="1992-02-21" height="198" player_first_name="Iain" player_id="18677" player_known_name="Iain Henderson" player_last_name="Henderson" position_id="20" position_name="Replacement 5" regular_position="Lock" sfms_id="15628" weight="109">
+          <playerstats carries="9" lineouts_to_own_player="1" metres="6" minutes_played_total="57" missed_tackles="1" passes="1" player_id="18677" player_team_id="600" points="0" tackles="5" total_games="3" />
+        </player>
+      </players>
+      <teamstats carries="468" clean_breaks="11" conversion_goals="4" defenders_beaten="58" kicks_from_hand="137" lineouts_Lost="14" lineouts_won="57" metres="1346" missed_tackles="56" offloads="15" passes="527" penalty_goals="13" player_tries="5" points="72" rucks_lost="16" rucks_success="0.96" rucks_total="418" rucks_won="402" scrums_lost="7" scrums_success="0.78" scrums_total="32" scrums_won="25" tackles="518" team_id="600" total_games="5" total_tackle_attempts="574" total_tries="5" turnovers_conceded="59" yellow_cards="5" />
+    </team>
+    <team sfms_id="WA" team_id="500" team_name="Wales">
+      <players>
+        <player dob="1988-04-05" height="186" player_first_name="Jonathan" player_id="16161" player_known_name="Jonathan Davies" player_last_name="Davies" position_id="13" position_name="Back 5" regular_position="Centre" sfms_id="DA212" weight="103">
+          <playerstats bad_passes="2" carries="36" clean_breaks="1" defenders_beaten="4" kicks_from_hand="11" metres="89" minutes_played_total="400" missed_tackles="2" offload="3" passes="19" player_id="16161" player_team_id="500" points="5" tackles="19" total_games="5" tries="1" try_assist="1" turnovers_conceded="3" />
+        </player>
+        <player dob="1986-05-03" height="185" player_first_name="Craig" player_id="7929" player_known_name="Craig Mitchell" player_last_name="Mitchell" position_id="18" position_name="Replacement 3" regular_position="Prop" sfms_id="MI105" weight="109">
+          <playerstats carries="3" metres="2" minutes_played_total="16" passes="1" player_id="7929" player_team_id="500" points="5" tackles="4" total_games="3" tries="1" />
+        </player>
+        <player dob="1985-09-19" height="196" player_first_name="Alun Wyn" player_id="7680" player_known_name="Alun Wyn Jones" player_last_name="Jones" position_id="4" position_name="Forward 4" regular_position="Lock" sfms_id="JO148" weight="119">
+          <playerstats carries="29" defenders_beaten="1" lineouts_to_own_player="9" metres="31" minutes_played_total="189" missed_tackles="1" offload="4" passes="7" player_id="7680" player_team_id="500" points="0" tackles="18" total_games="3" turnovers_conceded="2" />
+        </player>
+        <player dob="1990-11-12" height="188" player_first_name="Toby" player_id="11029" player_known_name="Toby Faletau" player_last_name="Faletau" position_id="8" position_name="Forward 8" regular_position="No. 8" sfms_id="236W" weight="109">
+          <playerstats carries="63" clean_breaks="1" defenders_beaten="9" lineouts_to_own_player="3" metres="116" minutes_played_total="401" missed_tackles="2" offload="3" passes="14" pen_defs="3" player_id="11029" player_team_id="500" points="0" tackles="46" total_games="5" turnovers_conceded="3" />
+        </player>
+        <player dob="1983-12-13" height="183" player_first_name="Richard" player_id="5097" player_known_name="Richard Hibbard" player_last_name="Hibbard" position_id="2" position_name="Forward 2" regular_position="Hooker" sfms_id="HI49" weight="114">
+          <playerstats carries="24" defenders_beaten="3" metres="22" minutes_played_total="218" missed_tackles="1" passes="1" player_id="5097" player_team_id="500" points="5" tackles="18" total_games="4" tries="1" turnovers_conceded="1" />
+        </player>
+        <player dob="1985-06-27" height="183" player_first_name="James" player_id="6014" player_known_name="James Hook" player_last_name="Hook" position_id="22" position_name="Replacement 7" regular_position="Fly Half" sfms_id="HO155" weight="90">
+          <playerstats bad_passes="1" carries="3" kicks_from_hand="4" metres="8" minutes_played_total="24" passes="11" pen_offs="1" player_id="6014" player_team_id="500" points="0" tackles="3" total_games="3" turnovers_conceded="1" />
+        </player>
+        <player dob="1989-08-01" height="188" player_first_name="Scott" player_id="10157" player_known_name="Scott Andrews" player_last_name="Andrews" position_id="18" position_name="Replacement 3" regular_position="Prop" sfms_id="9AN10" weight="115">
+          <playerstats carries="1" minutes_played_total="7" player_id="10157" player_team_id="500" points="0" total_games="1" />
+        </player>
+        <player dob="1988-12-09" height="181" player_first_name="Ryan" player_id="9963" player_known_name="Ryan Bevington" player_last_name="Bevington" position_id="17" position_name="Replacement 2" regular_position="Prop" sfms_id="WBE16" weight="111">
+          <playerstats minutes_played_total="1" player_id="9963" player_team_id="500" points="0" total_games="1" />
+        </player>
+        <player dob="1988-10-05" height="191" player_first_name="Sam" player_id="10238" player_known_name="Sam Warburton" player_last_name="Warburton" position_id="6" position_name="Forward 6" regular_position="Flanker" sfms_id="WWA30" weight="96">
+          <playerstats carries="19" clean_breaks="1" defenders_beaten="2" lineouts_to_own_player="6" metres="54" minutes_played_total="247" missed_tackles="2" offload="1" passes="14" pen_defs="5" player_id="10238" player_team_id="500" points="0" tackles="31" total_games="4" turnovers_conceded="2" />
+        </player>
+        <player dob="1988-12-22" height="178" player_first_name="Leigh" player_id="16273" player_known_name="Leigh Halfpenny" player_last_name="Halfpenny" position_id="15" position_name="Back 7" regular_position="Full Back" sfms_id="WHA26" weight="83">
+          <playerstats carries="38" clean_breaks="2" conversion_goals="6" defenders_beaten="6" kicks_from_hand="27" metres="158" minutes_played_total="400" missed_conversion_goals="2" missed_penalty_goals="4" offload="1" passes="25" penalty_goals="19" player_id="16273" player_team_id="500" points="74" tackles="12" total_games="5" tries="1" turnovers_conceded="3" />
+        </player>
+        <player dob="1989-08-06" height="188" player_first_name="Justin" player_id="13119" player_known_name="Justin Tipuric" player_last_name="Tipuric" position_id="7" position_name="Forward 7" regular_position="Back Row" sfms_id="9TI3" weight="107">
+          <playerstats bad_passes="1" carries="18" clean_breaks="2" defenders_beaten="1" lineouts_to_own_player="5" metres="66" minutes_played_total="308" missed_tackles="2" passes="17" pen_defs="2" player_id="13119" player_team_id="500" points="0" tackles="42" total_games="5" try_assist="1" turnovers_conceded="1" />
+        </player>
+        <player dob="1981-03-13" height="196" player_first_name="Ryan" player_id="5087" player_known_name="Ryan Jones" player_last_name="Jones" position_id="6" position_name="Forward 6" regular_position="Back Row" sfms_id="JO100" weight="114">
+          <playerstats carries="20" kicks_from_hand="1" lineouts_to_own_player="3" metres="26" minutes_played_total="194" missed_tackles="2" offload="1" passes="4" pen_defs="3" player_id="5087" player_team_id="500" points="0" tackles="30" total_games="3" try_assist="1" turnovers_conceded="3" />
+        </player>
+        <player dob="1984-10-27" height="196" player_first_name="Andrew" player_id="7663" player_known_name="Andrew Coombs" player_last_name="Coombs" position_id="19" position_name="Replacement 4" regular_position="Lock" sfms_id="CO231" weight="117">
+          <playerstats bad_passes="1" carries="29" clean_breaks="1" defenders_beaten="1" lineouts_to_own_player="12" metres="44" minutes_played_total="221" missed_tackles="5" passes="10" pen_defs="1" pen_offs="1" player_id="7663" player_team_id="500" points="0" tackles="26" total_games="4" turnovers_conceded="4" />
+        </player>
+        <player dob="1982-05-13" height="185" player_first_name="Paul" player_id="2659" player_known_name="Paul James" player_last_name="James" position_id="17" position_name="Replacement 2" regular_position="Prop" sfms_id="KJA23" weight="117">
+          <playerstats carries="25" defenders_beaten="1" metres="11" minutes_played_total="171" missed_tackles="1" pen_defs="3" pen_offs="1" player_id="2659" player_team_id="500" points="0" tackles="19" total_games="5" yellow_cards="1" />
+        </player>
+        <player dob="1987-09-10" height="198" player_first_name="Lou" player_id="8411" player_known_name="Lou Reed" player_last_name="Reed" position_id="19" position_name="Replacement 4" regular_position="Lock" sfms_id="RE99" weight="113">
+          <playerstats minutes_played_total="2" player_id="8411" player_team_id="500" points="0" tackles="1" total_games="1" />
+        </player>
+        <player dob="1981-03-19" height="201" player_first_name="Ollie" player_id="7031" player_known_name="Ollie Kohn" player_last_name="Kohn" position_id="19" position_name="Replacement 4" regular_position="Lock" sfms_id="KO3" weight="121">
+          <playerstats carries="1" minutes_played_total="7" player_id="7031" player_team_id="500" points="0" tackles="1" total_games="1" />
+        </player>
+        <player dob="1987-01-03" height="185" player_first_name="Ken" player_id="8412" player_known_name="Ken Owens" player_last_name="Owens" position_id="16" position_name="Replacement 1" regular_position="Hooker" sfms_id="OW12" weight="116">
+          <playerstats carries="26" defenders_beaten="3" metres="14" minutes_played_total="139" missed_tackles="1" passes="1" pen_defs="1" pen_offs="1" player_id="8412" player_team_id="500" points="0" tackles="19" total_games="5" />
+        </player>
+        <player dob="1980-11-17" height="188" player_first_name="Gethin" player_id="3293" player_known_name="Gethin Jenkins" player_last_name="Jenkins" position_id="1" position_name="Forward 1" regular_position="Prop" sfms_id="KJE17" weight="117">
+          <playerstats bad_passes="1" carries="12" metres="3" minutes_played_total="226" missed_tackles="3" passes="5" pen_defs="2" pen_offs="2" player_id="3293" player_team_id="500" points="0" tackles="22" total_games="4" />
+        </player>
+        <player dob="1982-08-29" height="191" player_first_name="Mike" player_id="2652" player_known_name="Mike Phillips" player_last_name="Phillips" position_id="9" position_name="Back 1" regular_position="Scrum Half" sfms_id="PH2" weight="103">
+          <playerstats bad_passes="3" carries="35" clean_breaks="3" defenders_beaten="12" kicks_from_hand="30" metres="180" minutes_played_total="343" missed_tackles="1" passes="282" pen_defs="1" player_id="2652" player_team_id="500" points="0" tackles="37" total_games="5" turnovers_conceded="2" />
+        </player>
+        <player dob="1986-11-08" height="193" player_first_name="Jamie" player_id="7981" player_known_name="Jamie Roberts" player_last_name="Roberts" position_id="12" position_name="Back 4" regular_position="Centre" sfms_id="WRO28" weight="107">
+          <playerstats bad_passes="2" carries="32" clean_breaks="1" defenders_beaten="4" kicks_from_hand="3" metres="42" minutes_played_total="375" missed_tackles="5" offload="2" passes="14" pen_defs="1" pen_offs="1" player_id="7981" player_team_id="500" points="0" tackles="24" total_games="5" try_assist="1" turnovers_conceded="8" />
+        </player>
+        <player dob="1990-10-10" height="187" player_first_name="Scott" player_id="15007" player_known_name="Scott Williams" player_last_name="Williams" position_id="23" position_name="Replacement 8" regular_position="Centre" sfms_id="9WI43" weight="100">
+          <playerstats carries="2" minutes_played_total="25" missed_tackles="1" passes="1" pen_defs="1" player_id="15007" player_team_id="500" points="0" tackles="4" total_games="4" />
+        </player>
+        <player dob="1981-03-08" height="183" player_first_name="Adam" player_id="1967" player_known_name="Adam Jones" player_last_name="Jones" position_id="3" position_name="Forward 3" regular_position="Prop" sfms_id="KJO63" weight="121">
+          <playerstats carries="7" metres="12" minutes_played_total="377" missed_tackles="1" passes="7" pen_defs="5" pen_offs="2" player_id="1967" player_team_id="500" points="0" tackles="34" total_games="5" />
+        </player>
+        <player dob="1990-04-05" height="198" player_first_name="Alex" player_id="19411" player_known_name="Alex Cuthbert" player_last_name="Cuthbert" position_id="14" position_name="Back 6" regular_position="Winger" sfms_id="CU75" weight="104">
+          <playerstats carries="33" clean_breaks="5" defenders_beaten="14" kicks_from_hand="1" metres="254" minutes_played_total="400" missed_tackles="2" offload="4" passes="14" pen_defs="1" player_id="19411" player_team_id="500" points="20" tackles="15" total_games="5" tries="4" turnovers_conceded="8" />
+        </player>
+        <player dob="1989-11-30" height="184" player_first_name="Lloyd" player_id="14749" player_known_name="Lloyd Williams" player_last_name="Williams" position_id="21" position_name="Replacement 6" regular_position="Scrum Half" sfms_id="9WI35" weight="86">
+          <playerstats carries="7" kicks_from_hand="3" metres="13" minutes_played_total="57" passes="72" player_id="14749" player_team_id="500" points="0" tackles="8" total_games="5" turnovers_conceded="2" />
+        </player>
+        <player dob="1989-10-16" height="188" player_first_name="Dan" player_id="9757" player_known_name="Dan Biggar" player_last_name="Biggar" position_id="10" position_name="Back 2" regular_position="Fly Half" sfms_id="9BI6" weight="87">
+          <playerstats bad_passes="5" carries="33" conversion_goals="1" defenders_beaten="4" drop_goals_converted="1" kicks_from_hand="48" lineouts_to_own_player="1" metres="105" minutes_played_total="376" missed_tackles="5" offload="1" passes="106" pen_offs="1" penalty_goals="1" player_id="9757" player_team_id="500" points="8" tackles="24" total_games="5" try_assist="3" turnovers_conceded="6" />
+        </player>
+        <player dob="1987-08-07" height="196" player_first_name="Aaron" player_id="10292" player_known_name="Aaron Shingler" player_last_name="Shingler" position_id="20" position_name="Replacement 5" regular_position="Lock" sfms_id="12693" weight="106">
+          <playerstats carries="6" lineouts_to_own_player="1" metres="5" minutes_played_total="51" missed_tackles="1" offload="1" passes="2" pen_defs="1" player_id="10292" player_team_id="500" points="0" tackles="8" total_games="3" />
+        </player>
+        <player dob="1984-10-04" height="203" player_first_name="Ian" player_id="6113" player_known_name="Ian Evans" player_last_name="Evans" position_id="5" position_name="Forward 5" regular_position="Lock" sfms_id="EV55" weight="108">
+          <playerstats bad_passes="1" carries="27" defenders_beaten="1" kicks_from_hand="1" lineouts_to_own_player="13" metres="43" minutes_played_total="381" missed_tackles="5" passes="5" pen_defs="2" player_id="6113" player_team_id="500" points="0" tackles="36" total_games="5" turnovers_conceded="5" />
+        </player>
+        <player dob="1980-12-09" height="183" player_first_name="Matthew" player_id="3918" player_known_name="Matthew Rees" player_last_name="Rees" position_id="2" position_name="Forward 2" regular_position="Hooker" sfms_id="KRE35" weight="106">
+          <playerstats carries="4" metres="2" minutes_played_total="43" pen_offs="1" player_id="3918" player_team_id="500" points="0" tackles="5" total_games="1" />
+        </player>
+        <player dob="1992-04-13" height="192" player_first_name="George" player_id="18273" player_known_name="George North" player_last_name="North" position_id="11" position_name="Back 3" regular_position="Winger" sfms_id="75W" weight="106">
+          <playerstats carries="38" clean_breaks="4" defenders_beaten="14" kicks_from_hand="4" metres="282" minutes_played_total="400" missed_tackles="2" passes="5" pen_defs="1" pen_offs="1" player_id="18273" player_team_id="500" points="5" tackles="15" total_games="5" tries="1" turnovers_conceded="5" />
+        </player>
+      </players>
+      <teamstats carries="571" clean_breaks="21" conversion_goals="7" defenders_beaten="80" drop_goals_converted="1" kicks_from_hand="133" lineouts_Lost="10" lineouts_won="56" metres="1582" missed_tackles="45" offloads="21" passes="637" penalty_goals="20" player_tries="9" points="122" rucks_lost="14" rucks_success="0.97" rucks_total="487" rucks_won="473" scrums_lost="5" scrums_success="0.87" scrums_total="38" scrums_won="33" tackles="521" team_id="500" total_games="5" total_tackle_attempts="566" total_tries="9" turnovers_conceded="59" yellow_cards="1" />
+    </team>
+    <team sfms_id="EN" team_id="550" team_name="England">
+      <players>
+        <player dob="1985-08-08" height="188" player_first_name="Toby" player_id="6035" player_known_name="Toby Flood" player_last_name="Flood" position_id="22" position_name="Replacement 7" regular_position="Fly Half" sfms_id="FL30" weight="95">
+          <playerstats carries="14" clean_breaks="2" defenders_beaten="3" kicks_from_hand="11" metres="82" minutes_played_total="125" offload="2" passes="39" penalty_goals="8" player_id="6035" player_team_id="550" points="24" tackles="15" total_games="4" turnovers_conceded="2" />
+        </player>
+        <player dob="1985-11-07" height="196" player_first_name="Tom" player_id="7637" player_known_name="Tom Croft" player_last_name="Croft" position_id="6" position_name="Forward 6" regular_position="Flanker" sfms_id="CR70" weight="104">
+          <playerstats carries="3" lineout_won_steal="2" lineouts_to_own_player="6" metres="6" minutes_played_total="110" missed_tackles="1" offload="1" passes="2" player_id="7637" player_team_id="550" points="0" tackles="17" total_games="2" turnovers_conceded="2" />
+        </player>
+        <player dob="1989-02-18" height="193" player_first_name="Ben" player_id="18311" player_known_name="Ben Morgan" player_last_name="Morgan" position_id="8" position_name="Forward 8" regular_position="No. 8" sfms_id="596N" weight="117">
+          <playerstats carries="8" clean_breaks="2" defenders_beaten="5" metres="54" minutes_played_total="45" offload="2" passes="5" player_id="18311" player_team_id="550" points="0" tackles="4" total_games="1" />
+        </player>
+        <player dob="1991-09-24" height="188" player_first_name="Owen" player_id="9938" player_known_name="Owen Farrell" player_last_name="Farrell" position_id="10" position_name="Back 2" regular_position="Fly Half" sfms_id="9FA3" weight="96">
+          <playerstats bad_passes="3" carries="13" conversion_goals="3" defenders_beaten="1" kicks_from_hand="26" lineouts_to_own_player="1" metres="40" minutes_played_total="288" missed_conversion_goals="2" missed_penalty_goals="5" missed_tackles="4" offload="2" passes="83" pen_offs="1" penalty_goals="13" player_id="9938" player_team_id="550" points="45" tackles="31" total_games="4" try_assist="1" turnovers_conceded="2" />
+        </player>
+        <player dob="1986-08-07" height="186" player_first_name="Brad" player_id="8142" player_known_name="Brad Barritt" player_last_name="Barritt" position_id="12" position_name="Back 4" regular_position="Centre" sfms_id="BA254" weight="96">
+          <playerstats bad_passes="1" carries="42" defenders_beaten="3" kicks_from_hand="1" metres="49" minutes_played_total="386" missed_tackles="4" offload="5" passes="33" pen_defs="1" pen_offs="2" player_id="8142" player_team_id="550" points="0" tackles="32" total_games="5" turnovers_conceded="3" />
+        </player>
+        <player dob="1987-01-02" height="175" player_first_name="Danny" player_id="7635" player_known_name="Danny Care" player_last_name="Care" position_id="21" position_name="Replacement 6" regular_position="Scrum Half" sfms_id="KCA28" weight="84">
+          <playerstats bad_passes="2" carries="14" kicks_from_hand="8" metres="49" minutes_played_total="118" missed_tackles="1" offload="2" passes="127" player_id="7635" player_team_id="550" points="5" tackles="4" total_games="4" tries="1" turnovers_conceded="5" />
+        </player>
+        <player dob="1983-10-28" height="196" player_first_name="Geoff" player_id="3901" player_known_name="Geoff Parling" player_last_name="Parling" position_id="5" position_name="Forward 5" regular_position="Lock" sfms_id="PA26" weight="104">
+          <playerstats carries="23" clean_breaks="3" defenders_beaten="4" lineout_won_steal="2" lineouts_to_own_player="14" metres="55" minutes_played_total="365" missed_tackles="4" offload="1" passes="11" player_id="3901" player_team_id="550" points="5" tackles="50" total_games="5" tries="1" turnovers_conceded="5" />
+        </player>
+        <player dob="1988-11-15" height="191" player_first_name="Billy" player_id="14747" player_known_name="Billy Twelvetrees" player_last_name="Twelvetrees" position_id="23" position_name="Replacement 8" regular_position="Centre" sfms_id="9TW1" weight="103">
+          <playerstats bad_passes="1" carries="23" defenders_beaten="2" kicks_from_hand="1" metres="84" minutes_played_total="144" missed_tackles="2" offload="1" passes="10" player_id="14747" player_team_id="550" points="5" tackles="12" total_games="4" tries="1" turnovers_conceded="2" />
+        </player>
+        <player dob="1991-04-12" height="198" player_first_name="Joe" player_id="18571" player_known_name="Joe Launchbury" player_last_name="Launchbury" position_id="4" position_name="Forward 4" regular_position="Back Row" sfms_id="13485" weight="115">
+          <playerstats carries="23" defenders_beaten="1" lineouts_to_own_player="6" metres="19" minutes_played_total="323" missed_tackles="5" passes="6" pen_offs="1" player_id="18571" player_team_id="550" points="0" tackles="51" total_games="5" turnovers_conceded="2" />
+        </player>
+        <player dob="1985-04-09" height="185" player_first_name="Dave" player_id="3618" player_known_name="Dave Wilson" player_last_name="Wilson" position_id="17" position_name="Replacement 2" regular_position="Prop" sfms_id="WI2" weight="118">
+          <playerstats carries="2" defenders_beaten="1" metres="9" minutes_played_total="24" missed_tackles="1" pen_offs="1" player_id="3618" player_team_id="550" points="0" tackles="3" total_games="4" />
+        </player>
+        <player dob="1989-02-23" height="201" player_first_name="Courtney" player_id="9802" player_known_name="Courtney Lawes" player_last_name="Lawes" position_id="19" position_name="Replacement 4" regular_position="Lock" sfms_id="LA129" weight="115">
+          <playerstats carries="6" clean_breaks="1" kicks_from_hand="1" lineout_won_steal="1" lineouts_to_own_player="3" metres="15" minutes_played_total="153" missed_tackles="5" offload="2" passes="3" pen_defs="1" player_id="9802" player_team_id="550" points="0" tackles="23" total_games="5" turnovers_conceded="2" />
+        </player>
+        <player dob="1988-05-05" height="181" player_first_name="Alex" player_id="9486" player_known_name="Alex Goode" player_last_name="Goode" position_id="15" position_name="Back 7" regular_position="Full Back" sfms_id="9GO7" weight="92">
+          <playerstats bad_passes="2" carries="46" clean_breaks="1" defenders_beaten="5" kicks_from_hand="34" lineouts_to_own_player="2" metres="387" minutes_played_total="371" missed_tackles="4" offload="4" passes="29" pen_offs="1" player_id="9486" player_team_id="550" points="0" tackles="9" total_games="5" turnovers_conceded="6" />
+        </player>
+        <player dob="1985-09-04" height="183" player_first_name="Mike" player_id="7655" player_known_name="Mike Brown" player_last_name="Brown" position_id="11" position_name="Back 3" regular_position="Full Back" sfms_id="UBR5" weight="90">
+          <playerstats bad_passes="1" carries="38" clean_breaks="5" defenders_beaten="12" kicks_from_hand="6" metres="347" minutes_played_total="400" missed_tackles="3" offload="3" passes="10" pen_defs="3" pen_offs="1" player_id="7655" player_team_id="550" points="0" tackles="18" total_games="5" turnovers_conceded="5" />
+        </player>
+        <player dob="1986-11-03" height="193" player_first_name="Tom" player_id="9438" player_known_name="Tom Wood" player_last_name="Wood" position_id="8" position_name="Forward 8" regular_position="Flanker" sfms_id="NWO17" weight="107">
+          <playerstats carries="30" clean_breaks="1" defenders_beaten="2" kicks_from_hand="2" lineout_won_steal="1" lineouts_to_own_player="12" metres="77" minutes_played_total="387" missed_tackles="4" offload="2" passes="17" pen_defs="3" pen_offs="1" player_id="9438" player_team_id="550" points="0" tackles="70" total_games="5" turnovers_conceded="11" />
+        </player>
+        <player dob="1987-03-29" height="183" player_first_name="Chris" player_id="9796" player_known_name="Chris Ashton" player_last_name="Ashton" position_id="14" position_name="Back 6" regular_position="Winger" sfms_id="LAS7" weight="92">
+          <playerstats bad_passes="1" carries="36" defenders_beaten="1" kicks_from_hand="5" metres="99" minutes_played_total="400" missed_tackles="10" offload="4" passes="11" pen_defs="2" pen_offs="1" player_id="9796" player_team_id="550" points="5" tackles="21" total_games="5" tries="1" turnovers_conceded="8" />
+        </player>
+        <player dob="1987-01-28" height="176" player_first_name="Tom" player_id="8787" player_known_name="Tom Youngs" player_last_name="Youngs" position_id="2" position_name="Forward 2" regular_position="Hooker" sfms_id="9YO5" weight="102">
+          <playerstats carries="26" defenders_beaten="1" metres="49" minutes_played_total="255" missed_tackles="3" passes="3" pen_defs="3" pen_offs="4" player_id="8787" player_team_id="550" points="0" tackles="45" total_games="5" turnovers_conceded="1" />
+        </player>
+        <player dob="1986-03-24" height="185" player_first_name="Dylan" player_id="7761" player_known_name="Dylan Hartley" player_last_name="Hartley" position_id="16" position_name="Replacement 1" regular_position="Hooker" sfms_id="HA327" weight="106">
+          <playerstats carries="9" metres="14" minutes_played_total="145" missed_tackles="1" offload="1" passes="6" pen_defs="1" player_id="7761" player_team_id="550" points="0" tackles="17" total_games="5" turnovers_conceded="1" />
+        </player>
+        <player dob="1989-09-05" height="179" player_first_name="Ben" player_id="9144" player_known_name="Ben Youngs" player_last_name="Youngs" position_id="9" position_name="Back 1" regular_position="Scrum Half" sfms_id="YO21" weight="76">
+          <playerstats bad_passes="8" carries="9" clean_breaks="1" defenders_beaten="3" kicks_from_hand="42" metres="73" minutes_played_total="282" missed_tackles="3" offload="2" passes="200" pen_defs="2" pen_offs="1" player_id="9144" player_team_id="550" points="0" tackles="12" total_games="5" try_assist="2" turnovers_conceded="2" />
+        </player>
+        <player dob="1986-06-04" height="188" player_first_name="Chris" player_id="7656" player_known_name="Chris Robshaw" player_last_name="Robshaw" position_id="7" position_name="Forward 7" regular_position="Back Row" sfms_id="RO172" weight="112">
+          <playerstats bad_passes="1" carries="57" clean_breaks="1" lineouts_to_own_player="7" metres="152" minutes_played_total="400" missed_tackles="9" offload="6" passes="36" pen_defs="1" pen_offs="1" player_id="7656" player_team_id="550" points="0" tackles="65" total_games="5" turnovers_conceded="4" />
+        </player>
+        <player dob="1991-01-13" height="180" player_first_name="Mako" player_id="17164" player_known_name="Mako Vunipola" player_last_name="Vunipola" position_id="18" position_name="Replacement 3" regular_position="Prop" sfms_id="VU3" weight="130">
+          <playerstats carries="18" defenders_beaten="3" metres="46" minutes_played_total="167" missed_tackles="4" offload="1" passes="6" pen_defs="1" player_id="17164" player_team_id="550" points="0" tackles="26" total_games="5" turnovers_conceded="1" />
+        </player>
+        <player dob="1990-07-07" height="183" player_first_name="Joe" player_id="16267" player_known_name="Joe Marler" player_last_name="Marler" position_id="1" position_name="Forward 1" regular_position="Prop" sfms_id="9MA24" weight="113">
+          <playerstats bad_passes="1" carries="11" defenders_beaten="1" metres="6" minutes_played_total="233" missed_tackles="4" passes="3" pen_defs="3" player_id="16267" player_team_id="550" points="0" tackles="22" total_games="5" turnovers_conceded="1" />
+        </player>
+        <player dob="1991-05-18" height="185" player_first_name="Manu" player_id="11030" player_known_name="Manu Tuilagi" player_last_name="Tuilagi" position_id="13" position_name="Back 5" regular_position="Centre" sfms_id="11118" weight="110">
+          <playerstats carries="23" clean_breaks="2" defenders_beaten="7" kicks_from_hand="1" metres="97" minutes_played_total="273" missed_tackles="2" offload="1" passes="6" pen_offs="1" player_id="11030" player_team_id="550" points="5" tackles="16" total_games="4" tries="1" turnovers_conceded="4" />
+        </player>
+        <player dob="1990-05-13" height="185" player_first_name="Freddie" player_id="10183" player_known_name="Freddie Burns" player_last_name="Burns" position_id="22" position_name="Replacement 7" regular_position="Fly Half" sfms_id="BU139" weight="80">
+          <playerstats player_id="10183" player_team_id="550" points="0" />
+        </player>
+        <player dob="1983-04-28" height="184" player_first_name="Thomas" player_id="7222" player_known_name="Thomas Waldrom" player_last_name="Waldrom" position_id="20" position_name="Replacement 5" regular_position="No. 8" sfms_id="WA29" weight="108">
+          <playerstats carries="1" minutes_played_total="10" player_id="7222" player_team_id="550" points="0" total_games="1" />
+        </player>
+        <player dob="1983-06-23" height="183" player_first_name="David" player_id="3885" player_known_name="David Strettle" player_last_name="Strettle" position_id="23" position_name="Replacement 8" regular_position="Winger" sfms_id="ST136" weight="85">
+          <playerstats carries="1" defenders_beaten="1" minutes_played_total="13" passes="1" player_id="3885" player_team_id="550" points="0" total_games="1" />
+        </player>
+        <player dob="1985-04-02" height="193" player_first_name="James" player_id="3607" player_known_name="James Haskell" player_last_name="Haskell" position_id="20" position_name="Replacement 5" regular_position="Back Row" sfms_id="HA179" weight="111">
+          <playerstats carries="21" defenders_beaten="2" lineouts_to_own_player="1" metres="21" minutes_played_total="197" missed_tackles="1" offload="1" passes="9" pen_defs="2" pen_offs="1" player_id="3607" player_team_id="550" points="0" tackles="29" total_games="5" turnovers_conceded="2" yellow_cards="1" />
+        </player>
+        <player dob="1987-05-09" height="191" player_first_name="Dan" player_id="9054" player_known_name="Dan Cole" player_last_name="Cole" position_id="3" position_name="Forward 3" regular_position="Prop" sfms_id="9CO16" weight="121">
+          <playerstats carries="10" defenders_beaten="1" metres="17" minutes_played_total="375" missed_tackles="5" passes="2" pen_defs="8" pen_offs="2" player_id="9054" player_team_id="550" points="0" tackles="35" total_games="5" turnovers_conceded="2" yellow_cards="1" />
+        </player>
+      </players>
+      <teamstats carries="507" clean_breaks="19" conversion_goals="3" defenders_beaten="59" kicks_from_hand="139" lineouts_Lost="11" lineouts_won="52" metres="1847" missed_tackles="80" offloads="43" passes="658" penalty_goals="21" player_tries="5" points="94" rucks_lost="24" rucks_success="0.94" rucks_total="399" rucks_won="375" scrums_lost="10" scrums_success="0.72" scrums_total="36" scrums_won="26" tackles="627" team_id="550" total_games="5" total_tackle_attempts="707" total_tries="5" turnovers_conceded="73" yellow_cards="2" />
+    </team>
+  </teams>
+</seasonstats>

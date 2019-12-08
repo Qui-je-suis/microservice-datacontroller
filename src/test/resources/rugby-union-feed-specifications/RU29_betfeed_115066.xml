@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2014 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        markl.nexus.opta.net
+     production time:    20141015T145346,948Z
+     production module:  Opta::Feed::XML::RugbyUnion::RU29
+-->
+<Betting_Feed id="201" Away_Team="Bath" Away_id="1000" Competition="Aviva Premiership" Competition_Id="201" Game_Date="2014-10-12" Game_Id="115066" Home_Team="Wasps" Home_id="1550" Season="Season 2014/2015" Season_Id="" VenueName="">
+  <RecentAwayTeamsGames>
+    <Meeting AwayScore="26" AwayTeam="78" AwayTeamName="London Welsh" GameDate="2014-09-13 15:00:00" GameId="115021" HomeScore="53" HomeTeam="1000" HomeTeamName="Bath" Status="Result" VenueName="Recreation Ground">
+      <Events>
+        <Event Outcome="1" TeamId="1000" Time="1:45" Type="Try" />
+        <Event Outcome="1" TeamId="1000" Time="2:43" Type="Conversion" />
+        <Event Outcome="1" TeamId="78" Time="4:26" Type="Try" />
+        <Event Outcome="1" TeamId="78" Time="5:42" Type="Conversion" />
+        <Event Outcome="1" TeamId="1000" Time="7:55" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="20:42" Type="Try" />
+        <Event Outcome="1" TeamId="1000" Time="21:30" Type="Conversion" />
+        <Event Outcome="0" TeamId="78" Time="24:25" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="32:6" Type="Try" />
+        <Event Outcome="1" TeamId="1000" Time="33:23" Type="Conversion" />
+        <Event Outcome="1" TeamId="78" Time="38:50" Type="Try" />
+        <Event Outcome="1" TeamId="78" Time="39:15" Type="Conversion" />
+        <Event Outcome="1" TeamId="1000" Time="40:49" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="45:25" Type="Try" />
+        <Event Outcome="1" TeamId="1000" Time="46:53" Type="Conversion" />
+        <Event Outcome="1" TeamId="78" Time="51:37" Type="Try" />
+        <Event Outcome="1" TeamId="78" Time="52:19" Type="Conversion" />
+        <Event Outcome="1" TeamId="1000" Time="55:2" Type="Try" />
+        <Event Outcome="1" TeamId="1000" Time="56:4" Type="Conversion" />
+        <Event Outcome="1" TeamId="78" Time="58:27" Type="Try" />
+        <Event Outcome="0" TeamId="78" Time="59:40" Type="Conversion" />
+        <Event Outcome="1" TeamId="1000" Time="71:15" Type="Try" />
+        <Event Outcome="0" TeamId="1000" Time="72:33" Type="Conversion" />
+        <Event Outcome="1" TeamId="1000" Time="76:35" Type="Try" />
+        <Event Outcome="1" TeamId="1000" Time="76:59" Type="Conversion" />
+      </Events>
+    </Meeting>
+    <Meeting AwayScore="29" AwayTeam="1000" AwayTeamName="Bath" GameDate="2014-09-06 14:00:00" GameId="115015" HomeScore="20" HomeTeam="1450" HomeTeamName="Sale" Status="Result" VenueName="AJ Bell Stadium">
+      <Events>
+        <Event Outcome="1" TeamId="1000" Time="0:45" Type="Try" />
+        <Event Outcome="1" TeamId="1000" Time="1:58" Type="Conversion" />
+        <Event Outcome="1" TeamId="1000" Time="23:57" Type="Penalty goal" />
+        <Event Outcome="0" TeamId="1000" Time="25:21" Type="Card" />
+        <Event Outcome="1" TeamId="1450" Time="26:10" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="29:4" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1450" Time="33:10" Type="Try" />
+        <Event Outcome="1" TeamId="1450" Time="33:39" Type="Conversion" />
+        <Event Outcome="1" TeamId="1000" Time="36:17" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1450" Time="41:13" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="56:56" Type="Penalty goal" />
+        <Event Outcome="0" TeamId="1000" Time="61:50" Type="Drop goal" />
+        <Event Outcome="1" TeamId="1450" Time="65:24" Type="Try" />
+        <Event Outcome="1" TeamId="1450" Time="66:7" Type="Conversion" />
+        <Event Outcome="1" TeamId="1000" Time="71:24" Type="Try" />
+        <Event Outcome="1" TeamId="1000" Time="72:31" Type="Conversion" />
+        <Event Outcome="1" TeamId="1000" Time="76:51" Type="Penalty goal" />
+      </Events>
+    </Meeting>
+    <Meeting AwayScore="16" AwayTeam="1000" AwayTeamName="Bath" GameDate="2014-05-10 15:15:00" GameId="114221" HomeScore="19" HomeTeam="1150" HomeTeamName="Harlequins" Status="Result" VenueName="The Stoop">
+      <Events>
+        <Event Outcome="1" TeamId="1150" Time="15:32" Type="Try" />
+        <Event Outcome="1" TeamId="1150" Time="16:52" Type="Conversion" />
+        <Event Outcome="1" TeamId="1000" Time="22:25" Type="Try" />
+        <Event Outcome="1" TeamId="1000" Time="23:18" Type="Conversion" />
+        <Event Outcome="0" TeamId="1150" Time="31:22" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1150" Time="35:36" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="44:58" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="46:57" Type="Card" />
+        <Event Outcome="1" TeamId="1150" Time="52:22" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1150" Time="56:42" Type="Penalty goal" />
+        <Event Outcome="0" TeamId="1150" Time="61:20" Type="Drop goal" />
+        <Event Outcome="1" TeamId="1000" Time="65:50" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1150" Time="67:29" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="68:58" Type="Penalty goal" />
+        <Event Outcome="0" TeamId="1000" Time="80:30" Type="Drop goal" />
+      </Events>
+    </Meeting>
+    <Meeting AwayScore="19" AwayTeam="1400" AwayTeamName="Northampton" GameDate="2014-05-02 19:45:00" GameId="114211" HomeScore="19" HomeTeam="1000" HomeTeamName="Bath" Status="Result" VenueName="Recreation Ground">
+      <Events>
+        <Event Outcome="1" TeamId="1400" Time="5:12" Type="Penalty goal" />
+        <Event Outcome="0" TeamId="1400" Time="19:7" Type="Drop goal" />
+        <Event Outcome="1" TeamId="1000" Time="29:21" Type="Penalty goal" />
+        <Event Outcome="0" TeamId="1400" Time="31:2" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1400" Time="33:21" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="36:5" Type="Penalty goal" />
+        <Event Outcome="0" TeamId="1000" Time="40:42" Type="Drop goal" />
+        <Event Outcome="0" TeamId="1000" Time="43:14" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="44:27" Type="Try" />
+        <Event Outcome="1" TeamId="1000" Time="45:51" Type="Conversion" />
+        <Event Outcome="1" TeamId="1400" Time="52:54" Type="Try" />
+        <Event Outcome="1" TeamId="1400" Time="54:12" Type="Conversion" />
+        <Event Outcome="1" TeamId="1000" Time="58:34" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1400" Time="59:28" Type="Card" />
+        <Event Outcome="1" TeamId="1400" Time="66:36" Type="Penalty goal" />
+        <Event Outcome="0" TeamId="1000" Time="75:4" Type="Drop goal" />
+        <Event Outcome="1" TeamId="1000" Time="77:43" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="78:52" Type="Card" />
+        <Event Outcome="1" TeamId="1400" Time="79:50" Type="Penalty goal" />
+        <Event Outcome="0" TeamId="1000" Time="80:45" Type="Drop goal" />
+      </Events>
+    </Meeting>
+    <Meeting AwayScore="20" AwayTeam="3300" AwayTeamName="Worcester" GameDate="2014-04-19 15:00:00" GameId="114201" HomeScore="32" HomeTeam="1000" HomeTeamName="Bath" Status="Result" VenueName="Recreation Ground">
+      <Events>
+        <Event Outcome="1" TeamId="3300" Time="8:58" Type="Try" />
+        <Event Outcome="0" TeamId="3300" Time="10:2" Type="Conversion" />
+        <Event Outcome="1" TeamId="1000" Time="20:18" Type="Try" />
+        <Event Outcome="1" TeamId="1000" Time="21:41" Type="Conversion" />
+        <Event Outcome="1" TeamId="1000" Time="24:18" Type="Try" />
+        <Event Outcome="1" TeamId="1000" Time="25:22" Type="Conversion" />
+        <Event Outcome="0" TeamId="3300" Time="27:20" Type="Penalty goal" />
+        <Event Outcome="0" TeamId="3300" Time="36:44" Type="Card" />
+        <Event Outcome="1" TeamId="1000" Time="41:4" Type="Try" />
+        <Event Outcome="0" TeamId="1000" Time="42:34" Type="Conversion" />
+        <Event Outcome="0" TeamId="3300" Time="42:13" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="47:24" Type="Penalty goal" />
+        <Event Outcome="0" TeamId="1000" Time="54:50" Type="Card" />
+        <Event Outcome="1" TeamId="3300" Time="55:31" Type="Try" />
+        <Event Outcome="1" TeamId="3300" Time="56:35" Type="Conversion" />
+        <Event Outcome="1" TeamId="3300" Time="60:32" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="63:10" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="3300" Time="64:29" Type="Try" />
+        <Event Outcome="0" TeamId="3300" Time="65:42" Type="Conversion" />
+        <Event Outcome="0" TeamId="3300" Time="72:48" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="77:2" Type="Try" />
+        <Event Outcome="1" TeamId="1000" Time="78:23" Type="Conversion" />
+      </Events>
+    </Meeting>
+    <Meeting AwayScore="18" AwayTeam="1000" AwayTeamName="Bath" GameDate="2014-04-12 15:15:00" GameId="114191" HomeScore="17" HomeTeam="1100" HomeTeamName="Gloucester" Status="Result" VenueName="Kingsholm">
+      <Events>
+        <Event Outcome="1" TeamId="1100" Time="4:22" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="12:13" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1100" Time="24:16" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="27:42" Type="Card" />
+        <Event Outcome="1" TeamId="1100" Time="28:12" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="35:21" Type="Penalty goal" />
+        <Event Outcome="0" TeamId="1100" Time="38:25" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="39:54" Type="Card" />
+        <Event Outcome="0" TeamId="1000" Time="43:3" Type="Penalty goal" />
+        <Event Outcome="0" TeamId="1000" Time="44:27" Type="Drop goal" />
+        <Event Outcome="1" TeamId="1100" Time="52:34" Type="Card" />
+        <Event Outcome="1" TeamId="1000" Time="54:35" Type="Try" />
+        <Event Outcome="0" TeamId="1000" Time="55:50" Type="Conversion" />
+        <Event Outcome="0" TeamId="1100" Time="61:48" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="66:21" Type="Card" />
+        <Event Outcome="1" TeamId="1100" Time="67:42" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1100" Time="70:18" Type="Try" />
+        <Event Outcome="0" TeamId="1100" Time="72:1" Type="Conversion" />
+        <Event Outcome="1" TeamId="1100" Time="74:17" Type="Card" />
+        <Event Outcome="1" TeamId="1100" Time="75:18" Type="Card" />
+        <Event Outcome="1" TeamId="1000" Time="78:18" Type="Try" />
+        <Event Outcome="1" TeamId="1100" Time="78:45" Type="Card" />
+        <Event Outcome="1" TeamId="1000" Time="79:6" Type="Conversion" />
+      </Events>
+    </Meeting>
+  </RecentAwayTeamsGames>
+  <RecentHomeTeamsGames>
+    <Meeting AwayScore="16" AwayTeam="1400" AwayTeamName="Northampton" GameDate="2014-09-14 14:00:00" GameId="115026" HomeScore="20" HomeTeam="1550" HomeTeamName="Wasps" Status="Result" VenueName="Adams Park">
+      <Events>
+        <Event Outcome="1" TeamId="1400" Time="10:6" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1550" Time="18:25" Type="Penalty goal" />
+        <Event Outcome="0" TeamId="1550" Time="26:48" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1550" Time="29:6" Type="Card" />
+        <Event Outcome="1" TeamId="1400" Time="29:56" Type="Card" />
+        <Event Outcome="0" TeamId="1550" Time="41:47" Type="Drop goal" />
+        <Event Outcome="0" TeamId="1400" Time="45:10" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1400" Time="48:52" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1400" Time="54:53" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1550" Time="59:24" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="60:47" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="61:56" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="63:28" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="73:21" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1400" Time="78:7" Type="Try" />
+        <Event Outcome="1" TeamId="1400" Time="78:30" Type="Conversion" />
+      </Events>
+    </Meeting>
+    <Meeting AwayScore="28" AwayTeam="1550" AwayTeamName="Wasps" GameDate="2014-09-06 14:00:00" GameId="115016" HomeScore="34" HomeTeam="1500" HomeTeamName="Saracens" Status="Result" VenueName="Twickenham">
+      <Events>
+        <Event Outcome="1" TeamId="1500" Time="6:51" Type="Try" />
+        <Event Outcome="1" TeamId="1500" Time="8:5" Type="Conversion" />
+        <Event Outcome="1" TeamId="1500" Time="9:59" Type="Card" />
+        <Event Outcome="1" TeamId="1550" Time="10:37" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1500" Time="13:3" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1550" Time="16:34" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1500" Time="18:25" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1500" Time="20:49" Type="Try" />
+        <Event Outcome="1" TeamId="1500" Time="21:33" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="26:0" Type="Penalty goal" />
+        <Event Outcome="0" TeamId="1500" Time="37:13" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1550" Time="43:38" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="44:19" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="53:48" Type="Try" />
+        <Event Outcome="0" TeamId="1550" Time="54:30" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="59:57" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="60:24" Type="Conversion" />
+        <Event Outcome="1" TeamId="1500" Time="62:30" Type="Try" />
+        <Event Outcome="1" TeamId="1500" Time="63:37" Type="Conversion" />
+        <Event Outcome="0" TeamId="1500" Time="75:8" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1500" Time="78:57" Type="Try" />
+        <Event Outcome="1" TeamId="1500" Time="80:1" Type="Conversion" />
+      </Events>
+    </Meeting>
+    <Meeting AwayScore="13" AwayTeam="1550" AwayTeamName="Wasps" GameDate="2014-05-10 15:15:00" GameId="114225" HomeScore="74" HomeTeam="1400" HomeTeamName="Northampton" Status="Result" VenueName="Franklin's Gardens">
+      <Events>
+        <Event Outcome="1" TeamId="1550" Time="3:25" Type="Try" />
+        <Event Outcome="0" TeamId="1550" Time="4:20" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="12:48" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1550" Time="14:33" Type="Try" />
+        <Event Outcome="0" TeamId="1550" Time="15:3" Type="Conversion" />
+        <Event Outcome="1" TeamId="1400" Time="20:7" Type="Try" />
+        <Event Outcome="1" TeamId="1400" Time="21:14" Type="Conversion" />
+        <Event Outcome="1" TeamId="1400" Time="24:27" Type="Try" />
+        <Event Outcome="0" TeamId="1400" Time="25:48" Type="Conversion" />
+        <Event Outcome="1" TeamId="1400" Time="27:20" Type="Try" />
+        <Event Outcome="1" TeamId="1400" Time="28:20" Type="Conversion" />
+        <Event Outcome="1" TeamId="1400" Time="33:42" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1550" Time="34:44" Type="Card" />
+        <Event Outcome="1" TeamId="1400" Time="38:2" Type="Try" />
+        <Event Outcome="0" TeamId="1400" Time="39:42" Type="Conversion" />
+        <Event Outcome="1" TeamId="1400" Time="42:10" Type="Try" />
+        <Event Outcome="1" TeamId="1400" Time="43:0" Type="Conversion" />
+        <Event Outcome="1" TeamId="1400" Time="54:1" Type="Try" />
+        <Event Outcome="1" TeamId="1400" Time="55:3" Type="Conversion" />
+        <Event Outcome="1" TeamId="1400" Time="60:16" Type="Try" />
+        <Event Outcome="1" TeamId="1400" Time="60:54" Type="Conversion" />
+        <Event Outcome="1" TeamId="1400" Time="63:7" Type="Try" />
+        <Event Outcome="0" TeamId="1400" Time="64:10" Type="Conversion" />
+        <Event Outcome="1" TeamId="1400" Time="67:55" Type="Try" />
+        <Event Outcome="1" TeamId="1400" Time="69:10" Type="Conversion" />
+        <Event Outcome="1" TeamId="1400" Time="74:25" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="74:37" Type="Card" />
+        <Event Outcome="1" TeamId="1400" Time="75:12" Type="Conversion" />
+        <Event Outcome="1" TeamId="1400" Time="78:59" Type="Try" />
+        <Event Outcome="1" TeamId="1400" Time="80:15" Type="Conversion" />
+      </Events>
+    </Meeting>
+    <Meeting AwayScore="38" AwayTeam="1350" AwayTeamName="Newcastle" GameDate="2014-05-03 15:00:00" GameId="114214" HomeScore="44" HomeTeam="1550" HomeTeamName="Wasps" Status="Result" VenueName="Adams Park">
+      <Events>
+        <Event Outcome="1" TeamId="1350" Time="0:49" Type="Try" />
+        <Event Outcome="1" TeamId="1350" Time="1:34" Type="Conversion" />
+        <Event Outcome="1" TeamId="1350" Time="9:41" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1350" Time="13:17" Type="Try" />
+        <Event Outcome="1" TeamId="1350" Time="14:35" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="20:28" Type="Try" />
+        <Event Outcome="0" TeamId="1550" Time="21:12" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="25:56" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="26:49" Type="Conversion" />
+        <Event Outcome="0" TeamId="1350" Time="31:21" Type="Card" />
+        <Event Outcome="1" TeamId="1550" Time="31:53" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1550" Time="35:19" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="36:20" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="38:11" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="38:23" Type="Conversion" />
+        <Event Outcome="0" TeamId="1350" Time="47:58" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1350" Time="52:21" Type="Try" />
+        <Event Outcome="1" TeamId="1350" Time="53:33" Type="Conversion" />
+        <Event Outcome="1" TeamId="1350" Time="60:23" Type="Try" />
+        <Event Outcome="1" TeamId="1350" Time="61:36" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="63:38" Type="Try" />
+        <Event Outcome="0" TeamId="1550" Time="64:49" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="67:42" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1550" Time="70:6" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="70:21" Type="Conversion" />
+        <Event Outcome="0" TeamId="1550" Time="80:0" Type="Card" />
+        <Event Outcome="0" TeamId="1550" Time="82:0" Type="Card" />
+        <Event Outcome="1" TeamId="1350" Time="82:0" Type="Try" />
+        <Event Outcome="1" TeamId="1350" Time="83:0" Type="Conversion" />
+      </Events>
+    </Meeting>
+    <Meeting AwayScore="30" AwayTeam="1100" AwayTeamName="Gloucester" GameDate="2014-04-19 15:15:00" GameId="114204" HomeScore="38" HomeTeam="1550" HomeTeamName="Wasps" Status="Result" VenueName="Twickenham">
+      <Events>
+        <Event Outcome="1" TeamId="1550" Time="11:39" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="12:32" Type="Conversion" />
+        <Event Outcome="1" TeamId="1100" Time="13:15" Type="Try" />
+        <Event Outcome="1" TeamId="1100" Time="13:57" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="19:44" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1550" Time="22:18" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="22:46" Type="Conversion" />
+        <Event Outcome="1" TeamId="1100" Time="28:45" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1100" Time="31:39" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1550" Time="36:25" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="37:19" Type="Conversion" />
+        <Event Outcome="1" TeamId="1100" Time="40:3" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1550" Time="41:59" Type="Card" />
+        <Event Outcome="0" TeamId="1550" Time="50:32" Type="Drop goal" />
+        <Event Outcome="1" TeamId="1550" Time="59:32" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="60:44" Type="Conversion" />
+        <Event Outcome="1" TeamId="1100" Time="64:36" Type="Try" />
+        <Event Outcome="1" TeamId="1100" Time="66:28" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="72:3" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="72:53" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="74:44" Type="Card" />
+        <Event Outcome="1" TeamId="1100" Time="76:31" Type="Try" />
+        <Event Outcome="1" TeamId="1100" Time="76:58" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="77:38" Type="Card" />
+      </Events>
+    </Meeting>
+    <Meeting AwayScore="15" AwayTeam="1550" AwayTeamName="Wasps" GameDate="2014-04-12 15:00:00" GameId="114192" HomeScore="27" HomeTeam="1250" HomeTeamName="Leicester" Status="Result" VenueName="Welford Road">
+      <Events>
+        <Event Outcome="1" TeamId="1550" Time="3:12" Type="Penalty goal" />
+        <Event Outcome="0" TeamId="1250" Time="14:44" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1250" Time="18:52" Type="Try" />
+        <Event Outcome="1" TeamId="1250" Time="19:14" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="27:40" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="28:57" Type="Conversion" />
+        <Event Outcome="1" TeamId="1250" Time="40:51" Type="Try" />
+        <Event Outcome="1" TeamId="1250" Time="41:58" Type="Conversion" />
+        <Event Outcome="1" TeamId="1250" Time="47:38" Type="Try" />
+        <Event Outcome="0" TeamId="1250" Time="49:2" Type="Conversion" />
+        <Event Outcome="1" TeamId="1250" Time="64:35" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1550" Time="71:46" Type="Try" />
+        <Event Outcome="0" TeamId="1550" Time="72:30" Type="Conversion" />
+        <Event Outcome="1" TeamId="1250" Time="77:2" Type="Try" />
+        <Event Outcome="0" TeamId="1250" Time="78:16" Type="Conversion" />
+      </Events>
+    </Meeting>
+  </RecentHomeTeamsGames>
+  <RecentMeetings>
+    <Meeting AwayScore="25" AwayTeam="1550" AwayTeamName="Wasps" GameDate="2014-02-22 14:00:00" GameId="114151" HomeScore="32" HomeTeam="1000" HomeTeamName="Bath" Status="Result" VenueName="Recreation Ground">
+      <Events>
+        <Event Outcome="1" TeamId="1000" Time="1:25" Type="Penalty goal" />
+        <Event Outcome="0" TeamId="1000" Time="6:17" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="11:10" Type="Try" />
+        <Event Outcome="0" TeamId="1000" Time="12:22" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="15:49" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1550" Time="22:42" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="26:10" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="27:47" Type="Try" />
+        <Event Outcome="1" TeamId="1000" Time="28:37" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="33:2" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="33:35" Type="Conversion" />
+        <Event Outcome="1" TeamId="1000" Time="34:52" Type="Try" />
+        <Event Outcome="1" TeamId="1000" Time="35:53" Type="Conversion" />
+        <Event Outcome="0" TeamId="1550" Time="40:40" Type="Penalty goal" />
+        <Event Outcome="0" TeamId="1550" Time="46:32" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1550" Time="48:26" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="49:14" Type="Conversion" />
+        <Event Outcome="1" TeamId="1000" Time="53:30" Type="Try" />
+        <Event Outcome="1" TeamId="1000" Time="54:56" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="60:57" Type="Try" />
+        <Event Outcome="0" TeamId="1550" Time="61:56" Type="Conversion" />
+        <Event Outcome="0" TeamId="1000" Time="67:20" Type="Penalty goal" />
+      </Events>
+    </Meeting>
+    <Meeting AwayScore="28" AwayTeam="1000" AwayTeamName="Bath" GameDate="2013-11-24 14:00:00" GameId="114084" HomeScore="5" HomeTeam="1550" HomeTeamName="Wasps" Status="Result" VenueName="Adams Park">
+      <Events>
+        <Event Outcome="1" TeamId="1000" Time="3:41" Type="Penalty goal" />
+        <Event Outcome="0" TeamId="1550" Time="6:39" Type="Penalty goal" />
+        <Event Outcome="0" TeamId="1550" Time="8:2" Type="Penalty goal" />
+        <Event Outcome="0" TeamId="1000" Time="14:19" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="26:35" Type="Drop goal" />
+        <Event Outcome="1" TeamId="1550" Time="35:31" Type="Card" />
+        <Event Outcome="1" TeamId="1000" Time="37:43" Type="Try" />
+        <Event Outcome="0" TeamId="1000" Time="39:3" Type="Conversion" />
+        <Event Outcome="0" TeamId="1550" Time="44:9" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="57:42" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="59:45" Type="Try" />
+        <Event Outcome="1" TeamId="1000" Time="61:3" Type="Conversion" />
+        <Event Outcome="0" TeamId="1000" Time="63:33" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1550" Time="68:42" Type="Try" />
+        <Event Outcome="0" TeamId="1550" Time="69:28" Type="Conversion" />
+        <Event Outcome="0" TeamId="1000" Time="74:4" Type="Drop goal" />
+        <Event Outcome="0" TeamId="1000" Time="74:41" Type="Drop goal" />
+        <Event Outcome="1" TeamId="1000" Time="76:16" Type="Try" />
+        <Event Outcome="1" TeamId="1000" Time="76:51" Type="Conversion" />
+      </Events>
+    </Meeting>
+    <Meeting AwayScore="15" AwayTeam="1000" AwayTeamName="Bath" GameDate="2013-01-06 15:00:00" GameId="113133" HomeScore="29" HomeTeam="1550" HomeTeamName="Wasps" Status="Result" VenueName="Adams Park">
+      <Events>
+        <Event Outcome="1" TeamId="1000" Time="1:0" Type="Try" />
+        <Event Outcome="0" TeamId="1000" Time="1:36" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="3:53" Type="Penalty goal" />
+        <Event Outcome="0" TeamId="1550" Time="6:14" Type="Card" />
+        <Event Outcome="0" TeamId="1550" Time="12:2" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="14:36" Type="Try" />
+        <Event Outcome="1" TeamId="1000" Time="15:41" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="21:14" Type="Penalty goal" />
+        <Event Outcome="0" TeamId="1000" Time="24:16" Type="Card" />
+        <Event Outcome="1" TeamId="1550" Time="24:48" Type="Penalty goal" />
+        <Event Outcome="0" TeamId="1000" Time="27:46" Type="Penalty goal" />
+        <Event Outcome="0" TeamId="1550" Time="34:24" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1550" Time="39:5" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="40:8" Type="Conversion" />
+        <Event Outcome="1" TeamId="1000" Time="42:14" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1550" Time="54:10" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1550" Time="61:14" Type="Penalty goal" />
+        <Event Outcome="0" TeamId="1550" Time="68:38" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1550" Time="72:0" Type="Try" />
+        <Event Outcome="0" TeamId="1000" Time="72:0" Type="Card" />
+        <Event Outcome="1" TeamId="1550" Time="72:19" Type="Conversion" />
+      </Events>
+    </Meeting>
+    <Meeting AwayScore="23" AwayTeam="1550" AwayTeamName="Wasps" GameDate="2012-09-08 14:15:00" GameId="113021" HomeScore="30" HomeTeam="1000" HomeTeamName="Bath" Status="Result" VenueName="Recreation Ground">
+      <Events>
+        <Event Outcome="1" TeamId="1000" Time="4:30" Type="Penalty goal" />
+        <Event Outcome="0" TeamId="1550" Time="11:59" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1550" Time="15:12" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="24:37" Type="Try" />
+        <Event Outcome="1" TeamId="1000" Time="25:59" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="40:22" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="42:42" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="43:58" Type="Try" />
+        <Event Outcome="1" TeamId="1000" Time="45:19" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="46:59" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="48:19" Type="Conversion" />
+        <Event Outcome="1" TeamId="1000" Time="65:5" Type="Try" />
+        <Event Outcome="1" TeamId="1000" Time="66:12" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="71:34" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="72:7" Type="Conversion" />
+        <Event Outcome="1" TeamId="1000" Time="79:44" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1550" Time="81:40" Type="Penalty goal" />
+      </Events>
+    </Meeting>
+    <Meeting AwayScore="12" AwayTeam="1550" AwayTeamName="Wasps" GameDate="2012-04-21 14:15:00" GameId="22212" HomeScore="17" HomeTeam="1000" HomeTeamName="Bath" Status="Result" VenueName="Recreation Ground">
+      <Events>
+        <Event Outcome="1" TeamId="1550" Time="13:59" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1550" Time="28:44" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1550" Time="34:59" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="47:32" Type="Try" />
+        <Event Outcome="0" TeamId="1000" Time="49:14" Type="Conversion" />
+        <Event Outcome="1" TeamId="1000" Time="53:33" Type="Try" />
+        <Event Outcome="1" TeamId="1000" Time="54:37" Type="Conversion" />
+        <Event Outcome="0" TeamId="1550" Time="68:16" Type="Card" />
+        <Event Outcome="0" TeamId="1000" Time="69:35" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="72:29" Type="Try" />
+        <Event Outcome="0" TeamId="1000" Time="73:38" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="75:30" Type="Penalty goal" />
+      </Events>
+    </Meeting>
+    <Meeting AwayScore="24" AwayTeam="1000" AwayTeamName="Bath" GameDate="2011-10-09 15:00:00" GameId="21366" HomeScore="27" HomeTeam="1550" HomeTeamName="Wasps" Status="Result" VenueName="Adams Park">
+      <Events>
+        <Event Outcome="1" TeamId="1000" Time="1:22" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1550" Time="3:46" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1550" Time="11:54" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1550" Time="18:9" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="18:40" Type="Conversion" />
+        <Event Outcome="1" TeamId="1000" Time="21:43" Type="Try" />
+        <Event Outcome="1" TeamId="1000" Time="22:2" Type="Conversion" />
+        <Event Outcome="1" TeamId="1000" Time="30:56" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1550" Time="32:40" Type="Try" />
+        <Event Outcome="0" TeamId="1550" Time="33:40" Type="Conversion" />
+        <Event Outcome="1" TeamId="1000" Time="43:50" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1550" Time="45:13" Type="Penalty goal" />
+        <Event Outcome="0" TeamId="1000" Time="55:6" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="58:8" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1550" Time="60:10" Type="Penalty goal" />
+        <Event Outcome="0" TeamId="1550" Time="60:40" Type="Drop goal" />
+        <Event Outcome="1" TeamId="1550" Time="62:44" Type="Penalty goal" />
+        <Event Outcome="0" TeamId="1550" Time="66:38" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1000" Time="72:0" Type="Try" />
+        <Event Outcome="0" TeamId="1000" Time="72:30" Type="Conversion" />
+        <Event Outcome="0" TeamId="1550" Time="80:30" Type="Penalty goal" />
+      </Events>
+    </Meeting>
+  </RecentMeetings>
+  <Team id="1550">
+    <Form>
+      <Stat Type="LastSixResults">20-16,28-34,13-74,44-38,38-30,15-27</Stat>
+      <Stat Type="LastSixAway">LLLWLL</Stat>
+      <Stat Type="LastSixHome">WWWLLL</Stat>
+      <Stat Type="LastSixGames">WLLWWL</Stat>
+    </Form>
+  </Team>
+  <Team id="1000">
+    <Form>
+      <Stat Type="LastSixResults">53-26,29-20,16-19,19-19,32-20,18-17</Stat>
+      <Stat Type="LastSixAway">WLWWWD</Stat>
+      <Stat Type="LastSixHome">WDWLLW</Stat>
+      <Stat Type="LastSixGames">WWLDWW</Stat>
+    </Form>
+  </Team>
+</Betting_Feed>

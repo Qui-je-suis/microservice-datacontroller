@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Copyright 2001-2011 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        jobqueue03.sportingstatz.com
+     production time:    20110703T154444,264Z
+     production module:  Opta::Feed::XML::RugbyLeague::RL25
+-->
+<comp id="1" name="Super League" season="Season 2011" season_id="2011">
+  <teams>
+    <team id="350" name="St Helens">
+      <player id="384" firstname="Adrian" firsttry="0" knownname="Adrian Gardner" lasttry="1" position="OUTSIDE BACK" scoring_matches="7" squadno="2" starter="15" sub="0" surname="Gardner" tries="8" />
+      <player id="1043" firstname="Jon" firsttry="0" knownname="Jon Wilkin" lasttry="0" position="BACK ROW" scoring_matches="2" squadno="12" starter="14" sub="2" surname="Wilkin" tries="2" />
+      <player id="3245" firstname="Scott" firsttry="0" knownname="Scott Hale" lasttry="0" position="BACK ROW" scoring_matches="0" squadno="29" starter="0" sub="1" surname="Hale" tries="0" />
+      <player id="942" firstname="Josh" firsttry="0" knownname="Josh Perry" lasttry="0" position="PROP" scoring_matches="0" squadno="8" starter="7" sub="4" surname="Perry" tries="0" />
+      <player id="2519" firstname="Andrew" firsttry="0" knownname="Andrew Dixon" lasttry="0" position="BACK ROW" scoring_matches="0" squadno="19" starter="0" sub="9" surname="Dixon" tries="0" />
+      <player id="3223" firstname="Tom" firsttry="1" knownname="Tom Armstrong" lasttry="0" position="OUTSIDE BACK" scoring_matches="1" squadno="24" starter="1" sub="2" surname="Armstrong" tries="2" />
+      <player id="351" firstname="Paul" firsttry="0" knownname="Paul Wellens" lasttry="0" position="OUTSIDE BACK" scoring_matches="6" squadno="1" starter="17" sub="0" surname="Wellens" tries="7" />
+      <player id="1996" firstname="Michael" firsttry="1" knownname="Michael Shenton" lasttry="0" position="OUTSIDE BACK" scoring_matches="6" squadno="3" starter="18" sub="0" surname="Shenton" tries="6" />
+      <player id="1815" firstname="Scott" firsttry="0" knownname="Scott Moore" lasttry="0" position="HOOKER" scoring_matches="1" squadno="14" starter="2" sub="11" surname="Moore" tries="1" />
+      <player id="3246" firstname="Thomas" firsttry="0" knownname="Thomas Makinson" lasttry="2" position="OUTSIDE BACK" scoring_matches="5" squadno="28" starter="6" sub="5" surname="Makinson" tries="5" />
+      <player id="10622" firstname="Lee" firsttry="0" knownname="Lee Gaskell" lasttry="2" position="HALF BACK" scoring_matches="6" squadno="25" starter="14" sub="1" surname="Gaskell" tries="6" />
+      <player id="11125" firstname="Nathan" firsttry="0" knownname="Nathan Ashe" lasttry="0" position="OUTSIDE BACK" scoring_matches="0" squadno="27" starter="1" sub="1" surname="Ashe" tries="0" />
+      <player id="2517" firstname="Jamie" firsttry="3" knownname="Jamie Foster" lasttry="1" position="OUTSIDE BACK" scoring_matches="8" squadno="22" starter="16" sub="3" surname="Foster" tries="13" />
+      <player id="1885" firstname="James" firsttry="1" knownname="James Graham" lasttry="0" position="PROP" scoring_matches="5" squadno="10" starter="19" sub="0" surname="Graham" tries="5" />
+      <player id="3" firstname="Leon" firsttry="0" knownname="Leon Pryce" lasttry="0" position="HALF BACK" scoring_matches="0" squadno="6" starter="1" sub="0" surname="Pryce" tries="0" />
+      <player id="2844" firstname="Kyle" firsttry="0" knownname="Kyle Eastmond" lasttry="0" position="HALF BACK" scoring_matches="1" squadno="7" starter="7" sub="5" surname="Eastmond" tries="2" />
+      <player id="1810" firstname="Paul" firsttry="0" knownname="Paul Clough" lasttry="0" position="BACK ROW" scoring_matches="1" squadno="16" starter="2" sub="4" surname="Clough" tries="1" />
+      <player id="970" firstname="Chris" firsttry="3" knownname="Chris Flannery" lasttry="0" position="BACK ROW" scoring_matches="5" squadno="13" starter="11" sub="2" surname="Flannery" tries="5" />
+      <player id="3107" firstname="Jonathan" firsttry="1" knownname="Jonathan Lomax" lasttry="0" position="HALF BACK" scoring_matches="6" squadno="20" starter="18" sub="0" surname="Lomax" tries="6" />
+      <player id="4901" firstname="Mat" firsttry="0" knownname="Mat Ashurst" lasttry="0" position="BACK ROW" scoring_matches="1" squadno="18" starter="3" sub="7" surname="Ashurst" tries="1" />
+      <player id="1983" firstname="James" firsttry="0" knownname="James Roby" lasttry="1" position="HOOKER" scoring_matches="5" squadno="9" starter="20" sub="0" surname="Roby" tries="5" />
+      <player id="1201" firstname="Tony" firsttry="0" knownname="Tony Puletua" lasttry="1" position="BACK ROW" scoring_matches="5" squadno="11" starter="15" sub="3" surname="Puletua" tries="6" />
+      <player id="2365" firstname="Iosia" firsttry="0" knownname="Iosia Soliola" lasttry="0" position="OUTSIDE BACK" scoring_matches="1" squadno="4" starter="17" sub="0" surname="Soliola" tries="1" />
+      <player id="2846" firstname="Sean" firsttry="0" knownname="Sean Magennis" lasttry="0" position="BACK ROW" scoring_matches="0" squadno="21" starter="2" sub="12" surname="Magennis" tries="0" />
+      <player id="1130" firstname="Francis" firsttry="0" knownname="Francis Meli" lasttry="2" position="OUTSIDE BACK" scoring_matches="7" squadno="5" starter="16" sub="0" surname="Meli" tries="8" />
+      <player id="2427" firstname="Louie" firsttry="1" knownname="Louie McCarthy-Scarsbrook" lasttry="0" position="PROP" scoring_matches="3" squadno="15" starter="13" sub="4" surname="McCarthy-Scarsbrook" tries="4" />
+      <player id="2220" firstname="Gary" firsttry="0" knownname="Gary Wheeler" lasttry="0" position="HALF BACK" scoring_matches="1" squadno="17" starter="5" sub="2" surname="Wheeler" tries="1" />
+    </team>
+    <team id="50" name="Castleford">
+      <player id="2784" firstname="Rangi" firsttry="1" knownname="Rangi Chase" lasttry="1" position="HALF BACK" scoring_matches="7" squadno="6" starter="18" sub="1" surname="Chase" tries="10" />
+      <player id="546" firstname="Nick" firsttry="0" knownname="Nick Fozzard" lasttry="0" position="PROP" scoring_matches="0" squadno="19" starter="5" sub="9" surname="Fozzard" tries="0" />
+      <player id="1927" firstname="Brett" firsttry="0" knownname="Brett Ferres" lasttry="0" position="BACK ROW" scoring_matches="3" squadno="13" starter="18" sub="1" surname="Ferres" tries="3" />
+      <player id="3254" firstname="Jordan" firsttry="0" knownname="Jordan Thompson" lasttry="0" position="UTILITY" scoring_matches="4" squadno="22" starter="7" sub="1" surname="Thompson" tries="4" />
+      <player id="2072" firstname="Nick" firsttry="2" knownname="Nick Youngquest" lasttry="0" position="OUTSIDE BACK" scoring_matches="6" squadno="3" starter="8" sub="0" surname="Youngquest" tries="8" />
+      <player id="583" firstname="Stuart" firsttry="0" knownname="Stuart Jones" lasttry="0" position="BACK ROW" scoring_matches="2" squadno="14" starter="14" sub="0" surname="Jones" tries="2" />
+      <player id="11352" firstname="Greg" firsttry="0" knownname="Greg Eden" lasttry="0" position="OUTSIDE BACK" scoring_matches="1" squadno="28" starter="1" sub="0" surname="Eden" tries="1" />
+      <player id="3249" firstname="Nathan" firsttry="0" knownname="Nathan Massey" lasttry="0" position="PROP" scoring_matches="0" squadno="21" starter="1" sub="4" surname="Massey" tries="0" />
+      <player id="27" firstname="Robert" firsttry="0" knownname="Robert Parker" lasttry="0" position="BACK ROW" scoring_matches="2" squadno="0" starter="1" sub="3" surname="Parker" tries="2" />
+      <player id="479" firstname="Steve" firsttry="0" knownname="Steve Snitch" lasttry="0" position="BACK ROW" scoring_matches="0" squadno="12" starter="6" sub="2" surname="Snitch" tries="0" />
+      <player id="2058" firstname="Kirk" firsttry="1" knownname="Kirk Dixon" lasttry="1" position="OUTSIDE BACK" scoring_matches="5" squadno="2" starter="18" sub="0" surname="Dixon" tries="6" />
+      <player id="2216" firstname="Richard" firsttry="1" knownname="Richard Owen" lasttry="2" position="OUTSIDE BACK" scoring_matches="6" squadno="5" starter="12" sub="0" surname="Owen" tries="9" />
+      <player id="3147" firstname="Adam" firsttry="0" knownname="Adam Milner" lasttry="0" position="HOOKER" scoring_matches="2" squadno="16" starter="10" sub="3" surname="Milner" tries="2" />
+      <player id="458" firstname="Paul" firsttry="0" knownname="Paul Jackson" lasttry="0" position="PROP" scoring_matches="1" squadno="8" starter="12" sub="5" surname="Jackson" tries="1" />
+      <player id="3257" firstname="Jonathon" firsttry="0" knownname="Jonathon Walker" lasttry="0" position="PROP" scoring_matches="0" squadno="15" starter="0" sub="5" surname="Walker" tries="0" />
+      <player id="1117" firstname="Dean" firsttry="0" knownname="Dean Widders" lasttry="1" position="BACK ROW" scoring_matches="5" squadno="25" starter="1" sub="14" surname="Widders" tries="6" />
+      <player id="2886" firstname="William" firsttry="0" knownname="William Isa" lasttry="0" position="OUTSIDE BACK" scoring_matches="2" squadno="17" starter="3" sub="1" surname="Isa" tries="3" />
+      <player id="465" firstname="Ryan" firsttry="0" knownname="Ryan Hudson" lasttry="0" position="HOOKER" scoring_matches="1" squadno="9" starter="10" sub="1" surname="Hudson" tries="1" />
+      <player id="3248" firstname="Joe" firsttry="1" knownname="Joe Arundel" lasttry="1" position="UTILITY" scoring_matches="7" squadno="4" starter="19" sub="0" surname="Arundel" tries="9" />
+      <player id="619" firstname="Richard" firsttry="1" knownname="Richard Mathers" lasttry="1" position="OUTSIDE BACK" scoring_matches="6" squadno="1" starter="19" sub="0" surname="Mathers" tries="6" />
+      <player id="56" firstname="Danny" firsttry="0" knownname="Danny Orr" lasttry="1" position="HALF BACK" scoring_matches="3" squadno="7" starter="19" sub="0" surname="Orr" tries="3" />
+      <player id="1858" firstname="Craig" firsttry="0" knownname="Craig Huby" lasttry="0" position="PROP" scoring_matches="1" squadno="10" starter="9" sub="2" surname="Huby" tries="1" />
+      <player id="10953" firstname="Daryl" firsttry="0" knownname="Daryl Clark" lasttry="1" position="HOOKER" scoring_matches="6" squadno="27" starter="0" sub="14" surname="Clark" tries="7" />
+      <player id="1179" firstname="Ryan" firsttry="0" knownname="Ryan McGoldrick" lasttry="0" position="HALF BACK" scoring_matches="0" squadno="23" starter="5" sub="1" surname="McGoldrick" tries="0" />
+      <player id="3256" firstname="Oliver" firsttry="1" knownname="Oliver Holmes" lasttry="0" position="BACK ROW" scoring_matches="1" squadno="24" starter="9" sub="2" surname="Holmes" tries="1" />
+      <player id="574" firstname="Martin" firsttry="0" knownname="Martin Aspinwall" lasttry="0" position="OUTSIDE BACK" scoring_matches="2" squadno="20" starter="9" sub="5" surname="Aspinwall" tries="2" />
+      <player id="2184" firstname="Jacob" firsttry="0" knownname="Jacob Emmitt" lasttry="0" position="PROP" scoring_matches="0" squadno="11" starter="14" sub="5" surname="Emmitt" tries="0" />
+    </team>
+    <team id="7400" name="Bradford">
+      <player id="516" firstname="Ian" firsttry="0" knownname="Ian Sibbit" lasttry="0" position="BACK ROW" scoring_matches="0" squadno="17" starter="6" sub="4" surname="Sibbit" tries="0" />
+      <player id="2835" firstname="Marc" firsttry="0" knownname="Marc Herbert" lasttry="0" position="HALF BACK" scoring_matches="2" squadno="7" starter="15" sub="0" surname="Herbert" tries="3" />
+      <player id="3146" firstname="James" firsttry="0" knownname="James Donaldson" lasttry="0" position="BACK ROW" scoring_matches="0" squadno="20" starter="4" sub="5" surname="Donaldson" tries="0" />
+      <player id="67" firstname="Andy" firsttry="2" knownname="Andy Lynch" lasttry="1" position="PROP" scoring_matches="8" squadno="10" starter="20" sub="0" surname="Lynch" tries="8" />
+      <player id="32" firstname="Jamie" firsttry="0" knownname="Jamie Langley" lasttry="0" position="BACK ROW" scoring_matches="0" squadno="13" starter="8" sub="1" surname="Langley" tries="0" />
+      <player id="2382" firstname="Craig" firsttry="0" knownname="Craig Kopczak" lasttry="0" position="PROP" scoring_matches="2" squadno="16" starter="9" sub="11" surname="Kopczak" tries="4" />
+      <player id="10873" firstname="Danny" firsttry="0" knownname="Danny Addy" lasttry="0" position="BACK ROW" scoring_matches="0" squadno="21" starter="1" sub="6" surname="Addy" tries="0" />
+      <player id="26" firstname="Paul" firsttry="1" knownname="Paul Sykes" lasttry="0" position="OUTSIDE BACK" scoring_matches="3" squadno="3" starter="10" sub="0" surname="Sykes" tries="3" />
+      <player id="2018" firstname="Bryn" firsttry="0" knownname="Bryn Hargreaves" lasttry="0" position="PROP" scoring_matches="0" squadno="15" starter="12" sub="4" surname="Hargreaves" tries="0" />
+      <player id="10147" firstname="Elliot" firsttry="0" knownname="Elliot Whitehead" lasttry="0" position="BACK ROW" scoring_matches="4" squadno="12" starter="17" sub="2" surname="Whitehead" tries="6" />
+      <player id="1045" firstname="Nick" firsttry="0" knownname="Nick Scruton" lasttry="0" position="PROP" scoring_matches="1" squadno="8" starter="1" sub="8" surname="Scruton" tries="2" />
+      <player id="10273" firstname="John" firsttry="0" knownname="John Bateman" lasttry="0" position="BACK ROW" scoring_matches="0" squadno="31" starter="1" sub="0" surname="Bateman" tries="0" />
+      <player id="2723" firstname="Patrick" firsttry="1" knownname="Patrick Ah Van" lasttry="0" position="OUTSIDE BACK" scoring_matches="5" squadno="5" starter="19" sub="0" surname="Ah Van" tries="6" />
+      <player id="84" firstname="Olivier" firsttry="1" knownname="Olivier Elima" lasttry="1" position="BACK ROW" scoring_matches="5" squadno="11" starter="18" sub="0" surname="Elima" tries="7" />
+      <player id="221" firstname="Gareth" firsttry="0" knownname="Gareth Raynor" lasttry="2" position="OUTSIDE BACK" scoring_matches="3" squadno="19" starter="12" sub="0" surname="Raynor" tries="3" />
+      <player id="2630" firstname="Brett" firsttry="0" knownname="Brett Kearney" lasttry="0" position="HALF BACK" scoring_matches="2" squadno="6" starter="15" sub="0" surname="Kearney" tries="2" />
+      <player id="3251" firstname="Thomas" firsttry="0" knownname="Thomas Burgess" lasttry="0" position="PROP" scoring_matches="1" squadno="29" starter="0" sub="11" surname="Burgess" tries="1" />
+      <player id="6494" firstname="Adam" firsttry="0" knownname="Adam O'Brien" lasttry="0" position="HOOKER" scoring_matches="0" squadno="27" starter="0" sub="1" surname="O'Brien" tries="0" />
+      <player id="273" firstname="Matthew" firsttry="0" knownname="Matthew Diskin" lasttry="0" position="HOOKER" scoring_matches="3" squadno="14" starter="14" sub="6" surname="Diskin" tries="3" />
+      <player id="2518" firstname="Shaun" firsttry="1" knownname="Shaun Ainscough" lasttry="1" position="OUTSIDE BACK" scoring_matches="4" squadno="18" starter="9" sub="0" surname="Ainscough" tries="5" />
+      <player id="429" firstname="Michael" firsttry="0" knownname="Michael Platt" lasttry="0" position="OUTSIDE BACK" scoring_matches="0" squadno="1" starter="13" sub="2" surname="Platt" tries="0" />
+      <player id="1686" firstname="Heath" firsttry="0" knownname="Heath L'Estrange" lasttry="1" position="HOOKER" scoring_matches="3" squadno="9" starter="6" sub="8" surname="L'Estrange" tries="3" />
+      <player id="1719" firstname="Ben" firsttry="0" knownname="Ben Jeffries" lasttry="0" position="HALF BACK" scoring_matches="4" squadno="33" starter="12" sub="0" surname="Jeffries" tries="5" />
+      <player id="265" firstname="Chev" firsttry="0" knownname="Chev Walker" lasttry="0" position="OUTSIDE BACK" scoring_matches="1" squadno="4" starter="9" sub="0" surname="Walker" tries="1" />
+      <player id="3112" firstname="Tom" firsttry="0" knownname="Tom Olbison" lasttry="0" position="BACK ROW" scoring_matches="1" squadno="23" starter="9" sub="6" surname="Olbison" tries="1" />
+      <player id="3066" firstname="Shad" firsttry="0" knownname="Shad Royston" lasttry="0" position="OUTSIDE BACK" scoring_matches="5" squadno="25" starter="15" sub="0" surname="Royston" tries="8" />
+    </team>
+    <team id="7250" name="Crusaders">
+      <player id="3237" firstname="Ben" firsttry="0" knownname="Ben Flower" lasttry="1" position="BACK ROW" scoring_matches="2" squadno="16" starter="8" sub="9" surname="Flower" tries="2" />
+      <player id="1826" firstname="Jordan" firsttry="1" knownname="Jordan Tansey" lasttry="0" position="OUTSIDE BACK" scoring_matches="4" squadno="27" starter="11" sub="3" surname="Tansey" tries="4" />
+      <player id="342" firstname="Richard" firsttry="0" knownname="Richard Moore" lasttry="0" position="PROP" scoring_matches="0" squadno="22" starter="9" sub="7" surname="Moore" tries="0" />
+      <player id="565" firstname="Paul" firsttry="0" knownname="Paul Johnson" lasttry="0" position="BACK ROW" scoring_matches="0" squadno="21" starter="6" sub="2" surname="Johnson" tries="0" />
+      <player id="2043" firstname="Vince" firsttry="0" knownname="Vince Mellars" lasttry="0" position="OUTSIDE BACK" scoring_matches="3" squadno="4" starter="16" sub="0" surname="Mellars" tries="4" />
+      <player id="438" firstname="Stuart" firsttry="0" knownname="Stuart Reardon" lasttry="2" position="OUTSIDE BACK" scoring_matches="5" squadno="5" starter="18" sub="0" surname="Reardon" tries="7" />
+      <player id="2007" firstname="Ryan" firsttry="0" knownname="Ryan O'Hara" lasttry="0" position="PROP" scoring_matches="1" squadno="8" starter="13" sub="7" surname="O'Hara" tries="1" />
+      <player id="3218" firstname="Jarrod" firsttry="1" knownname="Jarrod Sammut" lasttry="0" position="OUTSIDE BACK" scoring_matches="9" squadno="7" starter="6" sub="13" surname="Sammut" tries="10" />
+      <player id="6051" firstname="Rhys" firsttry="1" knownname="Rhys Hanbury" lasttry="1" position="OUTSIDE BACK" scoring_matches="4" squadno="17" starter="9" sub="0" surname="Hanbury" tries="4" />
+      <player id="5060" firstname="Hep" firsttry="0" knownname="Hep Cahill" lasttry="0" position="BACK ROW" scoring_matches="2" squadno="11" starter="12" sub="0" surname="Cahill" tries="2" />
+      <player id="2480" firstname="Jamie" firsttry="0" knownname="Jamie Murphy" lasttry="0" position="HALF BACK" scoring_matches="0" squadno="25" starter="0" sub="2" surname="Murphy" tries="0" />
+      <player id="10513" firstname="Elliott" firsttry="0" knownname="Elliott Kear" lasttry="0" position="OUTSIDE BACK" scoring_matches="1" squadno="18" starter="5" sub="1" surname="Kear" tries="1" />
+      <player id="10528" firstname="Lee" firsttry="0" knownname="Lee Williams" lasttry="0" position="OUTSIDE BACK" scoring_matches="0" squadno="24" starter="0" sub="1" surname="Williams" tries="0" />
+      <player id="2079" firstname="Lincoln" firsttry="0" knownname="Lincoln Withers" lasttry="0" position="HOOKER" scoring_matches="0" squadno="9" starter="13" sub="0" surname="Withers" tries="0" />
+      <player id="2574" firstname="Mark" firsttry="0" knownname="Mark Bryant" lasttry="0" position="PROP" scoring_matches="0" squadno="10" starter="13" sub="5" surname="Bryant" tries="0" />
+      <player id="2487" firstname="Gil" firsttry="0" knownname="Gil Dudson" lasttry="0" position="PROP" scoring_matches="0" squadno="20" starter="2" sub="6" surname="Dudson" tries="0" />
+      <player id="326" firstname="Peter" firsttry="1" knownname="Peter Lupton" lasttry="0" position="BACK ROW" scoring_matches="2" squadno="23" starter="10" sub="3" surname="Lupton" tries="2" />
+      <player id="303" firstname="Tony" firsttry="1" knownname="Tony Martin" lasttry="1" position="OUTSIDE BACK" scoring_matches="6" squadno="3" starter="17" sub="0" surname="Martin" tries="7" />
+      <player id="2087" firstname="Adam" firsttry="0" knownname="Adam Peek" lasttry="0" position="PROP" scoring_matches="0" squadno="14" starter="0" sub="3" surname="Peek" tries="0" />
+      <player id="10814" firstname="Gareth" firsttry="0" knownname="Gareth Thomas" lasttry="1" position="OUTSIDE BACK" scoring_matches="4" squadno="2" starter="16" sub="0" surname="Thomas" tries="4" />
+      <player id="10431" firstname="Lloyd" firsttry="0" knownname="Lloyd White" lasttry="1" position="HALF BACK" scoring_matches="3" squadno="19" starter="8" sub="4" surname="White" tries="3" />
+      <player id="2091" firstname="Jordan" firsttry="0" knownname="Jordan James" lasttry="0" position="PROP" scoring_matches="1" squadno="15" starter="1" sub="8" surname="James" tries="1" />
+      <player id="10119" firstname="Jason" firsttry="1" knownname="Jason Chan" lasttry="0" position="BACK ROW" scoring_matches="2" squadno="12" starter="17" sub="1" surname="Chan" tries="2" />
+      <player id="960" firstname="Clinton" firsttry="0" knownname="Clinton Schifcofske" lasttry="0" position="OUTSIDE BACK" scoring_matches="2" squadno="1" starter="17" sub="0" surname="Schifcofske" tries="2" />
+      <player id="2084" firstname="Michael" firsttry="0" knownname="Michael Witt" lasttry="0" position="HALF BACK" scoring_matches="5" squadno="6" starter="19" sub="0" surname="Witt" tries="7" />
+      <player id="2278" firstname="Frank" firsttry="0" knownname="Frank Winterstein" lasttry="0" position="PROP" scoring_matches="0" squadno="13" starter="8" sub="4" surname="Winterstein" tries="0" />
+    </team>
+    <team id="3600" name="Hull Kingston Rovers">
+      <player id="4873" firstname="Kris" firsttry="2" knownname="Kris Welham" lasttry="2" position="OUTSIDE BACK" scoring_matches="12" squadno="3" starter="20" sub="0" surname="Welham" tries="20" />
+      <player id="1921" firstname="Scott" firsttry="0" knownname="Scott Murrell" lasttry="0" position="UTILITY" scoring_matches="4" squadno="13" starter="18" sub="1" surname="Murrell" tries="4" />
+      <player id="10740" firstname="Sam" firsttry="0" knownname="Sam Latus" lasttry="0" position="OUTSIDE BACK" scoring_matches="1" squadno="21" starter="4" sub="2" surname="Latus" tries="1" />
+      <player id="2772" firstname="Ben" firsttry="0" knownname="Ben Cockayne" lasttry="0" position="OUTSIDE BACK" scoring_matches="4" squadno="28" starter="11" sub="6" surname="Cockayne" tries="5" />
+      <player id="3196" firstname="Josh" firsttry="0" knownname="Josh Hodgson" lasttry="0" position="HOOKER" scoring_matches="0" squadno="18" starter="13" sub="7" surname="Hodgson" tries="0" />
+      <player id="2357" firstname="Jake" firsttry="2" knownname="Jake Webster" lasttry="0" position="OUTSIDE BACK" scoring_matches="6" squadno="4" starter="14" sub="0" surname="Webster" tries="8" />
+      <player id="2129" firstname="Scott" firsttry="0" knownname="Scott Wheeldon" lasttry="0" position="PROP" scoring_matches="0" squadno="15" starter="6" sub="7" surname="Wheeldon" tries="0" />
+      <player id="2277" firstname="Rhys" firsttry="0" knownname="Rhys Lovegrove" lasttry="0" position="PROP" scoring_matches="0" squadno="8" starter="6" sub="9" surname="Lovegrove" tries="0" />
+      <player id="929" firstname="Michael" firsttry="0" knownname="Michael Vella" lasttry="0" position="PROP" scoring_matches="1" squadno="20" starter="16" sub="0" surname="Vella" tries="1" />
+      <player id="1203" firstname="Joel" firsttry="0" knownname="Joel Clinton" lasttry="0" position="PROP" scoring_matches="0" squadno="10" starter="8" sub="4" surname="Clinton" tries="0" />
+      <player id="2438" firstname="Craig" firsttry="0" knownname="Craig Hall" lasttry="0" position="OUTSIDE BACK" scoring_matches="3" squadno="19" starter="10" sub="0" surname="Hall" tries="4" />
+      <player id="2412" firstname="Peter" firsttry="0" knownname="Peter Fox" lasttry="1" position="OUTSIDE BACK" scoring_matches="2" squadno="2" starter="13" sub="0" surname="Fox" tries="4" />
+      <player id="2279" firstname="Michael" firsttry="0" knownname="Michael Dobson" lasttry="1" position="HALF BACK" scoring_matches="4" squadno="7" starter="12" sub="0" surname="Dobson" tries="4" />
+      <player id="6484" firstname="Louis" firsttry="0" knownname="Louis Sheriff" lasttry="0" position="OUTSIDE BACK" scoring_matches="1" squadno="26" starter="1" sub="0" surname="Sheriff" tries="1" />
+      <player id="10514" firstname="Scott" firsttry="0" knownname="Scott Taylor" lasttry="0" position="BACK ROW" scoring_matches="1" squadno="22" starter="1" sub="12" surname="Taylor" tries="1" />
+      <player id="2292" firstname="Ben" firsttry="1" knownname="Ben Galea" lasttry="0" position="BACK ROW" scoring_matches="6" squadno="12" starter="20" sub="0" surname="Galea" tries="7" />
+      <player id="1919" firstname="Matthew" firsttry="0" knownname="Matthew Cook" lasttry="0" position="BACK ROW" scoring_matches="3" squadno="17" starter="3" sub="4" surname="Cook" tries="3" />
+      <player id="4858" firstname="Richard" firsttry="0" knownname="Richard Beaumont" lasttry="0" position="PROP" scoring_matches="0" squadno="24" starter="0" sub="2" surname="Beaumont" tries="0" />
+      <player id="277" firstname="Jason" firsttry="0" knownname="Jason Netherton" lasttry="0" position="PROP" scoring_matches="0" squadno="16" starter="10" sub="6" surname="Netherton" tries="0" />
+      <player id="1997" firstname="Liam" firsttry="1" knownname="Liam Colbon" lasttry="1" position="OUTSIDE BACK" scoring_matches="4" squadno="5" starter="12" sub="0" surname="Colbon" tries="6" />
+      <player id="1048" firstname="Willie" firsttry="0" knownname="Willie Mason" lasttry="0" position="PROP" scoring_matches="1" squadno="23" starter="6" sub="0" surname="Mason" tries="1" />
+      <player id="2273" firstname="Blake" firsttry="1" knownname="Blake Green" lasttry="0" position="HALF BACK" scoring_matches="8" squadno="6" starter="20" sub="0" surname="Green" tries="9" />
+      <player id="2521" firstname="Liam" firsttry="0" knownname="Liam Watts" lasttry="0" position="PROP" scoring_matches="2" squadno="14" starter="6" sub="7" surname="Watts" tries="2" />
+      <player id="947" firstname="Clint" firsttry="0" knownname="Clint Newton" lasttry="0" position="BACK ROW" scoring_matches="4" squadno="11" starter="8" sub="2" surname="Newton" tries="6" />
+      <player id="584" firstname="Shaun" firsttry="0" knownname="Shaun Briscoe" lasttry="1" position="OUTSIDE BACK" scoring_matches="3" squadno="1" starter="15" sub="0" surname="Briscoe" tries="4" />
+      <player id="2777" firstname="Ben" firsttry="0" knownname="Ben Fisher" lasttry="1" position="HOOKER" scoring_matches="2" squadno="9" starter="7" sub="10" surname="Fisher" tries="2" />
+    </team>
+    <team id="250" name="Leeds">
+      <player id="271" firstname="Jamie" firsttry="0" knownname="Jamie Jones-Buchanan" lasttry="1" position="BACK ROW" scoring_matches="7" squadno="11" starter="20" sub="0" surname="Jones-Buchanan" tries="7" />
+      <player id="2422" firstname="Ian" firsttry="0" knownname="Ian Kirke" lasttry="0" position="BACK ROW" scoring_matches="1" squadno="17" starter="4" sub="13" surname="Kirke" tries="1" />
+      <player id="10800" firstname="Zak" firsttry="0" knownname="Zak Hardaker" lasttry="1" position="" scoring_matches="4" squadno="27" starter="7" sub="0" surname="Hardaker" tries="6" />
+      <player id="263" firstname="Kevin" firsttry="0" knownname="Kevin Sinfield" lasttry="0" position="BACK ROW" scoring_matches="1" squadno="13" starter="20" sub="0" surname="Sinfield" tries="1" />
+      <player id="3194" firstname="Chris" firsttry="1" knownname="Chris Clarkson" lasttry="0" position="UTILITY" scoring_matches="2" squadno="21" starter="9" sub="5" surname="Clarkson" tries="2" />
+      <player id="2610" firstname="Brett" firsttry="1" knownname="Brett Delaney" lasttry="1" position="OUTSIDE BACK" scoring_matches="2" squadno="3" starter="13" sub="0" surname="Delaney" tries="2" />
+      <player id="3195" firstname="Jay" firsttry="0" knownname="Jay Pitts" lasttry="0" position="BACK ROW" scoring_matches="0" squadno="22" starter="2" sub="6" surname="Pitts" tries="0" />
+      <player id="11286" firstname="George" firsttry="0" knownname="George Elliott" lasttry="0" position="OUTSIDE BACK" scoring_matches="0" squadno="32" starter="1" sub="0" surname="Elliott" tries="0" />
+      <player id="927" firstname="Danny" firsttry="0" knownname="Danny Buderus" lasttry="1" position="HOOKER" scoring_matches="4" squadno="9" starter="17" sub="2" surname="Buderus" tries="4" />
+      <player id="2918" firstname="Ryan" firsttry="2" knownname="Ryan Hall" lasttry="2" position="OUTSIDE BACK" scoring_matches="11" squadno="5" starter="19" sub="0" surname="Hall" tries="15" />
+      <player id="4883" firstname="Ben" firsttry="1" knownname="Ben Jones-Bishop" lasttry="1" position="OUTSIDE BACK" scoring_matches="3" squadno="23" starter="5" sub="1" surname="Jones-Bishop" tries="5" />
+      <player id="280" firstname="Danny" firsttry="0" knownname="Danny McGuire" lasttry="0" position="HALF BACK" scoring_matches="3" squadno="6" starter="5" sub="2" surname="McGuire" tries="3" />
+      <player id="1142" firstname="Brent" firsttry="1" knownname="Brent Webb" lasttry="0" position="OUTSIDE BACK" scoring_matches="5" squadno="1" starter="17" sub="0" surname="Webb" tries="5" />
+      <player id="1036" firstname="Ryan" firsttry="0" knownname="Ryan Bailey" lasttry="0" position="PROP" scoring_matches="0" squadno="16" starter="6" sub="5" surname="Bailey" tries="0" />
+      <player id="1926" firstname="Carl" firsttry="0" knownname="Carl Ablett" lasttry="0" position="BACK ROW" scoring_matches="2" squadno="12" starter="17" sub="0" surname="Ablett" tries="3" />
+      <player id="279" firstname="Rob" firsttry="0" knownname="Rob Burrow" lasttry="1" position="HALF BACK" scoring_matches="6" squadno="7" starter="18" sub="2" surname="Burrow" tries="6" />
+      <player id="10323" firstname="Brad" firsttry="0" knownname="Brad Singleton" lasttry="0" position="PROP" scoring_matches="0" squadno="28" starter="0" sub="1" surname="Singleton" tries="0" />
+      <player id="2805" firstname="Paul" firsttry="0" knownname="Paul McShane" lasttry="0" position="HOOKER" scoring_matches="4" squadno="24" starter="3" sub="11" surname="McShane" tries="4" />
+      <player id="254" firstname="Keith" firsttry="0" knownname="Keith Senior" lasttry="0" position="OUTSIDE BACK" scoring_matches="3" squadno="4" starter="14" sub="0" surname="Senior" tries="4" />
+      <player id="2960" firstname="Weller" firsttry="0" knownname="Weller Hauraki" lasttry="0" position="BACK ROW" scoring_matches="3" squadno="20" starter="8" sub="8" surname="Hauraki" tries="3" />
+      <player id="1212" firstname="Kylie" firsttry="0" knownname="Kylie Leuluai" lasttry="1" position="PROP" scoring_matches="3" squadno="8" starter="15" sub="1" surname="Leuluai" tries="3" />
+      <player id="3111" firstname="Kallum" firsttry="2" knownname="Kallum Watkins" lasttry="2" position="OUTSIDE BACK" scoring_matches="5" squadno="19" starter="11" sub="1" surname="Watkins" tries="9" />
+      <player id="1129" firstname="Ali" firsttry="0" knownname="Ali Lauitiiti" lasttry="2" position="BACK ROW" scoring_matches="2" squadno="14" starter="6" sub="4" surname="Lauitiiti" tries="2" />
+      <player id="19" firstname="Jamie" firsttry="0" knownname="Jamie Peacock" lasttry="0" position="PROP" scoring_matches="0" squadno="10" starter="7" sub="1" surname="Peacock" tries="0" />
+      <player id="1918" firstname="Lee" firsttry="2" knownname="Lee Smith" lasttry="0" position="OUTSIDE BACK" scoring_matches="4" squadno="2" starter="10" sub="1" surname="Smith" tries="4" />
+    </team>
+    <team id="400" name="Salford">
+      <player id="10625" firstname="Marc" firsttry="0" knownname="Marc Sneyd" lasttry="1" position="HALF BACK" scoring_matches="1" squadno="23" starter="1" sub="9" surname="Sneyd" tries="1" />
+      <player id="2769" firstname="Luke" firsttry="0" knownname="Luke Adamson" lasttry="2" position="BACK ROW" scoring_matches="2" squadno="15" starter="15" sub="4" surname="Adamson" tries="2" />
+      <player id="3174" firstname="Stefan" firsttry="2" knownname="Stefan Ratchford" lasttry="0" position="HALF BACK" scoring_matches="9" squadno="6" starter="19" sub="1" surname="Ratchford" tries="11" />
+      <player id="1961" firstname="Chris" firsttry="0" knownname="Chris Nero" lasttry="0" position="OUTSIDE BACK" scoring_matches="2" squadno="4" starter="19" sub="0" surname="Nero" tries="2" />
+      <player id="2440" firstname="Ryan" firsttry="1" knownname="Ryan Boyle" lasttry="0" position="PROP" scoring_matches="1" squadno="19" starter="15" sub="2" surname="Boyle" tries="1" />
+      <player id="2782" firstname="Mark" firsttry="0" knownname="Mark Henry" lasttry="1" position="OUTSIDE BACK" scoring_matches="6" squadno="3" starter="18" sub="0" surname="Henry" tries="10" />
+      <player id="2546" firstname="Daniel" firsttry="0" knownname="Daniel Holdsworth" lasttry="0" position="HALF BACK" scoring_matches="6" squadno="7" starter="19" sub="0" surname="Holdsworth" tries="6" />
+      <player id="10326" firstname="Alex" firsttry="0" knownname="Alex Davidson" lasttry="0" position="" scoring_matches="0" squadno="29" starter="0" sub="1" surname="Davidson" tries="0" />
+      <player id="575" firstname="Stephen" firsttry="0" knownname="Stephen Wild" lasttry="0" position="BACK ROW" scoring_matches="1" squadno="13" starter="15" sub="0" surname="Wild" tries="1" />
+      <player id="1135" firstname="Iafeta" firsttry="0" knownname="Iafeta Palea'aesina" lasttry="0" position="PROP" scoring_matches="1" squadno="17" starter="2" sub="14" surname="Palea'aesina" tries="1" />
+      <player id="3187" firstname="Adam" firsttry="0" knownname="Adam Neal" lasttry="0" position="PROP" scoring_matches="0" squadno="22" starter="2" sub="15" surname="Neal" tries="0" />
+      <player id="4877" firstname="Jodie" firsttry="2" knownname="Jodie Broughton" lasttry="2" position="OUTSIDE BACK" scoring_matches="9" squadno="2" starter="20" sub="0" surname="Broughton" tries="12" />
+      <player id="1080" firstname="Luke" firsttry="0" knownname="Luke Patten" lasttry="0" position="OUTSIDE BACK" scoring_matches="4" squadno="1" starter="20" sub="0" surname="Patten" tries="4" />
+      <player id="11177" firstname="Adam" firsttry="0" knownname="Adam Clay" lasttry="0" position="OUTSIDE BACK" scoring_matches="2" squadno="27" starter="2" sub="0" surname="Clay" tries="3" />
+      <player id="11219" firstname="Callum" firsttry="0" knownname="Callum Marriott" lasttry="0" position="" scoring_matches="0" squadno="28" starter="0" sub="1" surname="Marriott" tries="0" />
+      <player id="2569" firstname="Ray" firsttry="0" knownname="Ray Cashmere" lasttry="0" position="PROP" scoring_matches="1" squadno="8" starter="17" sub="1" surname="Cashmere" tries="1" />
+      <player id="3131" firstname="Jack" firsttry="0" knownname="Jack Spencer" lasttry="0" position="BACK ROW" scoring_matches="0" squadno="25" starter="0" sub="4" surname="Spencer" tries="0" />
+      <player id="83" firstname="Wayne" firsttry="0" knownname="Wayne Godwin" lasttry="0" position="HOOKER" scoring_matches="2" squadno="9" starter="16" sub="0" surname="Godwin" tries="2" />
+      <player id="2346" firstname="Lee" firsttry="0" knownname="Lee Jewitt" lasttry="0" position="PROP" scoring_matches="1" squadno="10" starter="2" sub="13" surname="Jewitt" tries="1" />
+      <player id="2302" firstname="Matthew" firsttry="0" knownname="Matty Smith" lasttry="0" position="HALF BACK" scoring_matches="2" squadno="14" starter="19" sub="1" surname="Smith" tries="2" />
+      <player id="2252" firstname="Sean" firsttry="0" knownname="Sean Gleeson" lasttry="0" position="OUTSIDE BACK" scoring_matches="2" squadno="20" starter="7" sub="0" surname="Gleeson" tries="2" />
+      <player id="1836" firstname="Ashley" firsttry="0" knownname="Ashley Gibson" lasttry="1" position="OUTSIDE BACK" scoring_matches="6" squadno="5" starter="12" sub="0" surname="Gibson" tries="9" />
+      <player id="1118" firstname="Vinnie" firsttry="0" knownname="Vinnie Anderson" lasttry="0" position="BACK ROW" scoring_matches="3" squadno="11" starter="11" sub="1" surname="Anderson" tries="3" />
+      <player id="3101" firstname="Adam" firsttry="1" knownname="Adam Sidlow" lasttry="2" position="PROP" scoring_matches="5" squadno="18" starter="8" sub="10" surname="Sidlow" tries="5" />
+    </team>
+    <team id="800" name="Catalans">
+      <player id="2308" firstname="Frederic" firsttry="0" knownname="Frederic Vaccari" lasttry="0" position="OUTSIDE BACK" scoring_matches="5" squadno="19" starter="12" sub="0" surname="Vaccari" tries="8" />
+      <player id="10905" firstname="Jason" firsttry="0" knownname="Jason Baitieri" lasttry="1" position="BACK ROW" scoring_matches="4" squadno="24" starter="4" sub="13" surname="Baitieri" tries="4" />
+      <player id="2371" firstname="Jamal" firsttry="0" knownname="Jamal Fakir" lasttry="0" position="BACK ROW" scoring_matches="0" squadno="22" starter="8" sub="8" surname="Fakir" tries="0" />
+      <player id="2350" firstname="Clint" firsttry="1" knownname="Clint Greenshields" lasttry="0" position="OUTSIDE BACK" scoring_matches="4" squadno="1" starter="11" sub="0" surname="Greenshields" tries="7" />
+      <player id="2415" firstname="Julien" firsttry="0" knownname="Julien Touxagas" lasttry="0" position="BACK ROW" scoring_matches="0" squadno="28" starter="0" sub="2" surname="Touxagas" tries="0" />
+      <player id="973" firstname="Steven" firsttry="1" knownname="Steve Menzies" lasttry="0" position="BACK ROW" scoring_matches="5" squadno="11" starter="14" sub="2" surname="Menzies" tries="6" />
+      <player id="2418" firstname="Sebastian" firsttry="0" knownname="Sebastien Martins" lasttry="0" position="PROP" scoring_matches="0" squadno="21" starter="0" sub="7" surname="Martins" tries="0" />
+      <player id="2374" firstname="David" firsttry="1" knownname="David Ferriol" lasttry="0" position="PROP" scoring_matches="2" squadno="8" starter="16" sub="2" surname="Ferriol" tries="2" />
+      <player id="2700" firstname="Daryl" firsttry="1" knownname="Daryl Millard" lasttry="1" position="OUTSIDE BACK" scoring_matches="3" squadno="18" starter="13" sub="1" surname="Millard" tries="4" />
+      <player id="2823" firstname="Cyril" firsttry="0" knownname="Cyril Gossard" lasttry="0" position="BACK ROW" scoring_matches="0" squadno="17" starter="1" sub="2" surname="Gossard" tries="0" />
+      <player id="2975" firstname="Scott" firsttry="2" knownname="Scott Dureau" lasttry="2" position="HALF BACK" scoring_matches="8" squadno="7" starter="18" sub="0" surname="Dureau" tries="11" />
+      <player id="2420" firstname="Thomas" firsttry="0" knownname="Thomas Bosc" lasttry="0" position="HALF BACK" scoring_matches="0" squadno="6" starter="3" sub="0" surname="Bosc" tries="0" />
+      <player id="10457" firstname="Tony" firsttry="0" knownname="Tony Gigot" lasttry="0" position="HALF BACK" scoring_matches="0" squadno="14" starter="5" sub="2" surname="Gigot" tries="0" />
+      <player id="2659" firstname="Lopini" firsttry="0" knownname="Lopini Paea" lasttry="0" position="PROP" scoring_matches="1" squadno="23" starter="7" sub="4" surname="Paea" tries="2" />
+      <player id="2372" firstname="Gregory" firsttry="0" knownname="Gregory Mounis" lasttry="1" position="BACK ROW" scoring_matches="2" squadno="13" starter="19" sub="1" surname="Mounis" tries="2" />
+      <player id="2214" firstname="Mathias" firsttry="0" knownname="Mathias Pala" lasttry="0" position="OUTSIDE BACK" scoring_matches="0" squadno="27" starter="2" sub="0" surname="Pala" tries="0" />
+      <player id="2744" firstname="Setaimata" firsttry="0" knownname="Setaimata Sa" lasttry="0" position="OUTSIDE BACK" scoring_matches="4" squadno="4" starter="17" sub="0" surname="Sa" tries="4" />
+      <player id="10169" firstname="Michael" firsttry="0" knownname="Michael Simon" lasttry="0" position="PROP" scoring_matches="0" squadno="20" starter="1" sub="13" surname="Simon" tries="0" />
+      <player id="2417" firstname="Remi" firsttry="0" knownname="Remi Casty" lasttry="0" position="PROP" scoring_matches="1" squadno="10" starter="11" sub="4" surname="Casty" tries="1" />
+      <player id="11203" firstname="Eloi" firsttry="0" knownname="Eloi Pelissier" lasttry="0" position="HOOKER" scoring_matches="1" squadno="26" starter="1" sub="12" surname="Pelissier" tries="1" />
+      <player id="2283" firstname="Ian" firsttry="0" knownname="Ian Henderson" lasttry="1" position="HOOKER" scoring_matches="3" squadno="9" starter="18" sub="2" surname="Henderson" tries="3" />
+      <player id="716" firstname="Sebastien" firsttry="0" knownname="Sebastien Raguin" lasttry="0" position="BACK ROW" scoring_matches="4" squadno="12" starter="19" sub="0" surname="Raguin" tries="4" />
+      <player id="3203" firstname="Cyril" firsttry="0" knownname="Cyril Stacul" lasttry="2" position="OUTSIDE BACK" scoring_matches="4" squadno="5" starter="14" sub="0" surname="Stacul" tries="5" />
+      <player id="2434" firstname="Damien" firsttry="0" knownname="Damien Blanch" lasttry="3" position="OUTSIDE BACK" scoring_matches="10" squadno="2" starter="19" sub="0" surname="Blanch" tries="14" />
+      <player id="2312" firstname="Jean Philippe" firsttry="1" knownname="Jean Philippe Baile" lasttry="0" position="UTILITY" scoring_matches="6" squadno="15" starter="14" sub="2" surname="Baile" tries="6" />
+      <player id="2988" firstname="Ben" firsttry="1" knownname="Ben Farrar" lasttry="1" position="OUTSIDE BACK" scoring_matches="2" squadno="3" starter="13" sub="0" surname="Farrar" tries="3" />
+    </team>
+    <team id="200" name="Hull">
+      <player id="3197" firstname="Tom" firsttry="1" knownname="Tom Briscoe" lasttry="4" position="OUTSIDE BACK" scoring_matches="11" squadno="5" starter="20" sub="0" surname="Briscoe" tries="13" />
+      <player id="1209" firstname="Craig" firsttry="0" knownname="Craig Fitzgibbon" lasttry="2" position="BACK ROW" scoring_matches="2" squadno="13" starter="17" sub="1" surname="Fitzgibbon" tries="2" />
+      <player id="2128" firstname="Danny" firsttry="0" knownname="Danny Washbrook" lasttry="0" position="BACK ROW" scoring_matches="0" squadno="14" starter="1" sub="7" surname="Washbrook" tries="0" />
+      <player id="274" firstname="Ewan" firsttry="0" knownname="Ewan Dowes" lasttry="0" position="PROP" scoring_matches="1" squadno="17" starter="2" sub="14" surname="Dowes" tries="1" />
+      <player id="2226" firstname="Joe" firsttry="0" knownname="Joe Westerman" lasttry="0" position="BACK ROW" scoring_matches="3" squadno="11" starter="12" sub="7" surname="Westerman" tries="3" />
+      <player id="2180" firstname="Danny" firsttry="0" knownname="Danny Houghton" lasttry="0" position="HOOKER" scoring_matches="1" squadno="9" starter="20" sub="0" surname="Houghton" tries="1" />
+      <player id="1957" firstname="Richard" firsttry="0" knownname="Richard Whiting" lasttry="1" position="OUTSIDE BACK" scoring_matches="4" squadno="3" starter="17" sub="1" surname="Whiting" tries="5" />
+      <player id="206" firstname="Richard" firsttry="1" knownname="Richard Horne" lasttry="0" position="HALF BACK" scoring_matches="4" squadno="6" starter="18" sub="0" surname="Horne" tries="4" />
+      <player id="2867" firstname="Sam" firsttry="0" knownname="Sam Moa" lasttry="0" position="PROP" scoring_matches="2" squadno="23" starter="11" sub="7" surname="Moa" tries="2" />
+      <player id="18" firstname="Lee" firsttry="0" knownname="Lee Radford" lasttry="1" position="BACK ROW" scoring_matches="4" squadno="10" starter="9" sub="6" surname="Radford" tries="4" />
+      <player id="4827" firstname="Will" firsttry="0" knownname="Will Sharp" lasttry="1" position="OUTSIDE BACK" scoring_matches="6" squadno="2" starter="11" sub="2" surname="Sharp" tries="6" />
+      <player id="114" firstname="Danny" firsttry="2" knownname="Danny Tickle" lasttry="0" position="BACK ROW" scoring_matches="6" squadno="12" starter="20" sub="0" surname="Tickle" tries="7" />
+      <player id="153" firstname="Martin" firsttry="0" knownname="Martin Gleeson" lasttry="1" position="OUTSIDE BACK" scoring_matches="3" squadno="33" starter="8" sub="0" surname="Gleeson" tries="4" />
+      <player id="2142" firstname="Sam" firsttry="0" knownname="Sam Obst" lasttry="0" position="HALF BACK" scoring_matches="5" squadno="30" starter="14" sub="5" surname="Obst" tries="5" />
+      <player id="2024" firstname="Epalahame" firsttry="0" knownname="Epalahame Lauaki" lasttry="0" position="BACK ROW" scoring_matches="1" squadno="15" starter="0" sub="19" surname="Lauaki" tries="1" />
+      <player id="956" firstname="Mark" firsttry="0" knownname="Mark O'Meley" lasttry="0" position="PROP" scoring_matches="3" squadno="8" starter="17" sub="0" surname="O'Meley" tries="4" />
+      <player id="10320" firstname="Reece" firsttry="0" knownname="Reece Lyne" lasttry="0" position="OUTSIDE BACK" scoring_matches="0" squadno="21" starter="5" sub="1" surname="Lyne" tries="0" />
+      <player id="2381" firstname="Willie" firsttry="0" knownname="Willie Manu" lasttry="0" position="BACK ROW" scoring_matches="2" squadno="16" starter="13" sub="6" surname="Manu" tries="2" />
+      <player id="229" firstname="Kirk" firsttry="5" knownname="Kirk Yeaman" lasttry="4" position="OUTSIDE BACK" scoring_matches="12" squadno="4" starter="19" sub="0" surname="Yeaman" tries="18" />
+      <player id="357" firstname="Sean" firsttry="0" knownname="Sean Long" lasttry="0" position="HALF BACK" scoring_matches="1" squadno="7" starter="7" sub="0" surname="Long" tries="1" />
+      <player id="2549" firstname="Cameron" firsttry="0" knownname="Cameron Phelps" lasttry="0" position="OUTSIDE BACK" scoring_matches="0" squadno="20" starter="11" sub="0" surname="Phelps" tries="0" />
+      <player id="2810" firstname="Jordan" firsttry="1" knownname="Jordan Turner" lasttry="0" position="UTILITY" scoring_matches="5" squadno="19" starter="11" sub="2" surname="Turner" tries="5" />
+    </team>
+    <team id="450" name="Wakefield">
+      <player id="2694" firstname="Jarrad" firsttry="0" knownname="Jarrad Hickey" lasttry="0" position="PROP" scoring_matches="2" squadno="36" starter="0" sub="5" surname="Hickey" tries="2" />
+      <player id="10626" firstname="Russ" firsttry="0" knownname="Russ Spiers" lasttry="0" position="PROP" scoring_matches="0" squadno="28" starter="0" sub="2" surname="Spiers" tries="0" />
+      <player id="11149" firstname="Greg" firsttry="2" knownname="Greg Johnson" lasttry="0" position="OUTSIDE BACK" scoring_matches="2" squadno="30" starter="10" sub="0" surname="Johnson" tries="2" />
+      <player id="2465" firstname="Matt" firsttry="0" knownname="Matt Wildie" lasttry="0" position="HALF BACK" scoring_matches="1" squadno="26" starter="2" sub="9" surname="Wildie" tries="1" />
+      <player id="2206" firstname="Sammy" firsttry="0" knownname="Sammy Masselot" lasttry="0" position="" scoring_matches="0" squadno="16" starter="0" sub="1" surname="Masselot" tries="0" />
+      <player id="10504" firstname="Dale" firsttry="1" knownname="Dale Morton" lasttry="0" position="OUTSIDE BACK" scoring_matches="2" squadno="19" starter="5" sub="0" surname="Morton" tries="3" />
+      <player id="4870" firstname="Frankie" firsttry="3" knownname="Frankie Mariano" lasttry="1" position="OUTSIDE BACK" scoring_matches="5" squadno="21" starter="17" sub="1" surname="Mariano" tries="6" />
+      <player id="1138" firstname="Motu" firsttry="0" knownname="Motu Tony" lasttry="0" position="OUTSIDE BACK" scoring_matches="0" squadno="15" starter="3" sub="0" surname="Tony" tries="0" />
+      <player id="2343" firstname="Tommy" firsttry="2" knownname="Tommy Lee" lasttry="0" position="HOOKER" scoring_matches="5" squadno="14" starter="18" sub="0" surname="Lee" tries="5" />
+      <player id="488" firstname="Julien" firsttry="0" knownname="Julien Rinaldi" lasttry="0" position="HOOKER" scoring_matches="2" squadno="9" starter="16" sub="1" surname="Rinaldi" tries="2" />
+      <player id="2120" firstname="Kevin" firsttry="0" knownname="Kevin Henderson" lasttry="0" position="BACK ROW" scoring_matches="1" squadno="11" starter="3" sub="14" surname="Henderson" tries="1" />
+      <player id="2802" firstname="Gareth" firsttry="1" knownname="Gareth Moore" lasttry="0" position="HALF BACK" scoring_matches="1" squadno="35" starter="4" sub="0" surname="Moore" tries="1" />
+      <player id="2142" firstname="Sam" firsttry="0" knownname="Sam Obst" lasttry="0" position="HALF BACK" scoring_matches="5" squadno="30" starter="14" sub="5" surname="Obst" tries="5" />
+      <player id="2614" firstname="Jeremy" firsttry="0" knownname="Jeremy Smith" lasttry="0" position="HALF BACK" scoring_matches="0" squadno="16" starter="4" sub="1" surname="Smith" tries="0" />
+      <player id="215" firstname="Paul" firsttry="0" knownname="Paul King" lasttry="0" position="PROP" scoring_matches="0" squadno="10" starter="1" sub="8" surname="King" tries="0" />
+      <player id="1790" firstname="Liam" firsttry="0" knownname="Liam Higgins" lasttry="0" position="PROP" scoring_matches="0" squadno="25" starter="0" sub="11" surname="Higgins" tries="0" />
+      <player id="3192" firstname="Kieran" firsttry="0" knownname="Kieran Hyde" lasttry="1" position="OUTSIDE BACK" scoring_matches="3" squadno="27" starter="9" sub="0" surname="Hyde" tries="3" />
+      <player id="10503" firstname="Paul" firsttry="0" knownname="Paul Johnson" lasttry="2" position="PROP" scoring_matches="3" squadno="17" starter="17" sub="1" surname="Johnson" tries="3" />
+      <player id="10352" firstname="Kyle" firsttry="1" knownname="Kyle Amor" lasttry="1" position="PROP" scoring_matches="3" squadno="31" starter="11" sub="7" surname="Amor" tries="3" />
+      <player id="1070" firstname="Semi" firsttry="0" knownname="Semi Tadulala" lasttry="0" position="OUTSIDE BACK" scoring_matches="0" squadno="5" starter="1" sub="0" surname="Tadulala" tries="0" />
+      <player id="2036" firstname="Glenn" firsttry="0" knownname="Glenn Morrison" lasttry="0" position="BACK ROW" scoring_matches="1" squadno="13" starter="17" sub="0" surname="Morrison" tries="1" />
+      <player id="2902" firstname="Luke" firsttry="1" knownname="Luke George" lasttry="1" position="OUTSIDE BACK" scoring_matches="7" squadno="5" starter="15" sub="0" surname="George" tries="7" />
+      <player id="1722" firstname="Michael" firsttry="0" knownname="Michael Korkidas" lasttry="0" position="PROP" scoring_matches="0" squadno="8" starter="13" sub="1" surname="Korkidas" tries="0" />
+      <player id="2842" firstname="Chris" firsttry="0" knownname="Chris Dean" lasttry="0" position="OUTSIDE BACK" scoring_matches="6" squadno="18" starter="16" sub="0" surname="Dean" tries="7" />
+      <player id="10181" firstname="James" firsttry="0" knownname="James Davey" lasttry="0" position="HOOKER" scoring_matches="1" squadno="24" starter="3" sub="6" surname="Davey" tries="1" />
+      <player id="3188" firstname="Josh" firsttry="0" knownname="Josh Veivers" lasttry="0" position="OUTSIDE BACK" scoring_matches="0" squadno="23" starter="5" sub="2" surname="Veivers" tries="0" />
+      <player id="1840" firstname="Matt" firsttry="0" knownname="Matt Blaymire" lasttry="0" position="OUTSIDE BACK" scoring_matches="0" squadno="1" starter="10" sub="0" surname="Blaymire" tries="0" />
+      <player id="2522" firstname="Stuart" firsttry="0" knownname="Stuart Howarth" lasttry="0" position="BACK ROW" scoring_matches="1" squadno="22" starter="14" sub="0" surname="Howarth" tries="1" />
+      <player id="4915" firstname="Josh" firsttry="0" knownname="Josh Griffin" lasttry="2" position="OUTSIDE BACK" scoring_matches="4" squadno="29" starter="15" sub="0" surname="Griffin" tries="4" />
+      <player id="2876" firstname="Aaron" firsttry="0" knownname="Aaron Murphy" lasttry="0" position="OUTSIDE BACK" scoring_matches="1" squadno="3" starter="17" sub="0" surname="Murphy" tries="1" />
+    </team>
+    <team id="500" name="Warrington">
+      <player id="10508" firstname="Rhys" firsttry="1" knownname="Rhys Williams" lasttry="0" position="OUTSIDE BACK" scoring_matches="7" squadno="22" starter="14" sub="0" surname="Williams" tries="9" />
+      <player id="778" firstname="Adrian" firsttry="0" knownname="Adrian Morley" lasttry="0" position="PROP" scoring_matches="2" squadno="8" starter="17" sub="1" surname="Morley" tries="2" />
+      <player id="1813" firstname="Ben" firsttry="0" knownname="Ben Harrison" lasttry="0" position="BACK ROW" scoring_matches="0" squadno="13" starter="13" sub="2" surname="Harrison" tries="0" />
+      <player id="470" firstname="Ben" firsttry="0" knownname="Ben Westwood" lasttry="0" position="BACK ROW" scoring_matches="5" squadno="12" starter="19" sub="0" surname="Westwood" tries="7" />
+      <player id="1112" firstname="David" firsttry="0" knownname="David Solomona" lasttry="0" position="BACK ROW" scoring_matches="3" squadno="26" starter="4" sub="15" surname="Solomona" tries="4" />
+      <player id="2181" firstname="Mike" firsttry="0" knownname="Mike Cooper" lasttry="0" position="PROP" scoring_matches="0" squadno="18" starter="0" sub="12" surname="Cooper" tries="0" />
+      <player id="2162" firstname="Ryan" firsttry="1" knownname="Ryan Atkins" lasttry="2" position="OUTSIDE BACK" scoring_matches="9" squadno="23" starter="16" sub="0" surname="Atkins" tries="12" />
+      <player id="521" firstname="Paul" firsttry="0" knownname="Paul Wood" lasttry="1" position="PROP" scoring_matches="3" squadno="16" starter="6" sub="13" surname="Wood" tries="4" />
+      <player id="952" firstname="Brett" firsttry="1" knownname="Brett Hodgson" lasttry="3" position="OUTSIDE BACK" scoring_matches="9" squadno="1" starter="19" sub="0" surname="Hodgson" tries="14" />
+      <player id="506" firstname="Lee" firsttry="2" knownname="Lee Briers" lasttry="2" position="HALF BACK" scoring_matches="9" squadno="6" starter="17" sub="0" surname="Briers" tries="13" />
+      <player id="2250" firstname="Matt" firsttry="1" knownname="Matt King" lasttry="0" position="OUTSIDE BACK" scoring_matches="7" squadno="3" starter="9" sub="0" surname="King" tries="12" />
+      <player id="526" firstname="Jon" firsttry="0" knownname="Jon Clarke" lasttry="0" position="HOOKER" scoring_matches="0" squadno="15" starter="2" sub="6" surname="Clarke" tries="0" />
+      <player id="11129" firstname="Gareth" firsttry="1" knownname="Gareth O'Brien" lasttry="0" position="OUTSIDE BACK" scoring_matches="1" squadno="27" starter="1" sub="0" surname="O'Brien" tries="1" />
+      <player id="374" firstname="Mick" firsttry="0" knownname="Mick Higham" lasttry="0" position="HOOKER" scoring_matches="3" squadno="14" starter="1" sub="17" surname="Higham" tries="3" />
+      <player id="2027" firstname="Louis" firsttry="1" knownname="Louis Anderson" lasttry="0" position="BACK ROW" scoring_matches="3" squadno="11" starter="10" sub="0" surname="Anderson" tries="4" />
+      <player id="220" firstname="Garreth" firsttry="0" knownname="Garreth Carvell" lasttry="0" position="PROP" scoring_matches="1" squadno="10" starter="16" sub="3" surname="Carvell" tries="1" />
+      <player id="2185" firstname="Lee" firsttry="0" knownname="Lee Mitchell" lasttry="0" position="BACK ROW" scoring_matches="2" squadno="33" starter="7" sub="4" surname="Mitchell" tries="2" />
+      <player id="4929" firstname="Tyrone" firsttry="0" knownname="Tyrone McCarthy" lasttry="0" position="BACK ROW" scoring_matches="1" squadno="21" starter="2" sub="7" surname="McCarthy" tries="1" />
+      <player id="2658" firstname="Joel" firsttry="4" knownname="Joel Monaghan" lasttry="1" position="OUTSIDE BACK" scoring_matches="12" squadno="5" starter="15" sub="0" surname="Monaghan" tries="14" />
+      <player id="2221" firstname="Richard" firsttry="0" knownname="Richard Myler" lasttry="4" position="HALF BACK" scoring_matches="13" squadno="7" starter="17" sub="0" surname="Myler" tries="13" />
+      <player id="1017" firstname="Chris" firsttry="2" knownname="Chris Bridge" lasttry="0" position="OUTSIDE BACK" scoring_matches="7" squadno="4" starter="16" sub="0" surname="Bridge" tries="9" />
+      <player id="4031" firstname="Matty" firsttry="1" knownname="Matty Blythe" lasttry="0" position="BACK ROW" scoring_matches="3" squadno="20" starter="10" sub="3" surname="Blythe" tries="3" />
+      <player id="1862" firstname="Simon" firsttry="1" knownname="Simon Grix" lasttry="0" position="HALF BACK" scoring_matches="3" squadno="17" starter="14" sub="2" surname="Grix" tries="4" />
+      <player id="2341" firstname="Chris" firsttry="1" knownname="Chris Riley" lasttry="0" position="OUTSIDE BACK" scoring_matches="5" squadno="34" starter="8" sub="0" surname="Riley" tries="6" />
+      <player id="2579" firstname="Michael" firsttry="1" knownname="Michael Monaghan" lasttry="0" position="HOOKER" scoring_matches="3" squadno="9" starter="19" sub="0" surname="Monaghan" tries="3" />
+    </team>
+    <team id="550" name="Wigan">
+      <player id="2028" firstname="Amos" firsttry="1" knownname="Amos Roberts" lasttry="0" position="OUTSIDE BACK" scoring_matches="1" squadno="19" starter="4" sub="1" surname="Roberts" tries="2" />
+      <player id="2849" firstname="Chris" firsttry="0" knownname="Chris Tuson" lasttry="0" position="BACK ROW" scoring_matches="0" squadno="23" starter="1" sub="10" surname="Tuson" tries="0" />
+      <player id="7" firstname="Paul" firsttry="0" knownname="Paul Deacon" lasttry="0" position="HALF BACK" scoring_matches="0" squadno="6" starter="12" sub="3" surname="Deacon" tries="0" />
+      <player id="10665" firstname="Josh" firsttry="1" knownname="Josh Charnley" lasttry="1" position="OUTSIDE BACK" scoring_matches="10" squadno="25" starter="16" sub="1" surname="Charnley" tries="13" />
+      <player id="1974" firstname="Harrison" firsttry="1" knownname="Harrison Hansen" lasttry="0" position="BACK ROW" scoring_matches="3" squadno="11" starter="15" sub="2" surname="Hansen" tries="3" />
+      <player id="420" firstname="Andy" firsttry="0" knownname="Andy Coley" lasttry="0" position="PROP" scoring_matches="0" squadno="10" starter="13" sub="4" surname="Coley" tries="0" />
+      <player id="2014" firstname="Thomas" firsttry="0" knownname="Thomas Leuluai" lasttry="0" position="HALF BACK" scoring_matches="6" squadno="7" starter="19" sub="0" surname="Leuluai" tries="8" />
+      <player id="2020" firstname="Paul" firsttry="0" knownname="Paul Prescott" lasttry="1" position="PROP" scoring_matches="2" squadno="14" starter="8" sub="10" surname="Prescott" tries="2" />
+      <player id="2385" firstname="Mike" firsttry="0" knownname="Mike McIlorum" lasttry="0" position="HOOKER" scoring_matches="2" squadno="9" starter="13" sub="6" surname="McIlorum" tries="2" />
+      <player id="1703" firstname="Gareth" firsttry="0" knownname="Gareth Hock" lasttry="0" position="BACK ROW" scoring_matches="0" squadno="34" starter="0" sub="1" surname="Hock" tries="0" />
+      <player id="580" firstname="Sean" firsttry="1" knownname="Sean O'Loughlin" lasttry="1" position="BACK ROW" scoring_matches="4" squadno="13" starter="18" sub="1" surname="O'Loughlin" tries="4" />
+      <player id="2228" firstname="Liam" firsttry="0" knownname="Liam Farrell" lasttry="1" position="BACK ROW" scoring_matches="2" squadno="22" starter="4" sub="9" surname="Farrell" tries="2" />
+      <player id="2501" firstname="Sam" firsttry="3" knownname="Sam Tomkins" lasttry="3" position="OUTSIDE BACK" scoring_matches="9" squadno="1" starter="17" sub="0" surname="Tomkins" tries="16" />
+      <player id="2163" firstname="Joel" firsttry="2" knownname="Joel Tomkins" lasttry="0" position="BACK ROW" scoring_matches="5" squadno="12" starter="13" sub="3" surname="Tomkins" tries="5" />
+      <player id="29" firstname="Stuart" firsttry="0" knownname="Stuart Fielden" lasttry="0" position="PROP" scoring_matches="0" squadno="8" starter="1" sub="0" surname="Fielden" tries="0" />
+      <player id="2822" firstname="Jeff" firsttry="0" knownname="Jeff Lima" lasttry="1" position="PROP" scoring_matches="1" squadno="15" starter="7" sub="10" surname="Lima" tries="1" />
+      <player id="1709" firstname="Ryan" firsttry="2" knownname="Ryan Hoffman" lasttry="1" position="BACK ROW" scoring_matches="6" squadno="16" starter="19" sub="0" surname="Hoffman" tries="6" />
+      <player id="3106" firstname="Stefan" firsttry="0" knownname="Stefan Marsh" lasttry="1" position="HALF BACK" scoring_matches="1" squadno="24" starter="5" sub="0" surname="Marsh" tries="1" />
+      <player id="2497" firstname="Lee" firsttry="1" knownname="Lee Mossop" lasttry="0" position="BACK ROW" scoring_matches="3" squadno="21" starter="9" sub="10" surname="Mossop" tries="3" />
+      <player id="2596" firstname="George" firsttry="0" knownname="George Carmont" lasttry="2" position="OUTSIDE BACK" scoring_matches="8" squadno="4" starter="18" sub="0" surname="Carmont" tries="8" />
+      <player id="1108" firstname="Pat" firsttry="3" knownname="Pat Richards" lasttry="1" position="OUTSIDE BACK" scoring_matches="8" squadno="5" starter="12" sub="0" surname="Richards" tries="12" />
+      <player id="1806" firstname="Darrell" firsttry="0" knownname="Darrell Goulding" lasttry="1" position="OUTSIDE BACK" scoring_matches="3" squadno="2" starter="10" sub="0" surname="Goulding" tries="3" />
+      <player id="1783" firstname="Brett" firsttry="1" knownname="Brett Finch" lasttry="0" position="HALF BACK" scoring_matches="4" squadno="17" starter="11" sub="3" surname="Finch" tries="4" />
+    </team>
+    <team id="150" name="Huddersfield">
+      <player id="2223" firstname="Keale" firsttry="0" knownname="Keale Carlile" lasttry="0" position="HOOKER" scoring_matches="1" squadno="22" starter="2" sub="0" surname="Carlile" tries="1" />
+      <player id="4839" firstname="Mike" firsttry="1" knownname="Mike Lawrence" lasttry="1" position="OUTSIDE BACK" scoring_matches="6" squadno="2" starter="16" sub="0" surname="Lawrence" tries="7" />
+      <player id="2504" firstname="David" firsttry="1" knownname="David Fa'alogo" lasttry="0" position="BACK ROW" scoring_matches="3" squadno="12" starter="11" sub="1" surname="Fa'alogo" tries="3" />
+      <player id="1795" firstname="Kevin" firsttry="0" knownname="Kevin Brown" lasttry="1" position="HALF BACK" scoring_matches="5" squadno="6" starter="18" sub="0" surname="Brown" tries="5" />
+      <player id="2038" firstname="Luke" firsttry="0" knownname="Luke O'Donnell" lasttry="0" position="BACK ROW" scoring_matches="2" squadno="11" starter="12" sub="0" surname="O'Donnell" tries="2" />
+      <player id="2799" firstname="Larne" firsttry="0" knownname="Larne Patrick" lasttry="0" position="BACK ROW" scoring_matches="2" squadno="18" starter="0" sub="16" surname="Patrick" tries="2" />
+      <player id="10148" firstname="Greg" firsttry="0" knownname="Greg McNally" lasttry="0" position="HALF BACK" scoring_matches="0" squadno="28" starter="1" sub="0" surname="McNally" tries="0" />
+      <player id="316" firstname="Darrell" firsttry="0" knownname="Darrell Griffin" lasttry="0" position="PROP" scoring_matches="3" squadno="10" starter="10" sub="6" surname="Griffin" tries="3" />
+      <player id="581" firstname="Luke" firsttry="1" knownname="Luke Robinson" lasttry="0" position="HOOKER" scoring_matches="5" squadno="9" starter="10" sub="4" surname="Robinson" tries="5" />
+      <player id="14" firstname="Lee" firsttry="0" knownname="Lee Gilmour" lasttry="1" position="BACK ROW" scoring_matches="3" squadno="4" starter="16" sub="0" surname="Gilmour" tries="3" />
+      <player id="2376" firstname="Andy" firsttry="0" knownname="Andy Raleigh" lasttry="0" position="BACK ROW" scoring_matches="0" squadno="16" starter="5" sub="2" surname="Raleigh" tries="0" />
+      <player id="3258" firstname="Josef" firsttry="0" knownname="Joe Wardle" lasttry="1" position="UTILITY" scoring_matches="3" squadno="29" starter="9" sub="0" surname="Wardle" tries="3" />
+      <player id="172" firstname="Eorl" firsttry="1" knownname="Eorl Crabtree" lasttry="0" position="PROP" scoring_matches="2" squadno="8" starter="14" sub="4" surname="Crabtree" tries="3" />
+      <player id="11150" firstname="Jon" firsttry="0" knownname="Jon Molloy" lasttry="0" position="BACK ROW" scoring_matches="0" squadno="32" starter="1" sub="1" surname="Molloy" tries="0" />
+      <player id="10167" firstname="Jermaine" firsttry="1" knownname="Jermaine McGillvary" lasttry="3" position="OUTSIDE BACK" scoring_matches="8" squadno="20" starter="19" sub="0" surname="McGillvary" tries="10" />
+      <player id="2348" firstname="David" firsttry="0" knownname="David Faiumu" lasttry="0" position="HOOKER" scoring_matches="1" squadno="13" starter="7" sub="11" surname="Faiumu" tries="1" />
+      <player id="10166" firstname="Shaun" firsttry="0" knownname="Shaun Lunt" lasttry="2" position="HOOKER" scoring_matches="5" squadno="14" starter="6" sub="10" surname="Lunt" tries="7" />
+      <player id="2789" firstname="Scott" firsttry="1" knownname="Scott Grix" lasttry="1" position="UTILITY" scoring_matches="5" squadno="1" starter="18" sub="1" surname="Grix" tries="5" />
+      <player id="2875" firstname="Kyle" firsttry="0" knownname="Kyle Wood" lasttry="0" position="HALF BACK" scoring_matches="0" squadno="23" starter="1" sub="3" surname="Wood" tries="0" />
+      <player id="1845" firstname="Danny" firsttry="0" knownname="Danny Brough" lasttry="0" position="HALF BACK" scoring_matches="5" squadno="7" starter="16" sub="0" surname="Brough" tries="7" />
+      <player id="6208" firstname="Jamie" firsttry="0" knownname="Jamie Simpson" lasttry="0" position="OUTSIDE BACK" scoring_matches="0" squadno="36" starter="7" sub="0" surname="Simpson" tries="0" />
+      <player id="1037" firstname="Graeme" firsttry="0" knownname="Graeme Horne" lasttry="0" position="BACK ROW" scoring_matches="3" squadno="19" starter="5" sub="7" surname="Horne" tries="5" />
+      <player id="472" firstname="Keith" firsttry="0" knownname="Keith Mason" lasttry="0" position="PROP" scoring_matches="0" squadno="15" starter="9" sub="3" surname="Mason" tries="0" />
+      <player id="2919" firstname="Leroy" firsttry="1" knownname="Leroy Cudjoe" lasttry="0" position="OUTSIDE BACK" scoring_matches="2" squadno="3" starter="19" sub="0" surname="Cudjoe" tries="3" />
+      <player id="3240" firstname="Danny" firsttry="0" knownname="Danny Kirmond" lasttry="0" position="BACK ROW" scoring_matches="1" squadno="17" starter="4" sub="6" surname="Kirmond" tries="1" />
+      <player id="4915" firstname="Josh" firsttry="0" knownname="Josh Griffin" lasttry="2" position="OUTSIDE BACK" scoring_matches="4" squadno="29" starter="15" sub="0" surname="Griffin" tries="4" />
+      <player id="2406" firstname="Dale" firsttry="1" knownname="Dale Ferguson" lasttry="0" position="BACK ROW" scoring_matches="4" squadno="37" starter="10" sub="3" surname="Ferguson" tries="7" />
+      <player id="573" firstname="David" firsttry="2" knownname="David Hodgson" lasttry="2" position="OUTSIDE BACK" scoring_matches="7" squadno="5" starter="13" sub="0" surname="Hodgson" tries="13" />
+    </team>
+    <team id="300" name="Harlequins">
+      <player id="2042" firstname="Karl" firsttry="0" knownname="Karl Temata" lasttry="0" position="PROP" scoring_matches="2" squadno="8" starter="8" sub="9" surname="Temata" tries="2" />
+      <player id="4887" firstname="Luke" firsttry="0" knownname="Luke Ambler" lasttry="0" position="PROP" scoring_matches="1" squadno="15" starter="5" sub="13" surname="Ambler" tries="1" />
+      <player id="166" firstname="Oliver" firsttry="0" knownname="Oliver Wilkes" lasttry="0" position="PROP" scoring_matches="2" squadno="10" starter="18" sub="1" surname="Wilkes" tries="3" />
+      <player id="1160" firstname="Chad" firsttry="0" knownname="Chad Randall" lasttry="0" position="HOOKER" scoring_matches="3" squadno="7" starter="19" sub="0" surname="Randall" tries="3" />
+      <player id="4875" firstname="Kyle" firsttry="2" knownname="Kyle Briggs" lasttry="1" position="HALF BACK" scoring_matches="2" squadno="35" starter="7" sub="0" surname="Briggs" tries="3" />
+      <player id="10483" firstname="Rob" firsttry="0" knownname="Rob Thomas" lasttry="0" position="PROP" scoring_matches="0" squadno="26" starter="0" sub="2" surname="Thomas" tries="0" />
+      <player id="10804" firstname="Ben" firsttry="0" knownname="Ben Bolger" lasttry="0" position="BACK ROW" scoring_matches="0" squadno="20" starter="0" sub="2" surname="Bolger" tries="0" />
+      <player id="2696" firstname="Nick" firsttry="0" knownname="Nick Kouparitsas" lasttry="0" position="BACK ROW" scoring_matches="1" squadno="11" starter="2" sub="13" surname="Kouparitsas" tries="1" />
+      <player id="339" firstname="Rob" firsttry="0" knownname="Rob Purdham" lasttry="0" position="BACK ROW" scoring_matches="2" squadno="13" starter="10" sub="2" surname="Purdham" tries="2" />
+      <player id="1893" firstname="Karl" firsttry="3" knownname="Karl Pryce" lasttry="1" position="OUTSIDE BACK" scoring_matches="6" squadno="31" starter="8" sub="7" surname="Pryce" tries="9" />
+      <player id="2209" firstname="Mike" firsttry="1" knownname="Mike Burnett" lasttry="0" position="BACK ROW" scoring_matches="1" squadno="16" starter="15" sub="1" surname="Burnett" tries="1" />
+      <player id="10075" firstname="Olsi" firsttry="0" knownname="Olsi Krasniqi" lasttry="0" position="PROP" scoring_matches="0" squadno="21" starter="1" sub="7" surname="Krasniqi" tries="0" />
+      <player id="268" firstname="Danny" firsttry="0" knownname="Danny Ward" lasttry="0" position="PROP" scoring_matches="0" squadno="17" starter="17" sub="0" surname="Ward" tries="0" />
+      <player id="1012" firstname="Chris" firsttry="0" knownname="Chris Melling" lasttry="2" position="UTILITY" scoring_matches="6" squadno="5" starter="19" sub="0" surname="Melling" tries="6" />
+      <player id="4880" firstname="Luke" firsttry="2" knownname="Luke Gale" lasttry="0" position="HALF BACK" scoring_matches="6" squadno="6" starter="20" sub="0" surname="Gale" tries="7" />
+      <player id="266" firstname="Mark" firsttry="0" knownname="Mark Calderwood" lasttry="0" position="OUTSIDE BACK" scoring_matches="1" squadno="23" starter="7" sub="0" surname="Calderwood" tries="1" />
+      <player id="2788" firstname="Andy" firsttry="0" knownname="Andy Ellis" lasttry="1" position="HOOKER" scoring_matches="3" squadno="9" starter="15" sub="5" surname="Ellis" tries="4" />
+      <player id="2724" firstname="Chris" firsttry="0" knownname="Chris Bailey" lasttry="0" position="BACK ROW" scoring_matches="3" squadno="12" starter="18" sub="0" surname="Bailey" tries="3" />
+      <player id="4819" firstname="Lamont" firsttry="1" knownname="Lamont Bryan" lasttry="0" position="BACK ROW" scoring_matches="1" squadno="19" starter="0" sub="8" surname="Bryan" tries="1" />
+      <player id="11190" firstname="Dan" firsttry="1" knownname="Dan Sarginson" lasttry="0" position="HALF BACK" scoring_matches="1" squadno="24" starter="1" sub="0" surname="Sarginson" tries="2" />
+      <player id="4830" firstname="David" firsttry="0" knownname="David Williams" lasttry="0" position="PROP" scoring_matches="0" squadno="18" starter="0" sub="6" surname="Williams" tries="0" />
+      <player id="2429" firstname="Tony" firsttry="0" knownname="Tony Clubb" lasttry="0" position="OUTSIDE BACK" scoring_matches="7" squadno="3" starter="20" sub="0" surname="Clubb" tries="8" />
+      <player id="2185" firstname="Lee" firsttry="0" knownname="Lee Mitchell" lasttry="0" position="BACK ROW" scoring_matches="2" squadno="33" starter="7" sub="4" surname="Mitchell" tries="2" />
+      <player id="2555" firstname="David" firsttry="0" knownname="David Howell" lasttry="0" position="OUTSIDE BACK" scoring_matches="0" squadno="4" starter="11" sub="0" surname="Howell" tries="0" />
+      <player id="1151" firstname="Luke" firsttry="1" knownname="Luke Dorn" lasttry="0" position="UTILITY" scoring_matches="8" squadno="1" starter="15" sub="0" surname="Dorn" tries="9" />
+      <player id="2341" firstname="Chris" firsttry="1" knownname="Chris Riley" lasttry="0" position="OUTSIDE BACK" scoring_matches="5" squadno="34" starter="8" sub="0" surname="Riley" tries="6" />
+    </team>
+  </teams>
+</comp>

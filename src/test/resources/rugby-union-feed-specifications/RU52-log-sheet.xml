@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2014 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a03.nexus.opta.net
+     production time:    20140914T165210,697Z
+     production module:  Opta::Feed::XML::RugbyUnion::RU52_Logs
+-->
+<Log ThirdParty_ID="415022_1750_2539459" ThirdParty_LOGSHEET_ID="415022" Version="2.0.1">
+  <Colour>0</Colour>
+  <Date>14-Sep-2014</Date>
+  <Description>00:00 End </Description>
+  <Keywords>
+    <Keyword Type="Keyword">End</Keyword>
+    <Keyword Type="Keyword">End Type</Keyword>
+    <Keyword Type="Keyword">End Cause</Keyword>
+    <Keyword Type="Participant"></Keyword>
+    <Keyword Type="Keyword">Glasgow Warriors</Keyword>
+  </Keywords>
+  <TC>18:51:42:00</TC>
+</Log>

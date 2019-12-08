@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2015 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a02.nexus.opta.net
+     production time:    20150905T152645,65Z
+     production module:  Opta::Feed::XML::RugbyUnion::RU51
+-->
+<Games timestamp="2015-09-05T16:26:44">
+  <Game id="7522" away_team_id="600" away_team_name="Ireland" comp_id="3" comp_name="International" game_date="2015-09-05T14:30:00" group="" group_name="" home_team_id="550" home_team_name="England" live_scores="11" period_2_start="2015-09-05T14:30:18" period_4_start="2015-09-05T15:36:32" round="1" round_type_id="1" season_id="2016" season_name="Season 2015/2016" timer_running="0">
+    <Event id="3428027" event_id="1" event_type_id="26" period_id="1" period_minute="0" period_second="0" min="0" sec="0" player_id="0" team_id="550" outcome="1" x="50.0" y="50.0" timestamp="2015-09-02T09:11:40" timestamp_milliseconds="533" timer_running="0" last_modified="2015-09-04T15:43:40">
+      <Q id="4600583" qualifier_id="2" value="1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23" />
+      <Q id="4600585" qualifier_id="49" value="1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23" />
+    </Event>
+    <Event id="3431107" event_id="1" event_type_id="26" period_id="1" period_minute="0" period_second="0" min="0" sec="0" player_id="0" team_id="600" outcome="1" x="50.0" y="50.0" timestamp="2015-09-03T14:29:57" timestamp_milliseconds="507" timer_running="0" last_modified="2015-09-03T14:29:57">
+      <Q id="4600407" qualifier_id="49" value="1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23" />
+      <Q id="4600405" qualifier_id="2" value="1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23" />
+    </Event>
+    <Event id="3434795" event_id="4" event_type_id="22" period_id="2" period_minute="0" period_second="0" min="0" sec="0" player_id="0" team_id="600" outcome="0" x="0.0" y="0.0" timestamp="2015-09-05T14:30:18" timestamp_milliseconds="185" timer_running="0" last_modified="2015-09-05T14:30:18">
+      <Q id="4605515" qualifier_id="52" value="Right to Left" />
+    </Event>
+    <Event id="3434798" event_id="5" event_type_id="22" period_id="2" period_minute="0" period_second="0" min="0" sec="0" player_id="0" team_id="550" outcome="0" x="0.0" y="0.0" timestamp="2015-09-05T14:30:22" timestamp_milliseconds="283" timer_running="0" last_modified="2015-09-05T14:30:23">
+      <Q id="4605518" qualifier_id="52" value="Left to Right" />
+    </Event>
+    <Event id="3434803" event_id="7" event_type_id="19" period_id="2" period_minute="0" period_second="15" min="0" sec="15" player_id="0" team_id="600" outcome="1" x="15.7" y="47.4" timestamp="2015-09-05T14:30:33" timestamp_milliseconds="890" timer_running="0" last_modified="2015-09-05T14:30:33" />
+    <Event id="3434806" event_id="10" event_type_id="19" period_id="2" period_minute="0" period_second="23" min="0" sec="23" player_id="0" team_id="600" outcome="1" x="13.6" y="54.4" timestamp="2015-09-05T14:30:41" timestamp_milliseconds="953" timer_running="0" last_modified="2015-09-05T14:30:42" />
+    <Event id="3434811" event_id="9" event_type_id="11" period_id="2" period_minute="0" period_second="54" min="0" sec="54" player_id="8787" team_id="550" outcome="1" x="69.5" y="0.0" timestamp="2015-09-05T14:31:16" timestamp_milliseconds="984" timer_running="0" last_modified="2015-09-05T14:31:21">
+      <Q id="4605543" qualifier_id="163" value="1" />
+      <Q id="4605542" qualifier_id="158" />
+    </Event>
+    <Event id="3434812" event_id="10" event_type_id="41" period_id="2" period_minute="0" period_second="59" min="0" sec="59" player_id="3901" team_id="550" outcome="1" x="69.5" y="0.0" timestamp="2015-09-05T14:31:22" timestamp_milliseconds="125" timer_running="0" last_modified="2015-09-05T14:31:22" />
+    <Event id="3434821" event_id="18" event_type_id="19" period_id="2" period_minute="1" period_second="17" min="1" sec="17" player_id="0" team_id="550" outcome="1" x="65.7" y="64.7" timestamp="2015-09-05T14:31:39" timestamp_milliseconds="375" timer_running="0" last_modified="2015-09-05T14:31:39" />
+    <Event id="3434826" event_id="22" event_type_id="19" period_id="2" period_minute="1" period_second="23" min="1" sec="23" player_id="0" team_id="550" outcome="1" x="65.7" y="54.9" timestamp="2015-09-05T14:31:45" timestamp_milliseconds="922" timer_running="0" last_modified="2015-09-05T14:31:46" />
+    <Event id="3434834" event_id="28" event_type_id="19" period_id="2" period_minute="1" period_second="32" min="1" sec="32" player_id="0" team_id="550" outcome="1" x="79.3" y="90.0" timestamp="2015-09-05T14:31:55" timestamp_milliseconds="78" timer_running="0" last_modified="2015-09-05T14:31:55" />
+    <Event id="3434840" event_id="33" event_type_id="19" period_id="2" period_minute="1" period_second="39" min="1" sec="39" player_id="0" team_id="550" outcome="1" x="76.2" y="68.8" timestamp="2015-09-05T14:32:02" timestamp_milliseconds="93" timer_running="0" last_modified="2015-09-05T14:32:02" />
+    <Event id="3434845" event_id="37" event_type_id="19" period_id="2" period_minute="1" period_second="47" min="1" sec="47" player_id="0" team_id="550" outcome="1" x="84.1" y="36.6" timestamp="2015-09-05T14:32:09" timestamp_milliseconds="859" timer_running="0" last_modified="2015-09-05T14:32:09" />
+    <Event id="3434851" event_id="41" event_type_id="19" period_id="2" period_minute="1" period_second="56" min="1" sec="56" player_id="0" team_id="550" outcome="1" x="78.9" y="67.3" timestamp="2015-09-05T14:32:18" timestamp_milliseconds="843" timer_running="0" last_modified="2015-09-05T14:32:19" />
+    <Event id="3434856" event_id="45" event_type_id="19" period_id="2" period_minute="2" period_second="1" min="2" sec="1" player_id="0" team_id="550" outcome="1" x="81.6" y="58.5" timestamp="2015-09-05T14:32:24" timestamp_milliseconds="15" timer_running="0" last_modified="2015-09-05T14:32:24" />
+    <Event id="3434861" event_id="48" event_type_id="19" period_id="2" period_minute="2" period_second="10" min="2" sec="10" player_id="0" team_id="550" outcome="1" x="81.6" y="12.6" timestamp="2015-09-05T14:32:32" timestamp_milliseconds="358" timer_running="0" last_modified="2015-09-05T14:32:32" />
+    <Event id="3434866" event_id="51" event_type_id="19" period_id="2" period_minute="2" period_second="14" min="2" sec="14" player_id="0" team_id="550" outcome="1" x="81.6" y="12.6" timestamp="2015-09-05T14:32:36" timestamp_milliseconds="937" timer_running="0" last_modified="2015-09-05T14:32:37" />
+    <Event id="3434872" event_id="55" event_type_id="19" period_id="2" period_minute="2" period_second="22" min="2" sec="22" player_id="0" team_id="550" outcome="1" x="81.4" y="66.8" timestamp="2015-09-05T14:32:45" timestamp_milliseconds="202" timer_running="0" last_modified="2015-09-05T14:32:45" />
+    <Event id="3434876" event_id="58" event_type_id="19" period_id="2" period_minute="2" period_second="28" min="2" sec="28" player_id="0" team_id="550" outcome="1" x="82.7" y="80.2" timestamp="2015-09-05T14:32:50" timestamp_milliseconds="436" timer_running="0" last_modified="2015-09-05T14:32:50" />
+    <Event id="3434882" event_id="62" event_type_id="19" period_id="2" period_minute="2" period_second="36" min="2" sec="36" player_id="0" team_id="550" outcome="1" x="87.3" y="81.2" timestamp="2015-09-05T14:32:59" timestamp_milliseconds="264" timer_running="0" last_modified="2015-09-05T14:32:59" />
+    <Event id="3434880" event_id="31" event_type_id="31" period_id="2" period_minute="2" period_second="37" min="2" sec="37" player_id="10268" team_id="600" outcome="1" x="10.7" y="31.4" timestamp="2015-09-05T14:32:55" timestamp_milliseconds="793" timer_running="0" last_modified="2015-09-05T14:33:00" />
+    <Event id="3434887" event_id="66" event_type_id="27" period_id="2" period_minute="2" period_second="42" min="2" sec="42" player_id="16965" team_id="550" outcome="1" x="87.3" y="81.2" timestamp="2015-09-05T14:33:05" timestamp_milliseconds="202" timer_running="0" last_modified="2015-09-05T14:33:07">
+      <Q id="4605603" qualifier_id="163" value="-1" />
+      <Q id="4605602" qualifier_id="150" />
+    </Event>
+    <Event id="3434894" event_id="71" event_type_id="3" period_id="2" period_minute="4" period_second="3" min="4" sec="3" player_id="11041" team_id="550" outcome="1" x="74.1" y="99.3" timestamp="2015-09-05T14:34:26" timestamp_milliseconds="107" timer_running="0" last_modified="2015-09-05T14:34:30">
+      <Q id="4605610" qualifier_id="167" value="100.0" />
+      <Q id="4605612" qualifier_id="166" value="34.1" />
+      <Q id="4605611" qualifier_id="168" value="39.4" />
+    </Event>
+    <Event id="3434901" event_id="37" event_type_id="11" period_id="2" period_minute="5" period_second="18" min="5" sec="18" player_id="6144" team_id="600" outcome="1" x="45.9" y="0.0" timestamp="2015-09-05T14:35:36" timestamp_milliseconds="320" timer_running="0" last_modified="2015-09-05T14:35:38">
+      <Q id="4605631" qualifier_id="157" />
+      <Q id="4605632" qualifier_id="163" value="1" />
+    </Event>
+    <Event id="3434902" event_id="38" event_type_id="41" period_id="2" period_minute="5" period_second="20" min="5" sec="20" player_id="15056" team_id="600" outcome="1" x="45.7" y="12.6" timestamp="2015-09-05T14:35:39" timestamp_milliseconds="101" timer_running="0" last_modified="2015-09-05T14:35:39" />
+    <Event id="3434907" event_id="42" event_type_id="19" period_id="2" period_minute="5" period_second="26" min="5" sec="26" player_id="0" team_id="600" outcome="1" x="47.5" y="31.4" timestamp="2015-09-05T14:35:44" timestamp_milliseconds="508" timer_running="0" last_modified="2015-09-05T14:35:44" />
+    <Event id="3434911" event_id="45" event_type_id="19" period_id="2" period_minute="5" period_second="30" min="5" sec="30" player_id="0" team_id="600" outcome="1" x="52.1" y="39.2" timestamp="2015-09-05T14:35:48" timestamp_milliseconds="804" timer_running="0" last_modified="2015-09-05T14:35:48" />
+    <Event id="3434915" event_id="48" event_type_id="19" period_id="2" period_minute="5" period_second="35" min="5" sec="35" player_id="0" team_id="600" outcome="1" x="53.0" y="29.4" timestamp="2015-09-05T14:35:53" timestamp_milliseconds="398" timer_running="0" last_modified="2015-09-05T14:35:53" />
+    <Event id="3434920" event_id="81" event_type_id="19" period_id="2" period_minute="5" period_second="44" min="5" sec="44" player_id="0" team_id="550" outcome="1" x="20.5" y="93.6" timestamp="2015-09-05T14:36:06" timestamp_milliseconds="715" timer_running="0" last_modified="2015-09-05T14:36:06" />
+    <Event id="3434925" event_id="84" event_type_id="19" period_id="2" period_minute="5" period_second="54" min="5" sec="54" player_id="0" team_id="550" outcome="1" x="17.7" y="84.3" timestamp="2015-09-05T14:36:16" timestamp_milliseconds="574" timer_running="0" last_modified="2015-09-05T14:36:16" />
+    <Event id="3434931" event_id="56" event_type_id="19" period_id="2" period_minute="6" period_second="9" min="6" sec="9" player_id="0" team_id="600" outcome="1" x="55.4" y="9.0" timestamp="2015-09-05T14:36:27" timestamp_milliseconds="881" timer_running="0" last_modified="2015-09-05T14:36:27" />
+    <Event id="3434935" event_id="88" event_type_id="15" period_id="2" period_minute="6" period_second="11" min="6" sec="11" player_id="16965" team_id="550" outcome="1" x="49.3" y="54.1" timestamp="2015-09-05T14:36:34" timestamp_milliseconds="152" timer_running="0" last_modified="2015-09-05T14:36:38">
+      <Q id="4605678" qualifier_id="88" />
+    </Event>
+    <Event id="3434939" event_id="60" event_type_id="33" period_id="2" period_minute="7" period_second="42" min="7" sec="42" player_id="15055" team_id="600" outcome="1" x="58.9" y="17.3" timestamp="2015-09-05T14:38:01" timestamp_milliseconds="20" timer_running="0" last_modified="2015-09-05T14:38:10">
+      <Q id="4605683" qualifier_id="167" value="100.0" />
+      <Q id="4605682" qualifier_id="76" />
+      <Q id="4605684" qualifier_id="168" value="51.0" />
+      <Q id="4605685" qualifier_id="166" value="46.2" />
+    </Event>
+    <Event id="3434945" event_id="63" event_type_id="19" period_id="2" period_minute="8" period_second="21" min="8" sec="21" player_id="0" team_id="600" outcome="1" x="28.6" y="49.5" timestamp="2015-09-05T14:38:39" timestamp_milliseconds="222" timer_running="0" last_modified="2015-09-05T14:38:39" />
+    <Event id="3434950" event_id="66" event_type_id="19" period_id="2" period_minute="8" period_second="29" min="8" sec="29" player_id="0" team_id="600" outcome="1" x="26.4" y="35.8" timestamp="2015-09-05T14:38:47" timestamp_milliseconds="784" timer_running="0" last_modified="2015-09-05T14:38:47" />
+    <Event id="3434956" event_id="70" event_type_id="19" period_id="2" period_minute="8" period_second="36" min="8" sec="36" player_id="0" team_id="600" outcome="1" x="25.4" y="28.6" timestamp="2015-09-05T14:38:55" timestamp_milliseconds="81" timer_running="0" last_modified="2015-09-05T14:38:55" />
+    <Event id="3434962" event_id="99" event_type_id="19" period_id="2" period_minute="8" period_second="48" min="8" sec="48" player_id="0" team_id="550" outcome="1" x="53.0" y="79.7" timestamp="2015-09-05T14:39:10" timestamp_milliseconds="518" timer_running="0" last_modified="2015-09-05T14:39:10" />
+    <Event id="3434967" event_id="101" event_type_id="19" period_id="2" period_minute="8" period_second="53" min="8" sec="53" player_id="0" team_id="550" outcome="1" x="44.3" y="69.6" timestamp="2015-09-05T14:39:15" timestamp_milliseconds="908" timer_running="0" last_modified="2015-09-05T14:39:16" />
+    <Event id="3434974" event_id="105" event_type_id="19" period_id="2" period_minute="9" period_second="0" min="9" sec="0" player_id="0" team_id="550" outcome="1" x="44.3" y="69.6" timestamp="2015-09-05T14:39:22" timestamp_milliseconds="799" timer_running="0" last_modified="2015-09-05T14:39:23" />
+    <Event id="3434980" event_id="110" event_type_id="19" period_id="2" period_minute="9" period_second="11" min="9" sec="11" player_id="0" team_id="550" outcome="1" x="44.3" y="69.6" timestamp="2015-09-05T14:39:33" timestamp_milliseconds="611" timer_running="0" last_modified="2015-09-05T14:39:33" />
+    <Event id="3434992" event_id="114" event_type_id="11" period_id="2" period_minute="9" period_second="58" min="9" sec="58" player_id="8787" team_id="550" outcome="1" x="60.0" y="100.0" timestamp="2015-09-05T14:41:42" timestamp_milliseconds="157" timer_running="0" last_modified="2015-09-05T14:41:42">
+      <Q id="4605765" qualifier_id="157" />
+      <Q id="4605766" qualifier_id="163" value="1" />
+    </Event>
+    <Event id="3434995" event_id="116" event_type_id="41" period_id="2" period_minute="10" period_second="2" min="10" sec="2" player_id="9144" team_id="550" outcome="1" x="59.5" y="89.2" timestamp="2015-09-05T14:41:45" timestamp_milliseconds="391" timer_running="0" last_modified="2015-09-05T14:41:45" />
+    <Event id="3434997" event_id="118" event_type_id="19" period_id="2" period_minute="10" period_second="5" min="10" sec="5" player_id="0" team_id="550" outcome="1" x="59.5" y="89.2" timestamp="2015-09-05T14:41:48" timestamp_milliseconds="578" timer_running="0" last_modified="2015-09-05T14:41:48" />
+    <Event id="3435010" event_id="126" event_type_id="19" period_id="2" period_minute="10" period_second="21" min="10" sec="21" player_id="0" team_id="550" outcome="1" x="54.6" y="79.1" timestamp="2015-09-05T14:42:04" timestamp_milliseconds="610" timer_running="0" last_modified="2015-09-05T14:42:04" />
+    <Event id="3435013" event_id="128" event_type_id="19" period_id="2" period_minute="10" period_second="24" min="10" sec="24" player_id="0" team_id="550" outcome="1" x="43.4" y="39.7" timestamp="2015-09-05T14:42:08" timestamp_milliseconds="109" timer_running="0" last_modified="2015-09-05T14:42:08" />
+    <Event id="3435021" event_id="133" event_type_id="11" period_id="2" period_minute="11" period_second="7" min="11" sec="7" player_id="8787" team_id="550" outcome="1" x="60.0" y="1.2" timestamp="2015-09-05T14:42:50" timestamp_milliseconds="953" timer_running="0" last_modified="2015-09-05T14:44:42">
+      <Q id="4605888" qualifier_id="163" value="1" />
+      <Q id="4605887" qualifier_id="158" />
+    </Event>
+    <Event id="3435022" event_id="134" event_type_id="41" period_id="2" period_minute="11" period_second="10" min="11" sec="10" player_id="18311" team_id="550" outcome="1" x="60.0" y="1.2" timestamp="2015-09-05T14:42:53" timestamp_milliseconds="453" timer_running="0" last_modified="2015-09-05T14:42:53" />
+    <Event id="3435028" event_id="139" event_type_id="19" period_id="2" period_minute="11" period_second="18" min="11" sec="18" player_id="0" team_id="550" outcome="1" x="42.3" y="21.4" timestamp="2015-09-05T14:43:01" timestamp_milliseconds="593" timer_running="0" last_modified="2015-09-05T14:43:01" />
+    <Event id="3435034" event_id="99" event_type_id="19" period_id="2" period_minute="11" period_second="36" min="11" sec="36" player_id="0" team_id="600" outcome="1" x="43.0" y="66.8" timestamp="2015-09-05T14:43:18" timestamp_milliseconds="74" timer_running="0" last_modified="2015-09-05T14:43:18" />
+    <Event id="3435039" event_id="103" event_type_id="19" period_id="2" period_minute="11" period_second="45" min="11" sec="45" player_id="0" team_id="600" outcome="1" x="42.7" y="34.3" timestamp="2015-09-05T14:43:27" timestamp_milliseconds="809" timer_running="0" last_modified="2015-09-05T14:43:27" />
+    <Event id="3435045" event_id="107" event_type_id="19" period_id="2" period_minute="11" period_second="52" min="11" sec="52" player_id="0" team_id="600" outcome="1" x="45.4" y="19.6" timestamp="2015-09-05T14:43:34" timestamp_milliseconds="403" timer_running="0" last_modified="2015-09-05T14:43:34" />
+    <Event id="3435052" event_id="150" event_type_id="19" period_id="2" period_minute="12" period_second="1" min="12" sec="1" player_id="0" team_id="550" outcome="1" x="40.0" y="81.2" timestamp="2015-09-05T14:43:44" timestamp_milliseconds="858" timer_running="0" last_modified="2015-09-05T14:43:44" />
+    <Event id="3435056" event_id="153" event_type_id="19" period_id="2" period_minute="12" period_second="7" min="12" sec="7" player_id="0" team_id="550" outcome="1" x="36.8" y="71.1" timestamp="2015-09-05T14:43:51" timestamp_milliseconds="108" timer_running="0" last_modified="2015-09-05T14:43:51" />
+    <Event id="3435078" event_id="169" event_type_id="23" period_id="2" period_minute="12" period_second="54" min="12" sec="54" player_id="3901" team_id="550" outcome="1" x="88.9" y="98.0" timestamp="2015-09-05T14:45:13" timestamp_milliseconds="388" timer_running="0" last_modified="2015-09-05T14:45:16">
+      <Q id="4605896" qualifier_id="2" value="4 Forward 4" />
+    </Event>
+    <Event id="3435079" event_id="170" event_type_id="24" period_id="2" period_minute="12" period_second="54" min="12" sec="54" player_id="18571" team_id="550" outcome="1" x="88.9" y="98.0" timestamp="2015-09-05T14:45:16" timestamp_milliseconds="904" timer_running="0" last_modified="2015-09-05T14:45:17">
+      <Q id="4605900" qualifier_id="2" value="19 Replacement 4" />
+    </Event>
+    <Event id="3435081" event_id="172" event_type_id="11" period_id="2" period_minute="12" period_second="55" min="12" sec="55" player_id="8787" team_id="550" outcome="1" x="88.9" y="98.0" timestamp="2015-09-05T14:45:43" timestamp_milliseconds="950" timer_running="0" last_modified="2015-09-05T14:45:44">
+      <Q id="4605902" qualifier_id="157" />
+      <Q id="4605903" qualifier_id="163" value="1" />
+    </Event>
+    <Event id="3435082" event_id="173" event_type_id="41" period_id="2" period_minute="12" period_second="57" min="12" sec="57" player_id="9802" team_id="550" outcome="1" x="88.9" y="98.0" timestamp="2015-09-05T14:45:45" timestamp_milliseconds="404" timer_running="0" last_modified="2015-09-05T14:45:45" />
+    <Event id="3435090" event_id="178" event_type_id="27" period_id="2" period_minute="13" period_second="23" min="13" sec="23" player_id="19083" team_id="550" outcome="1" x="97.5" y="4.6" timestamp="2015-09-05T14:46:11" timestamp_milliseconds="575" timer_running="0" last_modified="2015-09-05T14:46:13">
+      <Q id="4605918" qualifier_id="163" value="-1" />
+      <Q id="4605917" qualifier_id="152" />
+    </Event>
+    <Event id="3435098" event_id="183" event_type_id="3" period_id="2" period_minute="14" period_second="52" min="14" sec="52" player_id="11041" team_id="550" outcome="0" x="75.2" y="10.0" timestamp="2015-09-05T14:47:41" timestamp_milliseconds="11" timer_running="0" last_modified="2015-09-05T14:47:43">
+      <Q id="4605932" qualifier_id="167" value="100.0" />
+      <Q id="4605934" qualifier_id="166" value="30.2" />
+      <Q id="4605931" qualifier_id="79" />
+      <Q id="4605933" qualifier_id="168" value="65.2" />
+    </Event>
+    <Event id="3435106" event_id="187" event_type_id="19" period_id="2" period_minute="15" period_second="24" min="15" sec="24" player_id="0" team_id="550" outcome="1" x="43.4" y="43.5" timestamp="2015-09-05T14:48:12" timestamp_milliseconds="636" timer_running="0" last_modified="2015-09-05T14:48:12" />
+    <Event id="3435120" event_id="131" event_type_id="31" period_id="2" period_minute="15" period_second="47" min="15" sec="47" player_id="6144" team_id="600" outcome="1" x="42.7" y="20.9" timestamp="2015-09-05T14:48:35" timestamp_milliseconds="856" timer_running="0" last_modified="2015-09-05T14:48:41" />
+    <Event id="3435123" event_id="195" event_type_id="19" period_id="2" period_minute="15" period_second="51" min="15" sec="51" player_id="0" team_id="550" outcome="1" x="58.9" y="78.9" timestamp="2015-09-05T14:48:39" timestamp_milliseconds="901" timer_running="0" last_modified="2015-09-05T14:48:40" />
+    <Event id="3435131" event_id="201" event_type_id="19" period_id="2" period_minute="16" period_second="2" min="16" sec="2" player_id="0" team_id="550" outcome="1" x="61.6" y="35.3" timestamp="2015-09-05T14:48:50" timestamp_milliseconds="948" timer_running="0" last_modified="2015-09-05T14:48:51" />
+    <Event id="3435142" event_id="139" event_type_id="23" period_id="2" period_minute="16" period_second="12" min="16" sec="12" player_id="10308" team_id="600" outcome="1" x="28.6" y="58.8" timestamp="2015-09-05T14:50:06" timestamp_milliseconds="43" timer_running="0" last_modified="2015-09-05T14:50:11">
+      <Q id="4605992" qualifier_id="2" value="9 Back 1" />
+    </Event>
+    <Event id="3435143" event_id="140" event_type_id="24" period_id="2" period_minute="16" period_second="12" min="16" sec="12" player_id="3947" team_id="600" outcome="1" x="28.6" y="58.8" timestamp="2015-09-05T14:50:11" timestamp_milliseconds="543" timer_running="0" last_modified="2015-09-05T14:50:11">
+      <Q id="4605996" qualifier_id="2" value="21 Replacement 6" />
+    </Event>
+    <Event id="3435146" event_id="209" event_type_id="21" period_id="2" period_minute="16" period_second="24" min="16" sec="24" player_id="0" team_id="550" outcome="1" x="75.2" y="50.5" timestamp="2015-09-05T14:50:44" timestamp_milliseconds="572" timer_running="0" last_modified="2015-09-05T14:50:46" />
+    <Event id="3435148" event_id="210" event_type_id="21" period_id="2" period_minute="16" period_second="52" min="16" sec="52" player_id="0" team_id="550" outcome="1" x="75.2" y="50.5" timestamp="2015-09-05T14:51:12" timestamp_milliseconds="618" timer_running="0" last_modified="2015-09-05T14:51:21">
+      <Q id="4606005" qualifier_id="163" value="1" />
+      <Q id="4606004" qualifier_id="107" />
+    </Event>
+    <Event id="3435155" event_id="215" event_type_id="19" period_id="2" period_minute="17" period_second="9" min="17" sec="9" player_id="0" team_id="550" outcome="1" x="79.6" y="36.3" timestamp="2015-09-05T14:51:30" timestamp_milliseconds="259" timer_running="0" last_modified="2015-09-05T14:51:30" />
+    <Event id="3435159" event_id="218" event_type_id="19" period_id="2" period_minute="17" period_second="13" min="17" sec="13" player_id="0" team_id="550" outcome="1" x="85.2" y="34.8" timestamp="2015-09-05T14:51:34" timestamp_milliseconds="571" timer_running="0" last_modified="2015-09-05T14:51:34" />
+    <Event id="3435165" event_id="222" event_type_id="19" period_id="2" period_minute="17" period_second="19" min="17" sec="19" player_id="0" team_id="550" outcome="1" x="90.4" y="45.6" timestamp="2015-09-05T14:51:40" timestamp_milliseconds="352" timer_running="0" last_modified="2015-09-05T14:51:40" />
+    <Event id="3435170" event_id="226" event_type_id="19" period_id="2" period_minute="17" period_second="27" min="17" sec="27" player_id="0" team_id="550" outcome="1" x="88.2" y="54.9" timestamp="2015-09-05T14:51:48" timestamp_milliseconds="524" timer_running="0" last_modified="2015-09-05T14:51:48" />
+    <Event id="3435181" event_id="232" event_type_id="19" period_id="2" period_minute="17" period_second="42" min="17" sec="42" player_id="0" team_id="550" outcome="1" x="88.2" y="54.9" timestamp="2015-09-05T14:52:02" timestamp_milliseconds="915" timer_running="0" last_modified="2015-09-05T14:52:03" />
+    <Event id="3435184" event_id="235" event_type_id="19" period_id="2" period_minute="17" period_second="47" min="17" sec="47" player_id="0" team_id="550" outcome="1" x="88.2" y="54.9" timestamp="2015-09-05T14:52:07" timestamp_milliseconds="899" timer_running="0" last_modified="2015-09-05T14:52:07" />
+    <Event id="3435187" event_id="237" event_type_id="19" period_id="2" period_minute="17" period_second="49" min="17" sec="49" player_id="0" team_id="550" outcome="1" x="88.2" y="54.9" timestamp="2015-09-05T14:52:09" timestamp_milliseconds="759" timer_running="0" last_modified="2015-09-05T14:52:09" />
+    <Event id="3435189" event_id="239" event_type_id="19" period_id="2" period_minute="17" period_second="52" min="17" sec="52" player_id="0" team_id="550" outcome="1" x="88.2" y="54.9" timestamp="2015-09-05T14:52:12" timestamp_milliseconds="665" timer_running="0" last_modified="2015-09-05T14:52:12" />
+    <Event id="3435205" event_id="248" event_type_id="23" period_id="2" period_minute="18" period_second="41" min="18" sec="41" player_id="18571" team_id="550" outcome="1" x="79.5" y="19.6" timestamp="2015-09-05T14:53:18" timestamp_milliseconds="618" timer_running="0" last_modified="2015-09-05T14:53:21">
+      <Q id="4606062" qualifier_id="2" value="19 Replacement 4" />
+    </Event>
+    <Event id="3435206" event_id="249" event_type_id="24" period_id="2" period_minute="18" period_second="41" min="18" sec="41" player_id="3901" team_id="550" outcome="1" x="79.5" y="19.6" timestamp="2015-09-05T14:53:21" timestamp_milliseconds="868" timer_running="0" last_modified="2015-09-05T14:53:21">
+      <Q id="4606066" qualifier_id="2" value="4 Forward 4" />
+    </Event>
+    <Event id="3435209" event_id="160" event_type_id="21" period_id="2" period_minute="18" period_second="42" min="18" sec="42" player_id="0" team_id="600" outcome="1" x="18.6" y="75.8" timestamp="2015-09-05T14:53:34" timestamp_milliseconds="356" timer_running="0" last_modified="2015-09-05T14:53:37">
+      <Q id="4606070" qualifier_id="107" />
+      <Q id="4606071" qualifier_id="163" value="1" />
+    </Event>
+    <Event id="3435217" event_id="165" event_type_id="19" period_id="2" period_minute="18" period_second="56" min="18" sec="56" player_id="0" team_id="600" outcome="1" x="36.1" y="14.9" timestamp="2015-09-05T14:53:48" timestamp_milliseconds="184" timer_running="0" last_modified="2015-09-05T14:53:48" />
+    <Event id="3435225" event_id="169" event_type_id="19" period_id="2" period_minute="19" period_second="2" min="19" sec="2" player_id="0" team_id="600" outcome="1" x="38.9" y="22.2" timestamp="2015-09-05T14:53:53" timestamp_milliseconds="965" timer_running="0" last_modified="2015-09-05T14:53:54" />
+    <Event id="3435232" event_id="173" event_type_id="19" period_id="2" period_minute="19" period_second="8" min="19" sec="8" player_id="0" team_id="600" outcome="1" x="39.1" y="5.1" timestamp="2015-09-05T14:54:00" timestamp_milliseconds="168" timer_running="0" last_modified="2015-09-05T14:54:00" />
+    <Event id="3435237" event_id="177" event_type_id="19" period_id="2" period_minute="19" period_second="18" min="19" sec="18" player_id="0" team_id="600" outcome="1" x="38.4" y="25.2" timestamp="2015-09-05T14:54:10" timestamp_milliseconds="168" timer_running="0" last_modified="2015-09-05T14:54:10" />
+    <Event id="3435243" event_id="181" event_type_id="19" period_id="2" period_minute="19" period_second="28" min="19" sec="28" player_id="0" team_id="600" outcome="1" x="40.4" y="33.2" timestamp="2015-09-05T14:54:20" timestamp_milliseconds="465" timer_running="0" last_modified="2015-09-05T14:54:20" />
+    <Event id="3435244" event_id="260" event_type_id="15" period_id="2" period_minute="19" period_second="34" min="19" sec="34" player_id="9802" team_id="550" outcome="1" x="63.4" y="54.4" timestamp="2015-09-05T14:54:22" timestamp_milliseconds="618" timer_running="0" last_modified="2015-09-05T14:54:24">
+      <Q id="4606107" qualifier_id="88" />
+      <Q id="4606108" qualifier_id="20" />
+    </Event>
+    <Event id="3435248" event_id="184" event_type_id="11" period_id="2" period_minute="20" period_second="22" min="20" sec="22" player_id="6144" team_id="600" outcome="1" x="75.7" y="99.8" timestamp="2015-09-05T14:55:14" timestamp_milliseconds="434" timer_running="0" last_modified="2015-09-05T14:55:15">
+      <Q id="4606117" qualifier_id="157" />
+      <Q id="4606118" qualifier_id="163" value="1" />
+    </Event>
+    <Event id="3435249" event_id="185" event_type_id="41" period_id="2" period_minute="20" period_second="25" min="20" sec="25" player_id="7697" team_id="600" outcome="1" x="75.9" y="86.9" timestamp="2015-09-05T14:55:17" timestamp_milliseconds="59" timer_running="0" last_modified="2015-09-05T14:55:17" />
+    <Event id="3435254" event_id="189" event_type_id="19" period_id="2" period_minute="20" period_second="31" min="20" sec="31" player_id="0" team_id="600" outcome="1" x="75.4" y="71.9" timestamp="2015-09-05T14:55:23" timestamp_milliseconds="340" timer_running="0" last_modified="2015-09-05T14:55:23" />
+    <Event id="3435258" event_id="192" event_type_id="19" period_id="2" period_minute="20" period_second="40" min="20" sec="40" player_id="0" team_id="600" outcome="1" x="77.0" y="61.1" timestamp="2015-09-05T14:55:31" timestamp_milliseconds="934" timer_running="0" last_modified="2015-09-05T14:55:32" />
+    <Event id="3435270" event_id="199" event_type_id="11" period_id="2" period_minute="22" period_second="1" min="22" sec="1" player_id="6144" team_id="600" outcome="1" x="49.6" y="0.5" timestamp="2015-09-05T14:56:53" timestamp_milliseconds="200" timer_running="0" last_modified="2015-09-05T14:56:54">
+      <Q id="4606151" qualifier_id="163" value="1" />
+      <Q id="4606150" qualifier_id="158" />
+    </Event>
+    <Event id="3435271" event_id="200" event_type_id="41" period_id="2" period_minute="22" period_second="5" min="22" sec="5" player_id="15056" team_id="600" outcome="1" x="50.5" y="18.8" timestamp="2015-09-05T14:56:56" timestamp_milliseconds="590" timer_running="0" last_modified="2015-09-05T14:56:56" />
+    <Event id="3435278" event_id="205" event_type_id="19" period_id="2" period_minute="22" period_second="12" min="22" sec="12" player_id="0" team_id="600" outcome="1" x="50.9" y="32.2" timestamp="2015-09-05T14:57:03" timestamp_milliseconds="684" timer_running="0" last_modified="2015-09-05T14:57:03" />
+    <Event id="3435285" event_id="210" event_type_id="19" period_id="2" period_minute="22" period_second="19" min="22" sec="19" player_id="0" team_id="600" outcome="1" x="55.9" y="87.7" timestamp="2015-09-05T14:57:11" timestamp_milliseconds="137" timer_running="0" last_modified="2015-09-05T14:57:11" />
+    <Event id="3435290" event_id="214" event_type_id="19" period_id="2" period_minute="22" period_second="24" min="22" sec="24" player_id="0" team_id="600" outcome="1" x="54.1" y="70.1" timestamp="2015-09-05T14:57:16" timestamp_milliseconds="355" timer_running="0" last_modified="2015-09-05T14:57:16" />
+    <Event id="3435294" event_id="275" event_type_id="19" period_id="2" period_minute="22" period_second="36" min="22" sec="36" player_id="0" team_id="550" outcome="1" x="41.6" y="50.3" timestamp="2015-09-05T14:57:24" timestamp_milliseconds="692" timer_running="0" last_modified="2015-09-05T14:57:24" />
+    <Event id="3435303" event_id="220" event_type_id="15" period_id="2" period_minute="23" period_second="22" min="23" sec="22" player_id="9103" team_id="600" outcome="1" x="55.0" y="43.6" timestamp="2015-09-05T14:58:14" timestamp_milliseconds="401" timer_running="0" last_modified="2015-09-05T14:58:20">
+      <Q id="4606185" qualifier_id="87" />
+      <Q id="4606186" qualifier_id="163" value="-1" />
+    </Event>
+    <Event id="3435306" event_id="284" event_type_id="11" period_id="2" period_minute="24" period_second="2" min="24" sec="2" player_id="8787" team_id="550" outcome="1" x="74.6" y="100.0" timestamp="2015-09-05T14:58:50" timestamp_milliseconds="909" timer_running="0" last_modified="2015-09-05T14:58:53">
+      <Q id="4606190" qualifier_id="157" />
+      <Q id="4606191" qualifier_id="163" value="1" />
+    </Event>
+    <Event id="3435312" event_id="288" event_type_id="19" period_id="2" period_minute="24" period_second="11" min="24" sec="11" player_id="0" team_id="550" outcome="1" x="71.2" y="54.1" timestamp="2015-09-05T14:59:00" timestamp_milliseconds="2" timer_running="0" last_modified="2015-09-05T14:59:00" />
+    <Event id="3435317" event_id="291" event_type_id="19" period_id="2" period_minute="24" period_second="21" min="24" sec="21" player_id="0" team_id="550" outcome="1" x="70.9" y="49.2" timestamp="2015-09-05T14:59:09" timestamp_milliseconds="65" timer_running="0" last_modified="2015-09-05T14:59:09" />
+    <Event id="3435326" event_id="297" event_type_id="19" period_id="2" period_minute="24" period_second="32" min="24" sec="32" player_id="0" team_id="550" outcome="1" x="72.1" y="64.4" timestamp="2015-09-05T14:59:20" timestamp_milliseconds="486" timer_running="0" last_modified="2015-09-05T14:59:20" />
+    <Event id="3435331" event_id="302" event_type_id="31" period_id="2" period_minute="24" period_second="37" min="24" sec="37" player_id="8787" team_id="550" outcome="1" x="72.1" y="64.4" timestamp="2015-09-05T14:59:25" timestamp_milliseconds="424" timer_running="0" last_modified="2015-09-05T15:03:17" />
+    <Event id="3435333" event_id="303" event_type_id="31" period_id="2" period_minute="24" period_second="42" min="24" sec="42" player_id="16965" team_id="550" outcome="1" x="93.9" y="92.0" timestamp="2015-09-05T14:59:30" timestamp_milliseconds="705" timer_running="0" last_modified="2015-09-05T15:02:59">
+      <Q id="4606243" qualifier_id="163" value="-1" />
+      <Q id="4606242" qualifier_id="148" />
+    </Event>
+    <Event id="3435339" event_id="307" event_type_id="31" period_id="2" period_minute="25" period_second="33" min="25" sec="33" player_id="16965" team_id="550" outcome="1" x="100.0" y="92.8" timestamp="2015-09-05T15:00:25" timestamp_milliseconds="454" timer_running="0" last_modified="2015-09-05T15:03:05" />
+    <Event id="3435342" event_id="309" event_type_id="31" period_id="2" period_minute="25" period_second="55" min="25" sec="55" player_id="8787" team_id="550" outcome="1" x="100.0" y="92.8" timestamp="2015-09-05T15:00:47" timestamp_milliseconds="860" timer_running="0" last_modified="2015-09-05T15:02:55" />
+    <Event id="3435368" event_id="233" event_type_id="21" period_id="2" period_minute="26" period_second="3" min="26" sec="3" player_id="0" team_id="600" outcome="1" x="50.0" y="49.2" timestamp="2015-09-05T15:03:47" timestamp_milliseconds="111" timer_running="0" last_modified="2015-09-05T15:04:03">
+      <Q id="4606261" qualifier_id="110" />
+    </Event>
+    <Event id="3435370" event_id="319" event_type_id="15" period_id="2" period_minute="26" period_second="20" min="26" sec="20" player_id="0" team_id="550" outcome="1" x="78.9" y="76.0" timestamp="2015-09-05T15:04:04" timestamp_milliseconds="137" timer_running="0" last_modified="2015-09-05T15:04:06">
+      <Q id="4606263" qualifier_id="88" />
+    </Event>
+    <Event id="3435378" event_id="236" event_type_id="11" period_id="2" period_minute="27" period_second="5" min="27" sec="5" player_id="6144" team_id="600" outcome="1" x="50.0" y="0.0" timestamp="2015-09-05T15:04:48" timestamp_milliseconds="734" timer_running="0" last_modified="2015-09-05T15:04:49">
+      <Q id="4606279" qualifier_id="157" />
+      <Q id="4606280" qualifier_id="163" value="1" />
+    </Event>
+    <Event id="3435379" event_id="237" event_type_id="41" period_id="2" period_minute="27" period_second="8" min="27" sec="8" player_id="10268" team_id="600" outcome="1" x="50.4" y="8.7" timestamp="2015-09-05T15:04:51" timestamp_milliseconds="312" timer_running="0" last_modified="2015-09-05T15:04:51" />
+    <Event id="3435387" event_id="244" event_type_id="19" period_id="2" period_minute="27" period_second="20" min="27" sec="20" player_id="0" team_id="600" outcome="1" x="52.7" y="85.9" timestamp="2015-09-05T15:05:03" timestamp_milliseconds="953" timer_running="0" last_modified="2015-09-05T15:05:04" />
+    <Event id="3435393" event_id="248" event_type_id="19" period_id="2" period_minute="27" period_second="25" min="27" sec="25" player_id="0" team_id="600" outcome="1" x="50.0" y="57.0" timestamp="2015-09-05T15:05:08" timestamp_milliseconds="937" timer_running="0" last_modified="2015-09-05T15:05:08" />
+    <Event id="3435403" event_id="255" event_type_id="19" period_id="2" period_minute="27" period_second="49" min="27" sec="49" player_id="0" team_id="600" outcome="1" x="64.5" y="6.2" timestamp="2015-09-05T15:05:32" timestamp_milliseconds="796" timer_running="0" last_modified="2015-09-05T15:05:32" />
+    <Event id="3435408" event_id="259" event_type_id="19" period_id="2" period_minute="27" period_second="54" min="27" sec="54" player_id="0" team_id="600" outcome="1" x="63.0" y="20.3" timestamp="2015-09-05T15:05:38" timestamp_milliseconds="92" timer_running="0" last_modified="2015-09-05T15:05:38" />
+    <Event id="3435415" event_id="264" event_type_id="19" period_id="2" period_minute="28" period_second="1" min="28" sec="1" player_id="0" team_id="600" outcome="1" x="63.6" y="32.7" timestamp="2015-09-05T15:05:44" timestamp_milliseconds="358" timer_running="0" last_modified="2015-09-05T15:05:44" />
+    <Event id="3435419" event_id="267" event_type_id="19" period_id="2" period_minute="28" period_second="7" min="28" sec="7" player_id="0" team_id="600" outcome="1" x="69.1" y="25.8" timestamp="2015-09-05T15:05:50" timestamp_milliseconds="311" timer_running="0" last_modified="2015-09-05T15:05:50" />
+    <Event id="3435426" event_id="270" event_type_id="19" period_id="2" period_minute="28" period_second="12" min="28" sec="12" player_id="0" team_id="600" outcome="1" x="69.1" y="25.8" timestamp="2015-09-05T15:05:55" timestamp_milliseconds="717" timer_running="0" last_modified="2015-09-05T15:05:55" />
+    <Event id="3435436" event_id="336" event_type_id="21" period_id="2" period_minute="29" period_second="12" min="29" sec="12" player_id="0" team_id="550" outcome="1" x="31.4" y="73.7" timestamp="2015-09-05T15:06:56" timestamp_milliseconds="111" timer_running="0" last_modified="2015-09-05T15:07:03">
+      <Q id="4606341" qualifier_id="115" />
+    </Event>
+    <Event id="3435440" event_id="278" event_type_id="19" period_id="2" period_minute="29" period_second="23" min="29" sec="23" player_id="0" team_id="600" outcome="1" x="81.8" y="20.6" timestamp="2015-09-05T15:07:06" timestamp_milliseconds="981" timer_running="0" last_modified="2015-09-05T15:07:07" />
+    <Event id="3435444" event_id="281" event_type_id="19" period_id="2" period_minute="29" period_second="30" min="29" sec="30" player_id="0" team_id="600" outcome="0" x="84.6" y="27.6" timestamp="2015-09-05T15:07:13" timestamp_milliseconds="340" timer_running="0" last_modified="2015-09-05T15:07:13" />
+    <Event id="3435446" event_id="340" event_type_id="19" period_id="2" period_minute="29" period_second="36" min="29" sec="36" player_id="0" team_id="550" outcome="1" x="12.3" y="61.6" timestamp="2015-09-05T15:07:19" timestamp_milliseconds="580" timer_running="0" last_modified="2015-09-05T15:07:19" />
+    <Event id="3435452" event_id="284" event_type_id="11" period_id="2" period_minute="30" period_second="9" min="30" sec="9" player_id="6144" team_id="600" outcome="1" x="60.0" y="0.0" timestamp="2015-09-05T15:07:52" timestamp_milliseconds="402" timer_running="0" last_modified="2015-09-05T15:07:53">
+      <Q id="4606361" qualifier_id="157" />
+      <Q id="4606362" qualifier_id="163" value="1" />
+    </Event>
+    <Event id="3435455" event_id="285" event_type_id="41" period_id="2" period_minute="30" period_second="11" min="30" sec="11" player_id="10268" team_id="600" outcome="1" x="60.4" y="11.1" timestamp="2015-09-05T15:07:54" timestamp_milliseconds="448" timer_running="0" last_modified="2015-09-05T15:07:54" />
+    <Event id="3435460" event_id="347" event_type_id="19" period_id="2" period_minute="30" period_second="19" min="30" sec="19" player_id="0" team_id="550" outcome="1" x="40.2" y="85.8" timestamp="2015-09-05T15:08:03" timestamp_milliseconds="63" timer_running="0" last_modified="2015-09-05T15:08:03" />
+    <Event id="3435474" event_id="352" event_type_id="11" period_id="2" period_minute="31" period_second="6" min="31" sec="6" player_id="8787" team_id="550" outcome="1" x="72.9" y="89.7" timestamp="2015-09-05T15:08:49" timestamp_milliseconds="843" timer_running="0" last_modified="2015-09-05T15:08:50">
+      <Q id="4606410" qualifier_id="163" value="1" />
+      <Q id="4606409" qualifier_id="157" />
+    </Event>
+    <Event id="3435475" event_id="353" event_type_id="41" period_id="2" period_minute="31" period_second="8" min="31" sec="8" player_id="9438" team_id="550" outcome="1" x="72.9" y="89.7" timestamp="2015-09-05T15:08:51" timestamp_milliseconds="749" timer_running="0" last_modified="2015-09-05T15:08:51" />
+    <Event id="3435484" event_id="359" event_type_id="19" period_id="2" period_minute="31" period_second="25" min="31" sec="25" player_id="0" team_id="550" outcome="0" x="70.0" y="53.1" timestamp="2015-09-05T15:09:08" timestamp_milliseconds="967" timer_running="0" last_modified="2015-09-05T15:09:09" />
+    <Event id="3435486" event_id="297" event_type_id="19" period_id="2" period_minute="31" period_second="26" min="31" sec="26" player_id="0" team_id="600" outcome="1" x="25.7" y="38.4" timestamp="2015-09-05T15:09:09" timestamp_milliseconds="431" timer_running="0" last_modified="2015-09-05T15:09:09" />
+    <Event id="3435494" event_id="364" event_type_id="15" period_id="2" period_minute="31" period_second="41" min="31" sec="41" player_id="16267" team_id="550" outcome="1" x="37.0" y="12.6" timestamp="2015-09-05T15:09:25" timestamp_milliseconds="154" timer_running="0" last_modified="2015-09-05T15:09:27">
+      <Q id="4606438" qualifier_id="163" value="-1" />
+      <Q id="4606437" qualifier_id="87" />
+    </Event>
+    <Event id="3435502" event_id="303" event_type_id="11" period_id="2" period_minute="32" period_second="36" min="32" sec="36" player_id="6144" team_id="600" outcome="1" x="93.6" y="99.8" timestamp="2015-09-05T15:10:19" timestamp_milliseconds="681" timer_running="0" last_modified="2015-09-05T15:10:21">
+      <Q id="4606458" qualifier_id="115" />
+    </Event>
+    <Event id="3435503" event_id="366" event_type_id="41" period_id="2" period_minute="32" period_second="39" min="32" sec="39" player_id="3901" team_id="550" outcome="1" x="5.4" y="10.3" timestamp="2015-09-05T15:10:22" timestamp_milliseconds="778" timer_running="0" last_modified="2015-09-05T15:10:22" />
+    <Event id="3435507" event_id="369" event_type_id="19" period_id="2" period_minute="32" period_second="45" min="32" sec="45" player_id="0" team_id="550" outcome="1" x="5.4" y="10.3" timestamp="2015-09-05T15:10:29" timestamp_milliseconds="122" timer_running="0" last_modified="2015-09-05T15:10:29" />
+    <Event id="3435512" event_id="307" event_type_id="19" period_id="2" period_minute="32" period_second="54" min="32" sec="54" player_id="0" team_id="600" outcome="1" x="66.4" y="91.0" timestamp="2015-09-05T15:10:37" timestamp_milliseconds="822" timer_running="0" last_modified="2015-09-05T15:10:37" />
+    <Event id="3435517" event_id="310" event_type_id="19" period_id="2" period_minute="33" period_second="1" min="33" sec="1" player_id="0" team_id="600" outcome="1" x="69.1" y="76.1" timestamp="2015-09-05T15:10:45" timestamp_milliseconds="25" timer_running="0" last_modified="2015-09-05T15:10:45" />
+    <Event id="3435519" event_id="312" event_type_id="31" period_id="2" period_minute="33" period_second="3" min="33" sec="3" player_id="15055" team_id="600" outcome="1" x="69.1" y="76.1" timestamp="2015-09-05T15:10:46" timestamp_milliseconds="541" timer_running="0" last_modified="2015-09-05T15:10:55" />
+    <Event id="3435537" event_id="320" event_type_id="19" period_id="2" period_minute="33" period_second="28" min="33" sec="28" player_id="0" team_id="600" outcome="1" x="56.2" y="78.4" timestamp="2015-09-05T15:11:11" timestamp_milliseconds="603" timer_running="0" last_modified="2015-09-05T15:11:11" />
+    <Event id="3435546" event_id="387" event_type_id="19" period_id="2" period_minute="33" period_second="40" min="33" sec="40" player_id="0" team_id="550" outcome="1" x="45.0" y="87.1" timestamp="2015-09-05T15:11:23" timestamp_milliseconds="542" timer_running="0" last_modified="2015-09-05T15:11:23" />
+    <Event id="3435556" event_id="331" event_type_id="19" period_id="2" period_minute="33" period_second="59" min="33" sec="59" player_id="0" team_id="600" outcome="1" x="38.8" y="77.9" timestamp="2015-09-05T15:11:42" timestamp_milliseconds="259" timer_running="0" last_modified="2015-09-05T15:11:42" />
+    <Event id="3435565" event_id="397" event_type_id="19" period_id="2" period_minute="34" period_second="14" min="34" sec="14" player_id="0" team_id="550" outcome="1" x="58.2" y="82.7" timestamp="2015-09-05T15:11:57" timestamp_milliseconds="838" timer_running="0" last_modified="2015-09-05T15:11:57" />
+    <Event id="3435590" event_id="414" event_type_id="19" period_id="2" period_minute="34" period_second="46" min="34" sec="46" player_id="0" team_id="550" outcome="1" x="62.9" y="14.9" timestamp="2015-09-05T15:12:29" timestamp_milliseconds="712" timer_running="0" last_modified="2015-09-05T15:12:29" />
+    <Event id="3435598" event_id="420" event_type_id="19" period_id="2" period_minute="34" period_second="58" min="34" sec="58" player_id="0" team_id="550" outcome="1" x="60.5" y="45.6" timestamp="2015-09-05T15:12:41" timestamp_milliseconds="353" timer_running="0" last_modified="2015-09-05T15:12:41" />
+    <Event id="3435606" event_id="425" event_type_id="19" period_id="2" period_minute="35" period_second="7" min="35" sec="7" player_id="0" team_id="550" outcome="1" x="56.4" y="66.8" timestamp="2015-09-05T15:12:51" timestamp_milliseconds="321" timer_running="0" last_modified="2015-09-05T15:12:51" />
+    <Event id="3435609" event_id="348" event_type_id="11" period_id="2" period_minute="35" period_second="52" min="35" sec="52" player_id="6144" team_id="600" outcome="1" x="20.0" y="0.0" timestamp="2015-09-05T15:13:36" timestamp_milliseconds="41" timer_running="0" last_modified="2015-09-05T15:13:36">
+      <Q id="4606599" qualifier_id="163" value="1" />
+      <Q id="4606598" qualifier_id="157" />
+    </Event>
+    <Event id="3435610" event_id="349" event_type_id="41" period_id="2" period_minute="35" period_second="55" min="35" sec="55" player_id="2381" team_id="600" outcome="1" x="19.6" y="12.1" timestamp="2015-09-05T15:13:38" timestamp_milliseconds="244" timer_running="0" last_modified="2015-09-05T15:13:38" />
+    <Event id="3435622" event_id="434" event_type_id="19" period_id="2" period_minute="36" period_second="28" min="36" sec="28" player_id="0" team_id="550" outcome="1" x="55.7" y="21.4" timestamp="2015-09-05T15:14:11" timestamp_milliseconds="585" timer_running="0" last_modified="2015-09-05T15:14:11" />
+    <Event id="3435629" event_id="438" event_type_id="19" period_id="2" period_minute="36" period_second="36" min="36" sec="36" player_id="0" team_id="550" outcome="1" x="55.7" y="21.4" timestamp="2015-09-05T15:14:19" timestamp_milliseconds="819" timer_running="0" last_modified="2015-09-05T15:14:19" />
+    <Event id="3435637" event_id="443" event_type_id="19" period_id="2" period_minute="36" period_second="46" min="36" sec="46" player_id="0" team_id="550" outcome="0" x="60.5" y="45.1" timestamp="2015-09-05T15:14:29" timestamp_milliseconds="850" timer_running="0" last_modified="2015-09-05T15:14:29" />
+    <Event id="3435642" event_id="446" event_type_id="19" period_id="2" period_minute="36" period_second="53" min="36" sec="53" player_id="0" team_id="550" outcome="1" x="60.5" y="45.1" timestamp="2015-09-05T15:14:36" timestamp_milliseconds="631" timer_running="0" last_modified="2015-09-05T15:14:36" />
+    <Event id="3435649" event_id="363" event_type_id="11" period_id="2" period_minute="37" period_second="15" min="37" sec="15" player_id="6144" team_id="600" outcome="1" x="5.4" y="100.0" timestamp="2015-09-05T15:14:58" timestamp_milliseconds="931" timer_running="0" last_modified="2015-09-05T15:15:03">
+      <Q id="4606650" qualifier_id="163" value="1" />
+      <Q id="4606649" qualifier_id="157" />
+    </Event>
+    <Event id="3435650" event_id="364" event_type_id="19" period_id="2" period_minute="37" period_second="22" min="37" sec="22" player_id="0" team_id="600" outcome="1" x="5.4" y="81.7" timestamp="2015-09-05T15:15:06" timestamp_milliseconds="41" timer_running="0" last_modified="2015-09-05T15:15:06" />
+    <Event id="3435654" event_id="367" event_type_id="19" period_id="2" period_minute="37" period_second="29" min="37" sec="29" player_id="0" team_id="600" outcome="1" x="5.0" y="70.4" timestamp="2015-09-05T15:15:12" timestamp_milliseconds="166" timer_running="0" last_modified="2015-09-05T15:15:12" />
+    <Event id="3435657" event_id="370" event_type_id="41" period_id="2" period_minute="37" period_second="37" min="37" sec="37" player_id="7697" team_id="600" outcome="1" x="34.3" y="99.5" timestamp="2015-09-05T15:15:21" timestamp_milliseconds="228" timer_running="0" last_modified="2015-09-05T15:15:21" />
+    <Event id="3435661" event_id="452" event_type_id="11" period_id="2" period_minute="38" period_second="8" min="38" sec="8" player_id="8787" team_id="550" outcome="1" x="59.6" y="0.5" timestamp="2015-09-05T15:15:51" timestamp_milliseconds="848" timer_running="0" last_modified="2015-09-05T15:15:52">
+      <Q id="4606664" qualifier_id="157" />
+      <Q id="4606665" qualifier_id="163" value="1" />
+    </Event>
+    <Event id="3435662" event_id="453" event_type_id="41" period_id="2" period_minute="38" period_second="10" min="38" sec="10" player_id="3901" team_id="550" outcome="1" x="59.6" y="0.5" timestamp="2015-09-05T15:15:53" timestamp_milliseconds="973" timer_running="0" last_modified="2015-09-05T15:15:54" />
+    <Event id="3435667" event_id="456" event_type_id="19" period_id="2" period_minute="38" period_second="17" min="38" sec="17" player_id="0" team_id="550" outcome="1" x="60.9" y="44.3" timestamp="2015-09-05T15:16:00" timestamp_milliseconds="926" timer_running="0" last_modified="2015-09-05T15:16:01" />
+    <Event id="3435674" event_id="462" event_type_id="19" period_id="2" period_minute="38" period_second="29" min="38" sec="29" player_id="0" team_id="550" outcome="1" x="67.1" y="88.7" timestamp="2015-09-05T15:16:12" timestamp_milliseconds="456" timer_running="0" last_modified="2015-09-05T15:16:12" />
+    <Event id="3435679" event_id="466" event_type_id="19" period_id="2" period_minute="38" period_second="35" min="38" sec="35" player_id="0" team_id="550" outcome="1" x="60.5" y="72.4" timestamp="2015-09-05T15:16:18" timestamp_milliseconds="488" timer_running="0" last_modified="2015-09-05T15:16:18" />
+    <Event id="3435687" event_id="378" event_type_id="19" period_id="2" period_minute="38" period_second="45" min="38" sec="45" player_id="0" team_id="600" outcome="1" x="40.5" y="75.0" timestamp="2015-09-05T15:16:28" timestamp_milliseconds="775" timer_running="0" last_modified="2015-09-05T15:16:28" />
+    <Event id="3435700" event_id="387" event_type_id="19" period_id="2" period_minute="39" period_second="0" min="39" sec="0" player_id="0" team_id="600" outcome="1" x="44.5" y="15.2" timestamp="2015-09-05T15:16:43" timestamp_milliseconds="337" timer_running="0" last_modified="2015-09-05T15:16:44" />
+    <Event id="3435705" event_id="390" event_type_id="19" period_id="2" period_minute="39" period_second="6" min="39" sec="6" player_id="0" team_id="600" outcome="1" x="44.5" y="15.2" timestamp="2015-09-05T15:16:50" timestamp_milliseconds="119" timer_running="0" last_modified="2015-09-05T15:16:50" />
+    <Event id="3435712" event_id="394" event_type_id="19" period_id="2" period_minute="39" period_second="12" min="39" sec="12" player_id="0" team_id="600" outcome="1" x="41.3" y="31.4" timestamp="2015-09-05T15:16:55" timestamp_milliseconds="244" timer_running="0" last_modified="2015-09-05T15:16:55" />
+    <Event id="3435719" event_id="400" event_type_id="19" period_id="2" period_minute="39" period_second="20" min="39" sec="20" player_id="0" team_id="600" outcome="1" x="44.5" y="77.6" timestamp="2015-09-05T15:17:04" timestamp_milliseconds="150" timer_running="0" last_modified="2015-09-05T15:17:04" />
+    <Event id="3435723" event_id="403" event_type_id="19" period_id="2" period_minute="39" period_second="26" min="39" sec="26" player_id="0" team_id="600" outcome="1" x="44.5" y="77.6" timestamp="2015-09-05T15:17:09" timestamp_milliseconds="853" timer_running="0" last_modified="2015-09-05T15:17:09" />
+    <Event id="3435727" event_id="406" event_type_id="19" period_id="2" period_minute="39" period_second="35" min="39" sec="35" player_id="0" team_id="600" outcome="1" x="46.8" y="68.8" timestamp="2015-09-05T15:17:18" timestamp_milliseconds="994" timer_running="0" last_modified="2015-09-05T15:17:19" />
+    <Event id="3435731" event_id="409" event_type_id="19" period_id="2" period_minute="39" period_second="41" min="39" sec="41" player_id="0" team_id="600" outcome="1" x="46.6" y="74.3" timestamp="2015-09-05T15:17:24" timestamp_milliseconds="947" timer_running="0" last_modified="2015-09-05T15:17:25" />
+    <Event id="3435742" event_id="414" event_type_id="21" period_id="2" period_minute="41" period_second="35" min="41" sec="35" player_id="0" team_id="600" outcome="1" x="72.7" y="37.1" timestamp="2015-09-05T15:19:18" timestamp_milliseconds="791" timer_running="0" last_modified="2015-09-05T15:19:28">
+      <Q id="4606739" qualifier_id="107" />
+      <Q id="4606740" qualifier_id="163" value="1" />
+    </Event>
+    <Event id="3435753" event_id="420" event_type_id="19" period_id="2" period_minute="41" period_second="57" min="41" sec="57" player_id="0" team_id="600" outcome="1" x="82.7" y="71.9" timestamp="2015-09-05T15:19:40" timestamp_milliseconds="681" timer_running="0" last_modified="2015-09-05T15:19:40" />
+    <Event id="3435761" event_id="426" event_type_id="19" period_id="2" period_minute="42" period_second="4" min="42" sec="4" player_id="0" team_id="600" outcome="1" x="82.0" y="37.4" timestamp="2015-09-05T15:19:47" timestamp_milliseconds="853" timer_running="0" last_modified="2015-09-05T15:19:47" />
+    <Event id="3435767" event_id="429" event_type_id="19" period_id="2" period_minute="42" period_second="10" min="42" sec="10" player_id="0" team_id="600" outcome="1" x="84.6" y="30.9" timestamp="2015-09-05T15:19:54" timestamp_milliseconds="25" timer_running="0" last_modified="2015-09-05T15:19:54" />
+    <Event id="3435771" event_id="432" event_type_id="19" period_id="2" period_minute="42" period_second="17" min="42" sec="17" player_id="0" team_id="600" outcome="1" x="85.4" y="18.3" timestamp="2015-09-05T15:20:00" timestamp_milliseconds="275" timer_running="0" last_modified="2015-09-05T15:20:00" />
+    <Event id="3435776" event_id="435" event_type_id="19" period_id="2" period_minute="42" period_second="22" min="42" sec="22" player_id="0" team_id="600" outcome="1" x="86.6" y="8.5" timestamp="2015-09-05T15:20:05" timestamp_milliseconds="791" timer_running="0" last_modified="2015-09-05T15:20:05" />
+    <Event id="3435780" event_id="438" event_type_id="19" period_id="2" period_minute="42" period_second="28" min="42" sec="28" player_id="0" team_id="600" outcome="1" x="88.2" y="15.7" timestamp="2015-09-05T15:20:11" timestamp_milliseconds="869" timer_running="0" last_modified="2015-09-05T15:20:11" />
+    <Event id="3435788" event_id="445" event_type_id="19" period_id="2" period_minute="42" period_second="42" min="42" sec="42" player_id="0" team_id="600" outcome="1" x="94.8" y="91.0" timestamp="2015-09-05T15:20:25" timestamp_milliseconds="322" timer_running="0" last_modified="2015-09-05T15:20:25" />
+    <Event id="3435793" event_id="448" event_type_id="19" period_id="2" period_minute="42" period_second="50" min="42" sec="50" player_id="0" team_id="600" outcome="1" x="95.2" y="81.0" timestamp="2015-09-05T15:20:34" timestamp_milliseconds="41" timer_running="0" last_modified="2015-09-05T15:20:34" />
+    <Event id="3435811" event_id="508" event_type_id="7" period_id="2" period_minute="43" period_second="4" min="43" sec="4" player_id="0" team_id="550" outcome="0" x="0.0" y="0.0" timestamp="2015-09-05T15:21:17" timestamp_milliseconds="168" timer_running="0" last_modified="2015-09-05T15:21:17" />
+    <Event id="3435813" event_id="455" event_type_id="7" period_id="2" period_minute="43" period_second="4" min="43" sec="4" player_id="0" team_id="600" outcome="0" x="0.0" y="0.0" timestamp="2015-09-05T15:21:17" timestamp_milliseconds="696" timer_running="0" last_modified="2015-09-05T15:21:18" />
+    <Event id="3435837" event_id="459" event_type_id="22" period_id="4" period_minute="40" period_second="0" min="40" sec="0" player_id="0" team_id="600" outcome="0" x="0.0" y="0.0" timestamp="2015-09-05T15:36:32" timestamp_milliseconds="220" timer_running="0" last_modified="2015-09-05T15:36:33">
+      <Q id="4606799" qualifier_id="52" value="Left to Right" />
+    </Event>
+    <Event id="3435838" event_id="512" event_type_id="22" period_id="4" period_minute="40" period_second="0" min="40" sec="0" player_id="0" team_id="550" outcome="0" x="0.0" y="0.0" timestamp="2015-09-05T15:36:32" timestamp_milliseconds="532" timer_running="0" last_modified="2015-09-05T15:36:34">
+      <Q id="4606800" qualifier_id="52" value="Right to Left" />
+    </Event>
+    <Event id="3435846" event_id="514" event_type_id="21" period_id="4" period_minute="40" period_second="48" min="40" sec="48" player_id="0" team_id="550" outcome="1" x="33.4" y="25.0" timestamp="2015-09-05T15:37:21" timestamp_milliseconds="157" timer_running="0" last_modified="2015-09-05T15:37:26">
+      <Q id="4606827" qualifier_id="163" value="1" />
+      <Q id="4606826" qualifier_id="107" />
+    </Event>
+    <Event id="3435853" event_id="518" event_type_id="19" period_id="4" period_minute="41" period_second="2" min="41" sec="2" player_id="0" team_id="550" outcome="1" x="33.4" y="25.0" timestamp="2015-09-05T15:37:35" timestamp_milliseconds="189" timer_running="0" last_modified="2015-09-05T15:37:35" />
+    <Event id="3435864" event_id="469" event_type_id="19" period_id="4" period_minute="41" period_second="17" min="41" sec="17" player_id="0" team_id="600" outcome="1" x="57.1" y="26.3" timestamp="2015-09-05T15:37:49" timestamp_milliseconds="736" timer_running="0" last_modified="2015-09-05T15:37:49" />
+    <Event id="3435869" event_id="473" event_type_id="19" period_id="4" period_minute="41" period_second="22" min="41" sec="22" player_id="0" team_id="600" outcome="1" x="55.2" y="73.2" timestamp="2015-09-05T15:37:54" timestamp_milliseconds="424" timer_running="0" last_modified="2015-09-05T15:37:54" />
+    <Event id="3435877" event_id="477" event_type_id="11" period_id="4" period_minute="42" period_second="6" min="42" sec="6" player_id="6144" team_id="600" outcome="1" x="71.6" y="100.0" timestamp="2015-09-05T15:38:38" timestamp_milliseconds="377" timer_running="0" last_modified="2015-09-05T15:38:39">
+      <Q id="4606876" qualifier_id="163" value="1" />
+      <Q id="4606875" qualifier_id="157" />
+    </Event>
+    <Event id="3435878" event_id="478" event_type_id="41" period_id="4" period_minute="42" period_second="8" min="42" sec="8" player_id="10268" team_id="600" outcome="1" x="71.1" y="87.6" timestamp="2015-09-05T15:38:40" timestamp_milliseconds="908" timer_running="0" last_modified="2015-09-05T15:38:40" />
+    <Event id="3435883" event_id="482" event_type_id="19" period_id="4" period_minute="42" period_second="15" min="42" sec="15" player_id="0" team_id="600" outcome="1" x="73.4" y="69.3" timestamp="2015-09-05T15:38:47" timestamp_milliseconds="424" timer_running="0" last_modified="2015-09-05T15:38:47" />
+    <Event id="3435888" event_id="485" event_type_id="19" period_id="4" period_minute="42" period_second="19" min="42" sec="19" player_id="0" team_id="600" outcome="1" x="73.6" y="52.8" timestamp="2015-09-05T15:38:51" timestamp_milliseconds="424" timer_running="0" last_modified="2015-09-05T15:38:51" />
+    <Event id="3435886" event_id="532" event_type_id="31" period_id="4" period_minute="42" period_second="25" min="42" sec="25" player_id="8787" team_id="550" outcome="1" x="29.3" y="52.1" timestamp="2015-09-05T15:38:49" timestamp_milliseconds="345" timer_running="0" last_modified="2015-09-05T15:38:54" />
+    <Event id="3435894" event_id="489" event_type_id="19" period_id="4" period_minute="42" period_second="25" min="42" sec="25" player_id="0" team_id="600" outcome="1" x="76.2" y="29.6" timestamp="2015-09-05T15:38:57" timestamp_milliseconds="970" timer_running="0" last_modified="2015-09-05T15:38:58" />
+    <Event id="3435897" event_id="492" event_type_id="19" period_id="4" period_minute="42" period_second="32" min="42" sec="32" player_id="0" team_id="600" outcome="1" x="76.1" y="19.3" timestamp="2015-09-05T15:39:04" timestamp_milliseconds="611" timer_running="0" last_modified="2015-09-05T15:39:04" />
+    <Event id="3435906" event_id="496" event_type_id="19" period_id="4" period_minute="42" period_second="42" min="42" sec="42" player_id="0" team_id="600" outcome="1" x="74.6" y="50.3" timestamp="2015-09-05T15:39:14" timestamp_milliseconds="517" timer_running="0" last_modified="2015-09-05T15:39:14" />
+    <Event id="3435910" event_id="499" event_type_id="19" period_id="4" period_minute="42" period_second="51" min="42" sec="51" player_id="0" team_id="600" outcome="1" x="74.6" y="50.3" timestamp="2015-09-05T15:39:23" timestamp_milliseconds="236" timer_running="0" last_modified="2015-09-05T15:39:23" />
+    <Event id="3435914" event_id="501" event_type_id="19" period_id="4" period_minute="42" period_second="55" min="42" sec="55" player_id="0" team_id="600" outcome="1" x="74.6" y="50.3" timestamp="2015-09-05T15:39:27" timestamp_milliseconds="345" timer_running="0" last_modified="2015-09-05T15:39:27" />
+    <Event id="3435921" event_id="507" event_type_id="19" period_id="4" period_minute="43" period_second="5" min="43" sec="5" player_id="0" team_id="600" outcome="1" x="74.6" y="4.3" timestamp="2015-09-05T15:39:37" timestamp_milliseconds="236" timer_running="0" last_modified="2015-09-05T15:39:37" />
+    <Event id="3435925" event_id="510" event_type_id="19" period_id="4" period_minute="43" period_second="10" min="43" sec="10" player_id="0" team_id="600" outcome="1" x="73.7" y="13.6" timestamp="2015-09-05T15:39:42" timestamp_milliseconds="861" timer_running="0" last_modified="2015-09-05T15:39:42" />
+    <Event id="3435930" event_id="514" event_type_id="19" period_id="4" period_minute="43" period_second="21" min="43" sec="21" player_id="0" team_id="600" outcome="1" x="71.8" y="43.8" timestamp="2015-09-05T15:39:53" timestamp_milliseconds="392" timer_running="0" last_modified="2015-09-05T15:39:53" />
+    <Event id="3435934" event_id="517" event_type_id="19" period_id="4" period_minute="43" period_second="26" min="43" sec="26" player_id="0" team_id="600" outcome="1" x="66.2" y="25.2" timestamp="2015-09-05T15:39:58" timestamp_milliseconds="486" timer_running="0" last_modified="2015-09-05T15:39:58" />
+    <Event id="3435939" event_id="520" event_type_id="19" period_id="4" period_minute="43" period_second="32" min="43" sec="32" player_id="0" team_id="600" outcome="1" x="66.2" y="25.2" timestamp="2015-09-05T15:40:04" timestamp_milliseconds="361" timer_running="0" last_modified="2015-09-05T15:40:04" />
+    <Event id="3435943" event_id="523" event_type_id="19" period_id="4" period_minute="43" period_second="37" min="43" sec="37" player_id="0" team_id="600" outcome="1" x="65.7" y="37.1" timestamp="2015-09-05T15:40:09" timestamp_milliseconds="502" timer_running="0" last_modified="2015-09-05T15:40:09" />
+    <Event id="3435955" event_id="552" event_type_id="19" period_id="4" period_minute="44" period_second="7" min="44" sec="7" player_id="0" team_id="550" outcome="1" x="20.4" y="15.7" timestamp="2015-09-05T15:40:30" timestamp_milliseconds="986" timer_running="0" last_modified="2015-09-05T15:40:31" />
+    <Event id="3435963" event_id="555" event_type_id="23" period_id="4" period_minute="44" period_second="36" min="44" sec="36" player_id="3901" team_id="550" outcome="1" x="53.9" y="0.0" timestamp="2015-09-05T15:41:19" timestamp_milliseconds="407" timer_running="0" last_modified="2015-09-05T15:41:31">
+      <Q id="4606957" qualifier_id="2" value="4 Forward 4" />
+    </Event>
+    <Event id="3435964" event_id="556" event_type_id="24" period_id="4" period_minute="44" period_second="36" min="44" sec="36" player_id="18571" team_id="550" outcome="1" x="53.9" y="0.0" timestamp="2015-09-05T15:41:32" timestamp_milliseconds="251" timer_running="0" last_modified="2015-09-05T15:41:32">
+      <Q id="4606961" qualifier_id="2" value="19 Replacement 4" />
+    </Event>
+    <Event id="3435966" event_id="535" event_type_id="11" period_id="4" period_minute="44" period_second="39" min="44" sec="39" player_id="6144" team_id="600" outcome="1" x="48.6" y="100.0" timestamp="2015-09-05T15:41:44" timestamp_milliseconds="986" timer_running="0" last_modified="2015-09-05T15:41:45">
+      <Q id="4606963" qualifier_id="157" />
+      <Q id="4606964" qualifier_id="163" value="1" />
+    </Event>
+    <Event id="3435968" event_id="536" event_type_id="41" period_id="4" period_minute="44" period_second="40" min="44" sec="40" player_id="2381" team_id="600" outcome="1" x="48.0" y="88.2" timestamp="2015-09-05T15:41:46" timestamp_milliseconds="642" timer_running="0" last_modified="2015-09-05T15:41:46" />
+    <Event id="3435973" event_id="559" event_type_id="21" period_id="4" period_minute="45" period_second="19" min="45" sec="19" player_id="0" team_id="550" outcome="1" x="54.6" y="12.9" timestamp="2015-09-05T15:42:30" timestamp_milliseconds="126" timer_running="0" last_modified="2015-09-05T15:42:40">
+      <Q id="4606972" qualifier_id="110" />
+    </Event>
+    <Event id="3435974" event_id="539" event_type_id="15" period_id="4" period_minute="45" period_second="41" min="45" sec="41" player_id="8399" team_id="600" outcome="1" x="45.0" y="87.1" timestamp="2015-09-05T15:42:47" timestamp_milliseconds="314" timer_running="0" last_modified="2015-09-05T15:42:49">
+      <Q id="4606974" qualifier_id="88" />
+    </Event>
+    <Event id="3435981" event_id="561" event_type_id="33" period_id="4" period_minute="46" period_second="49" min="46" sec="49" player_id="11041" team_id="550" outcome="1" x="56.6" y="13.4" timestamp="2015-09-05T15:43:59" timestamp_milliseconds="454" timer_running="0" last_modified="2015-09-05T15:44:11">
+      <Q id="4606984" qualifier_id="166" value="49.1" />
+      <Q id="4606983" qualifier_id="168" value="52.3" />
+      <Q id="4606982" qualifier_id="167" value="100.0" />
+      <Q id="4606981" qualifier_id="76" />
+    </Event>
+    <Event id="3435987" event_id="545" event_type_id="19" period_id="4" period_minute="47" period_second="38" min="47" sec="38" player_id="0" team_id="600" outcome="1" x="67.7" y="90.0" timestamp="2015-09-05T15:44:44" timestamp_milliseconds="205" timer_running="0" last_modified="2015-09-05T15:44:44" />
+    <Event id="3435991" event_id="548" event_type_id="19" period_id="4" period_minute="47" period_second="41" min="47" sec="41" player_id="0" team_id="600" outcome="1" x="65.9" y="71.1" timestamp="2015-09-05T15:44:47" timestamp_milliseconds="752" timer_running="0" last_modified="2015-09-05T15:44:47" />
+    <Event id="3435997" event_id="552" event_type_id="19" period_id="4" period_minute="47" period_second="48" min="47" sec="48" player_id="0" team_id="600" outcome="1" x="71.6" y="46.4" timestamp="2015-09-05T15:44:54" timestamp_milliseconds="299" timer_running="0" last_modified="2015-09-05T15:44:54" />
+    <Event id="3436003" event_id="557" event_type_id="19" period_id="4" period_minute="47" period_second="58" min="47" sec="58" player_id="0" team_id="600" outcome="1" x="88.7" y="11.6" timestamp="2015-09-05T15:45:04" timestamp_milliseconds="64" timer_running="0" last_modified="2015-09-05T15:45:04" />
+    <Event id="3436009" event_id="562" event_type_id="19" period_id="4" period_minute="48" period_second="3" min="48" sec="3" player_id="0" team_id="600" outcome="1" x="88.6" y="35.5" timestamp="2015-09-05T15:45:09" timestamp_milliseconds="33" timer_running="0" last_modified="2015-09-05T15:45:09" />
+    <Event id="3436019" event_id="570" event_type_id="19" period_id="4" period_minute="48" period_second="16" min="48" sec="16" player_id="0" team_id="600" outcome="1" x="84.3" y="96.4" timestamp="2015-09-05T15:45:22" timestamp_milliseconds="330" timer_running="0" last_modified="2015-09-05T15:45:22" />
+    <Event id="3436025" event_id="574" event_type_id="19" period_id="4" period_minute="48" period_second="21" min="48" sec="21" player_id="0" team_id="600" outcome="1" x="85.7" y="78.4" timestamp="2015-09-05T15:45:26" timestamp_milliseconds="986" timer_running="0" last_modified="2015-09-05T15:45:27" />
+    <Event id="3436033" event_id="581" event_type_id="19" period_id="4" period_minute="48" period_second="33" min="48" sec="33" player_id="0" team_id="600" outcome="1" x="90.5" y="24.7" timestamp="2015-09-05T15:45:39" timestamp_milliseconds="283" timer_running="0" last_modified="2015-09-05T15:45:39" />
+    <Event id="3436038" event_id="584" event_type_id="19" period_id="4" period_minute="48" period_second="40" min="48" sec="40" player_id="0" team_id="600" outcome="1" x="93.9" y="29.1" timestamp="2015-09-05T15:45:46" timestamp_milliseconds="611" timer_running="0" last_modified="2015-09-05T15:45:46" />
+    <Event id="3436043" event_id="587" event_type_id="19" period_id="4" period_minute="48" period_second="43" min="48" sec="43" player_id="0" team_id="600" outcome="1" x="93.6" y="42.5" timestamp="2015-09-05T15:45:49" timestamp_milliseconds="767" timer_running="0" last_modified="2015-09-05T15:45:49" />
+    <Event id="3436051" event_id="579" event_type_id="15" period_id="4" period_minute="49" period_second="2" min="49" sec="2" player_id="9438" team_id="550" outcome="1" x="5.2" y="48.2" timestamp="2015-09-05T15:46:13" timestamp_milliseconds="204" timer_running="0" last_modified="2015-09-05T15:46:17">
+      <Q id="4607047" qualifier_id="88" />
+    </Event>
+    <Event id="3436055" event_id="593" event_type_id="33" period_id="4" period_minute="49" period_second="51" min="49" sec="51" player_id="15055" team_id="600" outcome="1" x="89.6" y="45.1" timestamp="2015-09-05T15:47:01" timestamp_milliseconds="752" timer_running="0" last_modified="2015-09-05T15:47:04">
+      <Q id="4607052" qualifier_id="168" value="51.3" />
+      <Q id="4607051" qualifier_id="167" value="100.0" />
+      <Q id="4607053" qualifier_id="166" value="17.7" />
+      <Q id="4607050" qualifier_id="76" />
+    </Event>
+    <Event id="3436059" event_id="595" event_type_id="31" period_id="4" period_minute="50" period_second="31" min="50" sec="31" player_id="11186" team_id="600" outcome="1" x="21.6" y="44.8" timestamp="2015-09-05T15:47:41" timestamp_milliseconds="111" timer_running="0" last_modified="2015-09-05T15:47:47" />
+    <Event id="3436063" event_id="598" event_type_id="19" period_id="4" period_minute="50" period_second="37" min="50" sec="37" player_id="0" team_id="600" outcome="1" x="21.6" y="44.8" timestamp="2015-09-05T15:47:47" timestamp_milliseconds="908" timer_running="0" last_modified="2015-09-05T15:47:47" />
+    <Event id="3436068" event_id="601" event_type_id="19" period_id="4" period_minute="50" period_second="44" min="50" sec="44" player_id="0" team_id="600" outcome="1" x="21.1" y="24.5" timestamp="2015-09-05T15:47:54" timestamp_milliseconds="220" timer_running="0" last_modified="2015-09-05T15:47:54" />
+    <Event id="3436085" event_id="594" event_type_id="19" period_id="4" period_minute="51" period_second="5" min="51" sec="5" player_id="0" team_id="550" outcome="0" x="56.1" y="26.0" timestamp="2015-09-05T15:48:15" timestamp_milliseconds="986" timer_running="0" last_modified="2015-09-05T15:48:16" />
+    <Event id="3436098" event_id="613" event_type_id="11" period_id="4" period_minute="51" period_second="56" min="51" sec="56" player_id="6144" team_id="600" outcome="1" x="94.8" y="100.0" timestamp="2015-09-05T15:49:06" timestamp_milliseconds="455" timer_running="0" last_modified="2015-09-05T15:49:08">
+      <Q id="4607115" qualifier_id="157" />
+      <Q id="4607116" qualifier_id="163" value="1" />
+    </Event>
+    <Event id="3436099" event_id="614" event_type_id="41" period_id="4" period_minute="51" period_second="59" min="51" sec="59" player_id="15056" team_id="600" outcome="1" x="94.3" y="88.4" timestamp="2015-09-05T15:49:09" timestamp_milliseconds="658" timer_running="0" last_modified="2015-09-05T15:49:09" />
+    <Event id="3436104" event_id="617" event_type_id="19" period_id="4" period_minute="52" period_second="5" min="52" sec="5" player_id="0" team_id="600" outcome="1" x="96.8" y="77.8" timestamp="2015-09-05T15:49:15" timestamp_milliseconds="252" timer_running="0" last_modified="2015-09-05T15:49:15" />
+    <Event id="3436106" event_id="619" event_type_id="27" period_id="4" period_minute="52" period_second="11" min="52" sec="11" player_id="2381" team_id="600" outcome="1" x="96.8" y="77.8" timestamp="2015-09-05T15:49:21" timestamp_milliseconds="220" timer_running="0" last_modified="2015-09-05T15:49:23">
+      <Q id="4607127" qualifier_id="163" value="-1" />
+      <Q id="4607126" qualifier_id="151" />
+    </Event>
+    <Event id="3436111" event_id="622" event_type_id="3" period_id="4" period_minute="53" period_second="23" min="53" sec="23" player_id="15055" team_id="600" outcome="1" x="77.5" y="77.8" timestamp="2015-09-05T15:50:33" timestamp_milliseconds="174" timer_running="0" last_modified="2015-09-05T15:50:36">
+      <Q id="4607130" qualifier_id="76" />
+      <Q id="4607133" qualifier_id="166" value="26.4" />
+      <Q id="4607132" qualifier_id="168" value="48.7" />
+      <Q id="4607131" qualifier_id="167" value="100.0" />
+    </Event>
+    <Event id="3436118" event_id="626" event_type_id="19" period_id="4" period_minute="54" period_second="1" min="54" sec="1" player_id="0" team_id="600" outcome="1" x="26.6" y="49.5" timestamp="2015-09-05T15:51:11" timestamp_milliseconds="361" timer_running="0" last_modified="2015-09-05T15:51:11" />
+    <Event id="3436122" event_id="629" event_type_id="19" period_id="4" period_minute="54" period_second="15" min="54" sec="15" player_id="0" team_id="600" outcome="1" x="24.6" y="27.0" timestamp="2015-09-05T15:51:25" timestamp_milliseconds="252" timer_running="0" last_modified="2015-09-05T15:51:25" />
+    <Event id="3436126" event_id="609" event_type_id="19" period_id="4" period_minute="54" period_second="24" min="54" sec="24" player_id="0" team_id="550" outcome="1" x="57.0" y="84.1" timestamp="2015-09-05T15:51:34" timestamp_milliseconds="407" timer_running="0" last_modified="2015-09-05T15:51:34" />
+    <Event id="3436129" event_id="611" event_type_id="19" period_id="4" period_minute="54" period_second="31" min="54" sec="31" player_id="0" team_id="550" outcome="1" x="55.9" y="68.8" timestamp="2015-09-05T15:51:42" timestamp_milliseconds="32" timer_running="0" last_modified="2015-09-05T15:51:42" />
+    <Event id="3436132" event_id="613" event_type_id="19" period_id="4" period_minute="54" period_second="37" min="54" sec="37" player_id="0" team_id="550" outcome="1" x="58.0" y="48.2" timestamp="2015-09-05T15:51:47" timestamp_milliseconds="845" timer_running="0" last_modified="2015-09-05T15:51:47" />
+    <Event id="3436140" event_id="619" event_type_id="19" period_id="4" period_minute="54" period_second="48" min="54" sec="48" player_id="0" team_id="550" outcome="1" x="82.1" y="73.0" timestamp="2015-09-05T15:51:58" timestamp_milliseconds="282" timer_running="0" last_modified="2015-09-05T15:51:58" />
+    <Event id="3436145" event_id="623" event_type_id="19" period_id="4" period_minute="54" period_second="54" min="54" sec="54" player_id="0" team_id="550" outcome="1" x="75.0" y="60.1" timestamp="2015-09-05T15:52:05" timestamp_milliseconds="79" timer_running="0" last_modified="2015-09-05T15:52:05" />
+    <Event id="3436152" event_id="628" event_type_id="19" period_id="4" period_minute="55" period_second="3" min="55" sec="3" player_id="0" team_id="550" outcome="1" x="80.9" y="49.5" timestamp="2015-09-05T15:52:13" timestamp_milliseconds="439" timer_running="0" last_modified="2015-09-05T15:52:13" />
+    <Event id="3436161" event_id="634" event_type_id="19" period_id="4" period_minute="55" period_second="15" min="55" sec="15" player_id="0" team_id="550" outcome="1" x="85.9" y="40.7" timestamp="2015-09-05T15:52:25" timestamp_milliseconds="267" timer_running="0" last_modified="2015-09-05T15:52:25" />
+    <Event id="3436172" event_id="645" event_type_id="19" period_id="4" period_minute="55" period_second="32" min="55" sec="32" player_id="0" team_id="600" outcome="1" x="10.4" y="9.5" timestamp="2015-09-05T15:52:43" timestamp_milliseconds="49" timer_running="0" last_modified="2015-09-05T15:52:43" />
+    <Event id="3436177" event_id="648" event_type_id="19" period_id="4" period_minute="55" period_second="43" min="55" sec="43" player_id="0" team_id="600" outcome="1" x="12.7" y="24.7" timestamp="2015-09-05T15:52:53" timestamp_milliseconds="49" timer_running="0" last_modified="2015-09-05T15:52:53" />
+    <Event id="3436186" event_id="647" event_type_id="23" period_id="4" period_minute="55" period_second="51" min="55" sec="51" player_id="16267" team_id="550" outcome="1" x="66.2" y="85.9" timestamp="2015-09-05T15:54:07" timestamp_milliseconds="314" timer_running="0" last_modified="2015-09-05T15:54:08">
+      <Q id="4607219" qualifier_id="2" value="1 Forward 1" />
+    </Event>
+    <Event id="3436187" event_id="648" event_type_id="24" period_id="4" period_minute="55" period_second="51" min="55" sec="51" player_id="17164" team_id="550" outcome="1" x="66.2" y="85.9" timestamp="2015-09-05T15:54:08" timestamp_milliseconds="939" timer_running="0" last_modified="2015-09-05T15:54:08">
+      <Q id="4607223" qualifier_id="2" value="17 Replacement 2" />
+    </Event>
+    <Event id="3436190" event_id="651" event_type_id="23" period_id="4" period_minute="55" period_second="52" min="55" sec="52" player_id="18311" team_id="550" outcome="1" x="66.2" y="85.9" timestamp="2015-09-05T15:54:14" timestamp_milliseconds="95" timer_running="0" last_modified="2015-09-05T15:54:15">
+      <Q id="4607227" qualifier_id="2" value="8 Forward 8" />
+    </Event>
+    <Event id="3436191" event_id="652" event_type_id="24" period_id="4" period_minute="55" period_second="52" min="55" sec="52" player_id="18601" team_id="550" outcome="1" x="66.2" y="85.9" timestamp="2015-09-05T15:54:15" timestamp_milliseconds="439" timer_running="0" last_modified="2015-09-05T15:54:15">
+      <Q id="4607231" qualifier_id="2" value="20 Replacement 5" />
+    </Event>
+    <Event id="3436194" event_id="654" event_type_id="11" period_id="4" period_minute="55" period_second="53" min="55" sec="53" player_id="8787" team_id="550" outcome="1" x="66.2" y="85.9" timestamp="2015-09-05T15:54:31" timestamp_milliseconds="345" timer_running="0" last_modified="2015-09-05T15:54:32">
+      <Q id="4607234" qualifier_id="157" />
+      <Q id="4607235" qualifier_id="163" value="1" />
+    </Event>
+    <Event id="3436195" event_id="655" event_type_id="31" period_id="4" period_minute="55" period_second="54" min="55" sec="54" player_id="8787" team_id="550" outcome="1" x="66.2" y="85.9" timestamp="2015-09-05T15:54:33" timestamp_milliseconds="64" timer_running="0" last_modified="2015-09-05T15:57:24" />
+    <Event id="3436196" event_id="656" event_type_id="41" period_id="4" period_minute="55" period_second="55" min="55" sec="55" player_id="9438" team_id="550" outcome="1" x="66.2" y="85.9" timestamp="2015-09-05T15:54:34" timestamp_milliseconds="1" timer_running="0" last_modified="2015-09-05T15:54:33" />
+    <Event id="3436203" event_id="661" event_type_id="19" period_id="4" period_minute="56" period_second="2" min="56" sec="2" player_id="0" team_id="550" outcome="1" x="68.6" y="65.0" timestamp="2015-09-05T15:54:41" timestamp_milliseconds="189" timer_running="0" last_modified="2015-09-05T15:54:41" />
+    <Event id="3436208" event_id="664" event_type_id="19" period_id="4" period_minute="56" period_second="9" min="56" sec="9" player_id="0" team_id="550" outcome="1" x="68.4" y="28.3" timestamp="2015-09-05T15:54:48" timestamp_milliseconds="64" timer_running="0" last_modified="2015-09-05T15:54:48" />
+    <Event id="3436212" event_id="667" event_type_id="19" period_id="4" period_minute="56" period_second="14" min="56" sec="14" player_id="0" team_id="550" outcome="1" x="68.4" y="28.3" timestamp="2015-09-05T15:54:52" timestamp_milliseconds="954" timer_running="0" last_modified="2015-09-05T15:54:52" />
+    <Event id="3436217" event_id="671" event_type_id="19" period_id="4" period_minute="56" period_second="23" min="56" sec="23" player_id="0" team_id="550" outcome="1" x="69.8" y="37.4" timestamp="2015-09-05T15:55:01" timestamp_milliseconds="626" timer_running="0" last_modified="2015-09-05T15:55:01" />
+    <Event id="3436225" event_id="678" event_type_id="19" period_id="4" period_minute="56" period_second="36" min="56" sec="36" player_id="0" team_id="550" outcome="1" x="67.1" y="83.8" timestamp="2015-09-05T15:55:14" timestamp_milliseconds="657" timer_running="0" last_modified="2015-09-05T15:55:14" />
+    <Event id="3436232" event_id="682" event_type_id="19" period_id="4" period_minute="56" period_second="44" min="56" sec="44" player_id="0" team_id="550" outcome="1" x="61.8" y="75.5" timestamp="2015-09-05T15:55:22" timestamp_milliseconds="957" timer_running="0" last_modified="2015-09-05T15:55:22" />
+    <Event id="3436238" event_id="687" event_type_id="19" period_id="4" period_minute="56" period_second="57" min="56" sec="57" player_id="0" team_id="550" outcome="1" x="71.6" y="19.3" timestamp="2015-09-05T15:55:36" timestamp_milliseconds="14" timer_running="0" last_modified="2015-09-05T15:55:36" />
+    <Event id="3436247" event_id="693" event_type_id="19" period_id="4" period_minute="57" period_second="6" min="57" sec="6" player_id="0" team_id="550" outcome="1" x="75.9" y="66.0" timestamp="2015-09-05T15:55:44" timestamp_milliseconds="380" timer_running="0" last_modified="2015-09-05T15:55:44" />
+    <Event id="3436254" event_id="698" event_type_id="19" period_id="4" period_minute="57" period_second="14" min="57" sec="14" player_id="0" team_id="550" outcome="1" x="86.2" y="75.5" timestamp="2015-09-05T15:55:53" timestamp_milliseconds="63" timer_running="0" last_modified="2015-09-05T15:55:53" />
+    <Event id="3436258" event_id="701" event_type_id="19" period_id="4" period_minute="57" period_second="21" min="57" sec="21" player_id="0" team_id="550" outcome="1" x="86.8" y="27.8" timestamp="2015-09-05T15:55:59" timestamp_milliseconds="998" timer_running="0" last_modified="2015-09-05T15:56:00" />
+    <Event id="3436264" event_id="705" event_type_id="19" period_id="4" period_minute="57" period_second="28" min="57" sec="28" player_id="0" team_id="550" outcome="1" x="90.4" y="25.2" timestamp="2015-09-05T15:56:07" timestamp_milliseconds="44" timer_running="0" last_modified="2015-09-05T15:56:07" />
+    <Event id="3436269" event_id="708" event_type_id="19" period_id="4" period_minute="57" period_second="37" min="57" sec="37" player_id="0" team_id="550" outcome="1" x="85.5" y="11.6" timestamp="2015-09-05T15:56:15" timestamp_milliseconds="543" timer_running="0" last_modified="2015-09-05T15:56:15" />
+    <Event id="3436274" event_id="712" event_type_id="19" period_id="4" period_minute="57" period_second="45" min="57" sec="45" player_id="0" team_id="550" outcome="1" x="85.4" y="34.3" timestamp="2015-09-05T15:56:23" timestamp_milliseconds="355" timer_running="0" last_modified="2015-09-05T15:56:23" />
+    <Event id="3436279" event_id="716" event_type_id="19" period_id="4" period_minute="57" period_second="51" min="57" sec="51" player_id="0" team_id="550" outcome="1" x="84.3" y="43.6" timestamp="2015-09-05T15:56:30" timestamp_milliseconds="105" timer_running="0" last_modified="2015-09-05T15:56:30" />
+    <Event id="3436285" event_id="720" event_type_id="19" period_id="4" period_minute="58" period_second="0" min="58" sec="0" player_id="0" team_id="550" outcome="1" x="88.6" y="50.0" timestamp="2015-09-05T15:56:39" timestamp_milliseconds="58" timer_running="0" last_modified="2015-09-05T15:56:39" />
+    <Event id="3436289" event_id="723" event_type_id="19" period_id="4" period_minute="58" period_second="10" min="58" sec="10" player_id="0" team_id="550" outcome="1" x="82.1" y="39.7" timestamp="2015-09-05T15:56:48" timestamp_milliseconds="745" timer_running="0" last_modified="2015-09-05T15:56:48" />
+    <Event id="3436294" event_id="726" event_type_id="19" period_id="4" period_minute="58" period_second="17" min="58" sec="17" player_id="0" team_id="550" outcome="1" x="83.6" y="47.7" timestamp="2015-09-05T15:56:56" timestamp_milliseconds="198" timer_running="0" last_modified="2015-09-05T15:56:56" />
+    <Event id="3436295" event_id="727" event_type_id="31" period_id="4" period_minute="58" period_second="19" min="58" sec="19" player_id="17164" team_id="550" outcome="1" x="83.6" y="47.7" timestamp="2015-09-05T15:56:58" timestamp_milliseconds="323" timer_running="0" last_modified="2015-09-05T15:57:04" />
+    <Event id="3436298" event_id="729" event_type_id="19" period_id="4" period_minute="58" period_second="28" min="58" sec="28" player_id="0" team_id="550" outcome="0" x="83.6" y="47.7" timestamp="2015-09-05T15:57:07" timestamp_milliseconds="135" timer_running="0" last_modified="2015-09-05T15:57:07" />
+    <Event id="3436311" event_id="733" event_type_id="23" period_id="4" period_minute="59" period_second="1" min="59" sec="1" player_id="9144" team_id="550" outcome="1" x="42.1" y="67.3" timestamp="2015-09-05T15:58:19" timestamp_milliseconds="960" timer_running="0" last_modified="2015-09-05T15:58:21">
+      <Q id="4607346" qualifier_id="2" value="9 Back 1" />
+    </Event>
+    <Event id="3436312" event_id="734" event_type_id="24" period_id="4" period_minute="59" period_second="1" min="59" sec="1" player_id="2691" team_id="550" outcome="1" x="42.1" y="67.3" timestamp="2015-09-05T15:58:21" timestamp_milliseconds="944" timer_running="0" last_modified="2015-09-05T15:58:22">
+      <Q id="4607350" qualifier_id="2" value="21 Replacement 6" />
+    </Event>
+    <Event id="3436315" event_id="737" event_type_id="23" period_id="4" period_minute="59" period_second="2" min="59" sec="2" player_id="11041" team_id="550" outcome="1" x="42.1" y="67.3" timestamp="2015-09-05T15:58:26" timestamp_milliseconds="882" timer_running="0" last_modified="2015-09-05T15:58:27">
+      <Q id="4607354" qualifier_id="2" value="10 Back 2" />
+    </Event>
+    <Event id="3436316" event_id="738" event_type_id="24" period_id="4" period_minute="59" period_second="2" min="59" sec="2" player_id="9938" team_id="550" outcome="1" x="42.1" y="67.3" timestamp="2015-09-05T15:58:28" timestamp_milliseconds="85" timer_running="0" last_modified="2015-09-05T15:58:28">
+      <Q id="4607358" qualifier_id="2" value="22 Replacement 7" />
+    </Event>
+    <Event id="3436308" event_id="689" event_type_id="23" period_id="4" period_minute="59" period_second="3" min="59" sec="3" player_id="8399" team_id="600" outcome="1" x="28.8" y="31.2" timestamp="2015-09-05T15:58:14" timestamp_milliseconds="72" timer_running="0" last_modified="2015-09-05T15:58:14">
+      <Q id="4607340" qualifier_id="2" value="3 Forward 3" />
+    </Event>
+    <Event id="3436309" event_id="690" event_type_id="24" period_id="4" period_minute="59" period_second="3" min="59" sec="3" player_id="7369" team_id="600" outcome="1" x="28.8" y="31.2" timestamp="2015-09-05T15:58:14" timestamp_milliseconds="791" timer_running="0" last_modified="2015-09-05T15:58:15">
+      <Q id="4607344" qualifier_id="2" value="18 Replacement 3" />
+    </Event>
+    <Event id="3436319" event_id="741" event_type_id="23" period_id="4" period_minute="59" period_second="3" min="59" sec="3" player_id="8787" team_id="550" outcome="1" x="42.1" y="67.3" timestamp="2015-09-05T15:58:32" timestamp_milliseconds="631" timer_running="0" last_modified="2015-09-05T15:58:33">
+      <Q id="4607362" qualifier_id="2" value="2 Forward 2" />
+    </Event>
+    <Event id="3436320" event_id="742" event_type_id="24" period_id="4" period_minute="59" period_second="3" min="59" sec="3" player_id="10187" team_id="550" outcome="1" x="42.1" y="67.3" timestamp="2015-09-05T15:58:33" timestamp_milliseconds="756" timer_running="0" last_modified="2015-09-05T15:58:33">
+      <Q id="4607366" qualifier_id="2" value="16 Replacement 1" />
+    </Event>
+    <Event id="3436323" event_id="745" event_type_id="23" period_id="4" period_minute="59" period_second="4" min="59" sec="4" player_id="8142" team_id="550" outcome="1" x="42.1" y="67.3" timestamp="2015-09-05T15:58:40" timestamp_milliseconds="162" timer_running="0" last_modified="2015-09-05T15:58:40">
+      <Q id="4607370" qualifier_id="2" value="12 Back 4" />
+    </Event>
+    <Event id="3436324" event_id="746" event_type_id="24" period_id="4" period_minute="59" period_second="4" min="59" sec="4" player_id="22534" team_id="550" outcome="1" x="42.1" y="67.3" timestamp="2015-09-05T15:58:41" timestamp_milliseconds="256" timer_running="0" last_modified="2015-09-05T15:58:41">
+      <Q id="4607374" qualifier_id="2" value="23 Replacement 8" />
+    </Event>
+    <Event id="3436327" event_id="692" event_type_id="23" period_id="4" period_minute="59" period_second="5" min="59" sec="5" player_id="10252" team_id="600" outcome="1" x="28.8" y="31.2" timestamp="2015-09-05T15:59:07" timestamp_milliseconds="55" timer_running="0" last_modified="2015-09-05T15:59:12">
+      <Q id="4607378" qualifier_id="2" value="11 Back 3" />
+    </Event>
+    <Event id="3436328" event_id="693" event_type_id="24" period_id="4" period_minute="59" period_second="5" min="59" sec="5" player_id="9146" team_id="600" outcome="1" x="28.8" y="31.2" timestamp="2015-09-05T15:59:12" timestamp_milliseconds="883" timer_running="0" last_modified="2015-09-05T15:59:13">
+      <Q id="4607382" qualifier_id="2" value="23 Replacement 8" />
+    </Event>
+    <Event id="3436330" event_id="694" event_type_id="23" period_id="4" period_minute="59" period_second="5" min="59" sec="5" player_id="20115" team_id="600" outcome="1" x="28.8" y="31.2" timestamp="2015-09-05T15:59:17" timestamp_milliseconds="852" timer_running="0" last_modified="2015-09-05T15:59:18">
+      <Q id="4607385" qualifier_id="2" value="12 Back 4" />
+    </Event>
+    <Event id="3436331" event_id="695" event_type_id="24" period_id="4" period_minute="59" period_second="5" min="59" sec="5" player_id="10254" team_id="600" outcome="1" x="28.8" y="31.2" timestamp="2015-09-05T15:59:18" timestamp_milliseconds="617" timer_running="0" last_modified="2015-09-05T15:59:18">
+      <Q id="4607389" qualifier_id="2" value="22 Replacement 7" />
+    </Event>
+    <Event id="3436333" event_id="697" event_type_id="31" period_id="4" period_minute="59" period_second="5" min="59" sec="5" player_id="0" team_id="600" outcome="1" x="28.8" y="31.2" timestamp="2015-09-05T15:59:33" timestamp_milliseconds="117" timer_running="0" last_modified="2015-09-05T16:00:35">
+      <Q id="4607430" qualifier_id="163" value="1" />
+      <Q id="4607429" qualifier_id="107" />
+    </Event>
+    <Event id="3436336" event_id="750" event_type_id="21" period_id="4" period_minute="59" period_second="12" min="59" sec="12" player_id="0" team_id="550" outcome="1" x="62.0" y="75.8" timestamp="2015-09-05T15:59:25" timestamp_milliseconds="161" timer_running="0" last_modified="2015-09-05T15:59:36">
+      <Q id="4607396" qualifier_id="115" />
+    </Event>
+    <Event id="3436339" event_id="701" event_type_id="19" period_id="4" period_minute="59" period_second="13" min="59" sec="13" player_id="0" team_id="600" outcome="1" x="31.1" y="61.6" timestamp="2015-09-05T15:59:40" timestamp_milliseconds="789" timer_running="0" last_modified="2015-09-05T15:59:40" />
+    <Event id="3436344" event_id="705" event_type_id="19" period_id="4" period_minute="59" period_second="18" min="59" sec="18" player_id="0" team_id="600" outcome="1" x="31.1" y="61.6" timestamp="2015-09-05T15:59:46" timestamp_milliseconds="148" timer_running="0" last_modified="2015-09-05T15:59:46" />
+    <Event id="3436348" event_id="708" event_type_id="19" period_id="4" period_minute="59" period_second="22" min="59" sec="22" player_id="0" team_id="600" outcome="1" x="37.7" y="79.7" timestamp="2015-09-05T15:59:49" timestamp_milliseconds="867" timer_running="0" last_modified="2015-09-05T15:59:50" />
+    <Event id="3436355" event_id="713" event_type_id="19" period_id="4" period_minute="59" period_second="30" min="59" sec="30" player_id="0" team_id="600" outcome="1" x="37.7" y="79.7" timestamp="2015-09-05T15:59:58" timestamp_milliseconds="663" timer_running="0" last_modified="2015-09-05T15:59:58" />
+    <Event id="3436359" event_id="716" event_type_id="19" period_id="4" period_minute="59" period_second="35" min="59" sec="35" player_id="0" team_id="600" outcome="1" x="50.0" y="18.8" timestamp="2015-09-05T16:00:03" timestamp_milliseconds="444" timer_running="0" last_modified="2015-09-05T16:00:03" />
+    <Event id="3436363" event_id="719" event_type_id="19" period_id="4" period_minute="59" period_second="41" min="59" sec="41" player_id="0" team_id="600" outcome="1" x="51.2" y="32.5" timestamp="2015-09-05T16:00:08" timestamp_milliseconds="835" timer_running="0" last_modified="2015-09-05T16:00:08" />
+    <Event id="3436368" event_id="722" event_type_id="19" period_id="4" period_minute="59" period_second="45" min="59" sec="45" player_id="0" team_id="600" outcome="1" x="51.2" y="32.5" timestamp="2015-09-05T16:00:13" timestamp_milliseconds="569" timer_running="0" last_modified="2015-09-05T16:00:13" />
+    <Event id="3436371" event_id="724" event_type_id="15" period_id="4" period_minute="59" period_second="55" min="59" sec="55" player_id="10261" team_id="600" outcome="1" x="50.0" y="25.5" timestamp="2015-09-05T16:00:22" timestamp_milliseconds="788" timer_running="0" last_modified="2015-09-05T16:00:25">
+      <Q id="4607424" qualifier_id="87" />
+      <Q id="4607426" qualifier_id="20" />
+      <Q id="4607425" qualifier_id="163" value="-1" />
+    </Event>
+    <Event id="3436379" event_id="728" event_type_id="23" period_id="4" period_minute="60" period_second="52" min="60" sec="52" player_id="6144" team_id="600" outcome="1" x="50.0" y="25.5" timestamp="2015-09-05T16:01:11" timestamp_milliseconds="693" timer_running="0" last_modified="2015-09-05T16:01:12">
+      <Q id="4607448" qualifier_id="2" value="2 Forward 2" />
+    </Event>
+    <Event id="3436380" event_id="729" event_type_id="24" period_id="4" period_minute="60" period_second="52" min="60" sec="52" player_id="8752" team_id="600" outcome="1" x="50.0" y="25.5" timestamp="2015-09-05T16:01:12" timestamp_milliseconds="911" timer_running="0" last_modified="2015-09-05T16:01:13">
+      <Q id="4607452" qualifier_id="2" value="16 Replacement 1" />
+    </Event>
+    <Event id="3436384" event_id="763" event_type_id="11" period_id="4" period_minute="60" period_second="56" min="60" sec="56" player_id="10187" team_id="550" outcome="1" x="86.8" y="100.0" timestamp="2015-09-05T16:01:17" timestamp_milliseconds="953" timer_running="0" last_modified="2015-09-05T16:01:18">
+      <Q id="4607460" qualifier_id="157" />
+      <Q id="4607461" qualifier_id="163" value="1" />
+    </Event>
+    <Event id="3436385" event_id="764" event_type_id="41" period_id="4" period_minute="60" period_second="58" min="60" sec="58" player_id="9802" team_id="550" outcome="1" x="86.6" y="83.3" timestamp="2015-09-05T16:01:20" timestamp_milliseconds="375" timer_running="0" last_modified="2015-09-05T16:01:20" />
+    <Event id="3436388" event_id="731" event_type_id="23" period_id="4" period_minute="60" period_second="58" min="60" sec="58" player_id="8487" team_id="600" outcome="1" x="18.2" y="14.1" timestamp="2015-09-05T16:01:26" timestamp_milliseconds="833" timer_running="0" last_modified="2015-09-05T16:01:27">
+      <Q id="4607466" qualifier_id="2" value="7 Forward 7" />
+    </Event>
+    <Event id="3436389" event_id="732" event_type_id="24" period_id="4" period_minute="60" period_second="58" min="60" sec="58" player_id="8497" team_id="600" outcome="1" x="18.2" y="14.1" timestamp="2015-09-05T16:01:27" timestamp_milliseconds="911" timer_running="0" last_modified="2015-09-05T16:01:27">
+      <Q id="4607470" qualifier_id="2" value="20 Replacement 5" />
+    </Event>
+    <Event id="3436396" event_id="770" event_type_id="19" period_id="4" period_minute="61" period_second="18" min="61" sec="18" player_id="0" team_id="550" outcome="1" x="86.1" y="28.3" timestamp="2015-09-05T16:01:40" timestamp_milliseconds="374" timer_running="0" last_modified="2015-09-05T16:01:40" />
+    <Event id="3436401" event_id="773" event_type_id="19" period_id="4" period_minute="61" period_second="24" min="61" sec="24" player_id="0" team_id="550" outcome="1" x="86.1" y="33.2" timestamp="2015-09-05T16:01:45" timestamp_milliseconds="905" timer_running="0" last_modified="2015-09-05T16:01:45" />
+    <Event id="3436405" event_id="776" event_type_id="31" period_id="4" period_minute="61" period_second="29" min="61" sec="29" player_id="22534" team_id="550" outcome="1" x="86.6" y="41.5" timestamp="2015-09-05T16:01:50" timestamp_milliseconds="811" timer_running="0" last_modified="2015-09-05T16:01:56" />
+    <Event id="3436417" event_id="740" event_type_id="21" period_id="4" period_minute="61" period_second="57" min="61" sec="57" player_id="0" team_id="600" outcome="1" x="11.1" y="82.7" timestamp="2015-09-05T16:03:14" timestamp_milliseconds="549" timer_running="0" last_modified="2015-09-05T16:03:23">
+      <Q id="4607501" qualifier_id="163" value="1" />
+      <Q id="4607500" qualifier_id="107" />
+    </Event>
+    <Event id="3436411" event_id="781" event_type_id="23" period_id="4" period_minute="61" period_second="58" min="61" sec="58" player_id="9054" team_id="550" outcome="1" x="95.7" y="24.0" timestamp="2015-09-05T16:02:37" timestamp_milliseconds="825" timer_running="0" last_modified="2015-09-05T16:02:38">
+      <Q id="4607490" qualifier_id="2" value="3 Forward 3" />
+    </Event>
+    <Event id="3436412" event_id="782" event_type_id="24" period_id="4" period_minute="61" period_second="58" min="61" sec="58" player_id="14979" team_id="550" outcome="1" x="95.7" y="24.0" timestamp="2015-09-05T16:02:39" timestamp_milliseconds="341" timer_running="0" last_modified="2015-09-05T16:02:39">
+      <Q id="4607494" qualifier_id="2" value="18 Replacement 3" />
+    </Event>
+    <Event id="3436422" event_id="744" event_type_id="19" period_id="4" period_minute="62" period_second="13" min="62" sec="13" player_id="0" team_id="600" outcome="1" x="12.3" y="77.1" timestamp="2015-09-05T16:03:30" timestamp_milliseconds="767" timer_running="0" last_modified="2015-09-05T16:03:30" />
+    <Event id="3436426" event_id="747" event_type_id="19" period_id="4" period_minute="62" period_second="16" min="62" sec="16" player_id="0" team_id="600" outcome="1" x="12.3" y="77.1" timestamp="2015-09-05T16:03:33" timestamp_milliseconds="845" timer_running="0" last_modified="2015-09-05T16:03:34" />
+    <Event id="3436435" event_id="788" event_type_id="11" period_id="4" period_minute="62" period_second="59" min="62" sec="59" player_id="10187" team_id="550" outcome="1" x="89.3" y="100.0" timestamp="2015-09-05T16:04:16" timestamp_milliseconds="896" timer_running="0" last_modified="2015-09-05T16:04:18">
+      <Q id="4607526" qualifier_id="163" value="1" />
+      <Q id="4607525" qualifier_id="157" />
+    </Event>
+    <Event id="3436436" event_id="790" event_type_id="41" period_id="4" period_minute="63" period_second="1" min="63" sec="1" player_id="9438" team_id="550" outcome="1" x="89.3" y="100.0" timestamp="2015-09-05T16:04:19" timestamp_milliseconds="347" timer_running="0" last_modified="2015-09-05T16:04:19" />
+    <Event id="3436443" event_id="751" event_type_id="21" period_id="4" period_minute="63" period_second="50" min="63" sec="50" player_id="0" team_id="600" outcome="1" x="14.6" y="23.7" timestamp="2015-09-05T16:05:07" timestamp_milliseconds="123" timer_running="0" last_modified="2015-09-05T16:05:16">
+      <Q id="4607538" qualifier_id="163" value="1" />
+      <Q id="4607537" qualifier_id="107" />
+    </Event>
+    <Event id="3436448" event_id="795" event_type_id="11" period_id="4" period_minute="64" period_second="36" min="64" sec="36" player_id="10187" team_id="550" outcome="1" x="60.9" y="99.3" timestamp="2015-09-05T16:05:53" timestamp_milliseconds="851" timer_running="0" last_modified="2015-09-05T16:05:54">
+      <Q id="4607548" qualifier_id="157" />
+      <Q id="4607549" qualifier_id="163" value="1" />
+    </Event>
+    <Event id="3436449" event_id="796" event_type_id="41" period_id="4" period_minute="64" period_second="37" min="64" sec="37" player_id="9438" team_id="550" outcome="1" x="60.9" y="99.3" timestamp="2015-09-05T16:05:55" timestamp_milliseconds="617" timer_running="0" last_modified="2015-09-05T16:05:55" />
+    <Event id="3436456" event_id="802" event_type_id="19" period_id="4" period_minute="64" period_second="50" min="64" sec="50" player_id="0" team_id="550" outcome="1" x="56.6" y="29.6" timestamp="2015-09-05T16:06:07" timestamp_milliseconds="866" timer_running="0" last_modified="2015-09-05T16:06:08" />
+    <Event id="3436469" event_id="759" event_type_id="23" period_id="4" period_minute="65" period_second="28" min="65" sec="28" player_id="15055" team_id="600" outcome="1" x="46.3" y="73.7" timestamp="2015-09-05T16:07:18" timestamp_milliseconds="135" timer_running="0" last_modified="2015-09-05T16:07:21">
+      <Q id="4607575" qualifier_id="2" value="10 Back 2" />
+    </Event>
+    <Event id="3436470" event_id="760" event_type_id="24" period_id="4" period_minute="65" period_second="28" min="65" sec="28" player_id="10252" team_id="600" outcome="1" x="46.3" y="73.7" timestamp="2015-09-05T16:07:21" timestamp_milliseconds="619" timer_running="0" last_modified="2015-09-05T16:07:21">
+      <Q id="4607579" qualifier_id="2" value="11 Back 3" />
+    </Event>
+    <Event id="3436474" event_id="763" event_type_id="23" period_id="4" period_minute="65" period_second="29" min="65" sec="29" player_id="2381" team_id="600" outcome="1" x="46.3" y="73.7" timestamp="2015-09-05T16:07:34" timestamp_milliseconds="353" timer_running="0" last_modified="2015-09-05T16:07:35">
+      <Q id="4607583" qualifier_id="2" value="5 Forward 5" />
+    </Event>
+    <Event id="3436475" event_id="764" event_type_id="24" period_id="4" period_minute="65" period_second="29" min="65" sec="29" player_id="5093" team_id="600" outcome="1" x="46.3" y="73.7" timestamp="2015-09-05T16:07:35" timestamp_milliseconds="228" timer_running="0" last_modified="2015-09-05T16:07:35">
+      <Q id="4607587" qualifier_id="2" value="19 Replacement 4" />
+    </Event>
+    <Event id="3436477" event_id="766" event_type_id="21" period_id="4" period_minute="65" period_second="30" min="65" sec="30" player_id="0" team_id="600" outcome="1" x="46.3" y="73.7" timestamp="2015-09-05T16:07:43" timestamp_milliseconds="806" timer_running="0" last_modified="2015-09-05T16:07:47">
+      <Q id="4607591" qualifier_id="163" value="1" />
+      <Q id="4607590" qualifier_id="107" />
+    </Event>
+    <Event id="3436485" event_id="771" event_type_id="19" period_id="4" period_minute="65" period_second="45" min="65" sec="45" player_id="0" team_id="600" outcome="1" x="55.5" y="21.1" timestamp="2015-09-05T16:07:58" timestamp_milliseconds="806" timer_running="0" last_modified="2015-09-05T16:07:58" />
+    <Event id="3436489" event_id="774" event_type_id="19" period_id="4" period_minute="65" period_second="53" min="65" sec="53" player_id="0" team_id="600" outcome="1" x="54.6" y="44.8" timestamp="2015-09-05T16:08:07" timestamp_milliseconds="165" timer_running="0" last_modified="2015-09-05T16:08:07" />
+    <Event id="3436500" event_id="781" event_type_id="19" period_id="4" period_minute="66" period_second="15" min="66" sec="15" player_id="0" team_id="600" outcome="1" x="44.1" y="17.0" timestamp="2015-09-05T16:08:29" timestamp_milliseconds="352" timer_running="0" last_modified="2015-09-05T16:08:29" />
+    <Event id="3436511" event_id="790" event_type_id="19" period_id="4" period_minute="66" period_second="34" min="66" sec="34" player_id="0" team_id="600" outcome="1" x="59.6" y="92.3" timestamp="2015-09-05T16:08:47" timestamp_milliseconds="836" timer_running="0" last_modified="2015-09-05T16:08:47" />
+    <Event id="3436515" event_id="793" event_type_id="19" period_id="4" period_minute="66" period_second="39" min="66" sec="39" player_id="0" team_id="600" outcome="1" x="59.8" y="70.6" timestamp="2015-09-05T16:08:52" timestamp_milliseconds="570" timer_running="0" last_modified="2015-09-05T16:08:52" />
+    <Event id="3436538" event_id="832" event_type_id="19" period_id="4" period_minute="67" period_second="12" min="67" sec="12" player_id="0" team_id="550" outcome="1" x="52.3" y="17.5" timestamp="2015-09-05T16:09:28" timestamp_milliseconds="166" timer_running="0" last_modified="2015-09-05T16:09:28" />
+    <Event id="3436544" event_id="836" event_type_id="19" period_id="4" period_minute="67" period_second="19" min="67" sec="19" player_id="0" team_id="550" outcome="1" x="70.9" y="54.9" timestamp="2015-09-05T16:09:35" timestamp_milliseconds="196" timer_running="0" last_modified="2015-09-05T16:09:35" />
+    <Event id="3436555" event_id="843" event_type_id="19" period_id="4" period_minute="67" period_second="31" min="67" sec="31" player_id="0" team_id="550" outcome="1" x="80.0" y="70.4" timestamp="2015-09-05T16:09:46" timestamp_milliseconds="680" timer_running="0" last_modified="2015-09-05T16:09:46" />
+    <Event id="3436560" event_id="847" event_type_id="19" period_id="4" period_minute="67" period_second="37" min="67" sec="37" player_id="0" team_id="550" outcome="1" x="82.0" y="51.6" timestamp="2015-09-05T16:09:52" timestamp_milliseconds="883" timer_running="0" last_modified="2015-09-05T16:09:53" />
+    <Event id="3436564" event_id="850" event_type_id="19" period_id="4" period_minute="67" period_second="43" min="67" sec="43" player_id="0" team_id="550" outcome="1" x="82.0" y="51.6" timestamp="2015-09-05T16:09:59" timestamp_milliseconds="164" timer_running="0" last_modified="2015-09-05T16:09:59" />
+    <Event id="3436570" event_id="853" event_type_id="19" period_id="4" period_minute="67" period_second="50" min="67" sec="50" player_id="0" team_id="550" outcome="1" x="83.2" y="29.9" timestamp="2015-09-05T16:10:05" timestamp_milliseconds="632" timer_running="0" last_modified="2015-09-05T16:10:05" />
+    <Event id="3436575" event_id="857" event_type_id="19" period_id="4" period_minute="67" period_second="57" min="67" sec="57" player_id="0" team_id="550" outcome="1" x="80.4" y="46.7" timestamp="2015-09-05T16:10:13" timestamp_milliseconds="85" timer_running="0" last_modified="2015-09-05T16:10:13" />
+    <Event id="3436591" event_id="867" event_type_id="19" period_id="4" period_minute="68" period_second="12" min="68" sec="12" player_id="0" team_id="550" outcome="1" x="85.2" y="76.6" timestamp="2015-09-05T16:10:27" timestamp_milliseconds="662" timer_running="0" last_modified="2015-09-05T16:10:27" />
+    <Event id="3436597" event_id="871" event_type_id="19" period_id="4" period_minute="68" period_second="18" min="68" sec="18" player_id="0" team_id="550" outcome="1" x="94.8" y="46.7" timestamp="2015-09-05T16:10:33" timestamp_milliseconds="786" timer_running="0" last_modified="2015-09-05T16:10:33" />
+    <Event id="3436606" event_id="877" event_type_id="19" period_id="4" period_minute="68" period_second="32" min="68" sec="32" player_id="0" team_id="550" outcome="1" x="88.7" y="9.0" timestamp="2015-09-05T16:10:48" timestamp_milliseconds="51" timer_running="0" last_modified="2015-09-05T16:10:48" />
+    <Event id="3436609" event_id="878" event_type_id="19" period_id="4" period_minute="68" period_second="34" min="68" sec="34" player_id="0" team_id="550" outcome="1" x="88.7" y="9.0" timestamp="2015-09-05T16:10:50" timestamp_milliseconds="395" timer_running="0" last_modified="2015-09-05T16:10:50" />
+    <Event id="3436612" event_id="880" event_type_id="19" period_id="4" period_minute="68" period_second="38" min="68" sec="38" player_id="0" team_id="550" outcome="1" x="88.7" y="9.0" timestamp="2015-09-05T16:10:54" timestamp_milliseconds="20" timer_running="0" last_modified="2015-09-05T16:10:54" />
+    <Event id="3436630" event_id="888" event_type_id="15" period_id="4" period_minute="68" period_second="48" min="68" sec="48" player_id="9438" team_id="550" outcome="1" x="88.7" y="9.0" timestamp="2015-09-05T16:13:21" timestamp_milliseconds="432" timer_running="0" last_modified="2015-09-05T16:13:23">
+      <Q id="4607775" qualifier_id="87" />
+      <Q id="4607776" qualifier_id="163" value="-1" />
+    </Event>
+    <Event id="3436642" event_id="828" event_type_id="23" period_id="4" period_minute="69" period_second="19" min="69" sec="19" player_id="11186" team_id="600" outcome="1" x="37.9" y="100.0" timestamp="2015-09-05T16:14:27" timestamp_milliseconds="640" timer_running="0" last_modified="2015-09-05T16:14:28">
+      <Q id="4607807" qualifier_id="2" value="15 Back 7" />
+    </Event>
+    <Event id="3436643" event_id="829" event_type_id="24" period_id="4" period_minute="69" period_second="19" min="69" sec="19" player_id="18727" team_id="600" outcome="1" x="37.9" y="100.0" timestamp="2015-09-05T16:14:28" timestamp_milliseconds="265" timer_running="0" last_modified="2015-09-05T16:14:28">
+      <Q id="4607811" qualifier_id="2" value="17 Replacement 2" />
+    </Event>
+    <Event id="3436646" event_id="831" event_type_id="11" period_id="4" period_minute="69" period_second="20" min="69" sec="20" player_id="8752" team_id="600" outcome="1" x="37.9" y="100.0" timestamp="2015-09-05T16:14:32" timestamp_milliseconds="561" timer_running="0" last_modified="2015-09-05T16:14:33">
+      <Q id="4607814" qualifier_id="157" />
+      <Q id="4607815" qualifier_id="163" value="1" />
+    </Event>
+    <Event id="3436647" event_id="832" event_type_id="41" period_id="4" period_minute="69" period_second="22" min="69" sec="22" player_id="10268" team_id="600" outcome="1" x="36.6" y="83.8" timestamp="2015-09-05T16:14:34" timestamp_milliseconds="499" timer_running="0" last_modified="2015-09-05T16:14:34" />
+    <Event id="3436650" event_id="835" event_type_id="19" period_id="4" period_minute="69" period_second="25" min="69" sec="25" player_id="0" team_id="600" outcome="1" x="36.6" y="83.8" timestamp="2015-09-05T16:14:37" timestamp_milliseconds="936" timer_running="0" last_modified="2015-09-05T16:14:38" />
+    <Event id="3436655" event_id="838" event_type_id="19" period_id="4" period_minute="69" period_second="31" min="69" sec="31" player_id="0" team_id="600" outcome="1" x="24.5" y="52.8" timestamp="2015-09-05T16:14:43" timestamp_milliseconds="796" timer_running="0" last_modified="2015-09-05T16:14:43" />
+    <Event id="3436662" event_id="898" event_type_id="19" period_id="4" period_minute="69" period_second="47" min="69" sec="47" player_id="0" team_id="550" outcome="1" x="54.8" y="74.0" timestamp="2015-09-05T16:14:55" timestamp_milliseconds="738" timer_running="0" last_modified="2015-09-05T16:14:55" />
+    <Event id="3436668" event_id="903" event_type_id="19" period_id="4" period_minute="69" period_second="54" min="69" sec="54" player_id="0" team_id="550" outcome="1" x="54.8" y="74.0" timestamp="2015-09-05T16:15:02" timestamp_milliseconds="754" timer_running="0" last_modified="2015-09-05T16:15:02" />
+    <Event id="3436675" event_id="909" event_type_id="19" period_id="4" period_minute="70" period_second="2" min="70" sec="2" player_id="0" team_id="550" outcome="1" x="57.9" y="55.2" timestamp="2015-09-05T16:15:11" timestamp_milliseconds="269" timer_running="0" last_modified="2015-09-05T16:15:11" />
+    <Event id="3436685" event_id="916" event_type_id="11" period_id="4" period_minute="70" period_second="40" min="70" sec="40" player_id="10187" team_id="550" outcome="1" x="77.1" y="99.5" timestamp="2015-09-05T16:15:50" timestamp_milliseconds="79" timer_running="0" last_modified="2015-09-05T16:15:50">
+      <Q id="4607862" qualifier_id="163" value="1" />
+      <Q id="4607861" qualifier_id="157" />
+    </Event>
+    <Event id="3436687" event_id="917" event_type_id="41" period_id="4" period_minute="70" period_second="41" min="70" sec="41" player_id="9438" team_id="550" outcome="1" x="77.1" y="99.5" timestamp="2015-09-05T16:15:51" timestamp_milliseconds="563" timer_running="0" last_modified="2015-09-05T16:15:51" />
+    <Event id="3436694" event_id="922" event_type_id="31" period_id="4" period_minute="71" period_second="4" min="71" sec="4" player_id="7655" team_id="550" outcome="1" x="82.5" y="61.4" timestamp="2015-09-05T16:16:14" timestamp_milliseconds="921" timer_running="0" last_modified="2015-09-05T16:16:39" />
+    <Event id="3436695" event_id="923" event_type_id="31" period_id="4" period_minute="71" period_second="7" min="71" sec="7" player_id="19083" team_id="550" outcome="1" x="85.7" y="35.8" timestamp="2015-09-05T16:16:17" timestamp_milliseconds="624" timer_running="0" last_modified="2015-09-05T16:16:37" />
+    <Event id="3436703" event_id="848" event_type_id="15" period_id="4" period_minute="72" period_second="1" min="72" sec="1" player_id="10268" team_id="600" outcome="1" x="12.1" y="19.3" timestamp="2015-09-05T16:17:13" timestamp_milliseconds="886" timer_running="0" last_modified="2015-09-05T16:17:18">
+      <Q id="4607886" qualifier_id="88" />
+    </Event>
+    <Event id="3436711" event_id="926" event_type_id="33" period_id="4" period_minute="72" period_second="52" min="72" sec="52" player_id="9938" team_id="550" outcome="1" x="77.5" y="86.6" timestamp="2015-09-05T16:18:02" timestamp_milliseconds="732" timer_running="0" last_modified="2015-09-05T16:18:05">
+      <Q id="4607908" qualifier_id="168" value="45.9" />
+      <Q id="4607907" qualifier_id="167" value="100.0" />
+      <Q id="4607906" qualifier_id="76" />
+      <Q id="4607909" qualifier_id="166" value="26.4" />
+    </Event>
+    <Event id="3436723" event_id="851" event_type_id="23" period_id="4" period_minute="73" period_second="41" min="73" sec="41" player_id="10261" team_id="600" outcome="1" x="80.4" y="98.0" timestamp="2015-09-05T16:18:53" timestamp_milliseconds="214" timer_running="0" last_modified="2015-09-05T16:21:01">
+      <Q id="4608003" qualifier_id="2" value="1 Forward 1" />
+    </Event>
+    <Event id="3436724" event_id="852" event_type_id="24" period_id="4" period_minute="73" period_second="41" min="73" sec="41" player_id="8399" team_id="600" outcome="1" x="80.4" y="98.0" timestamp="2015-09-05T16:18:54" timestamp_milliseconds="386" timer_running="0" last_modified="2015-09-05T16:20:59">
+      <Q id="4608001" qualifier_id="2" value="3 Forward 3" />
+    </Event>
+    <Event id="3436725" event_id="930" event_type_id="19" period_id="4" period_minute="73" period_second="45" min="73" sec="45" player_id="0" team_id="550" outcome="1" x="22.7" y="5.6" timestamp="2015-09-05T16:18:55" timestamp_milliseconds="607" timer_running="0" last_modified="2015-09-05T16:18:55" />
+    <Event id="3436731" event_id="854" event_type_id="31" period_id="4" period_minute="73" period_second="55" min="73" sec="55" player_id="18727" team_id="600" outcome="1" x="75.0" y="77.1" timestamp="2015-09-05T16:19:07" timestamp_milliseconds="496" timer_running="0" last_modified="2015-09-05T16:19:38" />
+    <Event id="3436729" event_id="933" event_type_id="19" period_id="4" period_minute="73" period_second="56" min="73" sec="56" player_id="0" team_id="550" outcome="1" x="24.6" y="21.9" timestamp="2015-09-05T16:19:05" timestamp_milliseconds="982" timer_running="0" last_modified="2015-09-05T16:19:06" />
+    <Event id="3436740" event_id="938" event_type_id="11" period_id="4" period_minute="74" period_second="40" min="74" sec="40" player_id="10187" team_id="550" outcome="1" x="54.6" y="0.2" timestamp="2015-09-05T16:19:50" timestamp_milliseconds="373" timer_running="0" last_modified="2015-09-05T16:19:51">
+      <Q id="4607969" qualifier_id="163" value="1" />
+      <Q id="4607968" qualifier_id="157" />
+    </Event>
+    <Event id="3436741" event_id="939" event_type_id="41" period_id="4" period_minute="74" period_second="43" min="74" sec="43" player_id="18571" team_id="550" outcome="1" x="54.6" y="0.2" timestamp="2015-09-05T16:19:53" timestamp_milliseconds="373" timer_running="0" last_modified="2015-09-05T16:19:53" />
+    <Event id="3436749" event_id="944" event_type_id="19" period_id="4" period_minute="74" period_second="52" min="74" sec="52" player_id="0" team_id="550" outcome="1" x="53.4" y="66.5" timestamp="2015-09-05T16:20:02" timestamp_milliseconds="310" timer_running="0" last_modified="2015-09-05T16:20:02" />
+    <Event id="3436756" event_id="950" event_type_id="19" period_id="4" period_minute="74" period_second="59" min="74" sec="59" player_id="0" team_id="550" outcome="1" x="58.6" y="57.5" timestamp="2015-09-05T16:20:09" timestamp_milliseconds="904" timer_running="0" last_modified="2015-09-05T16:20:09" />
+    <Event id="3436758" event_id="952" event_type_id="31" period_id="4" period_minute="75" period_second="0" min="75" sec="0" player_id="0" team_id="550" outcome="1" x="58.6" y="57.5" timestamp="2015-09-05T16:20:10" timestamp_milliseconds="763" timer_running="0" last_modified="2015-09-05T16:20:38" />
+    <Event id="3436776" event_id="867" event_type_id="21" period_id="4" period_minute="75" period_second="37" min="75" sec="37" player_id="0" team_id="600" outcome="1" x="28.4" y="58.0" timestamp="2015-09-05T16:21:30" timestamp_milliseconds="826" timer_running="0" last_modified="2015-09-05T16:21:33" />
+    <Event id="3436785" event_id="869" event_type_id="21" period_id="4" period_minute="76" period_second="9" min="76" sec="9" player_id="0" team_id="600" outcome="1" x="29.8" y="63.1" timestamp="2015-09-05T16:22:02" timestamp_milliseconds="638" timer_running="0" last_modified="2015-09-05T16:22:12">
+      <Q id="4608032" qualifier_id="163" value="1" />
+      <Q id="4608031" qualifier_id="107" />
+    </Event>
+    <Event id="3436791" event_id="874" event_type_id="19" period_id="4" period_minute="76" period_second="32" min="76" sec="32" player_id="0" team_id="600" outcome="0" x="28.0" y="88.4" timestamp="2015-09-05T16:22:25" timestamp_milliseconds="747" timer_running="0" last_modified="2015-09-05T16:22:25" />
+    <Event id="3436792" event_id="875" event_type_id="15" period_id="4" period_minute="76" period_second="32" min="76" sec="32" player_id="10252" team_id="600" outcome="1" x="28.0" y="88.4" timestamp="2015-09-05T16:22:26" timestamp_milliseconds="481" timer_running="0" last_modified="2015-09-05T16:22:28">
+      <Q id="4608039" qualifier_id="163" value="-1" />
+      <Q id="4608040" qualifier_id="13" />
+      <Q id="4608038" qualifier_id="87" />
+    </Event>
+    <Event id="3436803" event_id="967" event_type_id="33" period_id="4" period_minute="77" period_second="54" min="77" sec="54" player_id="9938" team_id="550" outcome="1" x="65.0" y="11.8" timestamp="2015-09-05T16:23:48" timestamp_milliseconds="777" timer_running="0" last_modified="2015-09-05T16:23:54">
+      <Q id="4608058" qualifier_id="168" value="50.3" />
+      <Q id="4608056" qualifier_id="76" />
+      <Q id="4608057" qualifier_id="167" value="100.0" />
+      <Q id="4608059" qualifier_id="166" value="39.1" />
+    </Event>
+    <Event id="3436807" event_id="879" event_type_id="19" period_id="4" period_minute="78" period_second="27" min="78" sec="27" player_id="0" team_id="600" outcome="1" x="63.2" y="16.7" timestamp="2015-09-05T16:24:20" timestamp_milliseconds="728" timer_running="0" last_modified="2015-09-05T16:24:20" />
+    <Event id="3436816" event_id="885" event_type_id="19" period_id="4" period_minute="78" period_second="38" min="78" sec="38" player_id="0" team_id="600" outcome="1" x="54.1" y="85.3" timestamp="2015-09-05T16:24:31" timestamp_milliseconds="509" timer_running="0" last_modified="2015-09-05T16:24:31" />
+    <Event id="3436821" event_id="888" event_type_id="19" period_id="4" period_minute="78" period_second="43" min="78" sec="43" player_id="0" team_id="600" outcome="1" x="55.2" y="80.7" timestamp="2015-09-05T16:24:37" timestamp_milliseconds="134" timer_running="0" last_modified="2015-09-05T16:24:37" />
+    <Event id="3436828" event_id="893" event_type_id="19" period_id="4" period_minute="78" period_second="53" min="78" sec="53" player_id="0" team_id="600" outcome="1" x="59.6" y="64.7" timestamp="2015-09-05T16:24:46" timestamp_milliseconds="681" timer_running="0" last_modified="2015-09-05T16:24:46" />
+    <Event id="3436841" event_id="899" event_type_id="19" period_id="4" period_minute="79" period_second="14" min="79" sec="14" player_id="0" team_id="600" outcome="1" x="9.6" y="39.7" timestamp="2015-09-05T16:25:08" timestamp_milliseconds="40" timer_running="0" last_modified="2015-09-05T16:25:08" />
+    <Event id="3436846" event_id="979" event_type_id="11" period_id="4" period_minute="79" period_second="54" min="79" sec="54" player_id="10187" team_id="550" outcome="1" x="72.1" y="100.0" timestamp="2015-09-05T16:25:48" timestamp_milliseconds="473" timer_running="0" last_modified="2015-09-05T16:25:49">
+      <Q id="4608128" qualifier_id="163" value="1" />
+      <Q id="4608127" qualifier_id="157" />
+    </Event>
+    <Event id="3436847" event_id="980" event_type_id="41" period_id="4" period_minute="79" period_second="57" min="79" sec="57" player_id="18571" team_id="550" outcome="1" x="69.5" y="83.3" timestamp="2015-09-05T16:25:51" timestamp_milliseconds="660" timer_running="0" last_modified="2015-09-05T16:25:51" />
+    <Event id="3436856" event_id="905" event_type_id="7" period_id="4" period_minute="80" period_second="11" min="80" sec="11" player_id="0" team_id="600" outcome="0" x="0.0" y="0.0" timestamp="2015-09-05T16:26:25" timestamp_milliseconds="647" timer_running="0" last_modified="2015-09-05T16:26:25" />
+    <Event id="3436857" event_id="985" event_type_id="7" period_id="4" period_minute="80" period_second="11" min="80" sec="11" player_id="0" team_id="550" outcome="0" x="0.0" y="0.0" timestamp="2015-09-05T16:26:26" timestamp_milliseconds="33" timer_running="0" last_modified="2015-09-05T16:26:26" />
+    <Event id="3436862" event_id="908" event_type_id="7" period_id="9" period_minute="0" period_second="0" min="0" sec="0" player_id="0" team_id="600" outcome="0" x="0.0" y="0.0" timestamp="2015-09-05T16:26:37" timestamp_milliseconds="678" timer_running="0" last_modified="2015-09-05T16:26:37" />
+    <Event id="3436864" event_id="988" event_type_id="7" period_id="9" period_minute="0" period_second="0" min="0" sec="0" player_id="0" team_id="550" outcome="0" x="0.0" y="0.0" timestamp="2015-09-05T16:26:38" timestamp_milliseconds="204" timer_running="0" last_modified="2015-09-05T16:26:38" />
+    <Event id="3436860" event_id="907" event_type_id="7" period_id="9" period_minute="80" period_second="11" min="80" sec="11" player_id="0" team_id="600" outcome="0" x="0.0" y="0.0" timestamp="2015-09-05T16:26:36" timestamp_milliseconds="444" timer_running="0" last_modified="2015-09-05T16:26:36" />
+    <Event id="3436861" event_id="987" event_type_id="7" period_id="9" period_minute="80" period_second="11" min="80" sec="11" player_id="0" team_id="550" outcome="0" x="0.0" y="0.0" timestamp="2015-09-05T16:26:36" timestamp_milliseconds="813" timer_running="0" last_modified="2015-09-05T16:26:36" />
+    <team home_or_away="home" team_id="550" />
+    <team home_or_away="away" team_id="600" />
+  </Game>
+</Games>

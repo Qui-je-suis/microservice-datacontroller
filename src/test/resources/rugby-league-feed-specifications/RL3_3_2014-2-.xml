@@ -1,0 +1,3030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2015 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        debian-607-x64-vbox4210-nocm.optasportsdata.com
+     production time:    20150119T163456,648Z
+     production module:  Opta::Feed::XML::RugbyLeague::RL3
+-->
+<seasonrankings>
+  <competition id="3" long_name="National Rugby League" name="NRL" season_id="2014" short_name="NRL" />
+  <rankings>
+    <playerstats>
+      <attacking_kicks>
+        <player player_id="20538" rank="1" value="178" />
+        <player player_id="2687" rank="1" value="178" />
+        <player player_id="10838" rank="3" value="175" />
+        <player player_id="2361" rank="4" value="161" />
+        <player player_id="1087" rank="5" value="148" />
+        <player player_id="10807" rank="6" value="147" />
+        <player player_id="2908" rank="6" value="147" />
+        <player player_id="10917" rank="8" value="141" />
+        <player player_id="6335" rank="9" value="128" />
+        <player player_id="20892" rank="10" value="127" />
+        <player player_id="10175" rank="10" value="127" />
+        <player player_id="10646" rank="12" value="118" />
+        <player player_id="2907" rank="13" value="113" />
+        <player player_id="2599" rank="14" value="110" />
+        <player player_id="10519" rank="15" value="103" />
+        <player player_id="6446" rank="16" value="100" />
+        <player player_id="2711" rank="17" value="95" />
+        <player player_id="11382" rank="18" value="84" />
+        <player player_id="2702" rank="18" value="84" />
+        <player player_id="11349" rank="20" value="79" />
+        <player player_id="20441" rank="21" value="76" />
+        <player player_id="2171" rank="22" value="72" />
+        <player player_id="11325" rank="23" value="67" />
+        <player player_id="6364" rank="24" value="66" />
+        <player player_id="2888" rank="25" value="63" />
+        <player player_id="2625" rank="26" value="60" />
+        <player player_id="10840" rank="26" value="60" />
+        <player player_id="2550" rank="28" value="56" />
+        <player player_id="10153" rank="28" value="56" />
+        <player player_id="2648" rank="30" value="50" />
+        <player player_id="2546" rank="31" value="49" />
+        <player player_id="934" rank="32" value="42" />
+        <player player_id="10111" rank="32" value="42" />
+        <player player_id="2291" rank="34" value="41" />
+        <player player_id="2698" rank="35" value="34" />
+        <player player_id="2353" rank="36" value="33" />
+        <player player_id="20803" rank="36" value="33" />
+        <player player_id="5038" rank="36" value="33" />
+        <player player_id="20531" rank="39" value="31" />
+        <player player_id="1867" rank="40" value="30" />
+        <player player_id="2279" rank="40" value="30" />
+        <player player_id="20519" rank="40" value="30" />
+        <player player_id="922" rank="43" value="28" />
+        <player player_id="939" rank="44" value="27" />
+        <player player_id="11106" rank="44" value="27" />
+        <player player_id="2501" rank="46" value="26" />
+        <player player_id="2736" rank="46" value="26" />
+        <player player_id="10946" rank="48" value="25" />
+        <player player_id="20832" rank="48" value="25" />
+        <player player_id="10104" rank="50" value="24" />
+      </attacking_kicks>
+      <av_gain>
+        <player player_id="2753" rank="1" value="9.58" />
+        <player player_id="2266" rank="2" value="9.48" />
+        <player player_id="21014" rank="3" value="9.45" />
+        <player player_id="20378" rank="4" value="9.40" />
+        <player player_id="20353" rank="5" value="9.38" />
+        <player player_id="2736" rank="5" value="9.38" />
+        <player player_id="11441" rank="7" value="9.37" />
+        <player player_id="6464" rank="8" value="9.32" />
+        <player player_id="20354" rank="9" value="9.25" />
+        <player player_id="20745" rank="10" value="9.04" />
+        <player player_id="20457" rank="11" value="8.98" />
+        <player player_id="20512" rank="12" value="8.85" />
+        <player player_id="20544" rank="13" value="8.83" />
+        <player player_id="10906" rank="13" value="8.83" />
+        <player player_id="2983" rank="15" value="8.80" />
+        <player player_id="11128" rank="15" value="8.80" />
+        <player player_id="20547" rank="17" value="8.78" />
+        <player player_id="21051" rank="17" value="8.78" />
+        <player player_id="20876" rank="19" value="8.76" />
+        <player player_id="11307" rank="20" value="8.71" />
+        <player player_id="2257" rank="21" value="8.65" />
+        <player player_id="10910" rank="22" value="8.60" />
+        <player player_id="20518" rank="23" value="8.58" />
+        <player player_id="1108" rank="24" value="8.50" />
+        <player player_id="2688" rank="25" value="8.44" />
+        <player player_id="11359" rank="26" value="8.42" />
+        <player player_id="5041" rank="27" value="8.41" />
+        <player player_id="20520" rank="28" value="8.37" />
+        <player player_id="20804" rank="29" value="8.36" />
+        <player player_id="10156" rank="30" value="8.32" />
+        <player player_id="10523" rank="30" value="8.32" />
+        <player player_id="10944" rank="30" value="8.32" />
+        <player player_id="10561" rank="33" value="8.29" />
+        <player player_id="20487" rank="34" value="8.28" />
+        <player player_id="20539" rank="35" value="8.26" />
+        <player player_id="11472" rank="36" value="8.24" />
+        <player player_id="902" rank="37" value="8.23" />
+        <player player_id="20542" rank="38" value="8.18" />
+        <player player_id="10198" rank="38" value="8.18" />
+        <player player_id="6437" rank="40" value="8.14" />
+        <player player_id="11381" rank="40" value="8.14" />
+        <player player_id="1913" rank="42" value="8.13" />
+        <player player_id="10909" rank="43" value="8.12" />
+        <player player_id="2581" rank="44" value="8.11" />
+        <player player_id="10808" rank="45" value="8.08" />
+        <player player_id="5053" rank="46" value="8.06" />
+        <player player_id="11470" rank="46" value="8.06" />
+        <player player_id="1899" rank="48" value="8.05" />
+        <player player_id="2910" rank="48" value="8.05" />
+        <player player_id="2417" rank="50" value="8.03" />
+        <player player_id="3252" rank="50" value="8.03" />
+        <player player_id="20488" rank="50" value="8.03" />
+      </av_gain>
+      <break_assist>
+        <player player_id="6335" rank="1" value="14" />
+        <player player_id="1087" rank="2" value="12" />
+        <player player_id="10946" rank="2" value="12" />
+        <player player_id="20803" rank="4" value="10" />
+        <player player_id="10917" rank="4" value="10" />
+        <player player_id="2361" rank="6" value="9" />
+        <player player_id="2736" rank="7" value="8" />
+        <player player_id="20760" rank="7" value="8" />
+        <player player_id="10840" rank="7" value="8" />
+        <player player_id="10646" rank="7" value="8" />
+        <player player_id="2911" rank="7" value="8" />
+        <player player_id="2266" rank="12" value="7" />
+        <player player_id="2171" rank="12" value="7" />
+        <player player_id="2711" rank="12" value="7" />
+        <player player_id="1867" rank="12" value="7" />
+        <player player_id="2501" rank="12" value="7" />
+        <player player_id="965" rank="12" value="7" />
+        <player player_id="6446" rank="12" value="7" />
+        <player player_id="2908" rank="12" value="7" />
+        <player player_id="10808" rank="20" value="6" />
+        <player player_id="20878" rank="20" value="6" />
+        <player player_id="2578" rank="20" value="6" />
+        <player player_id="2584" rank="20" value="6" />
+        <player player_id="11106" rank="20" value="6" />
+        <player player_id="2648" rank="20" value="6" />
+        <player player_id="10807" rank="20" value="6" />
+        <player player_id="10838" rank="27" value="5" />
+        <player player_id="2012" rank="27" value="5" />
+        <player player_id="20531" rank="27" value="5" />
+        <player player_id="11325" rank="27" value="5" />
+        <player player_id="10949" rank="27" value="5" />
+        <player player_id="11494" rank="27" value="5" />
+        <player player_id="2005" rank="27" value="5" />
+        <player player_id="6477" rank="27" value="5" />
+        <player player_id="20752" rank="27" value="5" />
+        <player player_id="2702" rank="27" value="5" />
+        <player player_id="10175" rank="27" value="5" />
+        <player player_id="10522" rank="38" value="4" />
+        <player player_id="6263" rank="38" value="4" />
+        <player player_id="11382" rank="38" value="4" />
+        <player player_id="939" rank="38" value="4" />
+        <player player_id="2599" rank="38" value="4" />
+        <player player_id="922" rank="38" value="4" />
+        <player player_id="11349" rank="38" value="4" />
+        <player player_id="10093" rank="38" value="4" />
+        <player player_id="10911" rank="38" value="4" />
+        <player player_id="11313" rank="38" value="4" />
+        <player player_id="2956" rank="38" value="4" />
+        <player player_id="2293" rank="38" value="4" />
+        <player player_id="6364" rank="38" value="4" />
+        <player player_id="2291" rank="38" value="4" />
+      </break_assist>
+      <carries>
+        <player player_id="1885" rank="1" value="574" />
+        <player player_id="2183" rank="2" value="552" />
+        <player player_id="2009" rank="3" value="459" />
+        <player player_id="20460" rank="4" value="437" />
+        <player player_id="6437" rank="5" value="418" />
+        <player player_id="2005" rank="6" value="403" />
+        <player player_id="10808" rank="7" value="398" />
+        <player player_id="11216" rank="8" value="397" />
+        <player player_id="10561" rank="9" value="396" />
+        <player player_id="1867" rank="10" value="390" />
+        <player player_id="2909" rank="11" value="387" />
+        <player player_id="2736" rank="12" value="384" />
+        <player player_id="20803" rank="13" value="381" />
+        <player player_id="2661" rank="13" value="381" />
+        <player player_id="2541" rank="15" value="379" />
+        <player player_id="2935" rank="16" value="378" />
+        <player player_id="20832" rank="17" value="376" />
+        <player player_id="2501" rank="18" value="375" />
+        <player player_id="2746" rank="19" value="373" />
+        <player player_id="10839" rank="20" value="368" />
+        <player player_id="10093" rank="21" value="364" />
+        <player player_id="2266" rank="22" value="363" />
+        <player player_id="10838" rank="23" value="361" />
+        <player player_id="3252" rank="24" value="357" />
+        <player player_id="20774" rank="25" value="356" />
+        <player player_id="10154" rank="26" value="355" />
+        <player player_id="2911" rank="27" value="354" />
+        <player player_id="11381" rank="28" value="353" />
+        <player player_id="11494" rank="29" value="350" />
+        <player player_id="1166" rank="30" value="349" />
+        <player player_id="1087" rank="30" value="349" />
+        <player player_id="10901" rank="32" value="347" />
+        <player player_id="10946" rank="33" value="346" />
+        <player player_id="2257" rank="34" value="340" />
+        <player player_id="2012" rank="35" value="339" />
+        <player player_id="11495" rank="36" value="335" />
+        <player player_id="10949" rank="37" value="333" />
+        <player player_id="1690" rank="38" value="332" />
+        <player player_id="6467" rank="39" value="329" />
+        <player player_id="2291" rank="40" value="327" />
+        <player player_id="6325" rank="41" value="324" />
+        <player player_id="6036" rank="42" value="323" />
+        <player player_id="1161" rank="42" value="323" />
+        <player player_id="1709" rank="42" value="323" />
+        <player player_id="2867" rank="42" value="323" />
+        <player player_id="2945" rank="46" value="322" />
+        <player player_id="11333" rank="47" value="321" />
+        <player player_id="1693" rank="48" value="320" />
+        <player player_id="20878" rank="48" value="320" />
+        <player player_id="2648" rank="50" value="317" />
+      </carries>
+      <clean_break>
+        <player player_id="2736" rank="1" value="26" />
+        <player player_id="10944" rank="2" value="22" />
+        <player player_id="2578" rank="3" value="21" />
+        <player player_id="21014" rank="3" value="21" />
+        <player player_id="20745" rank="3" value="21" />
+        <player player_id="10198" rank="3" value="21" />
+        <player player_id="10946" rank="7" value="20" />
+        <player player_id="2266" rank="8" value="19" />
+        <player player_id="10838" rank="8" value="19" />
+        <player player_id="20460" rank="8" value="19" />
+        <player player_id="2005" rank="11" value="18" />
+        <player player_id="1087" rank="11" value="18" />
+        <player player_id="10523" rank="11" value="18" />
+        <player player_id="10917" rank="14" value="17" />
+        <player player_id="20878" rank="14" value="17" />
+        <player player_id="20354" rank="14" value="17" />
+        <player player_id="1166" rank="14" value="17" />
+        <player player_id="20457" rank="14" value="17" />
+        <player player_id="1108" rank="14" value="17" />
+        <player player_id="2257" rank="14" value="17" />
+        <player player_id="2908" rank="21" value="16" />
+        <player player_id="21047" rank="22" value="15" />
+        <player player_id="6263" rank="22" value="15" />
+        <player player_id="20483" rank="22" value="15" />
+        <player player_id="20803" rank="22" value="15" />
+        <player player_id="20832" rank="22" value="15" />
+        <player player_id="20528" rank="22" value="15" />
+        <player player_id="6335" rank="22" value="15" />
+        <player player_id="6434" rank="29" value="14" />
+        <player player_id="6464" rank="29" value="14" />
+        <player player_id="2753" rank="29" value="14" />
+        <player player_id="2501" rank="29" value="14" />
+        <player player_id="5070" rank="29" value="14" />
+        <player player_id="2907" rank="34" value="13" />
+        <player player_id="10840" rank="34" value="13" />
+        <player player_id="2757" rank="34" value="13" />
+        <player player_id="10522" rank="34" value="13" />
+        <player player_id="2746" rank="38" value="12" />
+        <player player_id="2183" rank="38" value="12" />
+        <player player_id="2983" rank="38" value="12" />
+        <player player_id="10646" rank="38" value="12" />
+        <player player_id="2956" rank="38" value="12" />
+        <player player_id="10561" rank="38" value="12" />
+        <player player_id="2687" rank="38" value="12" />
+        <player player_id="2945" rank="38" value="12" />
+        <player player_id="10907" rank="38" value="12" />
+        <player player_id="11333" rank="38" value="12" />
+        <player player_id="20774" rank="48" value="11" />
+        <player player_id="2935" rank="48" value="11" />
+        <player player_id="11470" rank="48" value="11" />
+        <player player_id="10837" rank="48" value="11" />
+        <player player_id="2584" rank="48" value="11" />
+        <player player_id="11359" rank="48" value="11" />
+        <player player_id="11106" rank="48" value="11" />
+      </clean_break>
+      <conversions>
+        <player player_id="6335" rank="1" value="97" />
+        <player player_id="1087" rank="2" value="81" />
+        <player player_id="20538" rank="3" value="80" />
+        <player player_id="10175" rank="4" value="62" />
+        <player player_id="922" rank="5" value="61" />
+        <player player_id="10917" rank="6" value="60" />
+        <player player_id="1867" rank="7" value="59" />
+        <player player_id="10523" rank="8" value="58" />
+        <player player_id="10807" rank="9" value="55" />
+        <player player_id="2687" rank="10" value="53" />
+        <player player_id="2907" rank="11" value="51" />
+        <player player_id="2009" rank="12" value="50" />
+        <player player_id="2746" rank="13" value="48" />
+        <player player_id="1108" rank="14" value="46" />
+        <player player_id="939" rank="15" value="36" />
+        <player player_id="20441" rank="16" value="20" />
+        <player player_id="10838" rank="17" value="17" />
+        <player player_id="11325" rank="18" value="15" />
+        <player player_id="11382" rank="19" value="14" />
+        <player player_id="10344" rank="20" value="12" />
+        <player player_id="1187" rank="21" value="11" />
+        <player player_id="20832" rank="22" value="6" />
+        <player player_id="2625" rank="23" value="5" />
+        <player player_id="2737" rank="23" value="5" />
+        <player player_id="6037" rank="25" value="4" />
+        <player player_id="20379" rank="25" value="4" />
+        <player player_id="6325" rank="25" value="4" />
+        <player player_id="2578" rank="25" value="4" />
+        <player player_id="20483" rank="25" value="4" />
+        <player player_id="20737" rank="30" value="3" />
+        <player player_id="20531" rank="30" value="3" />
+        <player player_id="11322" rank="30" value="3" />
+        <player player_id="2698" rank="30" value="3" />
+        <player player_id="20803" rank="34" value="2" />
+        <player player_id="2911" rank="34" value="2" />
+        <player player_id="6464" rank="34" value="2" />
+        <player player_id="10840" rank="34" value="2" />
+        <player player_id="21046" rank="34" value="2" />
+        <player player_id="11364" rank="34" value="2" />
+        <player player_id="20722" rank="40" value="1" />
+        <player player_id="5070" rank="40" value="1" />
+        <player player_id="2888" rank="40" value="1" />
+        <player player_id="11471" rank="40" value="1" />
+        <player player_id="20878" rank="40" value="1" />
+        <player player_id="20660" rank="40" value="1" />
+        <player player_id="2353" rank="40" value="1" />
+        <player player_id="6108" rank="40" value="1" />
+        <player player_id="11478" rank="40" value="1" />
+        <player player_id="11216" rank="40" value="1" />
+      </conversions>
+      <drop_goals>
+        <player player_id="10175" rank="1" value="4" />
+        <player player_id="10646" rank="1" value="4" />
+        <player player_id="1087" rank="1" value="4" />
+        <player player_id="10807" rank="4" value="3" />
+        <player player_id="20832" rank="4" value="3" />
+        <player player_id="2361" rank="4" value="3" />
+        <player player_id="20538" rank="4" value="3" />
+        <player player_id="934" rank="8" value="2" />
+        <player player_id="20803" rank="8" value="2" />
+        <player player_id="6335" rank="8" value="2" />
+        <player player_id="20441" rank="11" value="1" />
+        <player player_id="10917" rank="11" value="1" />
+        <player player_id="2550" rank="11" value="1" />
+        <player player_id="6444" rank="11" value="1" />
+        <player player_id="1867" rank="11" value="1" />
+        <player player_id="2625" rank="11" value="1" />
+        <player player_id="2546" rank="11" value="1" />
+        <player player_id="2907" rank="11" value="1" />
+        <player player_id="2687" rank="11" value="1" />
+        <player player_id="2353" rank="11" value="1" />
+        <player player_id="20374" rank="11" value="1" />
+        <player player_id="2599" rank="11" value="1" />
+        <player player_id="1108" rank="11" value="1" />
+        <player player_id="20892" rank="11" value="1" />
+        <player player_id="11349" rank="11" value="1" />
+        <player player_id="2695" rank="11" value="1" />
+      </drop_goals>
+      <dummy_half_metres>
+        <player player_id="6325" rank="1" value="2031" />
+        <player player_id="2291" rank="2" value="1749" />
+        <player player_id="11333" rank="3" value="1454" />
+        <player player_id="1867" rank="4" value="1434" />
+        <player player_id="6444" rank="5" value="1422" />
+        <player player_id="6440" rank="6" value="1153" />
+        <player player_id="11370" rank="7" value="1150" />
+        <player player_id="6311" rank="8" value="1139" />
+        <player player_id="2573" rank="9" value="1102" />
+        <player player_id="2590" rank="10" value="1080" />
+        <player player_id="2353" rank="11" value="834" />
+        <player player_id="6089" rank="12" value="818" />
+        <player player_id="5053" rank="13" value="778" />
+        <player player_id="965" rank="14" value="767" />
+        <player player_id="10001" rank="15" value="706" />
+        <player player_id="6244" rank="16" value="679" />
+        <player player_id="11466" rank="17" value="659" />
+        <player player_id="20753" rank="18" value="655" />
+        <player player_id="2661" rank="19" value="634" />
+        <player player_id="2753" rank="20" value="600" />
+        <player player_id="11119" rank="21" value="575" />
+        <player player_id="10152" rank="22" value="566" />
+        <player player_id="11371" rank="23" value="529" />
+        <player player_id="11472" rank="24" value="526" />
+        <player player_id="2707" rank="25" value="487" />
+        <player player_id="20832" rank="26" value="469" />
+        <player player_id="6364" rank="27" value="462" />
+        <player player_id="20877" rank="28" value="457" />
+        <player player_id="939" rank="29" value="424" />
+        <player player_id="2945" rank="30" value="414" />
+        <player player_id="11331" rank="31" value="410" />
+        <player player_id="11216" rank="32" value="393" />
+        <player player_id="11349" rank="33" value="390" />
+        <player player_id="948" rank="34" value="367" />
+        <player player_id="20878" rank="35" value="346" />
+        <player player_id="2935" rank="36" value="333" />
+        <player player_id="5070" rank="36" value="333" />
+        <player player_id="6434" rank="38" value="330" />
+        <player player_id="11105" rank="39" value="328" />
+        <player player_id="10561" rank="40" value="324" />
+        <player player_id="20531" rank="41" value="315" />
+        <player player_id="2005" rank="42" value="310" />
+        <player player_id="21069" rank="43" value="307" />
+        <player player_id="10123" rank="44" value="305" />
+        <player player_id="10344" rank="44" value="305" />
+        <player player_id="20487" rank="46" value="299" />
+        <player player_id="20545" rank="47" value="294" />
+        <player player_id="2501" rank="48" value="288" />
+        <player player_id="2578" rank="49" value="287" />
+        <player player_id="21014" rank="50" value="271" />
+      </dummy_half_metres>
+      <errors>
+        <player player_id="1166" rank="1" value="43" />
+        <player player_id="6335" rank="2" value="38" />
+        <player player_id="2005" rank="3" value="37" />
+        <player player_id="2746" rank="4" value="36" />
+        <player player_id="6263" rank="5" value="35" />
+        <player player_id="10946" rank="5" value="35" />
+        <player player_id="2501" rank="5" value="35" />
+        <player player_id="10944" rank="5" value="35" />
+        <player player_id="2935" rank="9" value="34" />
+        <player player_id="2795" rank="10" value="31" />
+        <player player_id="10646" rank="10" value="31" />
+        <player player_id="10123" rank="10" value="31" />
+        <player player_id="2736" rank="10" value="31" />
+        <player player_id="20745" rank="10" value="31" />
+        <player player_id="1087" rank="10" value="31" />
+        <player player_id="10523" rank="10" value="31" />
+        <player player_id="10561" rank="17" value="30" />
+        <player player_id="20832" rank="17" value="30" />
+        <player player_id="10111" rank="17" value="30" />
+        <player player_id="965" rank="20" value="29" />
+        <player player_id="20774" rank="21" value="28" />
+        <player player_id="2183" rank="21" value="28" />
+        <player player_id="2171" rank="21" value="28" />
+        <player player_id="2257" rank="21" value="28" />
+        <player player_id="20892" rank="25" value="27" />
+        <player player_id="10807" rank="25" value="27" />
+        <player player_id="20803" rank="25" value="27" />
+        <player player_id="5070" rank="25" value="27" />
+        <player player_id="20457" rank="29" value="26" />
+        <player player_id="2584" rank="29" value="26" />
+        <player player_id="10344" rank="29" value="26" />
+        <player player_id="6437" rank="29" value="26" />
+        <player player_id="11106" rank="29" value="26" />
+        <player player_id="20353" rank="34" value="25" />
+        <player player_id="20483" rank="34" value="25" />
+        <player player_id="2012" rank="34" value="25" />
+        <player player_id="10914" rank="34" value="25" />
+        <player player_id="10522" rank="34" value="25" />
+        <player player_id="20460" rank="39" value="24" />
+        <player player_id="20512" rank="39" value="24" />
+        <player player_id="10153" rank="39" value="24" />
+        <player player_id="10175" rank="39" value="24" />
+        <player player_id="2908" rank="39" value="24" />
+        <player player_id="10910" rank="39" value="24" />
+        <player player_id="10838" rank="45" value="23" />
+        <player player_id="20518" rank="45" value="23" />
+        <player player_id="10117" rank="45" value="23" />
+        <player player_id="6239" rank="45" value="23" />
+        <player player_id="2945" rank="45" value="23" />
+        <player player_id="20531" rank="50" value="22" />
+        <player player_id="11471" rank="50" value="22" />
+        <player player_id="10093" rank="50" value="22" />
+      </errors>
+      <forty_twenty>
+        <player player_id="2907" rank="1" value="7" />
+        <player player_id="2687" rank="2" value="3" />
+        <player player_id="10646" rank="2" value="3" />
+        <player player_id="20538" rank="2" value="3" />
+        <player player_id="2908" rank="5" value="2" />
+        <player player_id="20892" rank="5" value="2" />
+        <player player_id="11349" rank="5" value="2" />
+        <player player_id="10917" rank="8" value="1" />
+        <player player_id="6364" rank="8" value="1" />
+        <player player_id="1867" rank="8" value="1" />
+        <player player_id="11382" rank="8" value="1" />
+        <player player_id="2291" rank="8" value="1" />
+        <player player_id="20374" rank="8" value="1" />
+        <player player_id="6440" rank="8" value="1" />
+        <player player_id="11356" rank="8" value="1" />
+        <player player_id="11106" rank="8" value="1" />
+        <player player_id="2084" rank="8" value="1" />
+      </forty_twenty>
+      <goals>
+        <player player_id="6335" rank="1" value="106" />
+        <player player_id="20538" rank="2" value="95" />
+        <player player_id="1087" rank="3" value="93" />
+        <player player_id="922" rank="4" value="71" />
+        <player player_id="1867" rank="5" value="68" />
+        <player player_id="10175" rank="5" value="68" />
+        <player player_id="10523" rank="7" value="65" />
+        <player player_id="10917" rank="8" value="63" />
+        <player player_id="2687" rank="8" value="63" />
+        <player player_id="10807" rank="10" value="61" />
+        <player player_id="2009" rank="11" value="57" />
+        <player player_id="1108" rank="12" value="54" />
+        <player player_id="2907" rank="13" value="53" />
+        <player player_id="2746" rank="14" value="50" />
+        <player player_id="939" rank="15" value="39" />
+        <player player_id="20441" rank="16" value="23" />
+        <player player_id="10838" rank="17" value="21" />
+        <player player_id="11325" rank="18" value="19" />
+        <player player_id="10344" rank="19" value="16" />
+        <player player_id="11382" rank="20" value="14" />
+        <player player_id="1187" rank="20" value="14" />
+        <player player_id="20832" rank="22" value="7" />
+        <player player_id="2625" rank="23" value="6" />
+        <player player_id="2737" rank="23" value="6" />
+        <player player_id="6325" rank="25" value="5" />
+        <player player_id="6037" rank="26" value="4" />
+        <player player_id="20379" rank="26" value="4" />
+        <player player_id="2578" rank="26" value="4" />
+        <player player_id="20483" rank="26" value="4" />
+        <player player_id="20803" rank="30" value="3" />
+        <player player_id="2911" rank="30" value="3" />
+        <player player_id="20737" rank="30" value="3" />
+        <player player_id="20531" rank="30" value="3" />
+        <player player_id="11322" rank="30" value="3" />
+        <player player_id="2698" rank="30" value="3" />
+        <player player_id="6464" rank="36" value="2" />
+        <player player_id="10840" rank="36" value="2" />
+        <player player_id="21046" rank="36" value="2" />
+        <player player_id="11364" rank="36" value="2" />
+        <player player_id="11478" rank="36" value="2" />
+        <player player_id="5070" rank="41" value="1" />
+        <player player_id="2888" rank="41" value="1" />
+        <player player_id="2599" rank="41" value="1" />
+        <player player_id="20878" rank="41" value="1" />
+        <player player_id="20660" rank="41" value="1" />
+        <player player_id="2353" rank="41" value="1" />
+        <player player_id="6108" rank="41" value="1" />
+        <player player_id="11216" rank="41" value="1" />
+      </goals>
+      <hit_up_metres>
+        <player player_id="2183" rank="1" value="3399" />
+        <player player_id="1885" rank="2" value="2892" />
+        <player player_id="2009" rank="3" value="2651" />
+        <player player_id="11381" rank="4" value="2572" />
+        <player player_id="10808" rank="5" value="2547" />
+        <player player_id="6437" rank="6" value="2372" />
+        <player player_id="10839" rank="7" value="2289" />
+        <player player_id="10901" rank="8" value="2258" />
+        <player player_id="2541" rank="9" value="2207" />
+        <player player_id="10093" rank="10" value="2202" />
+        <player player_id="3252" rank="11" value="2185" />
+        <player player_id="6036" rank="12" value="2181" />
+        <player player_id="2909" rank="13" value="2146" />
+        <player player_id="10154" rank="14" value="2137" />
+        <player player_id="10907" rank="14" value="2137" />
+        <player player_id="20460" rank="16" value="2120" />
+        <player player_id="11495" rank="17" value="2028" />
+        <player player_id="1709" rank="18" value="1956" />
+        <player player_id="20488" rank="19" value="1950" />
+        <player player_id="1693" rank="20" value="1940" />
+        <player player_id="2257" rank="21" value="1922" />
+        <player player_id="1690" rank="22" value="1917" />
+        <player player_id="6467" rank="23" value="1870" />
+        <player player_id="2867" rank="24" value="1834" />
+        <player player_id="10561" rank="25" value="1822" />
+        <player player_id="2910" rank="26" value="1777" />
+        <player player_id="6239" rank="27" value="1732" />
+        <player player_id="2762" rank="28" value="1720" />
+        <player player_id="2078" rank="29" value="1698" />
+        <player player_id="2935" rank="30" value="1691" />
+        <player player_id="10933" rank="31" value="1687" />
+        <player player_id="5041" rank="32" value="1686" />
+        <player player_id="2904" rank="33" value="1674" />
+        <player player_id="11494" rank="34" value="1670" />
+        <player player_id="6048" rank="35" value="1663" />
+        <player player_id="11478" rank="36" value="1650" />
+        <player player_id="10117" rank="37" value="1643" />
+        <player player_id="1161" rank="38" value="1634" />
+        <player player_id="1680" rank="39" value="1631" />
+        <player player_id="3251" rank="40" value="1619" />
+        <player player_id="10911" rank="41" value="1592" />
+        <player player_id="2662" rank="42" value="1579" />
+        <player player_id="1913" rank="43" value="1574" />
+        <player player_id="11330" rank="44" value="1571" />
+        <player player_id="2355" rank="45" value="1566" />
+        <player player_id="10949" rank="46" value="1564" />
+        <player player_id="2012" rank="47" value="1560" />
+        <player player_id="5015" rank="48" value="1553" />
+        <player player_id="2293" rank="49" value="1539" />
+        <player player_id="11361" rank="50" value="1525" />
+      </hit_up_metres>
+      <hit_ups>
+        <player player_id="2183" rank="1" value="458" />
+        <player player_id="1885" rank="2" value="400" />
+        <player player_id="2009" rank="3" value="345" />
+        <player player_id="10808" rank="4" value="321" />
+        <player player_id="2909" rank="5" value="316" />
+        <player player_id="11381" rank="6" value="301" />
+        <player player_id="10901" rank="7" value="300" />
+        <player player_id="3252" rank="8" value="296" />
+        <player player_id="6437" rank="9" value="293" />
+        <player player_id="10839" rank="10" value="292" />
+        <player player_id="11495" rank="11" value="280" />
+        <player player_id="20460" rank="12" value="279" />
+        <player player_id="10154" rank="13" value="278" />
+        <player player_id="1693" rank="14" value="275" />
+        <player player_id="2541" rank="15" value="274" />
+        <player player_id="6036" rank="16" value="269" />
+        <player player_id="1709" rank="17" value="261" />
+        <player player_id="1690" rank="17" value="261" />
+        <player player_id="10093" rank="19" value="258" />
+        <player player_id="10907" rank="20" value="257" />
+        <player player_id="20488" rank="21" value="251" />
+        <player player_id="2867" rank="22" value="245" />
+        <player player_id="11494" rank="23" value="241" />
+        <player player_id="2762" rank="23" value="241" />
+        <player player_id="6467" rank="25" value="239" />
+        <player player_id="2935" rank="26" value="235" />
+        <player player_id="2662" rank="27" value="234" />
+        <player player_id="2257" rank="28" value="233" />
+        <player player_id="2910" rank="29" value="232" />
+        <player player_id="20440" rank="30" value="231" />
+        <player player_id="2563" rank="31" value="229" />
+        <player player_id="2721" rank="32" value="228" />
+        <player player_id="6239" rank="32" value="228" />
+        <player player_id="10845" rank="32" value="228" />
+        <player player_id="1680" rank="35" value="225" />
+        <player player_id="10561" rank="36" value="222" />
+        <player player_id="2078" rank="37" value="220" />
+        <player player_id="2293" rank="38" value="219" />
+        <player player_id="1161" rank="39" value="218" />
+        <player player_id="11361" rank="40" value="216" />
+        <player player_id="10949" rank="40" value="216" />
+        <player player_id="2904" rank="42" value="214" />
+        <player player_id="10933" rank="42" value="214" />
+        <player player_id="6048" rank="42" value="214" />
+        <player player_id="11478" rank="45" value="213" />
+        <player player_id="11330" rank="45" value="213" />
+        <player player_id="2012" rank="47" value="211" />
+        <player player_id="5041" rank="47" value="211" />
+        <player player_id="10911" rank="47" value="211" />
+        <player player_id="3251" rank="50" value="210" />
+        <player player_id="2181" rank="50" value="210" />
+      </hit_ups>
+      <kick_from_hand_metres>
+        <player player_id="20538" rank="1" value="5572" />
+        <player player_id="2687" rank="2" value="5386" />
+        <player player_id="10646" rank="3" value="5208" />
+        <player player_id="10175" rank="4" value="4491" />
+        <player player_id="10838" rank="5" value="4246" />
+        <player player_id="2599" rank="6" value="4213" />
+        <player player_id="2908" rank="7" value="3959" />
+        <player player_id="2907" rank="8" value="3760" />
+        <player player_id="2361" rank="9" value="3557" />
+        <player player_id="1087" rank="10" value="3448" />
+        <player player_id="10807" rank="11" value="3356" />
+        <player player_id="2171" rank="12" value="3317" />
+        <player player_id="2711" rank="13" value="2992" />
+        <player player_id="6335" rank="14" value="2960" />
+        <player player_id="6446" rank="15" value="2796" />
+        <player player_id="2888" rank="16" value="2775" />
+        <player player_id="10917" rank="17" value="2509" />
+        <player player_id="11349" rank="18" value="2292" />
+        <player player_id="1867" rank="19" value="2259" />
+        <player player_id="10519" rank="20" value="2258" />
+        <player player_id="20892" rank="21" value="2050" />
+        <player player_id="6364" rank="22" value="1772" />
+        <player player_id="11382" rank="23" value="1666" />
+        <player player_id="2353" rank="24" value="1615" />
+        <player player_id="2291" rank="25" value="1611" />
+        <player player_id="10840" rank="26" value="1553" />
+        <player player_id="20441" rank="27" value="1509" />
+        <player player_id="11325" rank="28" value="1499" />
+        <player player_id="2702" rank="29" value="1365" />
+        <player player_id="20896" rank="30" value="1195" />
+        <player player_id="20531" rank="31" value="1172" />
+        <player player_id="20519" rank="32" value="1115" />
+        <player player_id="20803" rank="33" value="1113" />
+        <player player_id="6444" rank="34" value="1052" />
+        <player player_id="5038" rank="35" value="985" />
+        <player player_id="2546" rank="36" value="954" />
+        <player player_id="20752" rank="37" value="915" />
+        <player player_id="939" rank="38" value="874" />
+        <player player_id="6440" rank="39" value="862" />
+        <player player_id="2501" rank="40" value="842" />
+        <player player_id="2550" rank="41" value="821" />
+        <player player_id="10111" rank="42" value="784" />
+        <player player_id="2736" rank="43" value="752" />
+        <player player_id="2625" rank="44" value="734" />
+        <player player_id="11490" rank="45" value="711" />
+        <player player_id="2648" rank="46" value="693" />
+        <player player_id="11333" rank="47" value="691" />
+        <player player_id="922" rank="48" value="669" />
+        <player player_id="2698" rank="49" value="667" />
+        <player player_id="21034" rank="50" value="579" />
+      </kick_from_hand_metres>
+      <kick_return_metres>
+        <player player_id="2266" rank="1" value="1535" />
+        <player player_id="1166" rank="2" value="1482" />
+        <player player_id="2661" rank="3" value="1353" />
+        <player player_id="10946" rank="4" value="1189" />
+        <player player_id="2736" rank="5" value="1182" />
+        <player player_id="2005" rank="6" value="1041" />
+        <player player_id="20832" rank="7" value="940" />
+        <player player_id="2746" rank="8" value="840" />
+        <player player_id="2584" rank="9" value="772" />
+        <player player_id="2501" rank="10" value="770" />
+        <player player_id="20803" rank="11" value="736" />
+        <player player_id="2695" rank="12" value="657" />
+        <player player_id="10111" rank="13" value="635" />
+        <player player_id="20774" rank="14" value="633" />
+        <player player_id="2757" rank="15" value="599" />
+        <player player_id="20460" rank="16" value="586" />
+        <player player_id="10123" rank="17" value="540" />
+        <player player_id="10561" rank="18" value="509" />
+        <player player_id="21047" rank="19" value="508" />
+        <player player_id="2945" rank="20" value="498" />
+        <player player_id="20745" rank="21" value="494" />
+        <player player_id="6437" rank="22" value="470" />
+        <player player_id="2983" rank="23" value="469" />
+        <player player_id="2688" rank="24" value="437" />
+        <player player_id="20760" rank="25" value="435" />
+        <player player_id="10198" rank="26" value="432" />
+        <player player_id="20547" rank="27" value="409" />
+        <player player_id="21014" rank="28" value="404" />
+        <player player_id="20518" rank="29" value="398" />
+        <player player_id="2257" rank="30" value="396" />
+        <player player_id="21044" rank="31" value="385" />
+        <player player_id="20457" rank="32" value="369" />
+        <player player_id="10344" rank="33" value="353" />
+        <player player_id="20662" rank="34" value="344" />
+        <player player_id="10522" rank="34" value="344" />
+        <player player_id="6263" rank="34" value="344" />
+        <player player_id="2060" rank="37" value="343" />
+        <player player_id="1899" rank="38" value="337" />
+        <player player_id="21051" rank="39" value="323" />
+        <player player_id="20679" rank="40" value="319" />
+        <player player_id="6464" rank="41" value="314" />
+        <player player_id="20681" rank="42" value="300" />
+        <player player_id="11105" rank="43" value="291" />
+        <player player_id="1108" rank="44" value="279" />
+        <player player_id="20802" rank="45" value="270" />
+        <player player_id="20512" rank="46" value="264" />
+        <player player_id="11441" rank="47" value="257" />
+        <player player_id="10099" rank="47" value="257" />
+        <player player_id="20353" rank="49" value="249" />
+        <player player_id="11347" rank="50" value="245" />
+      </kick_return_metres>
+      <kick_returns>
+        <player player_id="1166" rank="1" value="156" />
+        <player player_id="2661" rank="2" value="146" />
+        <player player_id="2005" rank="3" value="124" />
+        <player player_id="2266" rank="4" value="119" />
+        <player player_id="20832" rank="5" value="117" />
+        <player player_id="20803" rank="6" value="114" />
+        <player player_id="10946" rank="7" value="112" />
+        <player player_id="2736" rank="8" value="107" />
+        <player player_id="2746" rank="9" value="101" />
+        <player player_id="2501" rank="9" value="101" />
+        <player player_id="2584" rank="11" value="84" />
+        <player player_id="10111" rank="12" value="75" />
+        <player player_id="20774" rank="13" value="74" />
+        <player player_id="20460" rank="14" value="67" />
+        <player player_id="2757" rank="15" value="61" />
+        <player player_id="2695" rank="15" value="61" />
+        <player player_id="20760" rank="17" value="59" />
+        <player player_id="2945" rank="17" value="59" />
+        <player player_id="21047" rank="19" value="54" />
+        <player player_id="6437" rank="20" value="53" />
+        <player player_id="10123" rank="21" value="51" />
+        <player player_id="6263" rank="22" value="49" />
+        <player player_id="10561" rank="22" value="49" />
+        <player player_id="21044" rank="24" value="48" />
+        <player player_id="2688" rank="24" value="48" />
+        <player player_id="10198" rank="24" value="48" />
+        <player player_id="20745" rank="27" value="46" />
+        <player player_id="2983" rank="28" value="45" />
+        <player player_id="21014" rank="29" value="44" />
+        <player player_id="20662" rank="30" value="43" />
+        <player player_id="10344" rank="31" value="42" />
+        <player player_id="2257" rank="31" value="42" />
+        <player player_id="2060" rank="33" value="40" />
+        <player player_id="20518" rank="34" value="39" />
+        <player player_id="20679" rank="35" value="36" />
+        <player player_id="20547" rank="36" value="34" />
+        <player player_id="20512" rank="36" value="34" />
+        <player player_id="21046" rank="36" value="34" />
+        <player player_id="6434" rank="39" value="33" />
+        <player player_id="1899" rank="40" value="32" />
+        <player player_id="6464" rank="40" value="32" />
+        <player player_id="20802" rank="42" value="31" />
+        <player player_id="20353" rank="43" value="29" />
+        <player player_id="20457" rank="43" value="29" />
+        <player player_id="1108" rank="43" value="29" />
+        <player player_id="11105" rank="46" value="27" />
+        <player player_id="10099" rank="46" value="27" />
+        <player player_id="20681" rank="48" value="26" />
+        <player player_id="21051" rank="48" value="26" />
+        <player player_id="902" rank="50" value="25" />
+        <player player_id="20528" rank="50" value="25" />
+        <player player_id="10522" rank="50" value="25" />
+      </kick_returns>
+      <kicks_in_gen_play>
+        <player player_id="20538" rank="1" value="303" />
+        <player player_id="2687" rank="2" value="299" />
+        <player player_id="10838" rank="3" value="295" />
+        <player player_id="2361" rank="4" value="258" />
+        <player player_id="1087" rank="5" value="253" />
+        <player player_id="10175" rank="6" value="247" />
+        <player player_id="2599" rank="7" value="232" />
+        <player player_id="2908" rank="8" value="231" />
+        <player player_id="10646" rank="9" value="228" />
+        <player player_id="10917" rank="10" value="226" />
+        <player player_id="10807" rank="11" value="223" />
+        <player player_id="2907" rank="12" value="209" />
+        <player player_id="6335" rank="13" value="192" />
+        <player player_id="20892" rank="14" value="182" />
+        <player player_id="6446" rank="15" value="173" />
+        <player player_id="2711" rank="16" value="162" />
+        <player player_id="2702" rank="17" value="149" />
+        <player player_id="10519" rank="18" value="144" />
+        <player player_id="11349" rank="19" value="142" />
+        <player player_id="2171" rank="20" value="132" />
+        <player player_id="20441" rank="21" value="127" />
+        <player player_id="11325" rank="22" value="120" />
+        <player player_id="11382" rank="23" value="111" />
+        <player player_id="2888" rank="24" value="109" />
+        <player player_id="10840" rank="25" value="103" />
+        <player player_id="6364" rank="26" value="101" />
+        <player player_id="1867" rank="27" value="98" />
+        <player player_id="2625" rank="28" value="97" />
+        <player player_id="2550" rank="29" value="93" />
+        <player player_id="2648" rank="30" value="82" />
+        <player player_id="2291" rank="30" value="82" />
+        <player player_id="2546" rank="32" value="79" />
+        <player player_id="10153" rank="33" value="78" />
+        <player player_id="934" rank="34" value="72" />
+        <player player_id="2353" rank="35" value="70" />
+        <player player_id="11106" rank="36" value="62" />
+        <player player_id="20531" rank="37" value="58" />
+        <player player_id="20519" rank="37" value="58" />
+        <player player_id="2501" rank="39" value="57" />
+        <player player_id="10111" rank="40" value="55" />
+        <player player_id="20803" rank="41" value="53" />
+        <player player_id="6444" rank="42" value="52" />
+        <player player_id="2698" rank="43" value="51" />
+        <player player_id="5038" rank="44" value="50" />
+        <player player_id="2279" rank="45" value="49" />
+        <player player_id="922" rank="46" value="47" />
+        <player player_id="2736" rank="47" value="44" />
+        <player player_id="11356" rank="48" value="41" />
+        <player player_id="939" rank="49" value="40" />
+        <player player_id="6440" rank="50" value="38" />
+      </kicks_in_gen_play>
+      <marker_tackles>
+        <player player_id="6444" rank="1" value="247" />
+        <player player_id="6440" rank="2" value="238" />
+        <player player_id="2590" rank="3" value="217" />
+        <player player_id="2353" rank="4" value="191" />
+        <player player_id="1867" rank="5" value="190" />
+        <player player_id="2573" rank="6" value="179" />
+        <player player_id="10839" rank="7" value="177" />
+        <player player_id="10845" rank="8" value="167" />
+        <player player_id="11370" rank="9" value="160" />
+        <player player_id="1885" rank="10" value="154" />
+        <player player_id="2704" rank="11" value="153" />
+        <player player_id="2912" rank="12" value="150" />
+        <player player_id="2291" rank="13" value="147" />
+        <player player_id="6467" rank="14" value="146" />
+        <player player_id="6048" rank="15" value="144" />
+        <player player_id="10859" rank="16" value="141" />
+        <player player_id="2157" rank="16" value="141" />
+        <player player_id="11494" rank="18" value="136" />
+        <player player_id="2911" rank="19" value="134" />
+        <player player_id="6311" rank="20" value="133" />
+        <player player_id="1680" rank="21" value="132" />
+        <player player_id="1906" rank="22" value="128" />
+        <player player_id="10907" rank="23" value="127" />
+        <player player_id="11330" rank="23" value="127" />
+        <player player_id="2054" rank="25" value="122" />
+        <player player_id="2181" rank="25" value="122" />
+        <player player_id="2909" rank="25" value="122" />
+        <player player_id="2183" rank="28" value="121" />
+        <player player_id="2867" rank="28" value="121" />
+        <player player_id="1688" rank="30" value="120" />
+        <player player_id="11495" rank="30" value="120" />
+        <player player_id="10939" rank="32" value="118" />
+        <player player_id="6089" rank="33" value="117" />
+        <player player_id="2707" rank="34" value="115" />
+        <player player_id="1161" rank="35" value="114" />
+        <player player_id="1693" rank="36" value="113" />
+        <player player_id="10904" rank="36" value="113" />
+        <player player_id="10949" rank="38" value="112" />
+        <player player_id="2009" rank="39" value="111" />
+        <player player_id="11333" rank="40" value="109" />
+        <player player_id="939" rank="41" value="108" />
+        <player player_id="2355" rank="41" value="108" />
+        <player player_id="20540" rank="43" value="105" />
+        <player player_id="5041" rank="44" value="104" />
+        <player player_id="2910" rank="45" value="103" />
+        <player player_id="20538" rank="46" value="102" />
+        <player player_id="10901" rank="46" value="102" />
+        <player player_id="1211" rank="46" value="102" />
+        <player player_id="10154" rank="46" value="102" />
+        <player player_id="2721" rank="50" value="100" />
+        <player player_id="11478" rank="50" value="100" />
+      </marker_tackles>
+      <metres>
+        <player player_id="2183" rank="1" value="3964" />
+        <player player_id="1885" rank="2" value="3859" />
+        <player player_id="2736" rank="3" value="3600" />
+        <player player_id="20460" rank="4" value="3478" />
+        <player player_id="2266" rank="5" value="3441" />
+        <player player_id="6437" rank="6" value="3403" />
+        <player player_id="10561" rank="7" value="3284" />
+        <player player_id="10808" rank="8" value="3215" />
+        <player player_id="2009" rank="9" value="3127" />
+        <player player_id="2541" rank="10" value="2993" />
+        <player player_id="2005" rank="11" value="2949" />
+        <player player_id="2257" rank="12" value="2940" />
+        <player player_id="2661" rank="13" value="2921" />
+        <player player_id="11381" rank="14" value="2875" />
+        <player player_id="3252" rank="15" value="2868" />
+        <player player_id="10839" rank="16" value="2841" />
+        <player player_id="2935" rank="17" value="2826" />
+        <player player_id="1166" rank="18" value="2799" />
+        <player player_id="20745" rank="19" value="2793" />
+        <player player_id="11216" rank="20" value="2775" />
+        <player player_id="2746" rank="21" value="2707" />
+        <player player_id="20832" rank="22" value="2681" />
+        <player player_id="10901" rank="23" value="2670" />
+        <player player_id="2909" rank="24" value="2666" />
+        <player player_id="10093" rank="25" value="2662" />
+        <player player_id="10154" rank="26" value="2631" />
+        <player player_id="6467" rank="27" value="2621" />
+        <player player_id="6036" rank="28" value="2587" />
+        <player player_id="1690" rank="29" value="2572" />
+        <player player_id="10946" rank="30" value="2558" />
+        <player player_id="20878" rank="31" value="2548" />
+        <player player_id="11495" rank="32" value="2509" />
+        <player player_id="2867" rank="33" value="2489" />
+        <player player_id="20774" rank="34" value="2430" />
+        <player player_id="10907" rank="35" value="2429" />
+        <player player_id="2945" rank="36" value="2424" />
+        <player player_id="2578" rank="37" value="2415" />
+        <player player_id="20488" rank="38" value="2370" />
+        <player player_id="20803" rank="39" value="2355" />
+        <player player_id="11494" rank="40" value="2337" />
+        <player player_id="5070" rank="41" value="2310" />
+        <player player_id="1693" rank="42" value="2307" />
+        <player player_id="2910" rank="43" value="2301" />
+        <player player_id="10933" rank="44" value="2299" />
+        <player player_id="6325" rank="45" value="2277" />
+        <player player_id="2012" rank="46" value="2274" />
+        <player player_id="10117" rank="47" value="2269" />
+        <player player_id="10198" rank="48" value="2265" />
+        <player player_id="1709" rank="49" value="2248" />
+        <player player_id="1161" rank="50" value="2231" />
+      </metres>
+      <minutes_played_total>
+        <player player_id="6335" rank="1" value="2151" />
+        <player player_id="2935" rank="2" value="2146" />
+        <player player_id="1166" rank="3" value="2125" />
+        <player player_id="20774" rank="4" value="2080" />
+        <player player_id="20832" rank="4" value="2080" />
+        <player player_id="2908" rank="4" value="2080" />
+        <player player_id="20460" rank="7" value="2070" />
+        <player player_id="10093" rank="8" value="2069" />
+        <player player_id="10946" rank="9" value="2068" />
+        <player player_id="2353" rank="10" value="2064" />
+        <player player_id="20538" rank="11" value="2042" />
+        <player player_id="6477" rank="12" value="2003" />
+        <player player_id="10838" rank="13" value="2000" />
+        <player player_id="10911" rank="13" value="2000" />
+        <player player_id="10111" rank="13" value="2000" />
+        <player player_id="20483" rank="16" value="1997" />
+        <player player_id="10175" rank="17" value="1979" />
+        <player player_id="21047" rank="18" value="1977" />
+        <player player_id="10944" rank="18" value="1977" />
+        <player player_id="11494" rank="20" value="1975" />
+        <player player_id="2687" rank="21" value="1953" />
+        <player player_id="6434" rank="22" value="1920" />
+        <player player_id="6263" rank="22" value="1920" />
+        <player player_id="20878" rank="22" value="1920" />
+        <player player_id="10840" rank="22" value="1920" />
+        <player player_id="10807" rank="22" value="1920" />
+        <player player_id="11216" rank="22" value="1920" />
+        <player player_id="20745" rank="22" value="1920" />
+        <player player_id="10523" rank="22" value="1920" />
+        <player player_id="2183" rank="30" value="1904" />
+        <player player_id="2501" rank="31" value="1899" />
+        <player player_id="1087" rank="31" value="1899" />
+        <player player_id="2746" rank="33" value="1897" />
+        <player player_id="2355" rank="34" value="1893" />
+        <player player_id="6036" rank="34" value="1893" />
+        <player player_id="922" rank="36" value="1887" />
+        <player player_id="2578" rank="37" value="1870" />
+        <player player_id="2757" rank="38" value="1866" />
+        <player player_id="1709" rank="39" value="1852" />
+        <player player_id="6446" rank="40" value="1845" />
+        <player player_id="11361" rank="41" value="1844" />
+        <player player_id="6437" rank="42" value="1840" />
+        <player player_id="2661" rank="43" value="1825" />
+        <player player_id="10198" rank="44" value="1824" />
+        <player player_id="11313" rank="45" value="1812" />
+        <player player_id="1867" rank="46" value="1807" />
+        <player player_id="2257" rank="47" value="1806" />
+        <player player_id="2266" rank="48" value="1804" />
+        <player player_id="20803" rank="49" value="1795" />
+        <player player_id="10646" rank="50" value="1792" />
+      </minutes_played_total>
+      <missed_conversions>
+        <player player_id="10807" rank="1" value="31" />
+        <player player_id="922" rank="2" value="27" />
+        <player player_id="2009" rank="2" value="27" />
+        <player player_id="1867" rank="4" value="26" />
+        <player player_id="2907" rank="5" value="25" />
+        <player player_id="1087" rank="5" value="25" />
+        <player player_id="20538" rank="7" value="23" />
+        <player player_id="2687" rank="8" value="22" />
+        <player player_id="6335" rank="9" value="20" />
+        <player player_id="10917" rank="10" value="19" />
+        <player player_id="939" rank="10" value="19" />
+        <player player_id="10175" rank="12" value="14" />
+        <player player_id="10523" rank="13" value="11" />
+        <player player_id="11382" rank="13" value="11" />
+        <player player_id="2746" rank="15" value="10" />
+        <player player_id="1108" rank="16" value="9" />
+        <player player_id="10838" rank="17" value="8" />
+        <player player_id="11325" rank="17" value="8" />
+        <player player_id="10344" rank="19" value="7" />
+        <player player_id="20832" rank="20" value="6" />
+        <player player_id="20531" rank="20" value="6" />
+        <player player_id="10840" rank="22" value="5" />
+        <player player_id="2911" rank="23" value="4" />
+        <player player_id="6464" rank="23" value="4" />
+        <player player_id="2578" rank="23" value="4" />
+        <player player_id="20441" rank="26" value="3" />
+        <player player_id="2888" rank="26" value="3" />
+        <player player_id="20803" rank="26" value="3" />
+        <player player_id="2625" rank="26" value="3" />
+        <player player_id="6325" rank="26" value="3" />
+        <player player_id="2698" rank="26" value="3" />
+        <player player_id="5070" rank="32" value="2" />
+        <player player_id="20379" rank="32" value="2" />
+        <player player_id="1187" rank="32" value="2" />
+        <player player_id="2737" rank="32" value="2" />
+        <player player_id="11441" rank="32" value="2" />
+        <player player_id="11364" rank="32" value="2" />
+        <player player_id="20460" rank="38" value="1" />
+        <player player_id="20374" rank="38" value="1" />
+        <player player_id="10867" rank="38" value="1" />
+        <player player_id="2183" rank="38" value="1" />
+        <player player_id="20878" rank="38" value="1" />
+        <player player_id="934" rank="38" value="1" />
+        <player player_id="10151" rank="38" value="1" />
+        <player player_id="21046" rank="38" value="1" />
+        <player player_id="11322" rank="38" value="1" />
+        <player player_id="11478" rank="38" value="1" />
+        <player player_id="2702" rank="38" value="1" />
+        <player player_id="11216" rank="38" value="1" />
+      </missed_conversions>
+      <missed_goals>
+        <player player_id="10807" rank="1" value="31" />
+        <player player_id="1867" rank="2" value="28" />
+        <player player_id="922" rank="2" value="28" />
+        <player player_id="1087" rank="2" value="28" />
+        <player player_id="2009" rank="5" value="27" />
+        <player player_id="2907" rank="6" value="25" />
+        <player player_id="20538" rank="6" value="25" />
+        <player player_id="2687" rank="8" value="22" />
+        <player player_id="6335" rank="9" value="21" />
+        <player player_id="10917" rank="10" value="20" />
+        <player player_id="939" rank="10" value="20" />
+        <player player_id="10175" rank="12" value="14" />
+        <player player_id="10523" rank="13" value="12" />
+        <player player_id="11382" rank="13" value="12" />
+        <player player_id="2746" rank="15" value="11" />
+        <player player_id="10838" rank="16" value="9" />
+        <player player_id="1108" rank="16" value="9" />
+        <player player_id="11325" rank="18" value="8" />
+        <player player_id="10344" rank="19" value="7" />
+        <player player_id="20832" rank="20" value="6" />
+        <player player_id="1187" rank="20" value="6" />
+        <player player_id="20531" rank="20" value="6" />
+        <player player_id="10840" rank="23" value="5" />
+        <player player_id="2578" rank="23" value="5" />
+        <player player_id="20441" rank="25" value="4" />
+        <player player_id="2625" rank="25" value="4" />
+        <player player_id="2911" rank="25" value="4" />
+        <player player_id="6464" rank="25" value="4" />
+        <player player_id="2698" rank="25" value="4" />
+        <player player_id="2888" rank="30" value="3" />
+        <player player_id="20803" rank="30" value="3" />
+        <player player_id="6325" rank="30" value="3" />
+        <player player_id="5070" rank="33" value="2" />
+        <player player_id="20379" rank="33" value="2" />
+        <player player_id="2737" rank="33" value="2" />
+        <player player_id="11441" rank="33" value="2" />
+        <player player_id="21046" rank="33" value="2" />
+        <player player_id="11322" rank="33" value="2" />
+        <player player_id="11364" rank="33" value="2" />
+        <player player_id="20460" rank="40" value="1" />
+        <player player_id="20374" rank="40" value="1" />
+        <player player_id="10867" rank="40" value="1" />
+        <player player_id="2183" rank="40" value="1" />
+        <player player_id="20878" rank="40" value="1" />
+        <player player_id="934" rank="40" value="1" />
+        <player player_id="10151" rank="40" value="1" />
+        <player player_id="11478" rank="40" value="1" />
+        <player player_id="2702" rank="40" value="1" />
+        <player player_id="11216" rank="40" value="1" />
+      </missed_goals>
+      <missed_penalty_goals>
+        <player player_id="922" rank="1" value="4" />
+        <player player_id="1867" rank="2" value="3" />
+        <player player_id="11382" rank="2" value="3" />
+        <player player_id="20538" rank="2" value="3" />
+        <player player_id="10838" rank="2" value="3" />
+        <player player_id="10917" rank="6" value="2" />
+        <player player_id="10523" rank="6" value="2" />
+        <player player_id="2698" rank="6" value="2" />
+        <player player_id="21046" rank="6" value="2" />
+        <player player_id="6335" rank="10" value="1" />
+      </missed_penalty_goals>
+      <missed_tackles>
+        <player player_id="20892" rank="1" value="88" />
+        <player player_id="2907" rank="2" value="87" />
+        <player player_id="11119" rank="3" value="83" />
+        <player player_id="11325" rank="4" value="77" />
+        <player player_id="6335" rank="5" value="75" />
+        <player player_id="10838" rank="6" value="72" />
+        <player player_id="11361" rank="6" value="72" />
+        <player player_id="11216" rank="8" value="70" />
+        <player player_id="6036" rank="8" value="70" />
+        <player player_id="2590" rank="10" value="63" />
+        <player player_id="2908" rank="11" value="62" />
+        <player player_id="10807" rank="12" value="60" />
+        <player player_id="1187" rank="12" value="60" />
+        <player player_id="20699" rank="12" value="60" />
+        <player player_id="2721" rank="15" value="59" />
+        <player player_id="10837" rank="15" value="59" />
+        <player player_id="2353" rank="15" value="59" />
+        <player player_id="10847" rank="18" value="58" />
+        <player player_id="6446" rank="18" value="58" />
+        <player player_id="2888" rank="20" value="57" />
+        <player player_id="20774" rank="21" value="56" />
+        <player player_id="10917" rank="21" value="56" />
+        <player player_id="1087" rank="21" value="56" />
+        <player player_id="2157" rank="21" value="56" />
+        <player player_id="2687" rank="25" value="55" />
+        <player player_id="11471" rank="26" value="54" />
+        <player player_id="2707" rank="27" value="53" />
+        <player player_id="10153" rank="27" value="53" />
+        <player player_id="6364" rank="27" value="53" />
+        <player player_id="11494" rank="30" value="52" />
+        <player player_id="10859" rank="30" value="52" />
+        <player player_id="10522" rank="30" value="52" />
+        <player player_id="6467" rank="33" value="51" />
+        <player player_id="2573" rank="33" value="51" />
+        <player player_id="2935" rank="35" value="50" />
+        <player player_id="6477" rank="35" value="50" />
+        <player player_id="10152" rank="35" value="50" />
+        <player player_id="2183" rank="38" value="49" />
+        <player player_id="6239" rank="38" value="49" />
+        <player player_id="5070" rank="38" value="49" />
+        <player player_id="10175" rank="38" value="49" />
+        <player player_id="6338" rank="42" value="48" />
+        <player player_id="2628" rank="43" value="47" />
+        <player player_id="10098" rank="43" value="47" />
+        <player player_id="10104" rank="45" value="46" />
+        <player player_id="11381" rank="45" value="46" />
+        <player player_id="939" rank="47" value="45" />
+        <player player_id="2578" rank="47" value="45" />
+        <player player_id="1709" rank="47" value="45" />
+        <player player_id="6325" rank="50" value="44" />
+        <player player_id="10519" rank="50" value="44" />
+        <player player_id="11349" rank="50" value="44" />
+        <player player_id="11326" rank="50" value="44" />
+      </missed_tackles>
+      <offload>
+        <player player_id="2009" rank="1" value="74" />
+        <player player_id="2183" rank="2" value="66" />
+        <player player_id="10808" rank="3" value="56" />
+        <player player_id="2012" rank="4" value="52" />
+        <player player_id="10914" rank="5" value="49" />
+        <player player_id="2563" rank="6" value="43" />
+        <player player_id="10093" rank="6" value="43" />
+        <player player_id="10901" rank="8" value="42" />
+        <player player_id="10101" rank="8" value="42" />
+        <player player_id="2705" rank="10" value="41" />
+        <player player_id="10646" rank="10" value="41" />
+        <player player_id="2293" rank="10" value="41" />
+        <player player_id="10669" rank="13" value="39" />
+        <player player_id="2626" rank="13" value="39" />
+        <player player_id="20774" rank="15" value="37" />
+        <player player_id="6263" rank="16" value="36" />
+        <player player_id="11119" rank="16" value="36" />
+        <player player_id="10154" rank="18" value="35" />
+        <player player_id="1187" rank="18" value="35" />
+        <player player_id="11306" rank="18" value="35" />
+        <player player_id="10910" rank="18" value="35" />
+        <player player_id="2721" rank="22" value="33" />
+        <player player_id="6239" rank="22" value="33" />
+        <player player_id="2665" rank="24" value="32" />
+        <player player_id="1161" rank="24" value="32" />
+        <player player_id="10911" rank="24" value="32" />
+        <player player_id="20803" rank="27" value="31" />
+        <player player_id="10117" rank="28" value="29" />
+        <player player_id="6477" rank="28" value="29" />
+        <player player_id="20832" rank="28" value="29" />
+        <player player_id="2762" rank="28" value="29" />
+        <player player_id="11333" rank="28" value="29" />
+        <player player_id="6446" rank="28" value="29" />
+        <player player_id="20460" rank="34" value="28" />
+        <player player_id="10561" rank="34" value="28" />
+        <player player_id="2648" rank="36" value="26" />
+        <player player_id="20483" rank="36" value="26" />
+        <player player_id="10522" rank="36" value="26" />
+        <player player_id="10845" rank="36" value="26" />
+        <player player_id="2985" rank="36" value="26" />
+        <player player_id="10111" rank="36" value="26" />
+        <player player_id="2005" rank="42" value="25" />
+        <player player_id="1867" rank="42" value="25" />
+        <player player_id="10837" rank="42" value="25" />
+        <player player_id="922" rank="42" value="25" />
+        <player player_id="2629" rank="42" value="25" />
+        <player player_id="965" rank="47" value="24" />
+        <player player_id="2945" rank="47" value="24" />
+        <player player_id="2787" rank="49" value="23" />
+        <player player_id="1047" rank="49" value="23" />
+      </offload>
+      <on_report>
+        <player player_id="6467" rank="1" value="3" />
+        <player player_id="11349" rank="1" value="3" />
+        <player player_id="10093" rank="1" value="3" />
+        <player player_id="21010" rank="1" value="3" />
+        <player player_id="1693" rank="5" value="2" />
+        <player player_id="922" rank="5" value="2" />
+        <player player_id="6325" rank="5" value="2" />
+        <player player_id="10839" rank="5" value="2" />
+        <player player_id="20802" rank="5" value="2" />
+        <player player_id="2276" rank="5" value="2" />
+        <player player_id="2615" rank="5" value="2" />
+        <player player_id="10519" rank="5" value="2" />
+        <player player_id="11494" rank="5" value="2" />
+        <player player_id="6308" rank="5" value="2" />
+        <player player_id="21001" rank="5" value="2" />
+        <player player_id="20699" rank="5" value="2" />
+        <player player_id="2005" rank="17" value="1" />
+        <player player_id="20804" rank="17" value="1" />
+        <player player_id="10156" rank="17" value="1" />
+        <player player_id="10859" rank="17" value="1" />
+        <player player_id="2907" rank="17" value="1" />
+        <player player_id="2424" rank="17" value="1" />
+        <player player_id="2355" rank="17" value="1" />
+        <player player_id="2286" rank="17" value="1" />
+        <player player_id="1187" rank="17" value="1" />
+        <player player_id="10837" rank="17" value="1" />
+        <player player_id="20518" rank="17" value="1" />
+        <player player_id="2008" rank="17" value="1" />
+        <player player_id="20440" rank="17" value="1" />
+        <player player_id="20363" rank="17" value="1" />
+        <player player_id="6338" rank="17" value="1" />
+        <player player_id="2787" rank="17" value="1" />
+        <player player_id="1688" rank="17" value="1" />
+        <player player_id="20376" rank="17" value="1" />
+        <player player_id="1161" rank="17" value="1" />
+        <player player_id="934" rank="17" value="1" />
+        <player player_id="902" rank="17" value="1" />
+        <player player_id="11306" rank="17" value="1" />
+        <player player_id="21160" rank="17" value="1" />
+        <player player_id="10907" rank="17" value="1" />
+        <player player_id="10521" rank="17" value="1" />
+        <player player_id="20531" rank="17" value="1" />
+        <player player_id="3251" rank="17" value="1" />
+        <player player_id="20745" rank="17" value="1" />
+        <player player_id="20538" rank="17" value="1" />
+        <player player_id="20733" rank="17" value="1" />
+        <player player_id="20876" rank="17" value="1" />
+        <player player_id="5070" rank="17" value="1" />
+        <player player_id="2688" rank="17" value="1" />
+        <player player_id="2362" rank="17" value="1" />
+        <player player_id="5015" rank="17" value="1" />
+        <player player_id="11493" rank="17" value="1" />
+        <player player_id="2911" rank="17" value="1" />
+        <player player_id="11357" rank="17" value="1" />
+        <player player_id="2963" rank="17" value="1" />
+        <player player_id="6446" rank="17" value="1" />
+        <player player_id="2944" rank="17" value="1" />
+        <player player_id="2762" rank="17" value="1" />
+        <player player_id="2594" rank="17" value="1" />
+        <player player_id="6048" rank="17" value="1" />
+        <player player_id="6239" rank="17" value="1" />
+        <player player_id="2867" rank="17" value="1" />
+        <player player_id="2578" rank="17" value="1" />
+        <player player_id="6132" rank="17" value="1" />
+        <player player_id="2940" rank="17" value="1" />
+        <player player_id="20488" rank="17" value="1" />
+        <player player_id="2711" rank="17" value="1" />
+        <player player_id="10909" rank="17" value="1" />
+        <player player_id="20354" rank="17" value="1" />
+        <player player_id="20896" rank="17" value="1" />
+        <player player_id="11128" rank="17" value="1" />
+        <player player_id="2291" rank="17" value="1" />
+        <player player_id="2669" rank="17" value="1" />
+        <player player_id="11330" rank="17" value="1" />
+        <player player_id="10101" rank="17" value="1" />
+      </on_report>
+      <passes>
+        <player player_id="2353" rank="1" value="2714" />
+        <player player_id="6444" rank="2" value="2220" />
+        <player player_id="1867" rank="3" value="2159" />
+        <player player_id="6440" rank="4" value="2090" />
+        <player player_id="2573" rank="5" value="2080" />
+        <player player_id="2590" rank="6" value="2052" />
+        <player player_id="2291" rank="7" value="1796" />
+        <player player_id="11370" rank="8" value="1792" />
+        <player player_id="11333" rank="9" value="1691" />
+        <player player_id="6089" rank="10" value="1688" />
+        <player player_id="6325" rank="11" value="1585" />
+        <player player_id="6311" rank="12" value="1567" />
+        <player player_id="10001" rank="13" value="1436" />
+        <player player_id="2707" rank="14" value="1401" />
+        <player player_id="6364" rank="15" value="1076" />
+        <player player_id="939" rank="16" value="1058" />
+        <player player_id="6244" rank="17" value="1045" />
+        <player player_id="20877" rank="18" value="1005" />
+        <player player_id="1087" rank="19" value="980" />
+        <player player_id="10840" rank="20" value="975" />
+        <player player_id="2908" rank="21" value="892" />
+        <player player_id="2907" rank="22" value="877" />
+        <player player_id="10838" rank="23" value="821" />
+        <player player_id="6446" rank="24" value="809" />
+        <player player_id="11325" rank="25" value="795" />
+        <player player_id="20832" rank="26" value="767" />
+        <player player_id="2702" rank="27" value="740" />
+        <player player_id="10807" rank="28" value="722" />
+        <player player_id="11382" rank="29" value="705" />
+        <player player_id="2711" rank="30" value="704" />
+        <player player_id="11466" rank="31" value="692" />
+        <player player_id="6335" rank="32" value="670" />
+        <player player_id="2687" rank="33" value="668" />
+        <player player_id="20753" rank="34" value="666" />
+        <player player_id="2361" rank="35" value="639" />
+        <player player_id="11371" rank="36" value="638" />
+        <player player_id="10917" rank="36" value="638" />
+        <player player_id="20892" rank="38" value="635" />
+        <player player_id="20538" rank="39" value="632" />
+        <player player_id="2648" rank="40" value="622" />
+        <player player_id="10646" rank="41" value="614" />
+        <player player_id="10519" rank="42" value="601" />
+        <player player_id="948" rank="43" value="592" />
+        <player player_id="10175" rank="44" value="568" />
+        <player player_id="2888" rank="45" value="560" />
+        <player player_id="2501" rank="46" value="549" />
+        <player player_id="2171" rank="47" value="522" />
+        <player player_id="2911" rank="48" value="504" />
+        <player player_id="2005" rank="49" value="503" />
+        <player player_id="10946" rank="50" value="501" />
+      </passes>
+      <penalties>
+        <player player_id="6467" rank="1" value="33" />
+        <player player_id="11333" rank="2" value="23" />
+        <player player_id="20699" rank="2" value="23" />
+        <player player_id="10154" rank="4" value="22" />
+        <player player_id="6335" rank="5" value="21" />
+        <player player_id="11494" rank="6" value="20" />
+        <player player_id="2183" rank="6" value="20" />
+        <player player_id="11119" rank="6" value="20" />
+        <player player_id="1693" rank="9" value="19" />
+        <player player_id="2009" rank="9" value="19" />
+        <player player_id="11330" rank="9" value="19" />
+        <player player_id="2721" rank="12" value="18" />
+        <player player_id="2353" rank="12" value="18" />
+        <player player_id="6364" rank="12" value="18" />
+        <player player_id="6308" rank="15" value="17" />
+        <player player_id="6440" rank="15" value="17" />
+        <player player_id="939" rank="17" value="16" />
+        <player player_id="1867" rank="17" value="16" />
+        <player player_id="2911" rank="17" value="16" />
+        <player player_id="10847" rank="17" value="16" />
+        <player player_id="11349" rank="17" value="16" />
+        <player player_id="2054" rank="22" value="15" />
+        <player player_id="10939" rank="22" value="15" />
+        <player player_id="11495" rank="22" value="15" />
+        <player player_id="2078" rank="22" value="15" />
+        <player player_id="5070" rank="22" value="15" />
+        <player player_id="10845" rank="22" value="15" />
+        <player player_id="2590" rank="22" value="15" />
+        <player player_id="1187" rank="22" value="15" />
+        <player player_id="2787" rank="22" value="15" />
+        <player player_id="10839" rank="22" value="15" />
+        <player player_id="10910" rank="22" value="15" />
+        <player player_id="20878" rank="33" value="14" />
+        <player player_id="2704" rank="33" value="14" />
+        <player player_id="10646" rank="33" value="14" />
+        <player player_id="2736" rank="33" value="14" />
+        <player player_id="20376" rank="33" value="14" />
+        <player player_id="10669" rank="33" value="14" />
+        <player player_id="2909" rank="33" value="14" />
+        <player player_id="11370" rank="33" value="14" />
+        <player player_id="2626" rank="33" value="14" />
+        <player player_id="10156" rank="42" value="13" />
+        <player player_id="2578" rank="42" value="13" />
+        <player player_id="6444" rank="42" value="13" />
+        <player player_id="10840" rank="42" value="13" />
+        <player player_id="6300" rank="42" value="13" />
+        <player player_id="10104" rank="42" value="13" />
+        <player player_id="1211" rank="42" value="13" />
+        <player player_id="11478" rank="42" value="13" />
+        <player player_id="1885" rank="42" value="13" />
+        <player player_id="2707" rank="42" value="13" />
+      </penalties>
+      <penalty_goals>
+        <player player_id="20538" rank="1" value="15" />
+        <player player_id="1087" rank="2" value="12" />
+        <player player_id="2687" rank="3" value="10" />
+        <player player_id="922" rank="3" value="10" />
+        <player player_id="6335" rank="5" value="9" />
+        <player player_id="1867" rank="6" value="8" />
+        <player player_id="1108" rank="6" value="8" />
+        <player player_id="10523" rank="8" value="7" />
+        <player player_id="2009" rank="8" value="7" />
+        <player player_id="10807" rank="10" value="6" />
+        <player player_id="10175" rank="10" value="6" />
+        <player player_id="11325" rank="12" value="5" />
+        <player player_id="10344" rank="13" value="4" />
+        <player player_id="20441" rank="14" value="3" />
+        <player player_id="10917" rank="14" value="3" />
+        <player player_id="939" rank="14" value="3" />
+        <player player_id="10838" rank="14" value="3" />
+        <player player_id="1187" rank="14" value="3" />
+        <player player_id="2746" rank="19" value="2" />
+        <player player_id="2907" rank="19" value="2" />
+        <player player_id="20803" rank="21" value="1" />
+        <player player_id="20832" rank="21" value="1" />
+        <player player_id="2625" rank="21" value="1" />
+        <player player_id="2911" rank="21" value="1" />
+        <player player_id="2737" rank="21" value="1" />
+        <player player_id="6325" rank="21" value="1" />
+        <player player_id="11478" rank="21" value="1" />
+      </penalty_goals>
+      <points>
+        <player player_id="1087" rank="1" value="234" />
+        <player player_id="6335" rank="1" value="234" />
+        <player player_id="20538" rank="3" value="221" />
+        <player player_id="10523" rank="4" value="202" />
+        <player player_id="922" rank="5" value="170" />
+        <player player_id="10917" rank="6" value="163" />
+        <player player_id="10175" rank="7" value="160" />
+        <player player_id="2687" rank="8" value="155" />
+        <player player_id="1108" rank="9" value="145" />
+        <player player_id="1867" rank="10" value="143" />
+        <player player_id="10807" rank="11" value="137" />
+        <player player_id="2746" rank="12" value="124" />
+        <player player_id="2009" rank="13" value="114" />
+        <player player_id="2907" rank="14" value="111" />
+        <player player_id="10838" rank="15" value="92" />
+        <player player_id="939" rank="16" value="86" />
+        <player player_id="21014" rank="17" value="84" />
+        <player player_id="2736" rank="18" value="80" />
+        <player player_id="11325" rank="19" value="76" />
+        <player player_id="20745" rank="19" value="76" />
+        <player player_id="6263" rank="21" value="72" />
+        <player player_id="20774" rank="22" value="68" />
+        <player player_id="1166" rank="22" value="68" />
+        <player player_id="2257" rank="22" value="68" />
+        <player player_id="20483" rank="25" value="64" />
+        <player player_id="2945" rank="25" value="64" />
+        <player player_id="10944" rank="25" value="64" />
+        <player player_id="20441" rank="28" value="63" />
+        <player player_id="2578" rank="29" value="60" />
+        <player player_id="10561" rank="29" value="60" />
+        <player player_id="10344" rank="29" value="60" />
+        <player player_id="10198" rank="29" value="60" />
+        <player player_id="20832" rank="33" value="57" />
+        <player player_id="2753" rank="34" value="56" />
+        <player player_id="20457" rank="34" value="56" />
+        <player player_id="20803" rank="34" value="56" />
+        <player player_id="2266" rank="37" value="52" />
+        <player player_id="2501" rank="37" value="52" />
+        <player player_id="2956" rank="37" value="52" />
+        <player player_id="20528" rank="37" value="52" />
+        <player player_id="20878" rank="41" value="50" />
+        <player player_id="20354" rank="42" value="48" />
+        <player player_id="2005" rank="42" value="48" />
+        <player player_id="6477" rank="42" value="48" />
+        <player player_id="2983" rank="42" value="48" />
+        <player player_id="10911" rank="42" value="48" />
+        <player player_id="5070" rank="47" value="46" />
+        <player player_id="2935" rank="48" value="44" />
+        <player player_id="6464" rank="48" value="44" />
+        <player player_id="11359" rank="48" value="44" />
+        <player player_id="10910" rank="48" value="44" />
+      </points>
+      <run_from_dummy_half>
+        <player player_id="1867" rank="1" value="316" />
+        <player player_id="6325" rank="2" value="287" />
+        <player player_id="2291" rank="3" value="285" />
+        <player player_id="6444" rank="4" value="275" />
+        <player player_id="11333" rank="5" value="252" />
+        <player player_id="11370" rank="6" value="210" />
+        <player player_id="6311" rank="7" value="208" />
+        <player player_id="6440" rank="8" value="204" />
+        <player player_id="2590" rank="9" value="198" />
+        <player player_id="2353" rank="10" value="196" />
+        <player player_id="10001" rank="11" value="169" />
+        <player player_id="2573" rank="12" value="165" />
+        <player player_id="6089" rank="13" value="117" />
+        <player player_id="20753" rank="14" value="112" />
+        <player player_id="6244" rank="15" value="107" />
+        <player player_id="6364" rank="16" value="104" />
+        <player player_id="2707" rank="17" value="102" />
+        <player player_id="11466" rank="18" value="101" />
+        <player player_id="965" rank="18" value="101" />
+        <player player_id="20877" rank="20" value="100" />
+        <player player_id="5053" rank="21" value="85" />
+        <player player_id="11119" rank="22" value="82" />
+        <player player_id="11371" rank="23" value="79" />
+        <player player_id="2661" rank="24" value="77" />
+        <player player_id="2753" rank="25" value="71" />
+        <player player_id="939" rank="26" value="66" />
+        <player player_id="10152" rank="27" value="63" />
+        <player player_id="11472" rank="28" value="60" />
+        <player player_id="21069" rank="29" value="59" />
+        <player player_id="20832" rank="30" value="56" />
+        <player player_id="948" rank="31" value="54" />
+        <player player_id="20531" rank="32" value="52" />
+        <player player_id="2945" rank="33" value="50" />
+        <player player_id="2631" rank="34" value="49" />
+        <player player_id="11349" rank="34" value="49" />
+        <player player_id="11331" rank="36" value="47" />
+        <player player_id="11105" rank="37" value="45" />
+        <player player_id="2888" rank="38" value="40" />
+        <player player_id="2005" rank="39" value="39" />
+        <player player_id="10344" rank="39" value="39" />
+        <player player_id="6434" rank="41" value="38" />
+        <player player_id="11216" rank="41" value="38" />
+        <player player_id="5070" rank="41" value="38" />
+        <player player_id="20483" rank="44" value="37" />
+        <player player_id="10561" rank="44" value="37" />
+        <player player_id="20720" rank="46" value="36" />
+        <player player_id="2501" rank="46" value="36" />
+        <player player_id="20878" rank="48" value="35" />
+        <player player_id="20545" rank="48" value="35" />
+        <player player_id="1047" rank="48" value="35" />
+      </run_from_dummy_half>
+      <tackle_busts>
+        <player player_id="2736" rank="1" value="128" />
+        <player player_id="10561" rank="2" value="117" />
+        <player player_id="2005" rank="3" value="99" />
+        <player player_id="20803" rank="3" value="99" />
+        <player player_id="2266" rank="5" value="98" />
+        <player player_id="2501" rank="6" value="93" />
+        <player player_id="2746" rank="7" value="88" />
+        <player player_id="20460" rank="7" value="88" />
+        <player player_id="20483" rank="7" value="88" />
+        <player player_id="11216" rank="10" value="86" />
+        <player player_id="10522" rank="11" value="83" />
+        <player player_id="20878" rank="12" value="82" />
+        <player player_id="2935" rank="13" value="81" />
+        <player player_id="20354" rank="14" value="79" />
+        <player player_id="10946" rank="14" value="79" />
+        <player player_id="2661" rank="16" value="77" />
+        <player player_id="10117" rank="17" value="73" />
+        <player player_id="20745" rank="17" value="73" />
+        <player player_id="10093" rank="19" value="72" />
+        <player player_id="10523" rank="20" value="71" />
+        <player player_id="11381" rank="20" value="71" />
+        <player player_id="20832" rank="22" value="68" />
+        <player player_id="10910" rank="22" value="68" />
+        <player player_id="2183" rank="24" value="66" />
+        <player player_id="2578" rank="25" value="65" />
+        <player player_id="11333" rank="25" value="65" />
+        <player player_id="11105" rank="27" value="63" />
+        <player player_id="1166" rank="27" value="63" />
+        <player player_id="10198" rank="27" value="63" />
+        <player player_id="10838" rank="30" value="61" />
+        <player player_id="3252" rank="31" value="60" />
+        <player player_id="20457" rank="32" value="59" />
+        <player player_id="10944" rank="32" value="59" />
+        <player player_id="20531" rank="34" value="58" />
+        <player player_id="10917" rank="34" value="58" />
+        <player player_id="2908" rank="34" value="58" />
+        <player player_id="11357" rank="37" value="57" />
+        <player player_id="1211" rank="37" value="57" />
+        <player player_id="11470" rank="39" value="56" />
+        <player player_id="10156" rank="40" value="55" />
+        <player player_id="2753" rank="40" value="55" />
+        <player player_id="2945" rank="40" value="55" />
+        <player player_id="2584" rank="43" value="53" />
+        <player player_id="10807" rank="44" value="52" />
+        <player player_id="6437" rank="44" value="52" />
+        <player player_id="2983" rank="46" value="51" />
+        <player player_id="2257" rank="46" value="51" />
+        <player player_id="20774" rank="48" value="50" />
+        <player player_id="21047" rank="48" value="50" />
+        <player player_id="6036" rank="48" value="50" />
+        <player player_id="6335" rank="48" value="50" />
+      </tackle_busts>
+      <tackles>
+        <player player_id="6444" rank="1" value="1086" />
+        <player player_id="2590" rank="2" value="1053" />
+        <player player_id="6440" rank="3" value="1036" />
+        <player player_id="2353" rank="4" value="988" />
+        <player player_id="2573" rank="5" value="978" />
+        <player player_id="1885" rank="6" value="970" />
+        <player player_id="1867" rank="7" value="906" />
+        <player player_id="2183" rank="8" value="885" />
+        <player player_id="11494" rank="9" value="881" />
+        <player player_id="10839" rank="10" value="875" />
+        <player player_id="11370" rank="11" value="849" />
+        <player player_id="2704" rank="12" value="835" />
+        <player player_id="11333" rank="13" value="828" />
+        <player player_id="2911" rank="14" value="788" />
+        <player player_id="10845" rank="15" value="780" />
+        <player player_id="6467" rank="16" value="779" />
+        <player player_id="6311" rank="17" value="740" />
+        <player player_id="2291" rank="18" value="712" />
+        <player player_id="2355" rank="19" value="710" />
+        <player player_id="2867" rank="20" value="707" />
+        <player player_id="1680" rank="21" value="699" />
+        <player player_id="2912" rank="22" value="698" />
+        <player player_id="2707" rank="23" value="696" />
+        <player player_id="6048" rank="23" value="696" />
+        <player player_id="2009" rank="25" value="686" />
+        <player player_id="2909" rank="26" value="679" />
+        <player player_id="11495" rank="27" value="673" />
+        <player player_id="10901" rank="28" value="672" />
+        <player player_id="10907" rank="29" value="670" />
+        <player player_id="11330" rank="30" value="664" />
+        <player player_id="10808" rank="31" value="662" />
+        <player player_id="11361" rank="32" value="656" />
+        <player player_id="6089" rank="33" value="654" />
+        <player player_id="2721" rank="34" value="651" />
+        <player player_id="10949" rank="35" value="640" />
+        <player player_id="5015" rank="36" value="638" />
+        <player player_id="10939" rank="37" value="630" />
+        <player player_id="6036" rank="38" value="626" />
+        <player player_id="1161" rank="39" value="625" />
+        <player player_id="10001" rank="40" value="616" />
+        <player player_id="10154" rank="41" value="615" />
+        <player player_id="11478" rank="42" value="614" />
+        <player player_id="10859" rank="43" value="613" />
+        <player player_id="2157" rank="44" value="611" />
+        <player player_id="939" rank="45" value="603" />
+        <player player_id="2054" rank="45" value="603" />
+        <player player_id="2181" rank="47" value="594" />
+        <player player_id="1211" rank="48" value="593" />
+        <player player_id="10904" rank="49" value="591" />
+        <player player_id="3252" rank="50" value="590" />
+      </tackles>
+      <tries>
+        <player player_id="21014" rank="1" value="21" />
+        <player player_id="2736" rank="2" value="20" />
+        <player player_id="20745" rank="3" value="19" />
+        <player player_id="6263" rank="4" value="18" />
+        <player player_id="10523" rank="4" value="18" />
+        <player player_id="20774" rank="6" value="17" />
+        <player player_id="1166" rank="6" value="17" />
+        <player player_id="2257" rank="6" value="17" />
+        <player player_id="2945" rank="9" value="16" />
+        <player player_id="10944" rank="9" value="16" />
+        <player player_id="10561" rank="11" value="15" />
+        <player player_id="10198" rank="11" value="15" />
+        <player player_id="2753" rank="13" value="14" />
+        <player player_id="20457" rank="13" value="14" />
+        <player player_id="20483" rank="13" value="14" />
+        <player player_id="2266" rank="16" value="13" />
+        <player player_id="10838" rank="16" value="13" />
+        <player player_id="2578" rank="16" value="13" />
+        <player player_id="2501" rank="16" value="13" />
+        <player player_id="2956" rank="16" value="13" />
+        <player player_id="20528" rank="16" value="13" />
+        <player player_id="20878" rank="22" value="12" />
+        <player player_id="20354" rank="22" value="12" />
+        <player player_id="2005" rank="22" value="12" />
+        <player player_id="6477" rank="22" value="12" />
+        <player player_id="2983" rank="22" value="12" />
+        <player player_id="20803" rank="22" value="12" />
+        <player player_id="10911" rank="22" value="12" />
+        <player player_id="2935" rank="29" value="11" />
+        <player player_id="5070" rank="29" value="11" />
+        <player player_id="1087" rank="29" value="11" />
+        <player player_id="11359" rank="29" value="11" />
+        <player player_id="10910" rank="29" value="11" />
+        <player player_id="20518" rank="34" value="10" />
+        <player player_id="6434" rank="34" value="10" />
+        <player player_id="21047" rank="34" value="10" />
+        <player player_id="2183" rank="34" value="10" />
+        <player player_id="10837" rank="34" value="10" />
+        <player player_id="6464" rank="34" value="10" />
+        <player player_id="2757" rank="34" value="10" />
+        <player player_id="2584" rank="34" value="10" />
+        <player player_id="10946" rank="34" value="10" />
+        <player player_id="20832" rank="34" value="10" />
+        <player player_id="10522" rank="34" value="10" />
+        <player player_id="11333" rank="34" value="10" />
+        <player player_id="11471" rank="34" value="10" />
+        <player player_id="11325" rank="47" value="9" />
+        <player player_id="10917" rank="47" value="9" />
+        <player player_id="2355" rank="47" value="9" />
+        <player player_id="11470" rank="47" value="9" />
+        <player player_id="20353" rank="47" value="9" />
+        <player player_id="20512" rank="47" value="9" />
+        <player player_id="1108" rank="47" value="9" />
+        <player player_id="10907" rank="47" value="9" />
+        <player player_id="2908" rank="47" value="9" />
+        <player player_id="10151" rank="47" value="9" />
+      </tries>
+      <try_assists>
+        <player player_id="1087" rank="1" value="31" />
+        <player player_id="6335" rank="2" value="26" />
+        <player player_id="2361" rank="3" value="24" />
+        <player player_id="2908" rank="3" value="24" />
+        <player player_id="2584" rank="5" value="22" />
+        <player player_id="20832" rank="6" value="21" />
+        <player player_id="10946" rank="7" value="20" />
+        <player player_id="10838" rank="8" value="19" />
+        <player player_id="2687" rank="9" value="18" />
+        <player player_id="2501" rank="9" value="18" />
+        <player player_id="10807" rank="9" value="18" />
+        <player player_id="20538" rank="12" value="17" />
+        <player player_id="2907" rank="12" value="17" />
+        <player player_id="965" rank="12" value="17" />
+        <player player_id="2266" rank="15" value="16" />
+        <player player_id="20803" rank="16" value="15" />
+        <player player_id="20878" rank="16" value="15" />
+        <player player_id="6446" rank="16" value="15" />
+        <player player_id="2648" rank="16" value="15" />
+        <player player_id="2736" rank="20" value="14" />
+        <player player_id="2171" rank="20" value="14" />
+        <player player_id="11325" rank="20" value="14" />
+        <player player_id="11349" rank="20" value="14" />
+        <player player_id="10910" rank="24" value="13" />
+        <player player_id="10917" rank="25" value="12" />
+        <player player_id="10519" rank="25" value="12" />
+        <player player_id="20892" rank="25" value="12" />
+        <player player_id="20483" rank="25" value="12" />
+        <player player_id="2711" rank="29" value="11" />
+        <player player_id="2005" rank="29" value="11" />
+        <player player_id="922" rank="29" value="11" />
+        <player player_id="10646" rank="29" value="11" />
+        <player player_id="2291" rank="29" value="11" />
+        <player player_id="11382" rank="34" value="10" />
+        <player player_id="1867" rank="34" value="10" />
+        <player player_id="2702" rank="34" value="10" />
+        <player player_id="6440" rank="37" value="9" />
+        <player player_id="6325" rank="37" value="9" />
+        <player player_id="2698" rank="37" value="9" />
+        <player player_id="6311" rank="37" value="9" />
+        <player player_id="10152" rank="37" value="9" />
+        <player player_id="2578" rank="37" value="9" />
+        <player player_id="6477" rank="37" value="9" />
+        <player player_id="21046" rank="37" value="9" />
+        <player player_id="10175" rank="37" value="9" />
+        <player player_id="2014" rank="37" value="9" />
+        <player player_id="2746" rank="47" value="8" />
+        <player player_id="2599" rank="47" value="8" />
+        <player player_id="10117" rank="47" value="8" />
+        <player player_id="20354" rank="47" value="8" />
+        <player player_id="20752" rank="47" value="8" />
+        <player player_id="6364" rank="47" value="8" />
+        <player player_id="2353" rank="47" value="8" />
+      </try_assists>
+      <yellow_card>
+        <player player_id="2157" rank="1" value="2" />
+        <player player_id="2005" rank="2" value="1" />
+        <player player_id="2623" rank="2" value="1" />
+        <player player_id="10522" rank="2" value="1" />
+        <player player_id="2736" rank="2" value="1" />
+        <player player_id="10939" rank="2" value="1" />
+        <player player_id="6467" rank="2" value="1" />
+        <player player_id="2625" rank="2" value="1" />
+        <player player_id="10859" rank="2" value="1" />
+        <player player_id="2907" rank="2" value="1" />
+        <player player_id="2424" rank="2" value="1" />
+        <player player_id="939" rank="2" value="1" />
+        <player player_id="10151" rank="2" value="1" />
+        <player player_id="11470" rank="2" value="1" />
+        <player player_id="20483" rank="2" value="1" />
+        <player player_id="10837" rank="2" value="1" />
+        <player player_id="2890" rank="2" value="1" />
+        <player player_id="2048" rank="2" value="1" />
+        <player player_id="20440" rank="2" value="1" />
+        <player player_id="20363" rank="2" value="1" />
+        <player player_id="20892" rank="2" value="1" />
+        <player player_id="11349" rank="2" value="1" />
+        <player player_id="6300" rank="2" value="1" />
+        <player player_id="11325" rank="2" value="1" />
+      </yellow_card>
+    </playerstats>
+    <teamstats>
+      <attacking_kicks>
+        <team rank="1" team_id="1650" value="311" />
+        <team rank="2" team_id="2200" value="297" />
+        <team rank="3" team_id="1350" value="295" />
+        <team rank="3" team_id="1550" value="295" />
+        <team rank="5" team_id="3700" value="294" />
+        <team rank="6" team_id="2150" value="290" />
+        <team rank="7" team_id="900" value="289" />
+        <team rank="8" team_id="1400" value="288" />
+        <team rank="9" team_id="3550" value="279" />
+        <team rank="10" team_id="1300" value="274" />
+        <team rank="11" team_id="3300" value="270" />
+        <team rank="12" team_id="3750" value="259" />
+        <team rank="13" team_id="3500" value="257" />
+        <team rank="14" team_id="1600" value="253" />
+        <team rank="15" team_id="951" value="230" />
+        <team rank="16" team_id="1450" value="204" />
+      </attacking_kicks>
+      <break_assist>
+        <team rank="1" team_id="1550" value="24" />
+        <team rank="2" team_id="1450" value="23" />
+        <team rank="3" team_id="1300" value="21" />
+        <team rank="4" team_id="3550" value="19" />
+        <team rank="5" team_id="3700" value="18" />
+        <team rank="6" team_id="1600" value="16" />
+        <team rank="7" team_id="3500" value="15" />
+        <team rank="8" team_id="1350" value="14" />
+        <team rank="9" team_id="2200" value="13" />
+        <team rank="9" team_id="1400" value="13" />
+        <team rank="11" team_id="900" value="12" />
+        <team rank="12" team_id="2150" value="9" />
+        <team rank="13" team_id="951" value="8" />
+        <team rank="14" team_id="1650" value="7" />
+        <team rank="15" team_id="3750" value="6" />
+        <team rank="16" team_id="3300" value="5" />
+      </break_assist>
+      <carries>
+        <team rank="1" team_id="1350" value="4941" />
+        <team rank="2" team_id="3700" value="4592" />
+        <team rank="3" team_id="2150" value="4554" />
+        <team rank="4" team_id="1550" value="4547" />
+        <team rank="5" team_id="3550" value="4477" />
+        <team rank="6" team_id="1650" value="4471" />
+        <team rank="7" team_id="900" value="4390" />
+        <team rank="8" team_id="1400" value="4290" />
+        <team rank="9" team_id="2200" value="4070" />
+        <team rank="10" team_id="3750" value="4052" />
+        <team rank="11" team_id="951" value="4044" />
+        <team rank="12" team_id="1300" value="4041" />
+        <team rank="13" team_id="3300" value="4027" />
+        <team rank="14" team_id="1600" value="3977" />
+        <team rank="15" team_id="1450" value="3951" />
+        <team rank="16" team_id="3500" value="3893" />
+      </carries>
+      <clean_break>
+        <team rank="1" team_id="1550" value="136" />
+        <team rank="2" team_id="3700" value="125" />
+        <team rank="3" team_id="2150" value="115" />
+        <team rank="4" team_id="1450" value="110" />
+        <team rank="5" team_id="3550" value="109" />
+        <team rank="6" team_id="1300" value="105" />
+        <team rank="7" team_id="1400" value="102" />
+        <team rank="8" team_id="1350" value="101" />
+        <team rank="8" team_id="900" value="101" />
+        <team rank="10" team_id="2200" value="97" />
+        <team rank="11" team_id="3500" value="91" />
+        <team rank="12" team_id="1650" value="88" />
+        <team rank="13" team_id="951" value="79" />
+        <team rank="13" team_id="3300" value="79" />
+        <team rank="15" team_id="1600" value="76" />
+        <team rank="16" team_id="3750" value="56" />
+      </clean_break>
+      <complete_sets>
+        <team rank="1" team_id="1350" value="740" />
+        <team rank="2" team_id="3700" value="716" />
+        <team rank="3" team_id="2150" value="701" />
+        <team rank="4" team_id="1650" value="698" />
+        <team rank="5" team_id="1400" value="693" />
+        <team rank="6" team_id="3550" value="682" />
+        <team rank="7" team_id="900" value="657" />
+        <team rank="8" team_id="951" value="645" />
+        <team rank="9" team_id="1550" value="634" />
+        <team rank="10" team_id="2200" value="611" />
+        <team rank="10" team_id="1300" value="611" />
+        <team rank="10" team_id="3500" value="611" />
+        <team rank="13" team_id="1600" value="605" />
+        <team rank="14" team_id="3300" value="594" />
+        <team rank="15" team_id="3750" value="585" />
+        <team rank="16" team_id="1450" value="582" />
+      </complete_sets>
+      <completion_rate>
+        <team rank="1" team_id="1400" value="0.787" />
+        <team rank="2" team_id="951" value="0.783" />
+        <team rank="3" team_id="2150" value="0.775" />
+        <team rank="4" team_id="1350" value="0.770" />
+        <team rank="5" team_id="1300" value="0.760" />
+        <team rank="6" team_id="1600" value="0.758" />
+        <team rank="7" team_id="900" value="0.757" />
+        <team rank="8" team_id="2200" value="0.755" />
+        <team rank="8" team_id="3700" value="0.755" />
+        <team rank="10" team_id="3550" value="0.752" />
+        <team rank="11" team_id="1650" value="0.751" />
+        <team rank="12" team_id="3500" value="0.739" />
+        <team rank="13" team_id="3300" value="0.725" />
+        <team rank="13" team_id="1450" value="0.725" />
+        <team rank="15" team_id="3750" value="0.717" />
+        <team rank="16" team_id="1550" value="0.700" />
+      </completion_rate>
+      <conversions>
+        <team rank="1" team_id="1550" value="97" />
+        <team rank="2" team_id="3700" value="90" />
+        <team rank="3" team_id="2150" value="85" />
+        <team rank="4" team_id="1300" value="74" />
+        <team rank="5" team_id="1350" value="72" />
+        <team rank="6" team_id="900" value="68" />
+        <team rank="7" team_id="3550" value="65" />
+        <team rank="7" team_id="1400" value="65" />
+        <team rank="9" team_id="1650" value="64" />
+        <team rank="10" team_id="3500" value="62" />
+        <team rank="11" team_id="951" value="55" />
+        <team rank="11" team_id="2200" value="55" />
+        <team rank="11" team_id="1450" value="55" />
+        <team rank="14" team_id="3300" value="54" />
+        <team rank="15" team_id="1600" value="48" />
+        <team rank="16" team_id="3750" value="47" />
+      </conversions>
+      <drop_goals>
+        <team rank="1" team_id="1350" value="6" />
+        <team rank="2" team_id="3550" value="5" />
+        <team rank="2" team_id="1650" value="5" />
+        <team rank="4" team_id="3300" value="4" />
+        <team rank="4" team_id="2150" value="4" />
+        <team rank="4" team_id="1400" value="4" />
+        <team rank="7" team_id="2200" value="3" />
+        <team rank="7" team_id="3700" value="3" />
+        <team rank="9" team_id="3750" value="2" />
+        <team rank="9" team_id="1550" value="2" />
+        <team rank="9" team_id="1600" value="2" />
+        <team rank="9" team_id="3500" value="2" />
+        <team rank="13" team_id="951" value="1" />
+        <team rank="13" team_id="1450" value="1" />
+        <team rank="13" team_id="900" value="1" />
+        <team rank="13" team_id="1300" value="1" />
+      </drop_goals>
+      <dummy_half_metres>
+        <team rank="1" team_id="3700" value="4000" />
+        <team rank="2" team_id="1650" value="3745" />
+        <team rank="3" team_id="3300" value="3611" />
+        <team rank="4" team_id="2200" value="3334" />
+        <team rank="5" team_id="3750" value="3235" />
+        <team rank="6" team_id="900" value="3186" />
+        <team rank="7" team_id="1400" value="3068" />
+        <team rank="8" team_id="3550" value="3010" />
+        <team rank="9" team_id="1350" value="2913" />
+        <team rank="10" team_id="3500" value="2694" />
+        <team rank="11" team_id="1550" value="2353" />
+        <team rank="12" team_id="2150" value="2298" />
+        <team rank="13" team_id="1450" value="2275" />
+        <team rank="14" team_id="1600" value="2207" />
+        <team rank="15" team_id="951" value="2156" />
+        <team rank="16" team_id="1300" value="2052" />
+      </dummy_half_metres>
+      <errors>
+        <team rank="1" team_id="1550" value="321" />
+        <team rank="2" team_id="3750" value="310" />
+        <team rank="3" team_id="3300" value="301" />
+        <team rank="4" team_id="1350" value="285" />
+        <team rank="5" team_id="3700" value="284" />
+        <team rank="6" team_id="3500" value="278" />
+        <team rank="7" team_id="2150" value="273" />
+        <team rank="8" team_id="1650" value="271" />
+        <team rank="8" team_id="1450" value="271" />
+        <team rank="10" team_id="900" value="266" />
+        <team rank="11" team_id="3550" value="264" />
+        <team rank="12" team_id="1600" value="263" />
+        <team rank="13" team_id="1300" value="252" />
+        <team rank="14" team_id="2200" value="244" />
+        <team rank="15" team_id="1400" value="242" />
+        <team rank="16" team_id="951" value="226" />
+      </errors>
+      <forty_twenty>
+        <team rank="1" team_id="1450" value="7" />
+        <team rank="2" team_id="3550" value="4" />
+        <team rank="3" team_id="1650" value="3" />
+        <team rank="3" team_id="1550" value="3" />
+        <team rank="3" team_id="3300" value="3" />
+        <team rank="3" team_id="3700" value="3" />
+        <team rank="7" team_id="1350" value="2" />
+        <team rank="7" team_id="1300" value="2" />
+        <team rank="7" team_id="3500" value="2" />
+        <team rank="10" team_id="2200" value="1" />
+        <team rank="10" team_id="1400" value="1" />
+      </forty_twenty>
+      <goal_kick_percentage>
+        <team rank="1" team_id="1350" value="72.6" />
+        <team rank="2" team_id="1600" value="71.2" />
+        <team rank="3" team_id="1550" value="71.1" />
+        <team rank="4" team_id="3700" value="64.1" />
+        <team rank="5" team_id="3500" value="63.7" />
+        <team rank="6" team_id="3300" value="61.7" />
+        <team rank="7" team_id="2150" value="61.6" />
+        <team rank="8" team_id="3750" value="60.2" />
+        <team rank="9" team_id="1650" value="56.2" />
+        <team rank="10" team_id="1300" value="53.8" />
+        <team rank="11" team_id="3550" value="53.3" />
+        <team rank="12" team_id="951" value="52.9" />
+        <team rank="13" team_id="1400" value="51.7" />
+        <team rank="14" team_id="900" value="51.3" />
+        <team rank="15" team_id="2200" value="50.8" />
+        <team rank="16" team_id="1450" value="45.7" />
+      </goal_kick_percentage>
+      <goals>
+        <team rank="1" team_id="1550" value="106" />
+        <team rank="1" team_id="3700" value="106" />
+        <team rank="3" team_id="2150" value="97" />
+        <team rank="4" team_id="1350" value="79" />
+        <team rank="5" team_id="900" value="78" />
+        <team rank="6" team_id="1300" value="77" />
+        <team rank="7" team_id="1650" value="76" />
+        <team rank="8" team_id="3550" value="75" />
+        <team rank="9" team_id="1400" value="74" />
+        <team rank="10" team_id="3500" value="70" />
+        <team rank="11" team_id="951" value="63" />
+        <team rank="12" team_id="3300" value="62" />
+        <team rank="13" team_id="2200" value="61" />
+        <team rank="14" team_id="1450" value="58" />
+        <team rank="15" team_id="3750" value="57" />
+        <team rank="16" team_id="1600" value="50" />
+      </goals>
+      <hit_up_metres>
+        <team rank="1" team_id="1350" value="21871" />
+        <team rank="2" team_id="2150" value="21751" />
+        <team rank="3" team_id="1550" value="20668" />
+        <team rank="4" team_id="3700" value="20215" />
+        <team rank="5" team_id="1650" value="19548" />
+        <team rank="6" team_id="951" value="18998" />
+        <team rank="7" team_id="900" value="18955" />
+        <team rank="8" team_id="3550" value="17709" />
+        <team rank="9" team_id="2200" value="17663" />
+        <team rank="10" team_id="1300" value="17551" />
+        <team rank="11" team_id="1600" value="17423" />
+        <team rank="12" team_id="1400" value="17319" />
+        <team rank="13" team_id="3300" value="17044" />
+        <team rank="14" team_id="3750" value="16524" />
+        <team rank="15" team_id="1450" value="15687" />
+        <team rank="16" team_id="3500" value="15370" />
+      </hit_up_metres>
+      <hit_ups>
+        <team rank="1" team_id="1350" value="2849" />
+        <team rank="2" team_id="2150" value="2796" />
+        <team rank="3" team_id="3700" value="2758" />
+        <team rank="4" team_id="1550" value="2722" />
+        <team rank="5" team_id="1650" value="2617" />
+        <team rank="6" team_id="3550" value="2457" />
+        <team rank="7" team_id="900" value="2451" />
+        <team rank="8" team_id="951" value="2449" />
+        <team rank="9" team_id="1600" value="2352" />
+        <team rank="10" team_id="1400" value="2328" />
+        <team rank="11" team_id="2200" value="2315" />
+        <team rank="12" team_id="1300" value="2313" />
+        <team rank="13" team_id="3750" value="2278" />
+        <team rank="14" team_id="3300" value="2254" />
+        <team rank="15" team_id="3500" value="2199" />
+        <team rank="16" team_id="1450" value="2190" />
+      </hit_ups>
+      <incomplete_sets>
+        <team rank="1" team_id="1550" value="272" />
+        <team rank="2" team_id="1650" value="232" />
+        <team rank="2" team_id="3700" value="232" />
+        <team rank="4" team_id="3750" value="231" />
+        <team rank="5" team_id="3550" value="225" />
+        <team rank="5" team_id="3300" value="225" />
+        <team rank="7" team_id="1350" value="221" />
+        <team rank="7" team_id="1450" value="221" />
+        <team rank="9" team_id="3500" value="216" />
+        <team rank="10" team_id="900" value="211" />
+        <team rank="11" team_id="2150" value="204" />
+        <team rank="12" team_id="2200" value="198" />
+        <team rank="13" team_id="1600" value="193" />
+        <team rank="13" team_id="1300" value="193" />
+        <team rank="15" team_id="1400" value="187" />
+        <team rank="16" team_id="951" value="179" />
+      </incomplete_sets>
+      <kick_from_hand_metres>
+        <team rank="1" team_id="1350" value="10164" />
+        <team rank="2" team_id="3550" value="9365" />
+        <team rank="3" team_id="1400" value="8182" />
+        <team rank="4" team_id="1650" value="8148" />
+        <team rank="5" team_id="3700" value="8130" />
+        <team rank="6" team_id="1550" value="7983" />
+        <team rank="7" team_id="2200" value="7340" />
+        <team rank="8" team_id="900" value="7227" />
+        <team rank="9" team_id="951" value="7112" />
+        <team rank="10" team_id="2150" value="7096" />
+        <team rank="11" team_id="1450" value="6595" />
+        <team rank="12" team_id="1600" value="6513" />
+        <team rank="13" team_id="3750" value="6502" />
+        <team rank="14" team_id="3500" value="6419" />
+        <team rank="15" team_id="3300" value="5879" />
+        <team rank="16" team_id="1300" value="5569" />
+      </kick_from_hand_metres>
+      <kick_return_metres>
+        <team rank="1" team_id="1550" value="2903" />
+        <team rank="2" team_id="3700" value="2901" />
+        <team rank="3" team_id="1350" value="2795" />
+        <team rank="4" team_id="2150" value="2433" />
+        <team rank="5" team_id="3550" value="2329" />
+        <team rank="6" team_id="1650" value="2323" />
+        <team rank="7" team_id="1450" value="2319" />
+        <team rank="8" team_id="951" value="2293" />
+        <team rank="9" team_id="3300" value="2193" />
+        <team rank="10" team_id="3750" value="2137" />
+        <team rank="11" team_id="900" value="2128" />
+        <team rank="12" team_id="1300" value="2048" />
+        <team rank="13" team_id="2200" value="2011" />
+        <team rank="14" team_id="1400" value="1977" />
+        <team rank="15" team_id="1600" value="1774" />
+        <team rank="16" team_id="3500" value="1732" />
+      </kick_return_metres>
+      <kick_returns>
+        <team rank="1" team_id="1350" value="327" />
+        <team rank="2" team_id="1550" value="322" />
+        <team rank="3" team_id="3700" value="282" />
+        <team rank="4" team_id="3550" value="278" />
+        <team rank="5" team_id="1400" value="274" />
+        <team rank="6" team_id="1650" value="270" />
+        <team rank="7" team_id="900" value="269" />
+        <team rank="8" team_id="951" value="265" />
+        <team rank="9" team_id="2150" value="253" />
+        <team rank="10" team_id="2200" value="249" />
+        <team rank="10" team_id="3300" value="249" />
+        <team rank="12" team_id="1450" value="247" />
+        <team rank="13" team_id="1600" value="241" />
+        <team rank="14" team_id="3750" value="240" />
+        <team rank="15" team_id="1300" value="238" />
+        <team rank="16" team_id="3500" value="228" />
+      </kick_returns>
+      <kicks_in_gen_play>
+        <team rank="1" team_id="1350" value="574" />
+        <team rank="2" team_id="1650" value="527" />
+        <team rank="3" team_id="3550" value="524" />
+        <team rank="4" team_id="1400" value="522" />
+        <team rank="5" team_id="2200" value="509" />
+        <team rank="6" team_id="2150" value="503" />
+        <team rank="7" team_id="3700" value="499" />
+        <team rank="8" team_id="1550" value="495" />
+        <team rank="9" team_id="900" value="492" />
+        <team rank="10" team_id="951" value="471" />
+        <team rank="11" team_id="3500" value="466" />
+        <team rank="12" team_id="3750" value="463" />
+        <team rank="13" team_id="3300" value="452" />
+        <team rank="14" team_id="1300" value="448" />
+        <team rank="15" team_id="1600" value="445" />
+        <team rank="16" team_id="1450" value="410" />
+      </kicks_in_gen_play>
+      <marker_tackles>
+        <team rank="1" team_id="3700" value="876" />
+        <team rank="2" team_id="1550" value="856" />
+        <team rank="3" team_id="3500" value="834" />
+        <team rank="4" team_id="2150" value="789" />
+        <team rank="5" team_id="1400" value="761" />
+        <team rank="6" team_id="1350" value="750" />
+        <team rank="7" team_id="3550" value="741" />
+        <team rank="8" team_id="900" value="730" />
+        <team rank="9" team_id="1650" value="725" />
+        <team rank="10" team_id="2200" value="683" />
+        <team rank="11" team_id="3300" value="674" />
+        <team rank="11" team_id="1300" value="674" />
+        <team rank="13" team_id="1600" value="653" />
+        <team rank="14" team_id="951" value="648" />
+        <team rank="15" team_id="1450" value="640" />
+        <team rank="16" team_id="3750" value="593" />
+      </marker_tackles>
+      <metres>
+        <team rank="1" team_id="1350" value="36768" />
+        <team rank="2" team_id="1550" value="35726" />
+        <team rank="3" team_id="3700" value="35403" />
+        <team rank="4" team_id="2150" value="35365" />
+        <team rank="5" team_id="900" value="33291" />
+        <team rank="6" team_id="1650" value="33113" />
+        <team rank="7" team_id="3550" value="32827" />
+        <team rank="8" team_id="1400" value="32025" />
+        <team rank="9" team_id="951" value="31039" />
+        <team rank="10" team_id="2200" value="30940" />
+        <team rank="11" team_id="1300" value="30599" />
+        <team rank="12" team_id="1450" value="30379" />
+        <team rank="13" team_id="3300" value="30168" />
+        <team rank="14" team_id="3750" value="29797" />
+        <team rank="15" team_id="1600" value="29029" />
+        <team rank="16" team_id="3500" value="28451" />
+      </metres>
+      <missed_conversions>
+        <team rank="1" team_id="1450" value="35" />
+        <team rank="1" team_id="900" value="35" />
+        <team rank="3" team_id="3550" value="32" />
+        <team rank="3" team_id="1400" value="32" />
+        <team rank="5" team_id="1650" value="31" />
+        <team rank="5" team_id="2200" value="31" />
+        <team rank="7" team_id="2150" value="30" />
+        <team rank="7" team_id="1300" value="30" />
+        <team rank="9" team_id="951" value="28" />
+        <team rank="9" team_id="3700" value="28" />
+        <team rank="11" team_id="1550" value="21" />
+        <team rank="12" team_id="3300" value="19" />
+        <team rank="12" team_id="3500" value="19" />
+        <team rank="14" team_id="3750" value="17" />
+        <team rank="15" team_id="1350" value="16" />
+        <team rank="16" team_id="1600" value="10" />
+      </missed_conversions>
+      <missed_goals>
+        <team rank="1" team_id="900" value="36" />
+        <team rank="2" team_id="1450" value="35" />
+        <team rank="2" team_id="1400" value="35" />
+        <team rank="4" team_id="3550" value="34" />
+        <team rank="5" team_id="2150" value="33" />
+        <team rank="6" team_id="1650" value="32" />
+        <team rank="6" team_id="1300" value="32" />
+        <team rank="8" team_id="2200" value="31" />
+        <team rank="9" team_id="3700" value="30" />
+        <team rank="10" team_id="951" value="29" />
+        <team rank="11" team_id="3750" value="22" />
+        <team rank="11" team_id="1550" value="22" />
+        <team rank="13" team_id="3300" value="20" />
+        <team rank="13" team_id="3500" value="20" />
+        <team rank="15" team_id="1350" value="16" />
+        <team rank="16" team_id="1600" value="11" />
+      </missed_goals>
+      <missed_penalty_goals>
+        <team rank="1" team_id="1400" value="6" />
+        <team rank="2" team_id="1300" value="5" />
+        <team rank="3" team_id="3550" value="4" />
+        <team rank="3" team_id="900" value="4" />
+        <team rank="5" team_id="3700" value="3" />
+        <team rank="6" team_id="3300" value="2" />
+        <team rank="6" team_id="3500" value="2" />
+        <team rank="8" team_id="1550" value="1" />
+      </missed_penalty_goals>
+      <missed_tackles>
+        <team rank="1" team_id="3750" value="588" />
+        <team rank="2" team_id="3300" value="507" />
+        <team rank="3" team_id="951" value="494" />
+        <team rank="4" team_id="3550" value="481" />
+        <team rank="5" team_id="1650" value="474" />
+        <team rank="5" team_id="900" value="474" />
+        <team rank="7" team_id="1450" value="466" />
+        <team rank="8" team_id="1550" value="443" />
+        <team rank="9" team_id="3500" value="430" />
+        <team rank="10" team_id="1350" value="414" />
+        <team rank="11" team_id="1300" value="413" />
+        <team rank="12" team_id="1600" value="408" />
+        <team rank="13" team_id="2200" value="402" />
+        <team rank="14" team_id="2150" value="398" />
+        <team rank="15" team_id="1400" value="389" />
+        <team rank="16" team_id="3700" value="341" />
+      </missed_tackles>
+      <offload>
+        <team rank="1" team_id="3750" value="315" />
+        <team rank="2" team_id="1600" value="303" />
+        <team rank="3" team_id="3550" value="295" />
+        <team rank="4" team_id="1650" value="285" />
+        <team rank="5" team_id="1350" value="283" />
+        <team rank="6" team_id="1400" value="276" />
+        <team rank="7" team_id="3300" value="266" />
+        <team rank="8" team_id="3500" value="258" />
+        <team rank="9" team_id="2200" value="255" />
+        <team rank="10" team_id="900" value="251" />
+        <team rank="11" team_id="951" value="248" />
+        <team rank="12" team_id="1550" value="231" />
+        <team rank="13" team_id="3700" value="228" />
+        <team rank="14" team_id="1300" value="227" />
+        <team rank="15" team_id="2150" value="218" />
+        <team rank="16" team_id="1450" value="215" />
+      </offload>
+      <on_report>
+        <team rank="1" team_id="1350" value="11" />
+        <team rank="2" team_id="3550" value="10" />
+        <team rank="3" team_id="1450" value="9" />
+        <team rank="3" team_id="3700" value="9" />
+        <team rank="5" team_id="1300" value="8" />
+        <team rank="6" team_id="1550" value="7" />
+        <team rank="7" team_id="1650" value="6" />
+        <team rank="7" team_id="3300" value="6" />
+        <team rank="9" team_id="900" value="5" />
+        <team rank="10" team_id="3750" value="4" />
+        <team rank="10" team_id="1600" value="4" />
+        <team rank="10" team_id="2150" value="4" />
+        <team rank="10" team_id="3500" value="4" />
+        <team rank="14" team_id="951" value="3" />
+        <team rank="14" team_id="1400" value="3" />
+        <team rank="16" team_id="2200" value="2" />
+      </on_report>
+      <passes>
+        <team rank="1" team_id="2150" value="5873" />
+        <team rank="2" team_id="1350" value="5715" />
+        <team rank="3" team_id="1550" value="5446" />
+        <team rank="4" team_id="1650" value="5416" />
+        <team rank="5" team_id="3550" value="5403" />
+        <team rank="6" team_id="3700" value="5372" />
+        <team rank="7" team_id="1300" value="5176" />
+        <team rank="8" team_id="1450" value="5160" />
+        <team rank="9" team_id="1600" value="5029" />
+        <team rank="10" team_id="1400" value="4982" />
+        <team rank="11" team_id="900" value="4980" />
+        <team rank="12" team_id="951" value="4928" />
+        <team rank="13" team_id="2200" value="4921" />
+        <team rank="14" team_id="3500" value="4915" />
+        <team rank="15" team_id="3300" value="4670" />
+        <team rank="16" team_id="3750" value="4641" />
+      </passes>
+      <penalties>
+        <team rank="1" team_id="1550" value="196" />
+        <team rank="2" team_id="1350" value="192" />
+        <team rank="3" team_id="1400" value="187" />
+        <team rank="4" team_id="1650" value="185" />
+        <team rank="5" team_id="3750" value="184" />
+        <team rank="6" team_id="3300" value="179" />
+        <team rank="7" team_id="3700" value="176" />
+        <team rank="8" team_id="1450" value="161" />
+        <team rank="9" team_id="3550" value="160" />
+        <team rank="9" team_id="2150" value="160" />
+        <team rank="11" team_id="1300" value="142" />
+        <team rank="12" team_id="900" value="141" />
+        <team rank="13" team_id="1600" value="140" />
+        <team rank="14" team_id="951" value="137" />
+        <team rank="15" team_id="2200" value="131" />
+        <team rank="15" team_id="3500" value="131" />
+      </penalties>
+      <penalty_goals>
+        <team rank="1" team_id="3700" value="16" />
+        <team rank="2" team_id="1650" value="12" />
+        <team rank="2" team_id="2150" value="12" />
+        <team rank="4" team_id="3550" value="10" />
+        <team rank="4" team_id="3750" value="10" />
+        <team rank="4" team_id="900" value="10" />
+        <team rank="7" team_id="1550" value="9" />
+        <team rank="7" team_id="1400" value="9" />
+        <team rank="9" team_id="951" value="8" />
+        <team rank="9" team_id="3300" value="8" />
+        <team rank="9" team_id="3500" value="8" />
+        <team rank="12" team_id="1350" value="7" />
+        <team rank="13" team_id="2200" value="6" />
+        <team rank="14" team_id="1450" value="3" />
+        <team rank="14" team_id="1300" value="3" />
+        <team rank="16" team_id="1600" value="2" />
+      </penalty_goals>
+      <play_the_ball>
+        <team rank="1" team_id="1350" value="3894" />
+        <team rank="2" team_id="2150" value="3696" />
+        <team rank="3" team_id="3700" value="3616" />
+        <team rank="4" team_id="1550" value="3558" />
+        <team rank="5" team_id="1650" value="3538" />
+        <team rank="6" team_id="3550" value="3427" />
+        <team rank="7" team_id="900" value="3413" />
+        <team rank="8" team_id="1400" value="3293" />
+        <team rank="9" team_id="951" value="3203" />
+        <team rank="10" team_id="2200" value="3189" />
+        <team rank="11" team_id="3300" value="3122" />
+        <team rank="12" team_id="1300" value="3107" />
+        <team rank="13" team_id="1600" value="3100" />
+        <team rank="14" team_id="3750" value="3098" />
+        <team rank="15" team_id="1450" value="3058" />
+        <team rank="16" team_id="3500" value="3016" />
+      </play_the_ball>
+      <run_from_dummy_half>
+        <team rank="1" team_id="3700" value="460" />
+        <team rank="2" team_id="1650" value="459" />
+        <team rank="3" team_id="3300" value="448" />
+        <team rank="4" team_id="2200" value="411" />
+        <team rank="5" team_id="3750" value="408" />
+        <team rank="6" team_id="1350" value="407" />
+        <team rank="7" team_id="900" value="406" />
+        <team rank="8" team_id="1400" value="398" />
+        <team rank="9" team_id="3500" value="344" />
+        <team rank="10" team_id="3550" value="342" />
+        <team rank="11" team_id="1450" value="289" />
+        <team rank="12" team_id="1550" value="288" />
+        <team rank="13" team_id="2150" value="277" />
+        <team rank="14" team_id="951" value="270" />
+        <team rank="15" team_id="1600" value="257" />
+        <team rank="16" team_id="1300" value="256" />
+      </run_from_dummy_half>
+      <scrum_lost>
+        <team rank="1" team_id="3750" value="1" />
+        <team rank="1" team_id="1450" value="1" />
+      </scrum_lost>
+      <scrum_won>
+        <team rank="1" team_id="3500" value="180" />
+        <team rank="2" team_id="3550" value="178" />
+        <team rank="3" team_id="1650" value="170" />
+        <team rank="4" team_id="1350" value="165" />
+        <team rank="5" team_id="3750" value="153" />
+        <team rank="5" team_id="2200" value="153" />
+        <team rank="7" team_id="1600" value="152" />
+        <team rank="8" team_id="1450" value="151" />
+        <team rank="9" team_id="3300" value="146" />
+        <team rank="10" team_id="951" value="144" />
+        <team rank="11" team_id="3700" value="142" />
+        <team rank="12" team_id="1300" value="140" />
+        <team rank="13" team_id="1400" value="136" />
+        <team rank="14" team_id="2150" value="135" />
+        <team rank="15" team_id="1550" value="131" />
+        <team rank="16" team_id="900" value="126" />
+      </scrum_won>
+      <tackle_busts>
+        <team rank="1" team_id="1550" value="573" />
+        <team rank="2" team_id="3700" value="570" />
+        <team rank="3" team_id="1350" value="502" />
+        <team rank="4" team_id="2150" value="494" />
+        <team rank="5" team_id="1650" value="466" />
+        <team rank="6" team_id="1450" value="459" />
+        <team rank="7" team_id="2200" value="456" />
+        <team rank="8" team_id="951" value="448" />
+        <team rank="9" team_id="3500" value="435" />
+        <team rank="10" team_id="1300" value="433" />
+        <team rank="11" team_id="3550" value="416" />
+        <team rank="12" team_id="900" value="409" />
+        <team rank="12" team_id="1400" value="409" />
+        <team rank="14" team_id="1600" value="381" />
+        <team rank="15" team_id="3300" value="365" />
+        <team rank="16" team_id="3750" value="302" />
+      </tackle_busts>
+      <tackles>
+        <team rank="1" team_id="1550" value="8332" />
+        <team rank="2" team_id="1350" value="8000" />
+        <team rank="3" team_id="3700" value="7901" />
+        <team rank="4" team_id="1400" value="7767" />
+        <team rank="5" team_id="1650" value="7496" />
+        <team rank="6" team_id="3550" value="7406" />
+        <team rank="7" team_id="2150" value="7390" />
+        <team rank="8" team_id="900" value="7242" />
+        <team rank="9" team_id="3500" value="7222" />
+        <team rank="10" team_id="1600" value="7203" />
+        <team rank="11" team_id="3750" value="7180" />
+        <team rank="12" team_id="951" value="7040" />
+        <team rank="13" team_id="2200" value="6979" />
+        <team rank="14" team_id="1300" value="6634" />
+        <team rank="15" team_id="3300" value="6625" />
+        <team rank="16" team_id="1450" value="6552" />
+      </tackles>
+      <total_games>
+        <team rank="1" team_id="1350" value="28" />
+        <team rank="2" team_id="1550" value="27" />
+        <team rank="2" team_id="3700" value="27" />
+        <team rank="4" team_id="3550" value="26" />
+        <team rank="4" team_id="1650" value="26" />
+        <team rank="4" team_id="2150" value="26" />
+        <team rank="7" team_id="900" value="25" />
+        <team rank="7" team_id="1400" value="25" />
+        <team rank="9" team_id="951" value="24" />
+        <team rank="9" team_id="3750" value="24" />
+        <team rank="9" team_id="2200" value="24" />
+        <team rank="9" team_id="3300" value="24" />
+        <team rank="9" team_id="1450" value="24" />
+        <team rank="9" team_id="1600" value="24" />
+        <team rank="9" team_id="1300" value="24" />
+        <team rank="9" team_id="3500" value="24" />
+      </total_games>
+      <tries>
+        <team rank="1" team_id="1550" value="118" />
+        <team rank="1" team_id="3700" value="118" />
+        <team rank="3" team_id="2150" value="115" />
+        <team rank="4" team_id="1300" value="104" />
+        <team rank="5" team_id="900" value="103" />
+        <team rank="6" team_id="3550" value="97" />
+        <team rank="6" team_id="1400" value="97" />
+        <team rank="8" team_id="1650" value="95" />
+        <team rank="9" team_id="1450" value="90" />
+        <team rank="10" team_id="1350" value="88" />
+        <team rank="11" team_id="2200" value="86" />
+        <team rank="12" team_id="951" value="84" />
+        <team rank="13" team_id="3500" value="81" />
+        <team rank="14" team_id="3300" value="73" />
+        <team rank="15" team_id="3750" value="64" />
+        <team rank="16" team_id="1600" value="58" />
+      </tries>
+      <try_assists>
+        <team rank="1" team_id="3700" value="101" />
+        <team rank="2" team_id="1550" value="95" />
+        <team rank="3" team_id="2150" value="88" />
+        <team rank="4" team_id="1400" value="85" />
+        <team rank="5" team_id="1300" value="84" />
+        <team rank="6" team_id="3550" value="80" />
+        <team rank="6" team_id="900" value="80" />
+        <team rank="8" team_id="1350" value="74" />
+        <team rank="9" team_id="3500" value="70" />
+        <team rank="10" team_id="1650" value="69" />
+        <team rank="11" team_id="2200" value="68" />
+        <team rank="12" team_id="951" value="67" />
+        <team rank="13" team_id="1450" value="61" />
+        <team rank="14" team_id="3300" value="52" />
+        <team rank="15" team_id="1600" value="51" />
+        <team rank="16" team_id="3750" value="40" />
+      </try_assists>
+      <yellow_card>
+        <team rank="1" team_id="1350" value="3" />
+        <team rank="1" team_id="1400" value="3" />
+        <team rank="3" team_id="951" value="2" />
+        <team rank="3" team_id="3750" value="2" />
+        <team rank="3" team_id="1650" value="2" />
+        <team rank="3" team_id="1550" value="2" />
+        <team rank="3" team_id="1450" value="2" />
+        <team rank="3" team_id="3700" value="2" />
+        <team rank="9" team_id="3550" value="1" />
+        <team rank="9" team_id="2200" value="1" />
+        <team rank="9" team_id="3300" value="1" />
+        <team rank="9" team_id="900" value="1" />
+        <team rank="9" team_id="2150" value="1" />
+        <team rank="9" team_id="1300" value="1" />
+      </yellow_card>
+    </teamstats>
+  </rankings>
+  <teams>
+    <team team_id="3550" team_name="Manly">
+      <players>
+        <player minutes_played_total="1721" player_id="2584" player_name="Brett Stewart" total_games="22" />
+        <player minutes_played_total="654" player_id="10906" player_name="Cheyse Blair" total_games="9" />
+        <player minutes_played_total="1342" player_id="1161" player_name="Anthony Watmough" total_games="20" />
+        <player minutes_played_total="176" player_id="20894" player_name="Jayden Hodges" total_games="4" />
+        <player minutes_played_total="801" player_id="20776" player_name="Jesse Sene-Lafao" total_games="25" />
+        <player minutes_played_total="1784" player_id="2573" player_name="Matt Ballin" total_games="23" />
+        <player minutes_played_total="9" player_id="11113" player_name="Michael Chee-Kam" total_games="1" />
+        <player minutes_played_total="1870" player_id="2578" player_name="Steve Matai" total_games="25" />
+        <player minutes_played_total="1756" player_id="10519" player_name="Kieran Foran" total_games="22" />
+        <player minutes_played_total="1515" player_id="10949" player_name="Jamie Buhrer" total_games="23" />
+        <player minutes_played_total="80" player_id="21052" player_name="Tony Satini" total_games="1" />
+        <player minutes_played_total="657" player_id="2286" player_name="Jason King" total_games="20" />
+        <player minutes_played_total="2080" player_id="20774" player_name="Peta Hiku" total_games="26" />
+        <player minutes_played_total="353" player_id="2583" player_name="Glenn Stewart" total_games="6" />
+        <player minutes_played_total="1280" player_id="20518" player_name="Jorge Taufua" total_games="16" />
+        <player minutes_played_total="1101" player_id="10913" player_name="Tom Symonds" total_games="20" />
+        <player minutes_played_total="354" player_id="20773" player_name="James Hasson" total_games="18" />
+        <player minutes_played_total="1203" player_id="20440" player_name="Josh Starling" total_games="26" />
+        <player minutes_played_total="400" player_id="20374" player_name="Jack Littlejohn" total_games="5" />
+        <player minutes_played_total="527" player_id="6340" player_name="David Williams" total_games="7" />
+        <player minutes_played_total="1792" player_id="10646" player_name="Daly Cherry-Evans" total_games="23" />
+        <player minutes_played_total="44" player_id="21174" player_name="Tyson Andrews" total_games="4" />
+        <player minutes_played_total="1887" player_id="922" player_name="Jamie Lyon" total_games="24" />
+        <player minutes_played_total="60" player_id="11319" player_name="Daniel Harrison" total_games="1" />
+        <player minutes_played_total="1592" player_id="6338" player_name="Justin Horo" total_games="23" />
+        <player minutes_played_total="227" player_id="20903" player_name="Clinton Gutherson" total_games="3" />
+        <player minutes_played_total="714" player_id="6443" player_name="Dunamis Lui" total_games="21" />
+        <player minutes_played_total="1061" player_id="1680" player_name="Brenton Lawrence" total_games="24" />
+      </players>
+    </team>
+    <team team_id="1350" team_name="Canterbury">
+      <players>
+        <player minutes_played_total="1866" player_id="2757" player_name="Mitch Brown" total_games="24" />
+        <player minutes_played_total="1207" player_id="1913" player_name="Greg Eastwood" total_games="24" />
+        <player minutes_played_total="669" player_id="11490" player_name="Moses Mbye" total_games="9" />
+        <player minutes_played_total="461" player_id="11306" player_name="Sam Kasiano" total_games="14" />
+        <player minutes_played_total="1979" player_id="10175" player_name="Trent Hodkinson" total_games="25" />
+        <player minutes_played_total="2069" player_id="10093" player_name="Tony Williams" total_games="27" />
+        <player minutes_played_total="2064" player_id="2353" player_name="Michael Ennis" total_games="27" />
+        <player minutes_played_total="525" player_id="11128" player_name="David Klemmer" total_games="23" />
+        <player minutes_played_total="1127" player_id="2909" player_name="Aiden Tolman" total_games="22" />
+        <player minutes_played_total="1997" player_id="20483" player_name="Timoteo Lafai" total_games="25" />
+        <player minutes_played_total="1782" player_id="1885" player_name="James Graham" total_games="28" />
+        <player minutes_played_total="1977" player_id="21047" player_name="Corey Thompson" total_games="25" />
+        <player minutes_played_total="560" player_id="2737" player_name="Krisnan Inu" total_games="7" />
+        <player minutes_played_total="0" player_id="20793" player_name="Harlan Alaalatoa" total_games="" />
+        <player minutes_played_total="368" player_id="2048" player_name="Reni Maitua" total_games="13" />
+        <player minutes_played_total="151" player_id="21153" player_name="Lloyd Perrett" total_games="8" />
+        <player minutes_played_total="363" player_id="2172" player_name="Frank Pritchard" total_games="10" />
+        <player minutes_played_total="1123" player_id="11495" player_name="Dale Finucane" total_games="27" />
+        <player minutes_played_total="535" player_id="6469" player_name="Tim Browne" total_games="19" />
+        <player minutes_played_total="87" player_id="20756" player_name="Damien Cook" total_games="2" />
+        <player minutes_played_total="1975" player_id="11494" player_name="Josh Jackson" total_games="28" />
+        <player minutes_played_total="315" player_id="11360" player_name="Pat O'Hanlon" total_games="12" />
+        <player minutes_played_total="648" player_id="4023" player_name="Chase Stanley" total_games="9" />
+        <player minutes_played_total="1516" player_id="11349" player_name="Josh Reynolds" total_games="19" />
+        <player minutes_played_total="1520" player_id="2944" player_name="Josh Morris" total_games="19" />
+        <player minutes_played_total="400" player_id="6460" player_name="Drury Low" total_games="5" />
+        <player minutes_played_total="1825" player_id="2661" player_name="Sam Perrett" total_games="24" />
+      </players>
+    </team>
+    <team team_id="1550" team_name="Sydney City">
+      <players>
+        <player minutes_played_total="80" player_id="21150" player_name="Brendan Elliott" total_games="1" />
+        <player minutes_played_total="1024" player_id="20376" player_name="Dylan Napa" total_games="24" />
+        <player minutes_played_total="49" player_id="21185" player_name="Jackson Hastings" total_games="2" />
+        <player minutes_played_total="1362" player_id="2400" player_name="Mitchell Aubusson" total_games="26" />
+        <player minutes_played_total="1329" player_id="6467" player_name="Jared Waerea-Hargreaves" total_games="26" />
+        <player minutes_played_total="2080" player_id="2908" player_name="Mitchell Pearce" total_games="26" />
+        <player minutes_played_total="1035" player_id="2888" player_name="Daniel Mortimer" total_games="19" />
+        <player minutes_played_total="1296" player_id="2867" player_name="Sam Moa" total_games="27" />
+        <player minutes_played_total="7" player_id="20796" player_name="Samisoni Langi" total_games="1" />
+        <player minutes_played_total="1655" player_id="10907" player_name="Boyd Cordner" total_games="22" />
+        <player minutes_played_total="1627" player_id="2012" player_name="Sonny Bill Williams" total_games="21" />
+        <player minutes_played_total="25" player_id="20680" player_name="Willis Meehan" total_games="1" />
+        <player minutes_played_total="737" player_id="20542" player_name="Issac Liu" total_games="23" />
+        <player minutes_played_total="2125" player_id="1166" player_name="Anthony Minichiello" total_games="27" />
+        <player minutes_played_total="285" player_id="2417" player_name="Remi Casty" total_games="11" />
+        <player minutes_played_total="2070" player_id="20460" player_name="Roger Tuivasa-Sheck" total_games="26" />
+        <player minutes_played_total="457" player_id="20423" player_name="Nene McDonald" total_games="7" />
+        <player minutes_played_total="114" player_id="1686" player_name="Heath L'Estrange" total_games="5" />
+        <player minutes_played_total="1529" player_id="6440" player_name="Jake Friend" total_games="23" />
+        <player minutes_played_total="2151" player_id="6335" player_name="James Maloney" total_games="27" />
+        <player minutes_played_total="229" player_id="20378" player_name="Kane Evans" total_games="9" />
+        <player minutes_played_total="2146" player_id="2935" player_name="Shaun Kenny-Dowall" total_games="27" />
+        <player minutes_played_total="1520" player_id="20457" player_name="Daniel Tupou" total_games="19" />
+        <player minutes_played_total="1664" player_id="2956" player_name="Michael Jennings" total_games="21" />
+        <player minutes_played_total="1329" player_id="6048" player_name="Aidan Guerra" total_games="23" />
+        <player minutes_played_total="1025" player_id="6300" player_name="Frank-Paul Nuuausala" total_games="26" />
+      </players>
+    </team>
+    <team team_id="3300" team_name="Wests">
+      <players>
+        <player minutes_played_total="1018" player_id="20545" player_name="Tim Simona" total_games="14" />
+        <player minutes_played_total="412" player_id="2105" player_name="Dene Halatau" total_games="7" />
+        <player minutes_played_total="320" player_id="21182" player_name="Jy Hitchcox" total_games="4" />
+        <player minutes_played_total="926" player_id="20660" player_name="Curtis Sironen" total_games="13" />
+        <player minutes_played_total="948" player_id="934" player_name="Braith Anasta" total_games="13" />
+        <player minutes_played_total="1166" player_id="10154" player_name="Aaron Woods" total_games="21" />
+        <player minutes_played_total="551" player_id="20804" player_name="Sitaleki Akauola" total_games="10" />
+        <player minutes_played_total="1663" player_id="10859" player_name="Bodene Thompson" total_games="21" />
+        <player minutes_played_total="903" player_id="10156" player_name="Martin Taupau" total_games="24" />
+        <player minutes_played_total="160" player_id="21183" player_name="Asipeli Fine" total_games="2" />
+        <player minutes_played_total="1599" player_id="2795" player_name="Chris Lawrence" total_games="21" />
+        <player minutes_played_total="800" player_id="21046" player_name="Mitchell Moses" total_games="10" />
+        <player minutes_played_total="790" player_id="1687" player_name="Keith Galloway" total_games="19" />
+        <player minutes_played_total="1420" player_id="2291" player_name="Robbie Farah" total_games="18" />
+        <player minutes_played_total="478" player_id="20547" player_name="James Tedesco" total_games="8" />
+        <player minutes_played_total="397" player_id="10940" player_name="James Gavet" total_games="12" />
+        <player minutes_played_total="1255" player_id="20531" player_name="Blake Austin" total_games="19" />
+        <player minutes_played_total="697" player_id="20767" player_name="Ava Seumanufagai" total_games="23" />
+        <player minutes_played_total="869" player_id="2942" player_name="Keith Lulia" total_games="12" />
+        <player minutes_played_total="678" player_id="20768" player_name="Sauaso Sue" total_games="18" />
+        <player minutes_played_total="511" player_id="11364" player_name="Cory Paterson" total_games="9" />
+        <player minutes_played_total="18" player_id="20928" player_name="Brenden Santi" total_games="1" />
+        <player minutes_played_total="615" player_id="21044" player_name="Kurtis Rowe" total_games="8" />
+        <player minutes_played_total="138" player_id="21003" player_name="Matthew Lodge" total_games="4" />
+        <player minutes_played_total="1480" player_id="1108" player_name="Pat Richards" total_games="20" />
+        <player minutes_played_total="1646" player_id="20892" player_name="Luke Brooks" total_games="21" />
+        <player minutes_played_total="1189" player_id="11105" player_name="David Nofoaluma" total_games="15" />
+        <player minutes_played_total="301" player_id="20890" player_name="Joel Luani" total_games="6" />
+        <player minutes_played_total="101" player_id="20765" player_name="Jack Buchanan" total_games="4" />
+        <player minutes_played_total="319" player_id="1711" player_name="Liam Fulton" total_games="6" />
+        <player minutes_played_total="1512" player_id="2721" player_name="Adam Blair" total_games="24" />
+        <player minutes_played_total="880" player_id="11347" player_name="Marika Koroibete" total_games="11" />
+      </players>
+    </team>
+    <team team_id="900" team_name="Brisbane">
+      <players>
+        <player minutes_played_total="1893" player_id="6036" player_name="Alex Glenn" total_games="25" />
+        <player minutes_played_total="1046" player_id="2054" player_name="Sam Thaiday" total_games="19" />
+        <player minutes_played_total="571" player_id="20722" player_name="Cory Oates" total_games="20" />
+        <player minutes_played_total="139" player_id="2254" player_name="David Stagg" total_games="4" />
+        <player minutes_played_total="12" player_id="20721" player_name="Francis Molo" total_games="1" />
+        <player minutes_played_total="1575" player_id="10099" player_name="Josh Hoffman" total_games="20" />
+        <player minutes_played_total="1741" player_id="6444" player_name="Andy McCullough" total_games="23" />
+        <player minutes_played_total="240" player_id="11217" player_name="Jordan Kahu" total_games="3" />
+        <player minutes_played_total="432" player_id="10909" player_name="Martin Kennedy" total_games="16" />
+        <player minutes_played_total="1416" player_id="10839" player_name="Josh McGuire" total_games="24" />
+        <player minutes_played_total="1840" player_id="6437" player_name="Daniel Vidot" total_games="23" />
+        <player minutes_played_total="196" player_id="20720" player_name="Jake Granville" total_games="8" />
+        <player minutes_played_total="2000" player_id="10838" player_name="Ben Hunt" total_games="25" />
+        <player minutes_played_total="1419" player_id="2009" player_name="Corey Parker" total_games="22" />
+        <player minutes_played_total="1275" player_id="965" player_name="Justin Hodges" total_games="17" />
+        <player minutes_played_total="1455" player_id="10837" player_name="Matt Gillett" total_games="21" />
+        <player minutes_played_total="294" player_id="20478" player_name="Jarrod Wallace" total_games="14" />
+        <player minutes_played_total="1305" player_id="20662" player_name="Lachlan Maranta" total_games="17" />
+        <player minutes_played_total="1689" player_id="11359" player_name="Jack Reed" total_games="23" />
+        <player minutes_played_total="142" player_id="2926" player_name="David Hala" total_games="7" />
+        <player minutes_played_total="1977" player_id="10944" player_name="Dale Copley" total_games="25" />
+        <player minutes_played_total="2000" player_id="10111" player_name="Ben Barba" total_games="25" />
+        <player minutes_played_total="491" player_id="2598" player_name="Todd Lowrie" total_games="18" />
+        <player minutes_played_total="842" player_id="1688" player_name="Ben Hannant" total_games="21" />
+      </players>
+    </team>
+    <team team_id="3500" team_name="Canberra">
+      <players>
+        <player minutes_played_total="296" player_id="21029" player_name="Brenko Lee" total_games="4" />
+        <player minutes_played_total="1309" player_id="10845" player_name="Shaun Fensom" total_games="18" />
+        <player minutes_played_total="1920" player_id="10523" player_name="Jarrod Croker" total_games="24" />
+        <player minutes_played_total="1453" player_id="6364" player_name="Josh McCrone" total_games="24" />
+        <player minutes_played_total="1795" player_id="20803" player_name="Anthony Milford" total_games="24" />
+        <player minutes_played_total="267" player_id="20486" player_name="Matt McIlwrick" total_games="7" />
+        <player minutes_played_total="1095" player_id="20488" player_name="Paul Vaughan" total_games="23" />
+        <player minutes_played_total="310" player_id="20896" player_name="Mitchell Cornish" total_games="8" />
+        <player minutes_played_total="815" player_id="2362" player_name="Brett White" total_games="21" />
+        <player minutes_played_total="587" player_id="20725" player_name="Shannon Boyd" total_games="21" />
+        <player minutes_played_total="953" player_id="2563" player_name="Dane Tilse" total_games="24" />
+        <player minutes_played_total="1473" player_id="10847" player_name="Jarrad Kennedy" total_games="20" />
+        <player minutes_played_total="71" player_id="10950" player_name="Jake Foster" total_games="1" />
+        <player minutes_played_total="592" player_id="20659" player_name="Edrick Lee" total_games="8" />
+        <player minutes_played_total="1332" player_id="11357" player_name="Josh Papalii" total_games="19" />
+        <player minutes_played_total="1440" player_id="6464" player_name="Reece Robinson" total_games="18" />
+        <player minutes_played_total="801" player_id="2665" player_name="David Shillington" total_games="17" />
+        <player minutes_played_total="135" player_id="11329" player_name="Kyle O'Donnell" total_games="5" />
+        <player minutes_played_total="1240" player_id="6311" player_name="Glen Buttriss" total_games="24" />
+        <player minutes_played_total="800" player_id="10936" player_name="Bill Tupou" total_games="10" />
+        <player minutes_played_total="847" player_id="20794" player_name="Matthew Allwood" total_games="11" />
+        <player minutes_played_total="240" player_id="20978" player_name="Jeremy Hawkins" total_games="3" />
+        <player minutes_played_total="146" player_id="10164" player_name="Kurt Baptiste" total_games="5" />
+        <player minutes_played_total="1557" player_id="11106" player_name="Jack Wighton" total_games="20" />
+        <player minutes_played_total="1111" player_id="11326" player_name="Joel Edwards" total_games="20" />
+        <player minutes_played_total="160" player_id="10109" player_name="Jordon Rapana" total_games="2" />
+        <player minutes_played_total="640" player_id="20487" player_name="Sami Sauiluma" total_games="8" />
+        <player minutes_played_total="1495" player_id="2702" player_name="Terry Campese" total_games="19" />
+      </players>
+    </team>
+    <team team_id="951" team_name="Newcastle">
+      <players>
+        <player minutes_played_total="763" player_id="11324" player_name="Korbin Sims" total_games="20" />
+        <player minutes_played_total="171" player_id="21074" player_name="Joseph Tapine" total_games="7" />
+        <player minutes_played_total="110" player_id="20453" player_name="Alex McKinnon" total_games="3" />
+        <player minutes_played_total="900" player_id="2593" player_name="Jeremy Smith" total_games="18" />
+        <player minutes_played_total="718" player_id="2504" player_name="David Fa'alogo" total_games="18" />
+        <player minutes_played_total="560" player_id="21050" player_name="Jake Mamo" total_games="7" />
+        <player minutes_played_total="377" player_id="10524" player_name="Travis Waddell" total_games="10" />
+        <player minutes_played_total="560" player_id="20681" player_name="Sione Mata'utia" total_games="7" />
+        <player minutes_played_total="1477" player_id="939" player_name="Kurt Gidley" total_games="23" />
+        <player minutes_played_total="1039" player_id="2688" player_name="Darius Boyd" total_games="14" />
+        <player minutes_played_total="480" player_id="2279" player_name="Michael Dobson" total_games="6" />
+        <player minutes_played_total="116" player_id="11328" player_name="Zane Tetevano" total_games="3" />
+        <player minutes_played_total="815" player_id="2705" player_name="Adam Cuthbertson" total_games="18" />
+        <player minutes_played_total="80" player_id="20737" player_name="Josh Mantellato" total_games="1" />
+        <player minutes_played_total="1844" player_id="11361" player_name="Robbie Rochow" total_games="24" />
+        <player minutes_played_total="1240" player_id="2599" player_name="Jarrod Mullen" total_games="16" />
+        <player minutes_played_total="560" player_id="20738" player_name="Chanel Mata'utia" total_games="7" />
+        <player minutes_played_total="1492" player_id="2626" player_name="Beau Scott" total_games="20" />
+        <player minutes_played_total="160" player_id="21049" player_name="Matt Minto" total_games="2" />
+        <player minutes_played_total="1029" player_id="1906" player_name="Chris Houston" total_games="18" />
+        <player minutes_played_total="99" player_id="953" player_name="Timana Tahu" total_games="2" />
+        <player minutes_played_total="1657" player_id="10910" player_name="Joseph BJ Leilua" total_games="22" />
+        <player minutes_played_total="14" player_id="20742" player_name="Paterika Vaivai" total_games="1" />
+        <player minutes_played_total="807" player_id="20877" player_name="Adam Clydsdale" total_games="21" />
+        <player minutes_played_total="1200" player_id="2983" player_name="Akuila Uate" total_games="15" />
+        <player minutes_played_total="863" player_id="1048" player_name="Willie Mason" total_games="21" />
+        <player minutes_played_total="68" player_id="947" player_name="Clint Newton" total_games="2" />
+        <player minutes_played_total="1280" player_id="1899" player_name="James McManus" total_games="16" />
+        <player minutes_played_total="748" player_id="2276" player_name="Kade Snowden" total_games="17" />
+        <player minutes_played_total="22" player_id="20739" player_name="Tyler Randell" total_games="1" />
+        <player minutes_played_total="1920" player_id="11216" player_name="Dane Gagai" total_games="24" />
+        <player minutes_played_total="1781" player_id="11325" player_name="Tyrone Roberts" total_games="24" />
+      </players>
+    </team>
+    <team team_id="1650" team_name="Penrith">
+      <players>
+        <player minutes_played_total="786" player_id="2061" player_name="David Simmons" total_games="11" />
+        <player minutes_played_total="1734" player_id="10117" player_name="Jamal Idris" total_games="22" />
+        <player minutes_played_total="1197" player_id="10939" player_name="Elijah Taylor" total_games="17" />
+        <player minutes_played_total="800" player_id="20679" player_name="Dallin Watene-Zelezniak" total_games="10" />
+        <player minutes_played_total="640" player_id="11327" player_name="Kevin Naiqama" total_games="8" />
+        <player minutes_played_total="1001" player_id="2662" player_name="Nigel Plum" total_games="23" />
+        <player minutes_played_total="1127" player_id="20699" player_name="Adam Docker" total_games="21" />
+        <player minutes_played_total="1609" player_id="11333" player_name="James Segeyaro" total_games="24" />
+        <player minutes_played_total="1698" player_id="10561" player_name="Josh Mansour" total_games="22" />
+        <player minutes_played_total="2080" player_id="20832" player_name="Matt Moylan" total_games="26" />
+        <player minutes_played_total="154" player_id="10954" player_name="Ben Murdoch-Masila" total_games="6" />
+        <player minutes_played_total="1044" player_id="2625" player_name="Peter Wallace" total_games="14" />
+        <player minutes_played_total="461" player_id="20561" player_name="Matt Robinson" total_games="9" />
+        <player minutes_played_total="1953" player_id="2687" player_name="Jamie Soward" total_games="25" />
+        <player minutes_played_total="318" player_id="21160" player_name="Bryce Cartwright" total_games="7" />
+        <player minutes_played_total="240" player_id="2928" player_name="Isaac John" total_games="3" />
+        <player minutes_played_total="640" player_id="20741" player_name="William Smith" total_games="8" />
+        <player minutes_played_total="47" player_id="21154" player_name="Kierran Moseley" total_games="1" />
+        <player minutes_played_total="98" player_id="20522" player_name="Sam Anderson" total_games="3" />
+        <player minutes_played_total="816" player_id="2008" player_name="Brent Kite" total_games="19" />
+        <player minutes_played_total="1270" player_id="5053" player_name="Lewis Brown" total_games="22" />
+        <player minutes_played_total="2003" player_id="6477" player_name="Dean Whare" total_games="26" />
+        <player minutes_played_total="1050" player_id="2963" player_name="Sika Manu" total_games="23" />
+        <player minutes_played_total="658" player_id="21048" player_name="Isaah Yeo" total_games="10" />
+        <player minutes_played_total="351" player_id="6341" player_name="Tim Grant" total_games="11" />
+        <player minutes_played_total="981" player_id="10097" player_name="Sam McKendry" total_games="24" />
+        <player minutes_played_total="784" player_id="11463" player_name="Tyrone Peachey" total_games="14" />
+        <player minutes_played_total="995" player_id="2762" player_name="Jeremy Latimore" total_games="24" />
+        <player minutes_played_total="505" player_id="2631" player_name="Kevin Kingston" total_games="9" />
+      </players>
+    </team>
+    <team team_id="3750" team_name="Gold Coast">
+      <players>
+        <player minutes_played_total="1169" player_id="20512" player_name="Anthony Don" total_games="15" />
+        <player minutes_played_total="985" player_id="20441" player_name="Aidan Sezer" total_games="13" />
+        <player minutes_played_total="1201" player_id="6239" player_name="David Taylor" total_games="19" />
+        <player minutes_played_total="720" player_id="11331" player_name="Kalifa FaiFai Loa" total_games="9" />
+        <player minutes_played_total="133" player_id="10157" player_name="Ryan James" total_games="4" />
+        <player minutes_played_total="823" player_id="955" player_name="Luke Bailey" total_games="18" />
+        <player minutes_played_total="983" player_id="2157" player_name="Nate Myles" total_games="18" />
+        <player minutes_played_total="744" player_id="916" player_name="Ashley Harrison" total_games="10" />
+        <player minutes_played_total="1428" player_id="10123" player_name="David Mead" total_games="18" />
+        <player minutes_played_total="251" player_id="11317" player_name="Matt Srama" total_games="6" />
+        <player minutes_played_total="961" player_id="11119" player_name="Paul Carter" total_games="21" />
+        <player minutes_played_total="1299" player_id="10001" player_name="Beau Falloon" total_games="23" />
+        <player minutes_played_total="931" player_id="2985" player_name="Matthew White" total_games="22" />
+        <player minutes_played_total="353" player_id="11307" player_name="Mark Ioane" total_games="11" />
+        <player minutes_played_total="1622" player_id="10914" player_name="Brad Takairangi" total_games="21" />
+        <player minutes_played_total="1287" player_id="1187" player_name="Greg Bird" total_games="17" />
+        <player minutes_played_total="167" player_id="11322" player_name="Beau Henry" total_games="3" />
+        <player minutes_played_total="1440" player_id="10344" player_name="Kevin Gordon" total_games="18" />
+        <player minutes_played_total="933" player_id="20539" player_name="James Roberts" total_games="12" />
+        <player minutes_played_total="85" player_id="2269" player_name="Steven Michaels" total_games="2" />
+        <player minutes_played_total="825" player_id="10153" player_name="Albert Kelly" total_games="12" />
+        <player minutes_played_total="59" player_id="20999" player_name="Caleb Binge" total_games="2" />
+        <player minutes_played_total="224" player_id="10857" player_name="Ben Ridge" total_games="5" />
+        <player minutes_played_total="349" player_id="20513" player_name="Cody Nelson" total_games="8" />
+        <player minutes_played_total="1261" player_id="1211" player_name="Mark Minichiello" total_games="23" />
+        <player minutes_played_total="589" player_id="2605" player_name="Brad Tighe" total_games="9" />
+        <player minutes_played_total="907" player_id="5038" player_name="Maurice Blair" total_games="14" />
+        <player minutes_played_total="1162" player_id="2695" player_name="William Zillman" total_games="16" />
+        <player minutes_played_total="923" player_id="2628" player_name="Luke Douglas" total_games="21" />
+        <player minutes_played_total="243" player_id="21001" player_name="Tom Kingston" total_games="6" />
+      </players>
+    </team>
+    <team team_id="2200" team_name="St George Illawarra">
+      <players>
+        <player minutes_played_total="1485" player_id="11370" player_name="Mitch Rein" total_games="22" />
+        <player minutes_played_total="1434" player_id="10522" player_name="Josh Dugan" total_games="18" />
+        <player minutes_played_total="511" player_id="2295" player_name="Bronson Harrison" total_games="15" />
+        <player minutes_played_total="1257" player_id="2078" player_name="Ben Creagh" total_games="22" />
+        <player minutes_played_total="1920" player_id="10807" player_name="Gareth Widdop" total_games="24" />
+        <player minutes_played_total="346" player_id="20541" player_name="Jack Stockwell" total_games="12" />
+        <player minutes_played_total="1024" player_id="2181" player_name="Mike Cooper" total_games="23" />
+        <player minutes_played_total="255" player_id="20548" player_name="Nathan Green" total_games="4" />
+        <player minutes_played_total="344" player_id="2940" player_name="Dan Hunt" total_games="11" />
+        <player minutes_played_total="320" player_id="20761" player_name="Charley Runciman" total_games="4" />
+        <player minutes_played_total="1177" player_id="2171" player_name="Benji Marshall" total_games="15" />
+        <player minutes_played_total="1200" player_id="20760" player_name="Adam Quinlan" total_games="15" />
+        <player minutes_played_total="720" player_id="10150" player_name="Peter Mata'utia" total_games="9" />
+        <player minutes_played_total="634" player_id="11461" player_name="Tyson Frizell" total_games="15" />
+        <player minutes_played_total="1194" player_id="10901" player_name="Trent Merrin" total_games="21" />
+        <player minutes_played_total="1503" player_id="5015" player_name="Leeson Ah Mau" total_games="23" />
+        <player minutes_played_total="1760" player_id="2945" player_name="Jason Nightingale" total_games="22" />
+        <player minutes_played_total="1598" player_id="2904" player_name="Joel Thompson" total_games="23" />
+        <player minutes_played_total="235" player_id="10902" player_name="Kyle Stanley" total_games="9" />
+        <player minutes_played_total="191" player_id="21161" player_name="Shane Pumipi" total_games="8" />
+        <player minutes_played_total="438" player_id="11235" player_name="Dylan Farrell" total_games="6" />
+        <player minutes_played_total="320" player_id="11356" player_name="Sam Williams" total_games="4" />
+        <player minutes_played_total="1440" player_id="2753" player_name="Brett Morris" total_games="18" />
+        <player minutes_played_total="523" player_id="2914" player_name="Will Matthews" total_games="15" />
+        <player minutes_played_total="1920" player_id="6434" player_name="Gerard Beale" total_games="24" />
+        <player minutes_played_total="57" player_id="20887" player_name="Craig Garvey" total_games="1" />
+        <player minutes_played_total="859" player_id="20540" player_name="Jack De Belin" total_games="21" />
+        <player minutes_played_total="295" player_id="2084" player_name="Michael Witt" total_games="4" />
+      </players>
+    </team>
+    <team team_id="1450" team_name="Parramatta">
+      <players>
+        <player minutes_played_total="729" player_id="20529" player_name="Peni Terepo" total_games="21" />
+        <player minutes_played_total="1520" player_id="10152" player_name="William Hopoate" total_games="19" />
+        <player minutes_played_total="1673" player_id="2736" player_name="Jarryd Hayne" total_games="21" />
+        <player minutes_played_total="876" player_id="21012" player_name="Manu Ma'u" total_games="13" />
+        <player minutes_played_total="1040" player_id="20526" player_name="Ryan Morgan" total_games="13" />
+        <player minutes_played_total="716" player_id="21011" player_name="Pauli Pauli" total_games="17" />
+        <player minutes_played_total="1158" player_id="20743" player_name="Ken Edwards" total_games="18" />
+        <player minutes_played_total="515" player_id="21175" player_name="Tepai Moeroa" total_games="9" />
+        <player minutes_played_total="1680" player_id="2907" player_name="Chris Sandow" total_games="21" />
+        <player minutes_played_total="935" player_id="2910" player_name="Tim Mannah" total_games="22" />
+        <player minutes_played_total="418" player_id="2611" player_name="Fuifui Moimoi" total_games="12" />
+        <player minutes_played_total="1280" player_id="1113" player_name="Willie Tonga" total_games="16" />
+        <player minutes_played_total="12" player_id="20875" player_name="Kaysa Pritchard" total_games="1" />
+        <player minutes_played_total="960" player_id="20528" player_name="Ken Sio" total_games="12" />
+        <player minutes_played_total="429" player_id="10862" player_name="Darcy Lussick" total_games="14" />
+        <player minutes_played_total="1472" player_id="2911" player_name="Joseph Paulo" total_games="24" />
+        <player minutes_played_total="94" player_id="2497" player_name="Lee Mossop" total_games="3" />
+        <player minutes_played_total="80" player_id="20459" player_name="Justin Hunt" total_games="1" />
+        <player minutes_played_total="302" player_id="11350" player_name="Mitchell Allgood" total_games="10" />
+        <player minutes_played_total="1920" player_id="20745" player_name="Semi Radradra" total_games="24" />
+        <player minutes_played_total="160" player_id="20940" player_name="Bureta Faraimo" total_games="2" />
+        <player minutes_played_total="1920" player_id="10840" player_name="Corey Norman" total_games="24" />
+        <player minutes_played_total="8" player_id="10145" player_name="Taniela Lasalo" total_games="1" />
+        <player minutes_played_total="711" player_id="21010" player_name="Junior Paulo" total_games="16" />
+        <player minutes_played_total="455" player_id="10867" player_name="Luke Kelly" total_games="6" />
+        <player minutes_played_total="989" player_id="2787" player_name="David Gower" total_games="22" />
+        <player minutes_played_total="344" player_id="2615" player_name="Ben Smith" total_games="10" />
+        <player minutes_played_total="800" player_id="20747" player_name="Vai Toutai" total_games="10" />
+        <player minutes_played_total="764" player_id="11371" player_name="Nathan Peats" total_games="10" />
+        <player minutes_played_total="72" player_id="20799" player_name="Kelepi Tanginoa" total_games="4" />
+      </players>
+    </team>
+    <team team_id="1600" team_name="Cronulla">
+      <players>
+        <player minutes_played_total="260" player_id="10163" player_name="Junior Roqica" total_games="6" />
+        <player minutes_played_total="833" player_id="21034" player_name="Fa'amanu Brown" total_games="11" />
+        <player minutes_played_total="617" player_id="11466" player_name="Michael Lichaa" total_games="15" />
+        <player minutes_played_total="474" player_id="1190" player_name="Luke Lewis" total_games="8" />
+        <player minutes_played_total="489" player_id="11126" player_name="Jacob Gagan" total_games="7" />
+        <player minutes_played_total="658" player_id="2550" player_name="Todd Carney" total_games="9" />
+        <player minutes_played_total="1148" player_id="10904" player_name="Tinirau Arona" total_games="21" />
+        <player minutes_played_total="1897" player_id="2746" player_name="Michael Gordon" total_games="24" />
+        <player minutes_played_total="908" player_id="11493" player_name="Tupou Sopoaga" total_games="15" />
+        <player minutes_played_total="283" player_id="2915" player_name="Tim Robinson" total_games="8" />
+        <player minutes_played_total="1229" player_id="6307" player_name="Blake Ayshford" total_games="16" />
+        <player minutes_played_total="390" player_id="20544" player_name="Pat Politoni" total_games="10" />
+        <player minutes_played_total="1254" player_id="2707" player_name="Isaac De Gois" total_games="21" />
+        <player minutes_played_total="623" player_id="2594" player_name="Sam Tagataese" total_games="18" />
+        <player minutes_played_total="1487" player_id="10104" player_name="Wade Graham" total_games="19" />
+        <player minutes_played_total="1812" player_id="11313" player_name="Ricky Leutele" total_games="23" />
+        <player minutes_played_total="320" player_id="10650" player_name="Nathan Stapleton" total_games="4" />
+        <player minutes_played_total="580" player_id="2946" player_name="Matt Prior" total_games="10" />
+        <player minutes_played_total="935" player_id="2293" player_name="Chris Heighington" total_games="19" />
+        <player minutes_played_total="643" player_id="2629" player_name="Paul Gallen" total_games="9" />
+        <player minutes_played_total="160" player_id="10899" player_name="Nathan Gardner" total_games="2" />
+        <player minutes_played_total="21" player_id="21184" player_name="Patrice Siolo" total_games="1" />
+        <player minutes_played_total="640" player_id="2546" player_name="Daniel Holdsworth" total_games="8" />
+        <player minutes_played_total="1434" player_id="2711" player_name="Jeff Robson" total_games="18" />
+        <player minutes_played_total="522" player_id="948" player_name="John Morris" total_games="11" />
+        <player minutes_played_total="586" player_id="2296" player_name="Bryce Gibbs" total_games="14" />
+        <player minutes_played_total="1360" player_id="10521" player_name="Jonathan Wright" total_games="17" />
+        <player minutes_played_total="480" player_id="21030" player_name="Valentine Holmes" total_games="6" />
+        <player minutes_played_total="240" player_id="6191" player_name="Beau Ryan" total_games="3" />
+        <player minutes_played_total="480" player_id="10855" player_name="Siosaia Vave" total_games="15" />
+        <player minutes_played_total="104" player_id="11457" player_name="Penani Manumalealii" total_games="2" />
+        <player minutes_played_total="1586" player_id="20353" player_name="Sosaia Feki" total_games="20" />
+        <player minutes_played_total="535" player_id="2081" player_name="Anthony Tupou" total_games="9" />
+        <player minutes_played_total="653" player_id="10669" player_name="Andrew Fifita" total_games="12" />
+        <player minutes_played_total="66" player_id="10670" player_name="David Fifita" total_games="3" />
+        <player minutes_played_total="103" player_id="11462" player_name="Sione Masima" total_games="3" />
+        <player minutes_played_total="78" player_id="21032" player_name="Scott Sorenson" total_games="3" />
+      </players>
+    </team>
+    <team team_id="3700" team_name="South Sydney">
+      <players>
+        <player minutes_played_total="783" player_id="10619" player_name="Jason Clark" total_games="22" />
+        <player minutes_played_total="1007" player_id="6037" player_name="Bryson Goodwin" total_games="13" />
+        <player minutes_played_total="1553" player_id="2648" player_name="John Sutton" total_games="22" />
+        <player minutes_played_total="1280" player_id="902" player_name="Lote Tuqiri" total_games="16" />
+        <player minutes_played_total="1440" player_id="21014" player_name="Alex Johnston" total_games="18" />
+        <player minutes_played_total="960" player_id="2060" player_name="Nathan Merritt" total_games="12" />
+        <player minutes_played_total="1078" player_id="6132" player_name="Chris McQueen" total_games="20" />
+        <player minutes_played_total="269" player_id="21069" player_name="Cameron McInnes" total_games="7" />
+        <player minutes_played_total="568" player_id="20753" player_name="Apisai Koroisau" total_games="14" />
+        <player minutes_played_total="1804" player_id="2266" player_name="Greg Inglis" total_games="24" />
+        <player minutes_played_total="554" player_id="2424" player_name="Luke Burgess" total_games="18" />
+        <player minutes_played_total="1646" player_id="11470" player_name="Kirisome Auva'a" total_games="21" />
+        <player minutes_played_total="160" player_id="2638" player_name="Beau Champion" total_games="2" />
+        <player minutes_played_total="967" player_id="6252" player_name="David Tyrrell" total_games="27" />
+        <player minutes_played_total="480" player_id="1907" player_name="Joel Reddy" total_games="6" />
+        <player minutes_played_total="709" player_id="3251" player_name="Thomas Burgess" total_games="17" />
+        <player minutes_played_total="1177" player_id="3252" player_name="George Burgess" total_games="23" />
+        <player minutes_played_total="890" player_id="20752" player_name="Luke Keary" total_games="12" />
+        <player minutes_played_total="681" player_id="6108" player_name="Ben  Lowe" total_games="17" />
+        <player minutes_played_total="2042" player_id="20538" player_name="Adam Reynolds" total_games="26" />
+        <player minutes_played_total="21" player_id="21015" player_name="Nathaniel Neale" total_games="1" />
+        <player minutes_played_total="1181" player_id="6308" player_name="Ben Te'o" total_games="17" />
+        <player minutes_played_total="1904" player_id="2183" player_name="Sam Burgess" total_games="26" />
+        <player minutes_played_total="1920" player_id="20878" player_name="Dylan Walker" total_games="24" />
+        <player minutes_played_total="1379" player_id="20754" player_name="Kyle Turner" total_games="24" />
+        <player minutes_played_total="320" player_id="4762" player_name="Joe Picker" total_games="11" />
+        <player minutes_played_total="1307" player_id="6325" player_name="Issac Luke" total_games="18" />
+      </players>
+    </team>
+    <team team_id="1400" team_name="Melbourne">
+      <players>
+        <player minutes_played_total="1745" player_id="2005" player_name="Billy Slater" total_games="22" />
+        <player minutes_played_total="1340" player_id="10808" player_name="Jesse Bromwich" total_games="24" />
+        <player minutes_played_total="991" player_id="2623" player_name="Bryan Norrie" total_games="25" />
+        <player minutes_played_total="1760" player_id="5070" player_name="Will Chambers" total_games="22" />
+        <player minutes_played_total="640" player_id="20734" player_name="Kurt Mann" total_games="8" />
+        <player minutes_played_total="219" player_id="2581" player_name="George Rose" total_games="9" />
+        <player minutes_played_total="1120" player_id="11472" player_name="Young Tonumaipea" total_games="14" />
+        <player minutes_played_total="1593" player_id="11471" player_name="Mahe Fonua" total_games="20" />
+        <player minutes_played_total="1807" player_id="1867" player_name="Cameron Smith" total_games="23" />
+        <player minutes_played_total="566" player_id="11480" player_name="Kenneath Bromwich" total_games="18" />
+        <player minutes_played_total="1510" player_id="2361" player_name="Cooper Cronk" total_games="19" />
+        <player minutes_played_total="1852" player_id="1709" player_name="Ryan Hoffman" total_games="24" />
+        <player minutes_played_total="1344" player_id="2704" player_name="Ryan Hinchcliffe" total_games="25" />
+        <player minutes_played_total="42" player_id="2890" player_name="Joel Romelo" total_games="2" />
+        <player minutes_played_total="274" player_id="10869" player_name="Justin O'Neill" total_games="4" />
+        <player minutes_played_total="1342" player_id="2698" player_name="Ben Roberts" total_games="18" />
+        <player minutes_played_total="1920" player_id="6263" player_name="Sisa Waqa" total_games="24" />
+        <player minutes_played_total="150" player_id="20452" player_name="Mitchell Garbutt" total_games="6" />
+        <player minutes_played_total="106" player_id="6271" player_name="Dayne Weston" total_games="6" />
+        <player minutes_played_total="880" player_id="20519" player_name="Ben Hampton" total_games="11" />
+        <player minutes_played_total="568" player_id="20520" player_name="Jordan McLean" total_games="16" />
+        <player minutes_played_total="80" player_id="21159" player_name="Cameron Munster" total_games="1" />
+        <player minutes_played_total="326" player_id="20733" player_name="Tim Glasby" total_games="13" />
+        <player minutes_played_total="234" player_id="2282" player_name="Junior Moors" total_games="10" />
+        <player minutes_played_total="1279" player_id="11478" player_name="Tohu Harris" total_games="25" />
+        <player minutes_played_total="1492" player_id="2912" player_name="Kevin Proctor" total_games="25" />
+      </players>
+    </team>
+    <team team_id="2150" team_name="North Queensland">
+      <players>
+        <player minutes_played_total="172" player_id="21009" player_name="John Asiata" total_games="6" />
+        <player minutes_played_total="1716" player_id="11381" player_name="Jason Taumalolo" total_games="25" />
+        <player minutes_played_total="627" player_id="20379" player_name="Ethan Lowe" total_games="10" />
+        <player minutes_played_total="960" player_id="1047" player_name="Brent Tate" total_games="12" />
+        <player minutes_played_total="16" player_id="11444" player_name="Zachary Santo" total_games="1" />
+        <player minutes_played_total="1241" player_id="6089" player_name="Rory Kostjasyn" total_games="25" />
+        <player minutes_played_total="2068" player_id="10946" player_name="Michael Morgan" total_games="26" />
+        <player minutes_played_total="1193" player_id="2570" player_name="Gavin Cooper" total_games="17" />
+        <player minutes_played_total="1360" player_id="10151" player_name="Matthew Wright" total_games="17" />
+        <player minutes_played_total="880" player_id="11103" player_name="Tautau Moga" total_games="11" />
+        <player minutes_played_total="1015" player_id="6244" player_name="Ray  Thompson" total_games="22" />
+        <player minutes_played_total="954" player_id="10933" player_name="James Tamou" total_games="21" />
+        <player minutes_played_total="68" player_id="11210" player_name="Cameron King" total_games="2" />
+        <player minutes_played_total="13" player_id="21173" player_name="Ben Spina" total_games="1" />
+        <player minutes_played_total="23" player_id="6245" player_name="Ricky Thorby" total_games="1" />
+        <player minutes_played_total="121" player_id="3059" player_name="Sam Hoare" total_games="6" />
+        <player minutes_played_total="811" player_id="1075" player_name="Glenn Hall" total_games="24" />
+        <player minutes_played_total="123" player_id="2895" player_name="Anthony Mitchell" total_games="4" />
+        <player minutes_played_total="923" player_id="5041" player_name="Scott Bolton" total_games="26" />
+        <player minutes_played_total="1076" player_id="1693" player_name="Ashton Sims" total_games="25" />
+        <player minutes_played_total="204" player_id="6183" player_name="Joel Riethmuller" total_games="5" />
+        <player minutes_played_total="1845" player_id="6446" player_name="Robert Lui" total_games="25" />
+        <player minutes_played_total="1119" player_id="2541" player_name="Matthew Scott" total_games="20" />
+        <player minutes_played_total="560" player_id="20728" player_name="Curtis Rona" total_games="7" />
+        <player minutes_played_total="1429" player_id="11330" player_name="Tariq Sims" total_games="21" />
+        <player minutes_played_total="2000" player_id="10911" player_name="Kane Linnett" total_games="25" />
+        <player minutes_played_total="1899" player_id="1087" player_name="Johnathan Thurston" total_games="24" />
+        <player minutes_played_total="800" player_id="11441" player_name="Kyle Feldt" total_games="10" />
+        <player minutes_played_total="1824" player_id="10198" player_name="Antonio Winterstein" total_games="23" />
+      </players>
+    </team>
+    <team team_id="1300" team_name="New Zealand Warriors">
+      <players>
+        <player minutes_played_total="821" player_id="20876" player_name="Suaia Matagi" total_games="24" />
+        <player minutes_played_total="400" player_id="20456" player_name="Glen Fisiiahi" total_games="5" />
+        <player minutes_played_total="56" player_id="20387" player_name="John Palavi" total_games="2" />
+        <player minutes_played_total="1114" player_id="1690" player_name="Jacob Lillyman" total_games="24" />
+        <player minutes_played_total="102" player_id="20798" player_name="Charlie Gubb" total_games="5" />
+        <player minutes_played_total="380" player_id="10941" player_name="Sione Lousi" total_games="10" />
+        <player minutes_played_total="1675" player_id="10917" player_name="Shaun Johnson" total_games="21" />
+        <player minutes_played_total="751" player_id="2251" player_name="Feleti Mateo" total_games="19" />
+        <player minutes_played_total="51" player_id="10518" player_name="Kevin Locke" total_games="2" />
+        <player minutes_played_total="1806" player_id="2257" player_name="Manu Vatuvei" total_games="23" />
+        <player minutes_played_total="997" player_id="2952" player_name="Dane Nielsen" total_games="13" />
+        <player minutes_played_total="786" player_id="2014" player_name="Thomas Leuluai" total_games="12" />
+        <player minutes_played_total="1520" player_id="11382" player_name="Chad Townsend" total_games="19" />
+        <player minutes_played_total="1341" player_id="20354" player_name="Konrad Hurrell" total_games="19" />
+        <player minutes_played_total="1893" player_id="2355" player_name="Simon Mannering" total_games="24" />
+        <player minutes_played_total="1899" player_id="2501" player_name="Sam Tomkins" total_games="24" />
+        <player minutes_played_total="1280" player_id="20802" player_name="Ngani Laumape" total_games="16" />
+        <player minutes_played_total="171" player_id="2022" player_name="Jerome Ropati" total_games="3" />
+        <player minutes_played_total="263" player_id="11318" player_name="Dominique Peyroux" total_games="4" />
+        <player minutes_played_total="870" player_id="21051" player_name="David Fusitua" total_games="12" />
+        <player minutes_played_total="77" player_id="21042" player_name="Tuimoala Lolohea" total_games="3" />
+        <player minutes_played_total="58" player_id="20356" player_name="Carlos Tuimavave" total_games="1" />
+        <player minutes_played_total="1696" player_id="2590" player_name="Nathan Friend" total_games="24" />
+        <player minutes_played_total="817" player_id="20363" player_name="Sebastine Ikahihifo" total_games="18" />
+        <player minutes_played_total="130" player_id="20365" player_name="Siliva Havili" total_games="6" />
+        <player minutes_played_total="1109" player_id="20362" player_name="Ben Henry" total_games="16" />
+        <player minutes_played_total="701" player_id="2669" player_name="Sam Rapira" total_games="18" />
+        <player minutes_played_total="26" player_id="20367" player_name="Agnatius Paasi" total_games="1" />
+        <player minutes_played_total="62" player_id="20364" player_name="Sam Lousi" total_games="2" />
+        <player minutes_played_total="1076" player_id="10098" player_name="Jayson Bukuya" total_games="18" />
+        <player minutes_played_total="1032" player_id="10101" player_name="Ben Matulino" total_games="20" />
+      </players>
+    </team>
+  </teams>
+</seasonrankings>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2013 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a04.nexus.opta.net
+     production time:    20131205T114914,699Z
+     production module:  Opta::Feed::XML::RugbyUnion::RU8
+-->
+<RugbyCommentary>
+  <GameDetail away_score="3" away_team_id="550" away_team_name="England" game_id="913052" home_score="30" home_team_id="500" home_team_name="Wales" />
+  <Message type="Leader Table">
+    <Category name="Good Tackles">
+      <Players name="Geoff Parling" number="17" player_id="3901" team_id="550" team_name="England" />
+      <Players name="Tom Wood" number="17" player_id="9438" team_id="550" team_name="England" />
+      <Players name="Chris Robshaw" number="17" player_id="7656" team_id="550" team_name="England" />
+      <Players name="Joe Launchbury" number="15" player_id="18571" team_id="550" team_name="England" />
+    </Category>
+    <Category name="Defenders Beaten">
+      <Players name="Toby Faletau" number="4" player_id="11029" team_id="500" team_name="Wales" />
+      <Players name="Leigh Halfpenny" number="3" player_id="16273" team_id="500" team_name="Wales" />
+      <Players name="Mike Phillips" number="3" player_id="2652" team_id="500" team_name="Wales" />
+      <Players name="Alex Cuthbert" number="3" player_id="19411" team_id="500" team_name="Wales" />
+    </Category>
+  </Message>
+  <Message type="Leader Table">
+    <Category name="Good Tackles">
+      <Players name="Geoff Parling" number="17" player_id="3901" team_id="550" team_name="England" />
+      <Players name="Tom Wood" number="17" player_id="9438" team_id="550" team_name="England" />
+      <Players name="Chris Robshaw" number="17" player_id="7656" team_id="550" team_name="England" />
+      <Players name="Joe Launchbury" number="15" player_id="18571" team_id="550" team_name="England" />
+    </Category>
+    <Category name="Defenders Beaten">
+      <Players name="Toby Faletau" number="4" player_id="11029" team_id="500" team_name="Wales" />
+      <Players name="Leigh Halfpenny" number="3" player_id="16273" team_id="500" team_name="Wales" />
+      <Players name="Mike Phillips" number="3" player_id="2652" team_id="500" team_name="Wales" />
+      <Players name="Alex Cuthbert" number="3" player_id="19411" team_id="500" team_name="Wales" />
+    </Category>
+  </Message>
+  <Message id="768" comment="It's all over! The referee has blown his whistle to end the game." player_id="0" team_id="550" time="80" type="End Of Second Half" />
+  <Message id="753" comment="A gap opened in the defence and Geoff Parling took full advantage." player_id="3901" team_id="550" time="80" type="Clean Break" />
+  <Message id="733" comment="The defensive line has been broken as Mike Brown goes through the gap." player_id="7655" team_id="550" time="78" type="Clean Break" />
+  <Message id="800" comment="Wales have won 120 rucks so far this game." player_id="0" team_id="500" time="77" type="Team Rucks Won" />
+  <Message id="760" comment="Lloyd Williams comes on for Wales." player_id="14749" team_id="500" time="75" type="Substitution on" />
+  <Message id="759" comment="Mike Phillips leaves the field." player_id="2652" team_id="500" time="75" type="Substitution off" />
+  <Message id="752" comment="Aaron Shingler comes on." player_id="10292" team_id="500" time="75" type="Substitution on" />
+  <Message id="751" comment="Sam Warburton comes off." player_id="10238" team_id="500" time="75" type="Substitution off" />
+  <Message id="750" comment="James Hook comes on." player_id="6014" team_id="500" time="75" type="Substitution on" />
+  <Message id="749" comment="Dan Biggar comes off." player_id="9757" team_id="500" time="75" type="Substitution off" />
+  <Message id="748" comment="Scott Williams comes on." player_id="15007" team_id="500" time="75" type="Substitution on" />
+  <Message id="747" comment="Jamie Roberts comes off." player_id="7981" team_id="500" time="75" type="Substitution off" />
+  <Message id="736" comment="Wales decide to make a substitution, with Scott Andrews getting some game time." player_id="10157" team_id="500" time="73" type="Substitution on" />
+  <Message id="735" comment="Wales decide to make a substitution, with Adam Jones being replaced." player_id="1967" team_id="500" time="73" type="Substitution off" />
+  <Message id="687" comment="England make a substitution with Dave Wilson coming on." player_id="3618" team_id="550" time="72" type="Substitution on" />
+  <Message id="686" comment="England make a substitution with Dan Cole coming off." player_id="9054" team_id="550" time="72" type="Substitution off" />
+  <Message id="670" comment="What a run here by Toby Flood as he gets over the gainline!." player_id="6035" team_id="550" time="71" type="Clean Break" />
+  <Message id="656" comment="England have won 60 rucks so far this game." player_id="0" team_id="550" time="71" type="Team Rucks Won" />
+  <Message id="706" comment="The touch judges raise their flags as Dan Biggar kicks the penalty goal." player_id="9757" team_id="500" time="70" type="Penalty Goal - Kicked" />
+  <Message id="704" comment="Wales sub Andrew Coombs comes onto the field." player_id="7663" team_id="500" time="70" type="Substitution on" />
+  <Message id="703" comment="Ian Evans departs for Wales." player_id="6113" team_id="500" time="70" type="Substitution off" />
+  <Message id="682" comment="Sam Warburton has made 10 good tackles so far this game." player_id="10238" team_id="500" time="67" type="Player Good Tackles" />
+  <Message id="616" comment="James Haskell comes on for England." player_id="3607" team_id="550" time="67" type="Substitution on" />
+  <Message id="615" comment="Tom Wood leaves the field." player_id="9438" team_id="550" time="67" type="Substitution off" />
+  <Message id="609" comment="Toby Flood comes on." player_id="6035" team_id="550" time="67" type="Substitution on" />
+  <Message id="608" comment="Owen Farrell comes off." player_id="9938" team_id="550" time="67" type="Substitution off" />
+  <Message id="673" comment="Dan Biggar has kicked a conversion." player_id="9757" team_id="500" time="66" type="Conversion - Kicked" />
+  <Message id="671" comment="That's a great try assist by Justin Tipuric." player_id="13119" team_id="500" time="65" type="Try Assist" />
+  <Message id="670" comment="A series of passes by Wales results in a try for Alex Cuthbert." player_id="19411" team_id="500" time="65" type="Try - Passing Move" />
+  <Message id="665" comment="Justin Tipuric makes the break as the defence re-enacts the parting of the red sea." player_id="13119" team_id="500" time="65" type="Clean Break" />
+  <Message id="658" comment="Fabulous play by Wales has led to Sam Warburton being able to wriggle through a gap." player_id="10238" team_id="500" time="65" type="Clean Break" />
+  <Message id="646" comment="Dan Biggar has kicked a drop goal." player_id="9757" team_id="500" time="64" type="Drop Goal - Kicked" />
+  <Message id="638" comment="Wales have won 100 rucks so far this game." player_id="0" team_id="500" time="64" type="Team Rucks Won" />
+  <Message id="603" comment="Billy Twelvetrees comes on." player_id="14747" team_id="550" time="64" type="Substitution on" />
+  <Message id="602" comment="Alex Goode comes off." player_id="9486" team_id="550" time="64" type="Substitution off" />
+  <Message id="586" comment="Danny Care comes on." player_id="7635" team_id="550" time="64" type="Substitution on" />
+  <Message id="585" comment="Ben Youngs comes off." player_id="9144" team_id="550" time="64" type="Substitution off" />
+  <Message id="579" comment="Owen Farrell has made 10 good tackles so far this game." player_id="9938" team_id="550" time="64" type="Player Good Tackles" />
+  <Message id="597" comment="Wales decide to make a substitution, with Paul James getting some game time." player_id="2659" team_id="500" time="61" type="Substitution on" />
+  <Message id="596" comment="Wales decide to make a substitution, with Gethin Jenkins being replaced." player_id="3293" team_id="500" time="61" type="Substitution off" />
+  <Message id="590" comment="Ian Evans has made 10 good tackles so far this game." player_id="6113" team_id="500" time="61" type="Player Good Tackles" />
+  <Message id="588" comment="Mike Phillips has made 10 good tackles so far this game." player_id="2652" team_id="500" time="61" type="Player Good Tackles" />
+  <Message type="Leader Table">
+    <Category name="Good Tackles">
+      <Players name="Joe Launchbury" number="15" player_id="18571" team_id="550" team_name="England" />
+      <Players name="Tom Wood" number="15" player_id="9438" team_id="550" team_name="England" />
+      <Players name="Chris Robshaw" number="13" player_id="7656" team_id="550" team_name="England" />
+    </Category>
+    <Category name="Defenders Beaten">
+      <Players name="Mike Phillips" number="3" player_id="2652" team_id="500" team_name="Wales" />
+      <Players name="Alex Cuthbert" number="3" player_id="19411" team_id="500" team_name="Wales" />
+      <Players name="Leigh Halfpenny" number="3" player_id="16273" team_id="500" team_name="Wales" />
+      <Players name="Toby Faletau" number="1" player_id="11029" team_id="500" team_name="Wales" />
+      <Players name="Owen Farrell" number="1" player_id="9938" team_id="550" team_name="England" />
+    </Category>
+  </Message>
+  <Message id="551" comment="The touch judges have waved away the attempt by Owen Farrell as he hooks it left." player_id="9938" team_id="550" time="60" type="Penalty Goal - Missed Left" />
+  <Message id="567" comment="Leigh Halfpenny has hooked the conversion to the right of the posts." player_id="16273" team_id="500" time="57" type="Conversion - Missed Right" />
+  <Message id="565" comment="Jonathan Davies sets up the try." player_id="16161" team_id="500" time="56" type="Try Assist" />
+  <Message id="564" comment="Great hands by Wales leads to a try for Alex Cuthbert." player_id="19411" team_id="500" time="56" type="Try - Passing Move" />
+  <Message id="562" comment="Trouble here as Alex Cuthbert breaches the defence." player_id="19411" team_id="500" time="56" type="Clean Break" />
+  <Message id="469" comment="England have won 40 rucks so far this game." player_id="0" team_id="550" time="53" type="Team Rucks Won" />
+  <Message id="503" comment="Wales make a substitution with Ken Owens coming on." player_id="8412" team_id="500" time="52" type="Substitution on" />
+  <Message id="502" comment="Wales make a substitution with Richard Hibbard coming off." player_id="5097" team_id="500" time="52" type="Substitution off" />
+  <Message id="461" comment="England sub Courtney Lawes comes onto the field." player_id="9802" team_id="550" time="52" type="Substitution on" />
+  <Message id="460" comment="Joe Launchbury departs for England." player_id="18571" team_id="550" time="52" type="Substitution off" />
+  <Message id="455" comment="Dylan Hartley comes on for England." player_id="7761" team_id="550" time="52" type="Substitution on" />
+  <Message id="454" comment="Tom Youngs leaves the field." player_id="8787" team_id="550" time="52" type="Substitution off" />
+  <Message id="497" comment="Leigh Halfpenny adds the three points for Wales." player_id="16273" team_id="500" time="51" type="Penalty Goal - Kicked" />
+  <Message id="480" comment="Wales have won 80 rucks so far this game." player_id="0" team_id="500" time="49" type="Team Rucks Won" />
+  <Message id="426" comment="Geoff Parling has made 10 good tackles so far this game." player_id="3901" team_id="550" time="48" type="Player Good Tackles" />
+  <Message id="424" comment="Wales have won 60 rucks so far this game." player_id="0" team_id="500" time="47" type="Team Rucks Won" />
+  <Message id="413" comment="Joe Launchbury has made 10 good tackles so far this game." player_id="18571" team_id="550" time="47" type="Player Good Tackles" />
+  <Message id="399" comment="Chris Robshaw has made 10 good tackles so far this game." player_id="7656" team_id="550" time="46" type="Player Good Tackles" />
+  <Message id="398" comment="Tom Wood has made 10 good tackles so far this game." player_id="9438" team_id="550" time="46" type="Player Good Tackles" />
+  <Message id="392" comment="Mako Vunipola comes on." player_id="17164" team_id="550" time="44" type="Substitution on" />
+  <Message id="391" comment="Joe Marler comes off." player_id="16267" team_id="550" time="44" type="Substitution off" />
+  <Message id="356" comment="The second half is underway." player_id="0" team_id="500" time="40" type="Start Of Second Half" />
+  <Message id="353" comment="The half-time whistle blows and both teams’ head for the dressing rooms." player_id="0" team_id="500" time="40" type="End Of First Half" />
+  <Message id="351" comment="Wales have a drop goal attempt through the boot of Dan Biggar, but he pulls it to the left." player_id="9757" team_id="500" time="40" type="Drop Goal - Missed Left" />
+  <Message id="329" comment="This is dangerous for the defence as George North bursts through to advance the Wales attack." player_id="18273" team_id="500" time="37" type="Clean Break" />
+  <Message id="286" comment="Wales have won 40 rucks so far this game." player_id="0" team_id="500" time="34" type="Team Rucks Won" />
+  <Message id="261" comment="A gap opened in the defence and George North took full advantage." player_id="18273" team_id="500" time="31" type="Clean Break" />
+  <Message id="256" comment="What a tackle there by Mike Brown as he saves a certain try!." player_id="7655" team_id="550" time="31" type="Tackle - Try Saver" />
+  <Message id="231" comment="England have won 20 rucks so far this game." player_id="0" team_id="550" time="30" type="Team Rucks Won" />
+  <Message id="202" comment="Owen Farrell steps up to take the penalty but pulls it wide and to the left." player_id="9938" team_id="550" time="26" type="Penalty Goal - Missed Left" />
+  <Message id="207" comment="Leigh Halfpenny does the business as his penalty goal attempt goes over." player_id="16273" team_id="500" time="23" type="Penalty Goal - Kicked" />
+  <Message type="Leader Table">
+    <Category name="Good Tackles">
+      <Players name="Owen Farrell" number="7" player_id="9938" team_id="550" team_name="England" />
+      <Players name="Tom Wood" number="5" player_id="9438" team_id="550" team_name="England" />
+      <Players name="Tom Youngs" number="5" player_id="8787" team_id="550" team_name="England" />
+      <Players name="Ian Evans" number="5" player_id="6113" team_id="500" team_name="Wales" />
+    </Category>
+    <Category name="Defenders Beaten">
+      <Players name="Mike Phillips" number="3" player_id="2652" team_id="500" team_name="Wales" />
+      <Players name="Leigh Halfpenny" number="1" player_id="16273" team_id="500" team_name="Wales" />
+      <Players name="Alex Cuthbert" number="1" player_id="19411" team_id="500" team_name="Wales" />
+      <Players name="Toby Faletau" number="1" player_id="11029" team_id="500" team_name="Wales" />
+      <Players name="Brad Barritt" number="1" player_id="8142" team_id="550" team_name="England" />
+    </Category>
+  </Message>
+  <Message id="163" comment="Owen Farrell makes no mistake with that penalty goal attempt." player_id="9938" team_id="550" time="20" type="Penalty Goal - Kicked" />
+  <Message id="177" comment="Leigh Halfpenny kicks the penalty." player_id="16273" team_id="500" time="17" type="Penalty Goal - Kicked" />
+  <Message id="124" comment="The defensive line has been broken as Mike Phillips goes through the gap." player_id="2652" team_id="500" time="12" type="Clean Break" />
+  <Message id="113" comment="Wales have won 20 rucks so far this game." player_id="0" team_id="500" time="11" type="Team Rucks Won" />
+  <Message id="102" comment="Leigh Halfpenny has kicked a penalty goal." player_id="16273" team_id="500" time="10" type="Penalty Goal - Kicked" />
+  <Message id="3" comment="We are underway as the referee blows his whistle." player_id="0" team_id="500" time="0" type="Start Of First Half" />
+</RugbyCommentary>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2013 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a03.nexus.opta.net
+     production time:    20131229T150628,849Z
+     production module:  Opta::Feed::XML::RugbyUnion::RU50
+-->
+<RU50_EventFeed>
+  <Game away_score="16" game_id="114113" home_score="7" status="Second half" timer_running="1">
+    <Event id="2054255" direction="Right to Left" direction_of_play_x="82.9" direction_of_play_y="21.4" event_id="299" event_type_id="23" event_type_name="Substitution off" game_id="114113" last_modified="2013-12-29 15:06:27" outcome="1" period="Second Half" period_id="4" period_minute="40" period_second="2" player_id="19396" team_id="1300" timestamp="2013-12-29 15:06:27" timestamp_milliseconds="577" x="17.1" y="78.6">
+      <Qualifiers id="2752589" name="Position" qualifier_id="2" value="3. Forward 3" />
+      <Qualifiers id="2752588" name="Tactical" qualifier_id="56" value="" />
+      <Qualifiers id="2752590" name="Jersey Number" qualifier_id="61" value="3" />
+    </Event>
+    <Event id="2054256" direction="Right to Left" direction_of_play_x="82.9" direction_of_play_y="21.4" event_id="300" event_type_id="24" event_type_name="Substitution on" game_id="114113" last_modified="2013-12-29 15:06:28" outcome="1" period="Second Half" period_id="4" period_minute="40" period_second="2" player_id="16811" team_id="1300" timestamp="2013-12-29 15:06:27" timestamp_milliseconds="593" x="17.1" y="78.6">
+      <Qualifiers id="2752593" name="Position" qualifier_id="2" value="18. Replacement 3" />
+      <Qualifiers id="2752591" name="Tactical" qualifier_id="56" value="" />
+      <Qualifiers id="2752592" name="Related event ID" qualifier_id="63" value="299" />
+    </Event>
+  </Game>
+</RU50_EventFeed>

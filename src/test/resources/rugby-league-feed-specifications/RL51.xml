@@ -1,0 +1,1531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2015 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a05.nexus.opta.net
+     production time:    20151202T155925,972Z
+     production module:  Opta::Feed::XML::RugbyLeague::RL51
+-->
+<Games timestamp="2015-12-02T15:59:25+0000">
+  <Game id="315292" away_team_id="2150" away_team_name="Cowboys" comp_id="3" comp_name="NRL" game_date="2015-09-26T09:40:00+0000" home_team_id="1400" home_team_name="Storm" live_scores="11" period_1_start="09:45:54" period_3_start="10:51:17" round="29" round_type_id="2" season_id="2015" season_name="Season 2015">
+    <Event id="1231182" event_id="3" event_type_id="22" period_id="2" period_minute="0" period_second="0" min="0" sec="0" team_id="1400" outcome="0" x="100.0" y="100.0" timestamp="2015-09-26T09:45:54+0000" timestamp_milliseconds="281" timer_running="0" last_modified="2015-09-26T09:45:54+0000">
+      <Q id="902764" qualifier_id="52" value="Right to Left" />
+    </Event>
+    <Event id="1231184" event_id="3" event_type_id="22" period_id="2" period_minute="0" period_second="0" min="0" sec="0" team_id="2150" outcome="0" x="0.0" y="0.0" timestamp="2015-09-26T09:45:55+0000" timestamp_milliseconds="330" timer_running="0" last_modified="2015-09-26T09:45:55+0000">
+      <Q id="902766" qualifier_id="52" value="Left to Right" />
+    </Event>
+    <Event id="1231188" event_id="6" event_type_id="17" period_id="2" period_minute="0" period_second="11" min="0" sec="11" team_id="2150" outcome="1" x="12.3" y="67.5" timestamp="2015-09-26T09:46:06+0000" timestamp_milliseconds="784" timer_running="0" last_modified="2015-09-26T09:46:06+0000">
+      <Q id="902768" qualifier_id="135" />
+    </Event>
+    <Event id="1231191" event_id="6" event_type_id="31" period_id="2" period_minute="0" period_second="13" min="0" sec="13" player_id="20733" team_id="1400" outcome="1" x="50.0" y="50.0" timestamp="2015-09-26T09:46:07+0000" timestamp_milliseconds="515" timer_running="0" last_modified="2015-09-26T09:46:11+0000">
+      <Q id="902769" qualifier_id="63" value="25" />
+    </Event>
+    <Event id="1231194" event_id="9" event_type_id="17" period_id="2" period_minute="0" period_second="18" min="0" sec="18" team_id="2150" outcome="1" x="22.3" y="56.2" timestamp="2015-09-26T09:46:14+0000" timestamp_milliseconds="174" timer_running="0" last_modified="2015-09-26T09:46:14+0000">
+      <Q id="902772" qualifier_id="135" />
+    </Event>
+    <Event id="1231201" event_id="12" event_type_id="17" period_id="2" period_minute="0" period_second="26" min="0" sec="26" team_id="2150" outcome="1" x="27.0" y="34.5" timestamp="2015-09-26T09:46:21+0000" timestamp_milliseconds="893" timer_running="0" last_modified="2015-09-26T09:46:22+0000">
+      <Q id="902776" qualifier_id="135" />
+    </Event>
+    <Event id="1231206" event_id="15" event_type_id="17" period_id="2" period_minute="0" period_second="33" min="0" sec="33" team_id="2150" outcome="1" x="40.9" y="18.3" timestamp="2015-09-26T09:46:29+0000" timestamp_milliseconds="18" timer_running="0" last_modified="2015-09-26T09:46:29+0000">
+      <Q id="902780" qualifier_id="135" />
+    </Event>
+    <Event id="1231212" event_id="19" event_type_id="17" period_id="2" period_minute="0" period_second="40" min="0" sec="40" team_id="2150" outcome="1" x="58.7" y="52.3" timestamp="2015-09-26T09:46:35+0000" timestamp_milliseconds="893" timer_running="0" last_modified="2015-09-26T09:46:35+0000">
+      <Q id="902783" qualifier_id="135" />
+    </Event>
+    <Event id="1231214" event_id="21" event_type_id="8" period_id="2" period_minute="0" period_second="44" min="0" sec="44" player_id="10107" team_id="2150" outcome="1" x="56.4" y="59.5" timestamp="2015-09-26T09:46:39+0000" timestamp_milliseconds="518" timer_running="0" last_modified="2015-09-26T09:46:43+0000">
+      <Q id="902786" qualifier_id="166" value="36" />
+      <Q id="902784" qualifier_id="167" value="92.1" />
+      <Q id="902785" qualifier_id="168" value="70.4" />
+    </Event>
+    <Event id="1231217" event_id="16" event_type_id="17" period_id="2" period_minute="0" period_second="54" min="0" sec="54" team_id="1400" outcome="1" x="5.2" y="21.4" timestamp="2015-09-26T09:46:48+0000" timestamp_milliseconds="607" timer_running="0" last_modified="2015-09-26T09:46:48+0000">
+      <Q id="902788" qualifier_id="135" />
+    </Event>
+    <Event id="1231224" event_id="20" event_type_id="17" period_id="2" period_minute="1" period_second="2" min="1" sec="2" team_id="1400" outcome="1" x="10.5" y="37.6" timestamp="2015-09-26T09:46:56+0000" timestamp_milliseconds="451" timer_running="0" last_modified="2015-09-26T09:46:56+0000">
+      <Q id="902793" qualifier_id="135" />
+    </Event>
+    <Event id="1231229" event_id="22" event_type_id="17" period_id="2" period_minute="1" period_second="12" min="1" sec="12" team_id="1400" outcome="1" x="21.8" y="50.0" timestamp="2015-09-26T09:47:06+0000" timestamp_milliseconds="341" timer_running="0" last_modified="2015-09-26T09:47:06+0000">
+      <Q id="902796" qualifier_id="135" />
+    </Event>
+    <Event id="1231235" event_id="25" event_type_id="17" period_id="2" period_minute="1" period_second="19" min="1" sec="19" team_id="1400" outcome="1" x="31.4" y="61.9" timestamp="2015-09-26T09:47:13+0000" timestamp_milliseconds="997" timer_running="0" last_modified="2015-09-26T09:47:14+0000">
+      <Q id="902799" qualifier_id="135" />
+    </Event>
+    <Event id="1231239" event_id="28" event_type_id="17" period_id="2" period_minute="1" period_second="27" min="1" sec="27" team_id="1400" outcome="1" x="41.6" y="43.8" timestamp="2015-09-26T09:47:21+0000" timestamp_milliseconds="559" timer_running="0" last_modified="2015-09-26T09:47:21+0000">
+      <Q id="902802" qualifier_id="135" />
+    </Event>
+    <Event id="1231242" event_id="31" event_type_id="8" period_id="2" period_minute="1" period_second="32" min="1" sec="32" player_id="2361" team_id="1400" outcome="1" x="51.8" y="27.8" timestamp="2015-09-26T09:47:26+0000" timestamp_milliseconds="512" timer_running="0" last_modified="2015-09-26T09:47:31+0000">
+      <Q id="902804" qualifier_id="167" value="70.2" />
+      <Q id="902805" qualifier_id="168" value="0.0" />
+      <Q id="902806" qualifier_id="166" value="18" />
+    </Event>
+    <Event id="1231246" event_id="35" event_type_id="21" period_id="2" period_minute="2" period_second="7" min="2" sec="7" team_id="2150" outcome="1" x="33.2" y="67.3" timestamp="2015-09-26T09:48:02+0000" timestamp_milliseconds="815" timer_running="0" last_modified="2015-09-26T09:48:02+0000" />
+    <Event id="1231252" event_id="38" event_type_id="17" period_id="2" period_minute="2" period_second="16" min="2" sec="16" team_id="2150" outcome="1" x="38.8" y="57.0" timestamp="2015-09-26T09:48:11+0000" timestamp_milliseconds="862" timer_running="0" last_modified="2015-09-26T09:48:11+0000">
+      <Q id="902812" qualifier_id="135" />
+    </Event>
+    <Event id="1231257" event_id="42" event_type_id="17" period_id="2" period_minute="2" period_second="24" min="2" sec="24" team_id="2150" outcome="1" x="45.4" y="46.1" timestamp="2015-09-26T09:48:20+0000" timestamp_milliseconds="174" timer_running="0" last_modified="2015-09-26T09:48:20+0000">
+      <Q id="902816" qualifier_id="135" />
+    </Event>
+    <Event id="1231264" event_id="46" event_type_id="17" period_id="2" period_minute="2" period_second="35" min="2" sec="35" team_id="2150" outcome="1" x="57.0" y="56.4" timestamp="2015-09-26T09:48:31+0000" timestamp_milliseconds="49" timer_running="0" last_modified="2015-09-26T09:48:31+0000">
+      <Q id="902819" qualifier_id="135" />
+    </Event>
+    <Event id="1231270" event_id="49" event_type_id="17" period_id="2" period_minute="2" period_second="43" min="2" sec="43" team_id="2150" outcome="1" x="71.1" y="72.4" timestamp="2015-09-26T09:48:38+0000" timestamp_milliseconds="721" timer_running="0" last_modified="2015-09-26T09:48:38+0000">
+      <Q id="902823" qualifier_id="135" />
+    </Event>
+    <Event id="1231278" event_id="54" event_type_id="17" period_id="2" period_minute="2" period_second="57" min="2" sec="57" team_id="2150" outcome="1" x="89.5" y="49.5" timestamp="2015-09-26T09:48:53+0000" timestamp_milliseconds="268" timer_running="0" last_modified="2015-09-26T09:48:53+0000">
+      <Q id="902825" qualifier_id="135" />
+    </Event>
+    <Event id="1231282" event_id="57" event_type_id="8" period_id="2" period_minute="3" period_second="0" min="3" sec="0" player_id="1087" team_id="2150" outcome="1" x="95.2" y="38.4" timestamp="2015-09-26T09:48:56+0000" timestamp_milliseconds="174" timer_running="0" last_modified="2015-09-26T09:48:58+0000">
+      <Q id="902830" qualifier_id="168" value="23.7" />
+      <Q id="902829" qualifier_id="167" value="100.0" />
+      <Q id="902831" qualifier_id="166" value="6" />
+      <Q id="902828" qualifier_id="172" />
+    </Event>
+    <Event id="1231285" event_id="48" event_type_id="17" period_id="2" period_minute="3" period_second="8" min="3" sec="8" team_id="1400" outcome="1" x="3.0" y="83.8" timestamp="2015-09-26T09:49:02+0000" timestamp_milliseconds="274" timer_running="0" last_modified="2015-09-26T09:49:02+0000">
+      <Q id="902833" qualifier_id="135" />
+    </Event>
+    <Event id="1231288" event_id="50" event_type_id="17" period_id="2" period_minute="3" period_second="12" min="3" sec="12" team_id="1400" outcome="1" x="11.8" y="85.9" timestamp="2015-09-26T09:49:06+0000" timestamp_milliseconds="977" timer_running="0" last_modified="2015-09-26T09:49:07+0000">
+      <Q id="902837" qualifier_id="135" />
+    </Event>
+    <Event id="1231294" event_id="53" event_type_id="17" period_id="2" period_minute="3" period_second="20" min="3" sec="20" team_id="1400" outcome="1" x="19.3" y="75.3" timestamp="2015-09-26T09:49:15+0000" timestamp_milliseconds="195" timer_running="0" last_modified="2015-09-26T09:49:15+0000">
+      <Q id="902841" qualifier_id="135" />
+    </Event>
+    <Event id="1231299" event_id="56" event_type_id="17" period_id="2" period_minute="3" period_second="27" min="3" sec="27" team_id="1400" outcome="1" x="27.1" y="57.7" timestamp="2015-09-26T09:49:21+0000" timestamp_milliseconds="727" timer_running="0" last_modified="2015-09-26T09:49:21+0000">
+      <Q id="902844" qualifier_id="135" />
+    </Event>
+    <Event id="1231306" event_id="61" event_type_id="17" period_id="2" period_minute="3" period_second="37" min="3" sec="37" team_id="1400" outcome="1" x="34.3" y="9.8" timestamp="2015-09-26T09:49:31+0000" timestamp_milliseconds="383" timer_running="0" last_modified="2015-09-26T09:49:31+0000">
+      <Q id="902846" qualifier_id="135" />
+    </Event>
+    <Event id="1231308" event_id="63" event_type_id="8" period_id="2" period_minute="3" period_second="40" min="3" sec="40" player_id="2361" team_id="1400" outcome="1" x="31.8" y="28.9" timestamp="2015-09-26T09:49:34+0000" timestamp_milliseconds="383" timer_running="0" last_modified="2015-09-26T09:49:37+0000">
+      <Q id="902849" qualifier_id="166" value="51" />
+      <Q id="902848" qualifier_id="168" value="65.2" />
+      <Q id="902847" qualifier_id="167" value="83.0" />
+    </Event>
+    <Event id="1231314" event_id="69" event_type_id="17" period_id="2" period_minute="3" period_second="52" min="3" sec="52" team_id="2150" outcome="1" x="38.6" y="24.2" timestamp="2015-09-26T09:49:48+0000" timestamp_milliseconds="143" timer_running="0" last_modified="2015-09-26T09:49:48+0000">
+      <Q id="902853" qualifier_id="135" />
+    </Event>
+    <Event id="1231320" event_id="72" event_type_id="17" period_id="2" period_minute="3" period_second="59" min="3" sec="59" team_id="2150" outcome="1" x="48.8" y="42.0" timestamp="2015-09-26T09:49:54+0000" timestamp_milliseconds="330" timer_running="0" last_modified="2015-09-26T09:49:54+0000">
+      <Q id="902857" qualifier_id="135" />
+    </Event>
+    <Event id="1231334" event_id="72" event_type_id="31" period_id="2" period_minute="4" period_second="12" min="4" sec="12" player_id="1867" team_id="1400" outcome="1" x="83.0" y="65.2" timestamp="2015-09-26T09:50:06+0000" timestamp_milliseconds="977" timer_running="0" last_modified="2015-09-26T09:50:12+0000">
+      <Q id="902865" qualifier_id="63" value="25" />
+    </Event>
+    <Event id="1233675" event_id="73" event_type_id="15" period_id="2" period_minute="4" period_second="15" min="4" sec="15" player_id="2361" team_id="1400" outcome="1" x="83.0" y="65.2" timestamp="2015-09-26T09:50:09+0000" timestamp_milliseconds="867" timer_running="0" last_modified="2015-09-26T15:24:22+0000">
+      <Q id="904682" qualifier_id="88" />
+    </Event>
+    <Event id="1231343" event_id="87" event_type_id="17" period_id="2" period_minute="5" period_second="2" min="5" sec="2" team_id="2150" outcome="1" x="90.0" y="66.2" timestamp="2015-09-26T09:50:57+0000" timestamp_milliseconds="640" timer_running="0" last_modified="2015-09-26T09:50:57+0000">
+      <Q id="902870" qualifier_id="135" />
+    </Event>
+    <Event id="1231349" event_id="91" event_type_id="17" period_id="2" period_minute="5" period_second="13" min="5" sec="13" team_id="2150" outcome="1" x="96.6" y="38.4" timestamp="2015-09-26T09:51:08+0000" timestamp_milliseconds="687" timer_running="0" last_modified="2015-09-26T09:51:08+0000">
+      <Q id="902873" qualifier_id="135" />
+    </Event>
+    <Event id="1231354" event_id="94" event_type_id="17" period_id="2" period_minute="5" period_second="22" min="5" sec="22" team_id="2150" outcome="1" x="98.2" y="59.5" timestamp="2015-09-26T09:51:17+0000" timestamp_milliseconds="405" timer_running="0" last_modified="2015-09-26T09:51:17+0000">
+      <Q id="902876" qualifier_id="135" />
+    </Event>
+    <Event id="1231366" event_id="97" event_type_id="31" period_id="2" period_minute="5" period_second="26" min="5" sec="26" player_id="10107" team_id="2150" outcome="1" x="98.2" y="59.5" timestamp="2015-09-26T09:51:22+0000" timestamp_milliseconds="327" timer_running="0" last_modified="2015-09-26T09:53:01+0000">
+      <Q id="902888" qualifier_id="63" value="13" />
+    </Event>
+    <Event id="1231372" event_id="88" event_type_id="17" period_id="2" period_minute="5" period_second="58" min="5" sec="58" team_id="1400" outcome="1" x="46.6" y="30.4" timestamp="2015-09-26T09:53:18+0000" timestamp_milliseconds="492" timer_running="0" last_modified="2015-09-26T09:53:18+0000">
+      <Q id="902892" qualifier_id="135" />
+    </Event>
+    <Event id="1231380" event_id="92" event_type_id="17" period_id="2" period_minute="6" period_second="7" min="6" sec="7" team_id="1400" outcome="1" x="54.8" y="40.2" timestamp="2015-09-26T09:53:27+0000" timestamp_milliseconds="887" timer_running="0" last_modified="2015-09-26T09:53:28+0000">
+      <Q id="902897" qualifier_id="135" />
+    </Event>
+    <Event id="1231385" event_id="95" event_type_id="17" period_id="2" period_minute="6" period_second="14" min="6" sec="14" team_id="1400" outcome="1" x="60.2" y="54.4" timestamp="2015-09-26T09:53:34+0000" timestamp_milliseconds="387" timer_running="0" last_modified="2015-09-26T09:53:34+0000">
+      <Q id="902900" qualifier_id="135" />
+    </Event>
+    <Event id="1231390" event_id="99" event_type_id="17" period_id="2" period_minute="6" period_second="24" min="6" sec="24" team_id="1400" outcome="1" x="72.7" y="38.4" timestamp="2015-09-26T09:53:44+0000" timestamp_milliseconds="342" timer_running="0" last_modified="2015-09-26T09:53:44+0000">
+      <Q id="902902" qualifier_id="135" />
+    </Event>
+    <Event id="1231397" event_id="103" event_type_id="17" period_id="2" period_minute="6" period_second="31" min="6" sec="31" team_id="1400" outcome="1" x="78.9" y="50.3" timestamp="2015-09-26T09:53:51+0000" timestamp_milliseconds="925" timer_running="0" last_modified="2015-09-26T09:53:52+0000">
+      <Q id="902905" qualifier_id="135" />
+    </Event>
+    <Event id="1231399" event_id="105" event_type_id="8" period_id="2" period_minute="6" period_second="34" min="6" sec="34" player_id="2361" team_id="1400" outcome="1" x="78.6" y="32.2" timestamp="2015-09-26T09:53:54+0000" timestamp_milliseconds="801" timer_running="0" last_modified="2015-09-26T09:53:57+0000">
+      <Q id="902909" qualifier_id="166" value="23" />
+      <Q id="902908" qualifier_id="168" value="12.6" />
+      <Q id="902907" qualifier_id="167" value="100.0" />
+      <Q id="902906" qualifier_id="172" />
+    </Event>
+    <Event id="1231361" event_id="100" event_type_id="15" period_id="2" period_minute="6" period_second="44" min="6" sec="44" player_id="10911" team_id="2150" outcome="1" x="100.0" y="96.2" timestamp="2015-09-26T09:52:40+0000" timestamp_milliseconds="309" timer_running="0" last_modified="2015-09-26T09:52:42+0000">
+      <Q id="902882" qualifier_id="163" value="-1" />
+      <Q id="902881" qualifier_id="87" />
+    </Event>
+    <Event id="1231404" event_id="117" event_type_id="17" period_id="2" period_minute="6" period_second="48" min="6" sec="48" team_id="2150" outcome="1" x="27.7" y="38.4" timestamp="2015-09-26T09:54:10+0000" timestamp_milliseconds="510" timer_running="0" last_modified="2015-09-26T09:54:10+0000">
+      <Q id="902913" qualifier_id="135" />
+    </Event>
+    <Event id="1231409" event_id="120" event_type_id="17" period_id="2" period_minute="6" period_second="55" min="6" sec="55" team_id="2150" outcome="1" x="37.7" y="29.9" timestamp="2015-09-26T09:54:17+0000" timestamp_milliseconds="994" timer_running="0" last_modified="2015-09-26T09:54:18+0000">
+      <Q id="902918" qualifier_id="135" />
+    </Event>
+    <Event id="1231418" event_id="126" event_type_id="17" period_id="2" period_minute="7" period_second="4" min="7" sec="4" team_id="2150" outcome="1" x="43.2" y="52.8" timestamp="2015-09-26T09:54:27+0000" timestamp_milliseconds="463" timer_running="0" last_modified="2015-09-26T09:54:27+0000">
+      <Q id="902924" qualifier_id="135" />
+    </Event>
+    <Event id="1231424" event_id="129" event_type_id="17" period_id="2" period_minute="7" period_second="13" min="7" sec="13" team_id="2150" outcome="1" x="58.4" y="68.6" timestamp="2015-09-26T09:54:36+0000" timestamp_milliseconds="306" timer_running="0" last_modified="2015-09-26T09:54:36+0000">
+      <Q id="902927" qualifier_id="135" />
+    </Event>
+    <Event id="1231438" event_id="118" event_type_id="17" period_id="2" period_minute="7" period_second="34" min="7" sec="34" team_id="1400" outcome="1" x="12.9" y="87.7" timestamp="2015-09-26T09:54:54+0000" timestamp_milliseconds="429" timer_running="0" last_modified="2015-09-26T09:54:54+0000">
+      <Q id="902936" qualifier_id="135" />
+    </Event>
+    <Event id="1231444" event_id="121" event_type_id="17" period_id="2" period_minute="7" period_second="41" min="7" sec="41" team_id="1400" outcome="1" x="23.4" y="61.6" timestamp="2015-09-26T09:55:01+0000" timestamp_milliseconds="694" timer_running="0" last_modified="2015-09-26T09:55:01+0000">
+      <Q id="902939" qualifier_id="135" />
+    </Event>
+    <Event id="1231450" event_id="124" event_type_id="17" period_id="2" period_minute="7" period_second="50" min="7" sec="50" team_id="1400" outcome="1" x="36.1" y="54.7" timestamp="2015-09-26T09:55:10+0000" timestamp_milliseconds="897" timer_running="0" last_modified="2015-09-26T09:55:11+0000">
+      <Q id="902942" qualifier_id="135" />
+    </Event>
+    <Event id="1231454" event_id="126" event_type_id="17" period_id="2" period_minute="7" period_second="57" min="7" sec="57" team_id="1400" outcome="1" x="44.1" y="50.0" timestamp="2015-09-26T09:55:17+0000" timestamp_milliseconds="741" timer_running="0" last_modified="2015-09-26T09:55:17+0000">
+      <Q id="902945" qualifier_id="135" />
+    </Event>
+    <Event id="1231461" event_id="130" event_type_id="17" period_id="2" period_minute="8" period_second="6" min="8" sec="6" team_id="1400" outcome="1" x="60.0" y="58.8" timestamp="2015-09-26T09:55:26+0000" timestamp_milliseconds="397" timer_running="0" last_modified="2015-09-26T09:55:26+0000">
+      <Q id="902950" qualifier_id="135" />
+    </Event>
+    <Event id="1231463" event_id="132" event_type_id="8" period_id="2" period_minute="8" period_second="9" min="8" sec="9" player_id="2361" team_id="1400" outcome="1" x="58.6" y="44.1" timestamp="2015-09-26T09:55:29+0000" timestamp_milliseconds="662" timer_running="0" last_modified="2015-09-26T09:55:34+0000">
+      <Q id="902953" qualifier_id="166" value="23" />
+      <Q id="902951" qualifier_id="167" value="82.0" />
+      <Q id="902952" qualifier_id="168" value="5.4" />
+    </Event>
+    <Event id="1231467" event_id="155" event_type_id="15" period_id="2" period_minute="8" period_second="19" min="8" sec="19" player_id="10911" team_id="2150" outcome="1" x="11.1" y="84.0" timestamp="2015-09-26T09:55:56+0000" timestamp_milliseconds="851" timer_running="0" last_modified="2015-09-26T09:55:58+0000">
+      <Q id="902957" qualifier_id="88" />
+    </Event>
+    <Event id="1231478" event_id="140" event_type_id="17" period_id="2" period_minute="8" period_second="47" min="8" sec="47" team_id="1400" outcome="1" x="86.6" y="26.0" timestamp="2015-09-26T09:56:16+0000" timestamp_milliseconds="255" timer_running="0" last_modified="2015-09-26T09:56:16+0000">
+      <Q id="902968" qualifier_id="135" />
+    </Event>
+    <Event id="1231484" event_id="144" event_type_id="17" period_id="2" period_minute="8" period_second="55" min="8" sec="55" team_id="1400" outcome="1" x="93.0" y="56.2" timestamp="2015-09-26T09:56:23+0000" timestamp_milliseconds="646" timer_running="0" last_modified="2015-09-26T09:56:23+0000">
+      <Q id="902971" qualifier_id="135" />
+    </Event>
+    <Event id="1231493" event_id="151" event_type_id="17" period_id="2" period_minute="9" period_second="1" min="9" sec="1" team_id="1400" outcome="1" x="97.7" y="30.4" timestamp="2015-09-26T09:56:32+0000" timestamp_milliseconds="552" timer_running="0" last_modified="2015-09-26T09:56:32+0000">
+      <Q id="902978" qualifier_id="135" />
+    </Event>
+    <Event id="1231502" event_id="157" event_type_id="17" period_id="2" period_minute="9" period_second="7" min="9" sec="7" team_id="1400" outcome="1" x="98.2" y="41.2" timestamp="2015-09-26T09:56:42+0000" timestamp_milliseconds="817" timer_running="0" last_modified="2015-09-26T09:56:42+0000">
+      <Q id="902984" qualifier_id="135" />
+    </Event>
+    <Event id="1231511" event_id="162" event_type_id="17" period_id="2" period_minute="9" period_second="13" min="9" sec="13" team_id="1400" outcome="1" x="99.6" y="37.4" timestamp="2015-09-26T09:56:52+0000" timestamp_milliseconds="504" timer_running="0" last_modified="2015-09-26T09:56:52+0000">
+      <Q id="902991" qualifier_id="135" />
+    </Event>
+    <Event id="1231515" event_id="166" event_type_id="27" period_id="2" period_minute="9" period_second="17" min="9" sec="17" player_id="2361" team_id="1400" outcome="1" x="100.0" y="20.6" timestamp="2015-09-26T09:56:57+0000" timestamp_milliseconds="67" timer_running="0" last_modified="2015-09-26T09:57:00+0000">
+      <Q id="902992" qualifier_id="151" />
+      <Q id="902993" qualifier_id="163" value="-1" />
+    </Event>
+    <Event id="1231529" event_id="176" event_type_id="3" period_id="2" period_minute="10" period_second="45" min="10" sec="45" player_id="1867" team_id="1400" outcome="1" x="77.3" y="24.0" timestamp="2015-09-26T09:58:46+0000" timestamp_milliseconds="18" timer_running="0" last_modified="2015-09-26T09:58:48+0000">
+      <Q id="903005" qualifier_id="167" value="100.0" />
+      <Q id="903006" qualifier_id="168" value="49.7" />
+      <Q id="903007" qualifier_id="166" value="25.0" />
+    </Event>
+    <Event id="1231536" event_id="180" event_type_id="17" period_id="2" period_minute="11" period_second="28" min="11" sec="28" team_id="1400" outcome="1" x="10.2" y="26.0" timestamp="2015-09-26T09:59:29+0000" timestamp_milliseconds="439" timer_running="0" last_modified="2015-09-26T09:59:29+0000">
+      <Q id="903011" qualifier_id="135" />
+    </Event>
+    <Event id="1231541" event_id="183" event_type_id="17" period_id="2" period_minute="11" period_second="34" min="11" sec="34" team_id="1400" outcome="1" x="19.6" y="37.9" timestamp="2015-09-26T09:59:35+0000" timestamp_milliseconds="704" timer_running="0" last_modified="2015-09-26T09:59:35+0000">
+      <Q id="903014" qualifier_id="135" />
+    </Event>
+    <Event id="1231567" event_id="190" event_type_id="17" period_id="2" period_minute="11" period_second="38" min="11" sec="38" team_id="2150" outcome="1" x="18.9" y="50.0" timestamp="2015-09-26T10:00:15+0000" timestamp_milliseconds="288" timer_running="0" last_modified="2015-09-26T10:00:15+0000">
+      <Q id="903032" qualifier_id="135" />
+    </Event>
+    <Event id="1231547" event_id="186" event_type_id="17" period_id="2" period_minute="11" period_second="43" min="11" sec="43" team_id="1400" outcome="1" x="34.6" y="31.7" timestamp="2015-09-26T09:59:44+0000" timestamp_milliseconds="360" timer_running="0" last_modified="2015-09-26T09:59:44+0000">
+      <Q id="903018" qualifier_id="135" />
+    </Event>
+    <Event id="1231553" event_id="189" event_type_id="17" period_id="2" period_minute="11" period_second="50" min="11" sec="50" team_id="1400" outcome="1" x="46.1" y="9.3" timestamp="2015-09-26T09:59:51+0000" timestamp_milliseconds="423" timer_running="0" last_modified="2015-09-26T09:59:51+0000">
+      <Q id="903021" qualifier_id="135" />
+    </Event>
+    <Event id="1231560" event_id="193" event_type_id="17" period_id="2" period_minute="12" period_second="0" min="12" sec="0" team_id="1400" outcome="1" x="55.9" y="21.9" timestamp="2015-09-26T10:00:01+0000" timestamp_milliseconds="516" timer_running="0" last_modified="2015-09-26T10:00:01+0000">
+      <Q id="903025" qualifier_id="135" />
+    </Event>
+    <Event id="1231562" event_id="195" event_type_id="8" period_id="2" period_minute="12" period_second="3" min="12" sec="3" player_id="2361" team_id="1400" outcome="1" x="54.6" y="37.6" timestamp="2015-09-26T10:00:04+0000" timestamp_milliseconds="16" timer_running="0" last_modified="2015-09-26T10:00:06+0000">
+      <Q id="903028" qualifier_id="166" value="35" />
+      <Q id="903026" qualifier_id="167" value="90.0" />
+      <Q id="903027" qualifier_id="168" value="49.5" />
+    </Event>
+    <Event id="1231574" event_id="200" event_type_id="31" period_id="2" period_minute="12" period_second="17" min="12" sec="17" player_id="10808" team_id="1400" outcome="1" x="90.0" y="49.5" timestamp="2015-09-26T10:00:17+0000" timestamp_milliseconds="782" timer_running="0" last_modified="2015-09-26T10:00:27+0000">
+      <Q id="903039" qualifier_id="63" value="25" />
+      <Q id="903038" qualifier_id="171" />
+    </Event>
+    <Event id="1231582" event_id="198" event_type_id="17" period_id="2" period_minute="12" period_second="17" min="12" sec="17" team_id="2150" outcome="1" x="60.2" y="39.7" timestamp="2015-09-26T10:00:53+0000" timestamp_milliseconds="990" timer_running="0" last_modified="2015-09-26T10:00:54+0000">
+      <Q id="903043" qualifier_id="135" />
+    </Event>
+    <Event id="1231573" event_id="201" event_type_id="15" period_id="2" period_minute="12" period_second="24" min="12" sec="24" player_id="10808" team_id="1400" outcome="1" x="90.0" y="49.5" timestamp="2015-09-26T10:00:24+0000" timestamp_milliseconds="985" timer_running="0" last_modified="2015-09-26T10:00:25+0000">
+      <Q id="903037" qualifier_id="88" />
+    </Event>
+    <Event id="1231589" event_id="201" event_type_id="17" period_id="2" period_minute="12" period_second="24" min="12" sec="24" team_id="2150" outcome="1" x="69.5" y="60.6" timestamp="2015-09-26T10:01:01+0000" timestamp_milliseconds="115" timer_running="0" last_modified="2015-09-26T10:01:01+0000">
+      <Q id="903048" qualifier_id="135" />
+    </Event>
+    <Event id="1231596" event_id="205" event_type_id="17" period_id="2" period_minute="12" period_second="35" min="12" sec="35" team_id="2150" outcome="1" x="78.7" y="36.1" timestamp="2015-09-26T10:01:11+0000" timestamp_milliseconds="787" timer_running="0" last_modified="2015-09-26T10:01:11+0000">
+      <Q id="903051" qualifier_id="135" />
+    </Event>
+    <Event id="1231604" event_id="210" event_type_id="17" period_id="2" period_minute="12" period_second="45" min="12" sec="45" team_id="2150" outcome="1" x="86.1" y="75.0" timestamp="2015-09-26T10:01:21+0000" timestamp_milliseconds="427" timer_running="0" last_modified="2015-09-26T10:01:21+0000">
+      <Q id="903056" qualifier_id="135" />
+    </Event>
+    <Event id="1231611" event_id="214" event_type_id="17" period_id="2" period_minute="12" period_second="53" min="12" sec="53" team_id="2150" outcome="1" x="91.4" y="49.7" timestamp="2015-09-26T10:01:30+0000" timestamp_milliseconds="349" timer_running="0" last_modified="2015-09-26T10:01:30+0000">
+      <Q id="903060" qualifier_id="135" />
+    </Event>
+    <Event id="1231614" event_id="216" event_type_id="8" period_id="2" period_minute="12" period_second="58" min="12" sec="58" player_id="1087" team_id="2150" outcome="1" x="93.9" y="45.1" timestamp="2015-09-26T10:01:34+0000" timestamp_milliseconds="677" timer_running="0" last_modified="2015-09-26T10:01:36+0000">
+      <Q id="903064" qualifier_id="168" value="23.9" />
+      <Q id="903065" qualifier_id="166" value="7" />
+      <Q id="903063" qualifier_id="167" value="100.0" />
+      <Q id="903062" qualifier_id="172" />
+    </Event>
+    <Event id="1231616" event_id="218" event_type_id="27" period_id="2" period_minute="13" period_second="2" min="13" sec="2" player_id="10869" team_id="2150" outcome="1" x="100.0" y="23.9" timestamp="2015-09-26T10:01:38+0000" timestamp_milliseconds="692" timer_running="0" last_modified="2015-09-26T10:02:33+0000">
+      <Q id="903069" qualifier_id="163" value="-1" />
+      <Q id="903068" qualifier_id="152" />
+    </Event>
+    <Event id="1231629" event_id="229" event_type_id="3" period_id="2" period_minute="14" period_second="25" min="14" sec="25" player_id="1087" team_id="2150" outcome="0" x="86.8" y="27.8" timestamp="2015-09-26T10:03:26+0000" timestamp_milliseconds="377" timer_running="0" last_modified="2015-09-26T10:03:28+0000">
+      <Q id="903081" qualifier_id="167" value="100.0" />
+      <Q id="903082" qualifier_id="168" value="67.0" />
+      <Q id="903083" qualifier_id="166" value="13.7" />
+    </Event>
+    <Event id="1231637" event_id="233" event_type_id="17" period_id="2" period_minute="15" period_second="14" min="15" sec="14" team_id="2150" outcome="1" x="18.6" y="66.2" timestamp="2015-09-26T10:04:15+0000" timestamp_milliseconds="95" timer_running="0" last_modified="2015-09-26T10:04:15+0000">
+      <Q id="903087" qualifier_id="135" />
+    </Event>
+    <Event id="1231644" event_id="237" event_type_id="17" period_id="2" period_minute="15" period_second="23" min="15" sec="23" team_id="2150" outcome="1" x="28.9" y="55.4" timestamp="2015-09-26T10:04:24+0000" timestamp_milliseconds="16" timer_running="0" last_modified="2015-09-26T10:04:24+0000">
+      <Q id="903091" qualifier_id="135" />
+    </Event>
+    <Event id="1231650" event_id="240" event_type_id="17" period_id="2" period_minute="15" period_second="33" min="15" sec="33" team_id="2150" outcome="1" x="43.8" y="25.7" timestamp="2015-09-26T10:04:34+0000" timestamp_milliseconds="79" timer_running="0" last_modified="2015-09-26T10:04:34+0000">
+      <Q id="903095" qualifier_id="135" />
+    </Event>
+    <Event id="1231655" event_id="243" event_type_id="17" period_id="2" period_minute="15" period_second="40" min="15" sec="40" team_id="2150" outcome="1" x="56.6" y="31.9" timestamp="2015-09-26T10:04:41+0000" timestamp_milliseconds="157" timer_running="0" last_modified="2015-09-26T10:04:41+0000">
+      <Q id="903098" qualifier_id="135" />
+    </Event>
+    <Event id="1231675" event_id="257" event_type_id="17" period_id="2" period_minute="16" period_second="6" min="16" sec="6" team_id="2150" outcome="1" x="88.7" y="62.4" timestamp="2015-09-26T10:05:06+0000" timestamp_milliseconds="625" timer_running="0" last_modified="2015-09-26T10:05:06+0000">
+      <Q id="903109" qualifier_id="135" />
+    </Event>
+    <Event id="1231681" event_id="261" event_type_id="17" period_id="2" period_minute="16" period_second="12" min="16" sec="12" team_id="2150" outcome="1" x="95.9" y="38.6" timestamp="2015-09-26T10:05:13+0000" timestamp_milliseconds="187" timer_running="0" last_modified="2015-09-26T10:05:13+0000">
+      <Q id="903112" qualifier_id="135" />
+    </Event>
+    <Event id="1231686" event_id="242" event_type_id="31" period_id="2" period_minute="16" period_second="16" min="16" sec="16" player_id="20520" team_id="1400" outcome="1" x="90.0" y="49.5" timestamp="2015-09-26T10:05:16+0000" timestamp_milliseconds="495" timer_running="0" last_modified="2015-09-26T10:05:19+0000">
+      <Q id="903115" qualifier_id="63" value="25" />
+    </Event>
+    <Event id="1231689" event_id="265" event_type_id="17" period_id="2" period_minute="16" period_second="21" min="16" sec="21" team_id="2150" outcome="1" x="93.9" y="59.8" timestamp="2015-09-26T10:05:21+0000" timestamp_milliseconds="530" timer_running="0" last_modified="2015-09-26T10:05:21+0000">
+      <Q id="903116" qualifier_id="135" />
+    </Event>
+    <Event id="1231694" event_id="269" event_type_id="17" period_id="2" period_minute="16" period_second="30" min="16" sec="30" team_id="2150" outcome="1" x="69.8" y="82.7" timestamp="2015-09-26T10:05:31+0000" timestamp_milliseconds="155" timer_running="0" last_modified="2015-09-26T10:05:31+0000">
+      <Q id="903118" qualifier_id="135" />
+    </Event>
+    <Event id="1231698" event_id="272" event_type_id="17" period_id="2" period_minute="16" period_second="40" min="16" sec="40" team_id="2150" outcome="1" x="70.9" y="44.6" timestamp="2015-09-26T10:05:40+0000" timestamp_milliseconds="749" timer_running="0" last_modified="2015-09-26T10:05:40+0000">
+      <Q id="903121" qualifier_id="135" />
+    </Event>
+    <Event id="1231705" event_id="276" event_type_id="17" period_id="2" period_minute="16" period_second="48" min="16" sec="48" team_id="2150" outcome="1" x="78.7" y="24.7" timestamp="2015-09-26T10:05:48+0000" timestamp_milliseconds="905" timer_running="0" last_modified="2015-09-26T10:05:49+0000">
+      <Q id="903125" qualifier_id="135" />
+    </Event>
+    <Event id="1231707" event_id="278" event_type_id="8" period_id="2" period_minute="16" period_second="52" min="16" sec="52" player_id="1087" team_id="2150" outcome="1" x="79.1" y="39.4" timestamp="2015-09-26T10:05:53+0000" timestamp_milliseconds="342" timer_running="0" last_modified="2015-09-26T10:05:57+0000">
+      <Q id="903129" qualifier_id="166" value="24" />
+      <Q id="903128" qualifier_id="168" value="71.1" />
+      <Q id="903127" qualifier_id="167" value="100.0" />
+      <Q id="903126" qualifier_id="172" />
+    </Event>
+    <Event id="1231786" event_id="299" event_type_id="23" period_id="2" period_minute="17" period_second="0" min="17" sec="0" player_id="11381" team_id="2150" outcome="1" x="100.0" y="21.6" timestamp="2015-09-26T10:07:26+0000" timestamp_milliseconds="668" timer_running="0" last_modified="2015-09-26T10:09:23+0000">
+      <Q id="903190" qualifier_id="2" value="13 Lock Forward" />
+      <Q id="903189" qualifier_id="56" />
+    </Event>
+    <Event id="1231739" event_id="300" event_type_id="24" period_id="2" period_minute="17" period_second="0" min="17" sec="0" player_id="1688" team_id="2150" outcome="1" x="100.0" y="21.6" timestamp="2015-09-26T10:07:26+0000" timestamp_milliseconds="699" timer_running="0" last_modified="2015-09-26T10:07:26+0000">
+      <Q id="903158" qualifier_id="2" value="17 Replacement 4" />
+      <Q id="903156" qualifier_id="56" />
+      <Q id="903157" qualifier_id="63" value="299" />
+    </Event>
+    <Event id="1231720" event_id="287" event_type_id="17" period_id="2" period_minute="17" period_second="54" min="17" sec="54" team_id="2150" outcome="1" x="63.0" y="38.9" timestamp="2015-09-26T10:06:55+0000" timestamp_milliseconds="184" timer_running="0" last_modified="2015-09-26T10:06:55+0000">
+      <Q id="903140" qualifier_id="135" />
+    </Event>
+    <Event id="1231740" event_id="259" event_type_id="23" period_id="2" period_minute="18" period_second="0" min="18" sec="0" player_id="20520" team_id="1400" outcome="1" x="55.0" y="30.9" timestamp="2015-09-26T10:07:27+0000" timestamp_milliseconds="931" timer_running="0" last_modified="2015-09-26T10:07:28+0000">
+      <Q id="903159" qualifier_id="56" />
+      <Q id="903160" qualifier_id="2" value="10 Front Row Forward" />
+    </Event>
+    <Event id="1231741" event_id="260" event_type_id="24" period_id="2" period_minute="18" period_second="0" min="18" sec="0" player_id="20733" team_id="1400" outcome="1" x="55.0" y="30.9" timestamp="2015-09-26T10:07:27+0000" timestamp_milliseconds="994" timer_running="0" last_modified="2015-09-26T10:07:28+0000">
+      <Q id="903164" qualifier_id="2" value="14 Replacement 1" />
+      <Q id="903163" qualifier_id="63" value="259" />
+      <Q id="903162" qualifier_id="56" />
+    </Event>
+    <Event id="1231727" event_id="292" event_type_id="17" period_id="2" period_minute="18" period_second="3" min="18" sec="3" team_id="2150" outcome="1" x="88.2" y="26.0" timestamp="2015-09-26T10:07:04+0000" timestamp_milliseconds="215" timer_running="0" last_modified="2015-09-26T10:07:04+0000">
+      <Q id="903144" qualifier_id="135" />
+    </Event>
+    <Event id="1231735" event_id="296" event_type_id="17" period_id="2" period_minute="18" period_second="12" min="18" sec="12" team_id="2150" outcome="1" x="94.8" y="39.9" timestamp="2015-09-26T10:07:13+0000" timestamp_milliseconds="43" timer_running="0" last_modified="2015-09-26T10:07:13+0000">
+      <Q id="903147" qualifier_id="135" />
+    </Event>
+    <Event id="1231736" event_id="297" event_type_id="8" period_id="2" period_minute="18" period_second="15" min="18" sec="15" player_id="20720" team_id="2150" outcome="1" x="94.8" y="39.9" timestamp="2015-09-26T10:07:15+0000" timestamp_milliseconds="996" timer_running="0" last_modified="2015-09-26T10:07:17+0000">
+      <Q id="903148" qualifier_id="172" />
+      <Q id="903149" qualifier_id="167" value="100.0" />
+      <Q id="903150" qualifier_id="168" value="21.6" />
+      <Q id="903151" qualifier_id="166" value="9" />
+    </Event>
+    <Event id="1231750" event_id="304" event_type_id="17" period_id="2" period_minute="19" period_second="11" min="19" sec="11" team_id="2150" outcome="1" x="74.6" y="64.4" timestamp="2015-09-26T10:08:11+0000" timestamp_milliseconds="948" timer_running="0" last_modified="2015-09-26T10:08:12+0000">
+      <Q id="903172" qualifier_id="135" />
+    </Event>
+    <Event id="1231758" event_id="310" event_type_id="17" period_id="2" period_minute="19" period_second="21" min="19" sec="21" team_id="2150" outcome="1" x="87.7" y="16.2" timestamp="2015-09-26T10:08:21+0000" timestamp_milliseconds="916" timer_running="0" last_modified="2015-09-26T10:08:22+0000">
+      <Q id="903175" qualifier_id="135" />
+    </Event>
+    <Event id="1231764" event_id="314" event_type_id="17" period_id="2" period_minute="19" period_second="30" min="19" sec="30" team_id="2150" outcome="1" x="89.3" y="32.7" timestamp="2015-09-26T10:08:30+0000" timestamp_milliseconds="510" timer_running="0" last_modified="2015-09-26T10:08:30+0000">
+      <Q id="903178" qualifier_id="135" />
+    </Event>
+    <Event id="1231774" event_id="320" event_type_id="17" period_id="2" period_minute="19" period_second="43" min="19" sec="43" team_id="2150" outcome="1" x="89.5" y="79.1" timestamp="2015-09-26T10:08:44+0000" timestamp_milliseconds="41" timer_running="0" last_modified="2015-09-26T10:08:44+0000">
+      <Q id="903182" qualifier_id="135" />
+    </Event>
+    <Event id="1231778" event_id="324" event_type_id="27" period_id="2" period_minute="19" period_second="53" min="19" sec="53" player_id="10869" team_id="2150" outcome="1" x="100.0" y="28.8" timestamp="2015-09-26T10:08:53+0000" timestamp_milliseconds="822" timer_running="0" last_modified="2015-09-26T10:08:56+0000">
+      <Q id="903183" qualifier_id="148" />
+      <Q id="903184" qualifier_id="163" value="-1" />
+    </Event>
+    <Event id="1231790" event_id="332" event_type_id="3" period_id="2" period_minute="21" period_second="20" min="21" sec="20" player_id="1087" team_id="2150" outcome="1" x="85.0" y="30.9" timestamp="2015-09-26T10:10:20+0000" timestamp_milliseconds="710" timer_running="0" last_modified="2015-09-26T10:10:23+0000">
+      <Q id="903195" qualifier_id="168" value="53.3" />
+      <Q id="903196" qualifier_id="166" value="19.1" />
+      <Q id="903194" qualifier_id="167" value="100.0" />
+    </Event>
+    <Event id="1231799" event_id="336" event_type_id="17" period_id="2" period_minute="22" period_second="10" min="22" sec="10" team_id="2150" outcome="1" x="13.8" y="65.2" timestamp="2015-09-26T10:11:11+0000" timestamp_milliseconds="240" timer_running="0" last_modified="2015-09-26T10:11:11+0000">
+      <Q id="903200" qualifier_id="135" />
+    </Event>
+    <Event id="1231805" event_id="339" event_type_id="17" period_id="2" period_minute="22" period_second="18" min="22" sec="18" team_id="2150" outcome="1" x="21.4" y="61.3" timestamp="2015-09-26T10:11:19+0000" timestamp_milliseconds="224" timer_running="0" last_modified="2015-09-26T10:11:19+0000">
+      <Q id="903204" qualifier_id="135" />
+    </Event>
+    <Event id="1231811" event_id="342" event_type_id="17" period_id="2" period_minute="22" period_second="28" min="22" sec="28" team_id="2150" outcome="1" x="30.7" y="37.1" timestamp="2015-09-26T10:11:28+0000" timestamp_milliseconds="427" timer_running="0" last_modified="2015-09-26T10:11:28+0000">
+      <Q id="903207" qualifier_id="135" />
+    </Event>
+    <Event id="1231816" event_id="345" event_type_id="17" period_id="2" period_minute="22" period_second="35" min="22" sec="35" team_id="2150" outcome="1" x="45.0" y="26.3" timestamp="2015-09-26T10:11:35+0000" timestamp_milliseconds="786" timer_running="0" last_modified="2015-09-26T10:11:35+0000">
+      <Q id="903210" qualifier_id="135" />
+    </Event>
+    <Event id="1231821" event_id="348" event_type_id="17" period_id="2" period_minute="22" period_second="43" min="22" sec="43" team_id="2150" outcome="1" x="60.5" y="42.8" timestamp="2015-09-26T10:11:43+0000" timestamp_milliseconds="442" timer_running="0" last_modified="2015-09-26T10:11:43+0000">
+      <Q id="903214" qualifier_id="135" />
+    </Event>
+    <Event id="1231823" event_id="350" event_type_id="8" period_id="2" period_minute="22" period_second="45" min="22" sec="45" player_id="1087" team_id="2150" outcome="1" x="60.7" y="59.8" timestamp="2015-09-26T10:11:46+0000" timestamp_milliseconds="239" timer_running="0" last_modified="2015-09-26T10:11:48+0000">
+      <Q id="903216" qualifier_id="168" value="82.0" />
+      <Q id="903215" qualifier_id="167" value="90.0" />
+      <Q id="903217" qualifier_id="166" value="29" />
+    </Event>
+    <Event id="1231830" event_id="294" event_type_id="17" period_id="2" period_minute="22" period_second="55" min="22" sec="55" team_id="1400" outcome="1" x="15.7" y="43.6" timestamp="2015-09-26T10:11:56+0000" timestamp_milliseconds="15" timer_running="0" last_modified="2015-09-26T10:11:56+0000">
+      <Q id="903221" qualifier_id="135" />
+    </Event>
+    <Event id="1231837" event_id="298" event_type_id="17" period_id="2" period_minute="23" period_second="2" min="23" sec="2" team_id="1400" outcome="1" x="24.5" y="51.8" timestamp="2015-09-26T10:12:02+0000" timestamp_milliseconds="374" timer_running="0" last_modified="2015-09-26T10:12:02+0000">
+      <Q id="903226" qualifier_id="135" />
+    </Event>
+    <Event id="1231842" event_id="301" event_type_id="17" period_id="2" period_minute="23" period_second="9" min="23" sec="9" team_id="1400" outcome="1" x="33.4" y="52.1" timestamp="2015-09-26T10:12:09+0000" timestamp_milliseconds="421" timer_running="0" last_modified="2015-09-26T10:12:09+0000">
+      <Q id="903229" qualifier_id="135" />
+    </Event>
+    <Event id="1231848" event_id="304" event_type_id="17" period_id="2" period_minute="23" period_second="16" min="23" sec="16" team_id="1400" outcome="1" x="42.7" y="54.4" timestamp="2015-09-26T10:12:16+0000" timestamp_milliseconds="858" timer_running="0" last_modified="2015-09-26T10:12:16+0000">
+      <Q id="903232" qualifier_id="135" />
+    </Event>
+    <Event id="1231857" event_id="311" event_type_id="17" period_id="2" period_minute="23" period_second="32" min="23" sec="32" team_id="1400" outcome="1" x="68.7" y="8.5" timestamp="2015-09-26T10:12:32+0000" timestamp_milliseconds="671" timer_running="0" last_modified="2015-09-26T10:12:32+0000">
+      <Q id="903234" qualifier_id="135" />
+    </Event>
+    <Event id="1231859" event_id="313" event_type_id="8" period_id="2" period_minute="23" period_second="35" min="23" sec="35" player_id="2361" team_id="1400" outcome="1" x="68.9" y="36.6" timestamp="2015-09-26T10:12:35+0000" timestamp_milliseconds="811" timer_running="0" last_modified="2015-09-26T10:12:39+0000">
+      <Q id="903238" qualifier_id="166" value="20" />
+      <Q id="903235" qualifier_id="172" />
+      <Q id="903237" qualifier_id="168" value="81.7" />
+      <Q id="903236" qualifier_id="167" value="88.6" />
+    </Event>
+    <Event id="1231867" event_id="315" event_type_id="31" period_id="2" period_minute="23" period_second="43" min="23" sec="43" player_id="11347" team_id="1400" outcome="1" x="88.6" y="81.7" timestamp="2015-09-26T10:12:44+0000" timestamp_milliseconds="30" timer_running="0" last_modified="2015-09-26T10:12:49+0000">
+      <Q id="903243" qualifier_id="63" value="25" />
+    </Event>
+    <Event id="1231865" event_id="366" event_type_id="17" period_id="2" period_minute="23" period_second="45" min="23" sec="45" team_id="2150" outcome="1" x="12.9" y="13.6" timestamp="2015-09-26T10:12:46+0000" timestamp_milliseconds="239" timer_running="0" last_modified="2015-09-26T10:12:46+0000">
+      <Q id="903242" qualifier_id="135" />
+    </Event>
+    <Event id="1231871" event_id="369" event_type_id="17" period_id="2" period_minute="23" period_second="54" min="23" sec="54" team_id="2150" outcome="1" x="22.5" y="22.9" timestamp="2015-09-26T10:12:54+0000" timestamp_milliseconds="676" timer_running="0" last_modified="2015-09-26T10:12:54+0000">
+      <Q id="903247" qualifier_id="135" />
+    </Event>
+    <Event id="1231879" event_id="373" event_type_id="17" period_id="2" period_minute="24" period_second="0" min="24" sec="0" team_id="2150" outcome="1" x="28.6" y="29.9" timestamp="2015-09-26T10:13:00+0000" timestamp_milliseconds="817" timer_running="0" last_modified="2015-09-26T10:13:00+0000">
+      <Q id="903252" qualifier_id="135" />
+    </Event>
+    <Event id="1231895" event_id="383" event_type_id="23" period_id="2" period_minute="24" period_second="0" min="24" sec="0" player_id="10933" team_id="2150" outcome="1" x="99.5" y="21.1" timestamp="2015-09-26T10:13:31+0000" timestamp_milliseconds="270" timer_running="0" last_modified="2015-09-26T10:13:31+0000">
+      <Q id="903265" qualifier_id="2" value="10 Front Row Forward" />
+      <Q id="903264" qualifier_id="56" />
+    </Event>
+    <Event id="1231896" event_id="384" event_type_id="24" period_id="2" period_minute="24" period_second="0" min="24" sec="0" player_id="5041" team_id="2150" outcome="1" x="99.5" y="21.1" timestamp="2015-09-26T10:13:31+0000" timestamp_milliseconds="270" timer_running="0" last_modified="2015-09-26T10:13:31+0000">
+      <Q id="903268" qualifier_id="63" value="383" />
+      <Q id="903269" qualifier_id="2" value="16 Replacement 3" />
+      <Q id="903267" qualifier_id="56" />
+    </Event>
+    <Event id="1231885" event_id="376" event_type_id="17" period_id="2" period_minute="24" period_second="9" min="24" sec="9" team_id="2150" outcome="1" x="41.8" y="41.7" timestamp="2015-09-26T10:13:09+0000" timestamp_milliseconds="801" timer_running="0" last_modified="2015-09-26T10:13:09+0000">
+      <Q id="903256" qualifier_id="135" />
+    </Event>
+    <Event id="1231887" event_id="378" event_type_id="8" period_id="2" period_minute="24" period_second="12" min="24" sec="12" player_id="1087" team_id="2150" outcome="1" x="50.7" y="55.4" timestamp="2015-09-26T10:13:12+0000" timestamp_milliseconds="583" timer_running="0" last_modified="2015-09-26T10:13:15+0000">
+      <Q id="903258" qualifier_id="168" value="21.1" />
+      <Q id="903257" qualifier_id="167" value="99.5" />
+      <Q id="903259" qualifier_id="166" value="49" />
+    </Event>
+    <Event id="1231893" event_id="328" event_type_id="17" period_id="2" period_minute="24" period_second="26" min="24" sec="26" team_id="1400" outcome="1" x="17.0" y="71.2" timestamp="2015-09-26T10:13:26+0000" timestamp_milliseconds="419" timer_running="0" last_modified="2015-09-26T10:13:26+0000">
+      <Q id="903263" qualifier_id="135" />
+    </Event>
+    <Event id="1231899" event_id="331" event_type_id="17" period_id="2" period_minute="24" period_second="34" min="24" sec="34" team_id="1400" outcome="1" x="27.0" y="56.5" timestamp="2015-09-26T10:13:34+0000" timestamp_milliseconds="591" timer_running="0" last_modified="2015-09-26T10:13:34+0000">
+      <Q id="903272" qualifier_id="135" />
+    </Event>
+    <Event id="1231902" event_id="333" event_type_id="17" period_id="2" period_minute="24" period_second="40" min="24" sec="40" team_id="1400" outcome="1" x="42.7" y="49.7" timestamp="2015-09-26T10:13:41+0000" timestamp_milliseconds="91" timer_running="0" last_modified="2015-09-26T10:13:41+0000">
+      <Q id="903275" qualifier_id="135" />
+    </Event>
+    <Event id="1231908" event_id="336" event_type_id="17" period_id="2" period_minute="24" period_second="47" min="24" sec="47" team_id="1400" outcome="1" x="56.6" y="51.6" timestamp="2015-09-26T10:13:47+0000" timestamp_milliseconds="419" timer_running="0" last_modified="2015-09-26T10:13:47+0000">
+      <Q id="903278" qualifier_id="135" />
+    </Event>
+    <Event id="1231917" event_id="343" event_type_id="17" period_id="2" period_minute="24" period_second="58" min="24" sec="58" team_id="1400" outcome="1" x="68.0" y="12.9" timestamp="2015-09-26T10:13:58+0000" timestamp_milliseconds="543" timer_running="0" last_modified="2015-09-26T10:13:58+0000">
+      <Q id="903282" qualifier_id="135" />
+    </Event>
+    <Event id="1231924" event_id="348" event_type_id="8" period_id="2" period_minute="25" period_second="3" min="25" sec="3" player_id="2361" team_id="1400" outcome="1" x="70.9" y="39.4" timestamp="2015-09-26T10:14:03+0000" timestamp_milliseconds="465" timer_running="0" last_modified="2015-09-26T10:14:06+0000">
+      <Q id="903289" qualifier_id="166" value="22" />
+      <Q id="903287" qualifier_id="167" value="92.7" />
+      <Q id="903288" qualifier_id="168" value="68.1" />
+      <Q id="903286" qualifier_id="172" />
+    </Event>
+    <Event id="1231927" event_id="394" event_type_id="17" period_id="2" period_minute="25" period_second="14" min="25" sec="14" team_id="2150" outcome="1" x="8.6" y="16.2" timestamp="2015-09-26T10:14:14+0000" timestamp_milliseconds="864" timer_running="0" last_modified="2015-09-26T10:14:15+0000">
+      <Q id="903291" qualifier_id="135" />
+    </Event>
+    <Event id="1231932" event_id="397" event_type_id="17" period_id="2" period_minute="25" period_second="22" min="25" sec="22" team_id="2150" outcome="1" x="23.0" y="35.5" timestamp="2015-09-26T10:14:23+0000" timestamp_milliseconds="20" timer_running="0" last_modified="2015-09-26T10:14:23+0000">
+      <Q id="903294" qualifier_id="135" />
+    </Event>
+    <Event id="1231939" event_id="400" event_type_id="17" period_id="2" period_minute="25" period_second="30" min="25" sec="30" team_id="2150" outcome="1" x="34.1" y="37.4" timestamp="2015-09-26T10:14:30+0000" timestamp_milliseconds="817" timer_running="0" last_modified="2015-09-26T10:14:30+0000">
+      <Q id="903298" qualifier_id="135" />
+    </Event>
+    <Event id="1231945" event_id="403" event_type_id="17" period_id="2" period_minute="25" period_second="39" min="25" sec="39" team_id="2150" outcome="1" x="39.3" y="25.5" timestamp="2015-09-26T10:14:39+0000" timestamp_milliseconds="801" timer_running="0" last_modified="2015-09-26T10:14:39+0000">
+      <Q id="903302" qualifier_id="135" />
+    </Event>
+    <Event id="1231963" event_id="361" event_type_id="31" period_id="2" period_minute="25" period_second="53" min="25" sec="53" player_id="20734" team_id="1400" outcome="1" x="92.7" y="68.1" timestamp="2015-09-26T10:14:54+0000" timestamp_milliseconds="229" timer_running="0" last_modified="2015-09-26T10:15:11+0000">
+      <Q id="903316" qualifier_id="63" value="25" />
+    </Event>
+    <Event id="1231957" event_id="413" event_type_id="17" period_id="2" period_minute="25" period_second="58" min="25" sec="58" team_id="2150" outcome="1" x="69.8" y="19.0" timestamp="2015-09-26T10:14:58+0000" timestamp_milliseconds="536" timer_running="0" last_modified="2015-09-26T10:14:58+0000">
+      <Q id="903309" qualifier_id="135" />
+    </Event>
+    <Event id="1231961" event_id="416" event_type_id="8" period_id="2" period_minute="26" period_second="1" min="26" sec="1" player_id="10107" team_id="2150" outcome="1" x="70.4" y="36.3" timestamp="2015-09-26T10:15:01+0000" timestamp_milliseconds="583" timer_running="0" last_modified="2015-09-26T10:15:07+0000">
+      <Q id="903313" qualifier_id="167" value="97.5" />
+      <Q id="903312" qualifier_id="172" />
+      <Q id="903315" qualifier_id="166" value="27" />
+      <Q id="903314" qualifier_id="168" value="67.5" />
+    </Event>
+    <Event id="1231975" event_id="371" event_type_id="17" period_id="2" period_minute="26" period_second="21" min="26" sec="21" team_id="1400" outcome="1" x="31.4" y="70.9" timestamp="2015-09-26T10:17:06+0000" timestamp_milliseconds="851" timer_running="0" last_modified="2015-09-26T10:17:07+0000">
+      <Q id="903329" qualifier_id="135" />
+    </Event>
+    <Event id="1231980" event_id="374" event_type_id="17" period_id="2" period_minute="26" period_second="28" min="26" sec="28" team_id="1400" outcome="1" x="36.8" y="51.8" timestamp="2015-09-26T10:17:13+0000" timestamp_milliseconds="960" timer_running="0" last_modified="2015-09-26T10:17:14+0000">
+      <Q id="903336" qualifier_id="135" />
+    </Event>
+    <Event id="1231987" event_id="378" event_type_id="17" period_id="2" period_minute="26" period_second="35" min="26" sec="35" team_id="1400" outcome="1" x="50.0" y="42.3" timestamp="2015-09-26T10:17:20+0000" timestamp_milliseconds="960" timer_running="0" last_modified="2015-09-26T10:17:21+0000">
+      <Q id="903339" qualifier_id="135" />
+    </Event>
+    <Event id="1231995" event_id="382" event_type_id="17" period_id="2" period_minute="26" period_second="43" min="26" sec="43" team_id="1400" outcome="1" x="65.7" y="59.6" timestamp="2015-09-26T10:17:29+0000" timestamp_milliseconds="147" timer_running="0" last_modified="2015-09-26T10:17:29+0000">
+      <Q id="903344" qualifier_id="135" />
+    </Event>
+    <Event id="1232001" event_id="386" event_type_id="17" period_id="2" period_minute="26" period_second="51" min="26" sec="51" team_id="1400" outcome="1" x="74.8" y="46.4" timestamp="2015-09-26T10:17:37+0000" timestamp_milliseconds="225" timer_running="0" last_modified="2015-09-26T10:17:37+0000">
+      <Q id="903348" qualifier_id="135" />
+    </Event>
+    <Event id="1232010" event_id="392" event_type_id="17" period_id="2" period_minute="27" period_second="0" min="27" sec="0" team_id="1400" outcome="1" x="87.1" y="57.2" timestamp="2015-09-26T10:17:46+0000" timestamp_milliseconds="366" timer_running="0" last_modified="2015-09-26T10:17:46+0000">
+      <Q id="903355" qualifier_id="135" />
+    </Event>
+    <Event id="1232076" event_id="470" event_type_id="23" period_id="2" period_minute="27" period_second="0" min="27" sec="0" player_id="20720" team_id="2150" outcome="1" x="100.0" y="47.9" timestamp="2015-09-26T10:20:05+0000" timestamp_milliseconds="20" timer_running="0" last_modified="2015-09-26T10:20:05+0000">
+      <Q id="903415" qualifier_id="56" />
+      <Q id="903416" qualifier_id="2" value="9 Hooker" />
+    </Event>
+    <Event id="1232077" event_id="471" event_type_id="24" period_id="2" period_minute="27" period_second="0" min="27" sec="0" player_id="6089" team_id="2150" outcome="1" x="100.0" y="47.9" timestamp="2015-09-26T10:20:05+0000" timestamp_milliseconds="36" timer_running="0" last_modified="2015-09-26T10:20:05+0000">
+      <Q id="903419" qualifier_id="63" value="470" />
+      <Q id="903418" qualifier_id="56" />
+      <Q id="903420" qualifier_id="2" value="14 Replacement 1" />
+    </Event>
+    <Event id="1232015" event_id="394" event_type_id="31" period_id="2" period_minute="27" period_second="3" min="27" sec="3" player_id="2273" team_id="1400" outcome="1" x="92.9" y="66.5" timestamp="2015-09-26T10:17:48+0000" timestamp_milliseconds="975" timer_running="0" last_modified="2015-09-26T10:17:55+0000">
+      <Q id="903361" qualifier_id="63" value="38" />
+    </Event>
+    <Event id="1232013" event_id="395" event_type_id="8" period_id="2" period_minute="27" period_second="4" min="27" sec="4" player_id="2273" team_id="1400" outcome="1" x="92.9" y="66.5" timestamp="2015-09-26T10:17:49+0000" timestamp_milliseconds="991" timer_running="0" last_modified="2015-09-26T10:17:51+0000">
+      <Q id="903357" qualifier_id="167" value="100.0" />
+      <Q id="903356" qualifier_id="172" />
+      <Q id="903358" qualifier_id="168" value="77.6" />
+      <Q id="903359" qualifier_id="166" value="13" />
+    </Event>
+    <Event id="1232025" event_id="401" event_type_id="17" period_id="2" period_minute="27" period_second="56" min="27" sec="56" team_id="1400" outcome="1" x="66.6" y="39.2" timestamp="2015-09-26T10:18:46+0000" timestamp_milliseconds="52" timer_running="0" last_modified="2015-09-26T10:18:46+0000">
+      <Q id="903371" qualifier_id="135" />
+    </Event>
+    <Event id="1232074" event_id="420" event_type_id="23" period_id="2" period_minute="28" period_second="0" min="28" sec="0" player_id="2704" team_id="1400" outcome="1" x="2.1" y="58.0" timestamp="2015-09-26T10:20:02+0000" timestamp_milliseconds="470" timer_running="0" last_modified="2015-09-26T10:20:02+0000">
+      <Q id="903409" qualifier_id="56" />
+      <Q id="903410" qualifier_id="2" value="13 Lock Forward" />
+    </Event>
+    <Event id="1232075" event_id="421" event_type_id="24" period_id="2" period_minute="28" period_second="0" min="28" sec="0" player_id="11495" team_id="1400" outcome="1" x="2.1" y="58.0" timestamp="2015-09-26T10:20:02+0000" timestamp_milliseconds="486" timer_running="0" last_modified="2015-09-26T10:20:02+0000">
+      <Q id="903413" qualifier_id="63" value="420" />
+      <Q id="903412" qualifier_id="56" />
+      <Q id="903414" qualifier_id="2" value="16 Replacement 3" />
+    </Event>
+    <Event id="1232033" event_id="442" event_type_id="17" period_id="2" period_minute="28" period_second="11" min="28" sec="11" team_id="2150" outcome="1" x="50.4" y="39.9" timestamp="2015-09-26T10:18:56+0000" timestamp_milliseconds="98" timer_running="0" last_modified="2015-09-26T10:18:56+0000">
+      <Q id="903378" qualifier_id="135" />
+    </Event>
+    <Event id="1232038" event_id="445" event_type_id="17" period_id="2" period_minute="28" period_second="20" min="28" sec="20" team_id="2150" outcome="1" x="53.6" y="55.2" timestamp="2015-09-26T10:19:04+0000" timestamp_milliseconds="489" timer_running="0" last_modified="2015-09-26T10:19:04+0000">
+      <Q id="903381" qualifier_id="135" />
+    </Event>
+    <Event id="1232042" event_id="448" event_type_id="17" period_id="2" period_minute="28" period_second="26" min="28" sec="26" team_id="2150" outcome="1" x="61.2" y="57.7" timestamp="2015-09-26T10:19:11+0000" timestamp_milliseconds="192" timer_running="0" last_modified="2015-09-26T10:19:11+0000">
+      <Q id="903384" qualifier_id="135" />
+    </Event>
+    <Event id="1232048" event_id="452" event_type_id="17" period_id="2" period_minute="28" period_second="36" min="28" sec="36" team_id="2150" outcome="1" x="70.5" y="73.5" timestamp="2015-09-26T10:19:20+0000" timestamp_milliseconds="583" timer_running="0" last_modified="2015-09-26T10:19:20+0000">
+      <Q id="903388" qualifier_id="135" />
+    </Event>
+    <Event id="1232057" event_id="458" event_type_id="17" period_id="2" period_minute="28" period_second="46" min="28" sec="46" team_id="2150" outcome="1" x="87.0" y="32.5" timestamp="2015-09-26T10:19:31+0000" timestamp_milliseconds="5" timer_running="0" last_modified="2015-09-26T10:19:31+0000">
+      <Q id="903394" qualifier_id="135" />
+    </Event>
+    <Event id="1232064" event_id="463" event_type_id="17" period_id="2" period_minute="28" period_second="59" min="28" sec="59" team_id="2150" outcome="1" x="83.9" y="67.3" timestamp="2015-09-26T10:19:43+0000" timestamp_milliseconds="473" timer_running="0" last_modified="2015-09-26T10:19:43+0000">
+      <Q id="903397" qualifier_id="135" />
+    </Event>
+    <Event id="1232078" event_id="472" event_type_id="23" period_id="2" period_minute="29" period_second="0" min="29" sec="0" player_id="2541" team_id="2150" outcome="1" x="100.0" y="47.9" timestamp="2015-09-26T10:20:11+0000" timestamp_milliseconds="739" timer_running="0" last_modified="2015-09-26T10:20:11+0000">
+      <Q id="903421" qualifier_id="56" />
+      <Q id="903422" qualifier_id="2" value="8 Prop" />
+    </Event>
+    <Event id="1232079" event_id="473" event_type_id="24" period_id="2" period_minute="29" period_second="0" min="29" sec="0" player_id="11381" team_id="2150" outcome="1" x="100.0" y="47.9" timestamp="2015-09-26T10:20:11+0000" timestamp_milliseconds="770" timer_running="0" last_modified="2015-09-26T10:20:12+0000">
+      <Q id="903426" qualifier_id="2" value="13 Lock Forward" />
+      <Q id="903425" qualifier_id="63" value="472" />
+      <Q id="903424" qualifier_id="56" />
+    </Event>
+    <Event id="1232068" event_id="466" event_type_id="8" period_id="2" period_minute="29" period_second="4" min="29" sec="4" player_id="10946" team_id="2150" outcome="1" x="86.2" y="60.6" timestamp="2015-09-26T10:19:48+0000" timestamp_milliseconds="755" timer_running="0" last_modified="2015-09-26T10:19:50+0000">
+      <Q id="903400" qualifier_id="172" />
+      <Q id="903401" qualifier_id="167" value="100.0" />
+      <Q id="903403" qualifier_id="166" value="14" />
+      <Q id="903402" qualifier_id="168" value="47.9" />
+    </Event>
+    <Event id="1232073" event_id="469" event_type_id="15" period_id="2" period_minute="29" period_second="11" min="29" sec="11" player_id="20379" team_id="2150" outcome="1" x="100.0" y="47.9" timestamp="2015-09-26T10:19:55+0000" timestamp_milliseconds="817" timer_running="0" last_modified="2015-09-26T10:19:57+0000">
+      <Q id="903408" qualifier_id="88" />
+    </Event>
+    <Event id="1232085" event_id="476" event_type_id="15" period_id="2" period_minute="29" period_second="46" min="29" sec="46" player_id="20379" team_id="2150" outcome="1" x="100.0" y="47.9" timestamp="2015-09-26T10:20:30+0000" timestamp_milliseconds="817" timer_running="0" last_modified="2015-09-26T10:20:32+0000">
+      <Q id="903430" qualifier_id="88" />
+    </Event>
+    <Event id="1232092" event_id="428" event_type_id="17" period_id="2" period_minute="30" period_second="2" min="30" sec="2" team_id="1400" outcome="1" x="72.7" y="77.3" timestamp="2015-09-26T10:20:52+0000" timestamp_milliseconds="938" timer_running="0" last_modified="2015-09-26T10:20:53+0000">
+      <Q id="903435" qualifier_id="135" />
+    </Event>
+    <Event id="1232098" event_id="432" event_type_id="17" period_id="2" period_minute="30" period_second="13" min="30" sec="13" team_id="1400" outcome="1" x="75.5" y="50.5" timestamp="2015-09-26T10:21:03+0000" timestamp_milliseconds="281" timer_running="0" last_modified="2015-09-26T10:21:03+0000">
+      <Q id="903438" qualifier_id="135" />
+    </Event>
+    <Event id="1232103" event_id="435" event_type_id="17" period_id="2" period_minute="30" period_second="20" min="30" sec="20" team_id="1400" outcome="1" x="85.7" y="65.5" timestamp="2015-09-26T10:21:10+0000" timestamp_milliseconds="94" timer_running="0" last_modified="2015-09-26T10:21:10+0000">
+      <Q id="903440" qualifier_id="135" />
+    </Event>
+    <Event id="1232107" event_id="438" event_type_id="17" period_id="2" period_minute="30" period_second="28" min="30" sec="28" team_id="1400" outcome="1" x="95.5" y="63.2" timestamp="2015-09-26T10:21:18+0000" timestamp_milliseconds="203" timer_running="0" last_modified="2015-09-26T10:21:18+0000">
+      <Q id="903443" qualifier_id="135" />
+    </Event>
+    <Event id="1232110" event_id="440" event_type_id="17" period_id="2" period_minute="30" period_second="34" min="30" sec="34" team_id="1400" outcome="1" x="98.0" y="59.8" timestamp="2015-09-26T10:21:24+0000" timestamp_milliseconds="78" timer_running="0" last_modified="2015-09-26T10:21:24+0000">
+      <Q id="903446" qualifier_id="135" />
+    </Event>
+    <Event id="1232112" event_id="442" event_type_id="8" period_id="2" period_minute="30" period_second="37" min="30" sec="37" player_id="2361" team_id="1400" outcome="1" x="91.2" y="46.7" timestamp="2015-09-26T10:21:27+0000" timestamp_milliseconds="406" timer_running="0" last_modified="2015-09-26T10:21:29+0000">
+      <Q id="903448" qualifier_id="167" value="97.7" />
+      <Q id="903447" qualifier_id="172" />
+      <Q id="903449" qualifier_id="168" value="9.8" />
+      <Q id="903450" qualifier_id="166" value="6" />
+    </Event>
+    <Event id="1232117" event_id="445" event_type_id="21" period_id="2" period_minute="31" period_second="31" min="31" sec="31" team_id="1400" outcome="1" x="90.5" y="31.2" timestamp="2015-09-26T10:22:21+0000" timestamp_milliseconds="607" timer_running="0" last_modified="2015-09-26T10:22:21+0000" />
+    <Event id="1232127" event_id="453" event_type_id="21" period_id="2" period_minute="32" period_second="21" min="32" sec="21" team_id="1400" outcome="1" x="91.1" y="79.2" timestamp="2015-09-26T10:23:11+0000" timestamp_milliseconds="169" timer_running="0" last_modified="2015-09-26T10:23:11+0000" />
+    <Event id="1232134" event_id="459" event_type_id="17" period_id="2" period_minute="32" period_second="34" min="32" sec="34" team_id="1400" outcome="1" x="85.2" y="23.4" timestamp="2015-09-26T10:23:24+0000" timestamp_milliseconds="278" timer_running="0" last_modified="2015-09-26T10:23:24+0000">
+      <Q id="903464" qualifier_id="135" />
+    </Event>
+    <Event id="1232217" event_id="509" event_type_id="23" period_id="2" period_minute="33" period_second="0" min="33" sec="0" player_id="10808" team_id="1400" outcome="1" x="90.9" y="53.6" timestamp="2015-09-26T10:28:32+0000" timestamp_milliseconds="72" timer_running="0" last_modified="2015-09-26T10:28:32+0000">
+      <Q id="903523" qualifier_id="2" value="8 Prop" />
+      <Q id="903522" qualifier_id="56" />
+    </Event>
+    <Event id="1232218" event_id="510" event_type_id="24" period_id="2" period_minute="33" period_second="0" min="33" sec="0" player_id="21385" team_id="1400" outcome="1" x="90.9" y="53.6" timestamp="2015-09-26T10:28:32+0000" timestamp_milliseconds="87" timer_running="0" last_modified="2015-09-26T10:28:32+0000">
+      <Q id="903526" qualifier_id="63" value="509" />
+      <Q id="903527" qualifier_id="2" value="17 Replacement 4" />
+      <Q id="903525" qualifier_id="56" />
+    </Event>
+    <Event id="1232144" event_id="495" event_type_id="15" period_id="2" period_minute="33" period_second="3" min="33" sec="3" player_id="5041" team_id="2150" outcome="1" x="9.5" y="15.2" timestamp="2015-09-26T10:23:47+0000" timestamp_milliseconds="817" timer_running="0" last_modified="2015-09-26T10:23:49+0000">
+      <Q id="903469" qualifier_id="88" />
+    </Event>
+    <Event id="1232148" event_id="467" event_type_id="17" period_id="2" period_minute="33" period_second="5" min="33" sec="5" team_id="1400" outcome="1" x="97.0" y="39.9" timestamp="2015-09-26T10:23:55+0000" timestamp_milliseconds="683" timer_running="0" last_modified="2015-09-26T10:23:55+0000">
+      <Q id="903473" qualifier_id="135" />
+    </Event>
+    <Event id="1232154" event_id="470" event_type_id="17" period_id="2" period_minute="33" period_second="17" min="33" sec="17" team_id="1400" outcome="1" x="100.0" y="76.1" timestamp="2015-09-26T10:24:07+0000" timestamp_milliseconds="902" timer_running="0" last_modified="2015-09-26T10:24:08+0000">
+      <Q id="903475" qualifier_id="135" />
+    </Event>
+    <Event id="1232161" event_id="474" event_type_id="17" period_id="2" period_minute="33" period_second="30" min="33" sec="30" team_id="1400" outcome="1" x="95.9" y="42.8" timestamp="2015-09-26T10:24:20+0000" timestamp_milliseconds="229" timer_running="0" last_modified="2015-09-26T10:24:20+0000">
+      <Q id="903478" qualifier_id="135" />
+    </Event>
+    <Event id="1232166" event_id="477" event_type_id="17" period_id="2" period_minute="33" period_second="38" min="33" sec="38" team_id="1400" outcome="1" x="98.7" y="29.1" timestamp="2015-09-26T10:24:28+0000" timestamp_milliseconds="245" timer_running="0" last_modified="2015-09-26T10:24:28+0000">
+      <Q id="903481" qualifier_id="135" />
+    </Event>
+    <Event id="1232169" event_id="480" event_type_id="27" period_id="2" period_minute="33" period_second="45" min="33" sec="45" player_id="11478" team_id="1400" outcome="1" x="100.0" y="74.3" timestamp="2015-09-26T10:24:35+0000" timestamp_milliseconds="729" timer_running="0" last_modified="2015-09-26T10:24:38+0000">
+      <Q id="903482" qualifier_id="148" />
+      <Q id="903483" qualifier_id="163" value="-1" />
+    </Event>
+    <Event id="1232181" event_id="488" event_type_id="3" period_id="2" period_minute="35" period_second="14" min="35" sec="14" player_id="1867" team_id="1400" outcome="1" x="78.7" y="69.4" timestamp="2015-09-26T10:26:57+0000" timestamp_milliseconds="819" timer_running="0" last_modified="2015-09-26T10:26:59+0000">
+      <Q id="903496" qualifier_id="167" value="100.0" />
+      <Q id="903498" qualifier_id="166" value="23.0" />
+      <Q id="903497" qualifier_id="168" value="48.5" />
+    </Event>
+    <Event id="1232186" event_id="491" event_type_id="17" period_id="2" period_minute="35" period_second="53" min="35" sec="53" team_id="1400" outcome="1" x="13.4" y="25.8" timestamp="2015-09-26T10:27:36+0000" timestamp_milliseconds="371" timer_running="0" last_modified="2015-09-26T10:27:36+0000">
+      <Q id="903500" qualifier_id="135" />
+    </Event>
+    <Event id="1232194" event_id="495" event_type_id="17" period_id="2" period_minute="36" period_second="1" min="36" sec="1" team_id="1400" outcome="1" x="20.4" y="41.0" timestamp="2015-09-26T10:27:44+0000" timestamp_milliseconds="614" timer_running="0" last_modified="2015-09-26T10:27:44+0000">
+      <Q id="903505" qualifier_id="135" />
+    </Event>
+    <Event id="1232200" event_id="499" event_type_id="17" period_id="2" period_minute="36" period_second="12" min="36" sec="12" team_id="1400" outcome="1" x="34.8" y="65.0" timestamp="2015-09-26T10:27:55+0000" timestamp_milliseconds="493" timer_running="0" last_modified="2015-09-26T10:27:55+0000">
+      <Q id="903508" qualifier_id="135" />
+    </Event>
+    <Event id="1232205" event_id="502" event_type_id="17" period_id="2" period_minute="36" period_second="19" min="36" sec="19" team_id="1400" outcome="1" x="41.6" y="53.1" timestamp="2015-09-26T10:28:02+0000" timestamp_milliseconds="712" timer_running="0" last_modified="2015-09-26T10:28:02+0000">
+      <Q id="903511" qualifier_id="135" />
+    </Event>
+    <Event id="1232209" event_id="504" event_type_id="17" period_id="2" period_minute="36" period_second="28" min="36" sec="28" team_id="1400" outcome="1" x="46.1" y="57.5" timestamp="2015-09-26T10:28:11+0000" timestamp_milliseconds="463" timer_running="0" last_modified="2015-09-26T10:28:11+0000">
+      <Q id="903514" qualifier_id="135" />
+    </Event>
+    <Event id="1232210" event_id="505" event_type_id="8" period_id="2" period_minute="36" period_second="29" min="36" sec="29" player_id="21159" team_id="1400" outcome="1" x="46.1" y="57.5" timestamp="2015-09-26T10:28:12+0000" timestamp_milliseconds="228" timer_running="0" last_modified="2015-09-26T10:28:17+0000">
+      <Q id="903516" qualifier_id="168" value="53.6" />
+      <Q id="903517" qualifier_id="166" value="45" />
+      <Q id="903515" qualifier_id="167" value="90.9" />
+    </Event>
+    <Event id="1232215" event_id="522" event_type_id="17" period_id="2" period_minute="36" period_second="45" min="36" sec="45" team_id="2150" outcome="1" x="20.7" y="57.0" timestamp="2015-09-26T10:28:26+0000" timestamp_milliseconds="5" timer_running="0" last_modified="2015-09-26T10:28:26+0000">
+      <Q id="903521" qualifier_id="135" />
+    </Event>
+    <Event id="1232221" event_id="525" event_type_id="17" period_id="2" period_minute="36" period_second="54" min="36" sec="54" team_id="2150" outcome="1" x="27.3" y="52.1" timestamp="2015-09-26T10:28:35+0000" timestamp_milliseconds="677" timer_running="0" last_modified="2015-09-26T10:28:35+0000">
+      <Q id="903530" qualifier_id="135" />
+    </Event>
+    <Event id="1232230" event_id="529" event_type_id="17" period_id="2" period_minute="37" period_second="4" min="37" sec="4" team_id="2150" outcome="1" x="37.7" y="45.1" timestamp="2015-09-26T10:28:44+0000" timestamp_milliseconds="926" timer_running="0" last_modified="2015-09-26T10:28:45+0000">
+      <Q id="903537" qualifier_id="135" />
+    </Event>
+    <Event id="1232235" event_id="532" event_type_id="17" period_id="2" period_minute="37" period_second="10" min="37" sec="10" team_id="2150" outcome="1" x="47.7" y="38.6" timestamp="2015-09-26T10:28:51+0000" timestamp_milliseconds="645" timer_running="0" last_modified="2015-09-26T10:28:51+0000">
+      <Q id="903542" qualifier_id="135" />
+    </Event>
+    <Event id="1232246" event_id="540" event_type_id="17" period_id="2" period_minute="37" period_second="22" min="37" sec="22" team_id="2150" outcome="1" x="74.5" y="28.8" timestamp="2015-09-26T10:29:03+0000" timestamp_milliseconds="192" timer_running="0" last_modified="2015-09-26T10:29:03+0000">
+      <Q id="903546" qualifier_id="135" />
+    </Event>
+    <Event id="1232250" event_id="544" event_type_id="8" period_id="2" period_minute="37" period_second="28" min="37" sec="28" player_id="10107" team_id="2150" outcome="1" x="83.6" y="38.1" timestamp="2015-09-26T10:29:08+0000" timestamp_milliseconds="801" timer_running="0" last_modified="2015-09-26T10:29:10+0000">
+      <Q id="903548" qualifier_id="167" value="100.0" />
+      <Q id="903550" qualifier_id="166" value="19" />
+      <Q id="903549" qualifier_id="168" value="62.9" />
+    </Event>
+    <Event id="1232255" event_id="523" event_type_id="17" period_id="2" period_minute="37" period_second="35" min="37" sec="35" team_id="1400" outcome="1" x="2.5" y="41.5" timestamp="2015-09-26T10:29:18+0000" timestamp_milliseconds="55" timer_running="0" last_modified="2015-09-26T10:29:18+0000">
+      <Q id="903554" qualifier_id="135" />
+    </Event>
+    <Event id="1232260" event_id="526" event_type_id="17" period_id="2" period_minute="37" period_second="43" min="37" sec="43" team_id="1400" outcome="1" x="7.9" y="36.3" timestamp="2015-09-26T10:29:26+0000" timestamp_milliseconds="71" timer_running="0" last_modified="2015-09-26T10:29:26+0000">
+      <Q id="903557" qualifier_id="135" />
+    </Event>
+    <Event id="1232265" event_id="529" event_type_id="17" period_id="2" period_minute="37" period_second="50" min="37" sec="50" team_id="1400" outcome="1" x="13.2" y="40.2" timestamp="2015-09-26T10:29:33+0000" timestamp_milliseconds="352" timer_running="0" last_modified="2015-09-26T10:29:33+0000">
+      <Q id="903560" qualifier_id="135" />
+    </Event>
+    <Event id="1232269" event_id="532" event_type_id="17" period_id="2" period_minute="37" period_second="57" min="37" sec="57" team_id="1400" outcome="1" x="26.6" y="37.4" timestamp="2015-09-26T10:29:40+0000" timestamp_milliseconds="633" timer_running="0" last_modified="2015-09-26T10:29:40+0000">
+      <Q id="903563" qualifier_id="135" />
+    </Event>
+    <Event id="1232277" event_id="537" event_type_id="17" period_id="2" period_minute="38" period_second="5" min="38" sec="5" team_id="1400" outcome="1" x="39.3" y="43.6" timestamp="2015-09-26T10:29:48+0000" timestamp_milliseconds="586" timer_running="0" last_modified="2015-09-26T10:29:48+0000">
+      <Q id="903568" qualifier_id="135" />
+    </Event>
+    <Event id="1232278" event_id="538" event_type_id="8" period_id="2" period_minute="38" period_second="6" min="38" sec="6" player_id="1867" team_id="1400" outcome="1" x="39.3" y="43.6" timestamp="2015-09-26T10:29:49+0000" timestamp_milliseconds="461" timer_running="0" last_modified="2015-09-26T10:29:53+0000">
+      <Q id="903569" qualifier_id="167" value="83.0" />
+      <Q id="903571" qualifier_id="166" value="44" />
+      <Q id="903570" qualifier_id="168" value="51.6" />
+    </Event>
+    <Event id="1232287" event_id="560" event_type_id="17" period_id="2" period_minute="38" period_second="23" min="38" sec="23" team_id="2150" outcome="1" x="35.7" y="60.1" timestamp="2015-09-26T10:30:04+0000" timestamp_milliseconds="659" timer_running="0" last_modified="2015-09-26T10:30:04+0000">
+      <Q id="903577" qualifier_id="135" />
+    </Event>
+    <Event id="1232293" event_id="563" event_type_id="17" period_id="2" period_minute="38" period_second="31" min="38" sec="31" team_id="2150" outcome="1" x="49.6" y="68.3" timestamp="2015-09-26T10:30:11+0000" timestamp_milliseconds="784" timer_running="0" last_modified="2015-09-26T10:30:11+0000">
+      <Q id="903580" qualifier_id="135" />
+    </Event>
+    <Event id="1232299" event_id="566" event_type_id="17" period_id="2" period_minute="38" period_second="39" min="38" sec="39" team_id="2150" outcome="1" x="58.4" y="61.6" timestamp="2015-09-26T10:30:20+0000" timestamp_milliseconds="158" timer_running="0" last_modified="2015-09-26T10:30:20+0000">
+      <Q id="903584" qualifier_id="135" />
+    </Event>
+    <Event id="1232307" event_id="572" event_type_id="17" period_id="2" period_minute="38" period_second="49" min="38" sec="49" team_id="2150" outcome="1" x="74.1" y="51.5" timestamp="2015-09-26T10:30:29+0000" timestamp_milliseconds="955" timer_running="0" last_modified="2015-09-26T10:30:30+0000">
+      <Q id="903588" qualifier_id="135" />
+    </Event>
+    <Event id="1232323" event_id="584" event_type_id="17" period_id="2" period_minute="39" period_second="2" min="39" sec="2" team_id="2150" outcome="1" x="96.2" y="12.3" timestamp="2015-09-26T10:30:43+0000" timestamp_milliseconds="439" timer_running="0" last_modified="2015-09-26T10:30:43+0000">
+      <Q id="903594" qualifier_id="135" />
+    </Event>
+    <Event id="1232325" event_id="587" event_type_id="8" period_id="2" period_minute="39" period_second="8" min="39" sec="8" player_id="1087" team_id="2150" outcome="1" x="93.4" y="33.7" timestamp="2015-09-26T10:30:49+0000" timestamp_milliseconds="298" timer_running="0" last_modified="2015-09-26T10:30:51+0000">
+      <Q id="903596" qualifier_id="167" value="100.0" />
+      <Q id="903595" qualifier_id="172" />
+      <Q id="903597" qualifier_id="168" value="71.4" />
+      <Q id="903598" qualifier_id="166" value="7" />
+    </Event>
+    <Event id="1232330" event_id="588" event_type_id="27" period_id="2" period_minute="39" period_second="13" min="39" sec="13" player_id="2570" team_id="2150" outcome="1" x="100.0" y="90.5" timestamp="2015-09-26T10:30:54+0000" timestamp_milliseconds="32" timer_running="0" last_modified="2015-09-26T10:32:35+0000">
+      <Q id="903604" qualifier_id="152" />
+      <Q id="903605" qualifier_id="163" value="-1" />
+    </Event>
+    <Event id="1232351" event_id="602" event_type_id="3" period_id="2" period_minute="40" period_second="2" min="40" sec="2" player_id="1087" team_id="2150" outcome="1" x="81.4" y="84.0" timestamp="2015-09-26T10:34:11+0000" timestamp_milliseconds="152" timer_running="0" last_modified="2015-09-26T10:34:13+0000">
+      <Q id="903630" qualifier_id="167" value="100.0" />
+      <Q id="903632" qualifier_id="166" value="19.1" />
+      <Q id="903631" qualifier_id="168" value="49.5" />
+    </Event>
+    <Event id="1232355" event_id="568" event_type_id="7" period_id="2" period_minute="40" period_second="6" min="40" sec="6" team_id="1400" outcome="0" x="100.0" y="100.0" timestamp="2015-09-26T10:34:37+0000" timestamp_milliseconds="297" timer_running="0" last_modified="2015-09-26T10:34:37+0000">
+      <Q id="903637" qualifier_id="53" value="0" />
+    </Event>
+    <Event id="1232357" event_id="604" event_type_id="7" period_id="2" period_minute="40" period_second="6" min="40" sec="6" team_id="2150" outcome="0" x="0.0" y="0.0" timestamp="2015-09-26T10:34:39+0000" timestamp_milliseconds="26" timer_running="0" last_modified="2015-09-26T10:34:39+0000">
+      <Q id="903640" qualifier_id="53" value="0" />
+    </Event>
+    <Event id="1232360" event_id="607" event_type_id="22" period_id="4" period_minute="40" period_second="0" min="40" sec="0" team_id="2150" outcome="0" x="100.0" y="100.0" timestamp="2015-09-26T10:51:17+0000" timestamp_milliseconds="966" timer_running="0" last_modified="2015-09-26T10:51:18+0000">
+      <Q id="903643" qualifier_id="52" value="Right to Left" />
+    </Event>
+    <Event id="1232362" event_id="571" event_type_id="22" period_id="4" period_minute="40" period_second="0" min="40" sec="0" team_id="1400" outcome="0" x="0.0" y="0.0" timestamp="2015-09-26T10:51:18+0000" timestamp_milliseconds="346" timer_running="0" last_modified="2015-09-26T10:51:18+0000">
+      <Q id="903645" qualifier_id="52" value="Left to Right" />
+    </Event>
+    <Event id="1232366" event_id="574" event_type_id="17" period_id="4" period_minute="40" period_second="15" min="40" sec="15" team_id="1400" outcome="1" x="9.6" y="44.1" timestamp="2015-09-26T10:51:33+0000" timestamp_milliseconds="361" timer_running="0" last_modified="2015-09-26T10:51:33+0000">
+      <Q id="903647" qualifier_id="135" />
+    </Event>
+    <Event id="1232371" event_id="577" event_type_id="17" period_id="4" period_minute="40" period_second="21" min="40" sec="21" team_id="1400" outcome="1" x="14.1" y="65.0" timestamp="2015-09-26T10:51:40+0000" timestamp_milliseconds="173" timer_running="0" last_modified="2015-09-26T10:51:40+0000">
+      <Q id="903650" qualifier_id="135" />
+    </Event>
+    <Event id="1232378" event_id="580" event_type_id="17" period_id="4" period_minute="40" period_second="33" min="40" sec="33" team_id="1400" outcome="1" x="25.2" y="44.8" timestamp="2015-09-26T10:51:51+0000" timestamp_milliseconds="408" timer_running="0" last_modified="2015-09-26T10:51:51+0000">
+      <Q id="903653" qualifier_id="135" />
+    </Event>
+    <Event id="1232382" event_id="583" event_type_id="17" period_id="4" period_minute="40" period_second="39" min="40" sec="39" team_id="1400" outcome="1" x="36.6" y="39.4" timestamp="2015-09-26T10:51:57+0000" timestamp_milliseconds="735" timer_running="0" last_modified="2015-09-26T10:51:57+0000">
+      <Q id="903656" qualifier_id="135" />
+    </Event>
+    <Event id="1232388" event_id="586" event_type_id="17" period_id="4" period_minute="40" period_second="46" min="40" sec="46" team_id="1400" outcome="1" x="45.9" y="29.9" timestamp="2015-09-26T10:52:05+0000" timestamp_milliseconds="126" timer_running="0" last_modified="2015-09-26T10:52:05+0000">
+      <Q id="903659" qualifier_id="135" />
+    </Event>
+    <Event id="1232389" event_id="587" event_type_id="8" period_id="4" period_minute="40" period_second="47" min="40" sec="47" player_id="1867" team_id="1400" outcome="1" x="45.9" y="29.9" timestamp="2015-09-26T10:52:06+0000" timestamp_milliseconds="32" timer_running="0" last_modified="2015-09-26T10:52:08+0000">
+      <Q id="903661" qualifier_id="168" value="53.6" />
+      <Q id="903660" qualifier_id="167" value="87.9" />
+      <Q id="903662" qualifier_id="166" value="42" />
+    </Event>
+    <Event id="1232397" event_id="622" event_type_id="17" period_id="4" period_minute="41" period_second="1" min="41" sec="1" team_id="2150" outcome="1" x="24.1" y="55.9" timestamp="2015-09-26T10:52:18+0000" timestamp_milliseconds="980" timer_running="0" last_modified="2015-09-26T10:52:19+0000">
+      <Q id="903668" qualifier_id="135" />
+    </Event>
+    <Event id="1232402" event_id="625" event_type_id="17" period_id="4" period_minute="41" period_second="10" min="41" sec="10" team_id="2150" outcome="1" x="31.6" y="70.9" timestamp="2015-09-26T10:52:28+0000" timestamp_milliseconds="230" timer_running="0" last_modified="2015-09-26T10:52:28+0000">
+      <Q id="903671" qualifier_id="135" />
+    </Event>
+    <Event id="1232408" event_id="628" event_type_id="17" period_id="4" period_minute="41" period_second="18" min="41" sec="18" team_id="2150" outcome="1" x="41.3" y="82.2" timestamp="2015-09-26T10:52:36+0000" timestamp_milliseconds="323" timer_running="0" last_modified="2015-09-26T10:52:36+0000">
+      <Q id="903675" qualifier_id="135" />
+    </Event>
+    <Event id="1232416" event_id="597" event_type_id="31" period_id="4" period_minute="41" period_second="19" min="41" sec="19" player_id="20733" team_id="1400" outcome="1" x="87.9" y="53.6" timestamp="2015-09-26T10:52:38+0000" timestamp_milliseconds="234" timer_running="0" last_modified="2015-09-26T10:52:50+0000">
+      <Q id="903683" qualifier_id="63" value="25" />
+      <Q id="903682" qualifier_id="171" />
+    </Event>
+    <Event id="1232414" event_id="599" event_type_id="15" period_id="4" period_minute="41" period_second="26" min="41" sec="26" player_id="20733" team_id="1400" outcome="1" x="87.9" y="53.6" timestamp="2015-09-26T10:52:45+0000" timestamp_milliseconds="250" timer_running="0" last_modified="2015-09-26T10:52:46+0000">
+      <Q id="903681" qualifier_id="88" />
+    </Event>
+    <Event id="1232421" event_id="635" event_type_id="17" period_id="4" period_minute="41" period_second="54" min="41" sec="54" team_id="2150" outcome="1" x="80.2" y="55.2" timestamp="2015-09-26T10:53:12+0000" timestamp_milliseconds="338" timer_running="0" last_modified="2015-09-26T10:53:12+0000">
+      <Q id="903686" qualifier_id="135" />
+    </Event>
+    <Event id="1232430" event_id="640" event_type_id="17" period_id="4" period_minute="42" period_second="5" min="42" sec="5" team_id="2150" outcome="1" x="92.0" y="44.3" timestamp="2015-09-26T10:53:23+0000" timestamp_milliseconds="963" timer_running="0" last_modified="2015-09-26T10:53:24+0000">
+      <Q id="903691" qualifier_id="135" />
+    </Event>
+    <Event id="1232436" event_id="643" event_type_id="17" period_id="4" period_minute="42" period_second="14" min="42" sec="14" team_id="2150" outcome="1" x="98.4" y="42.5" timestamp="2015-09-26T10:53:32+0000" timestamp_milliseconds="135" timer_running="0" last_modified="2015-09-26T10:53:32+0000">
+      <Q id="903696" qualifier_id="135" />
+    </Event>
+    <Event id="1232442" event_id="647" event_type_id="17" period_id="4" period_minute="42" period_second="22" min="42" sec="22" team_id="2150" outcome="1" x="97.5" y="72.7" timestamp="2015-09-26T10:53:40+0000" timestamp_milliseconds="635" timer_running="0" last_modified="2015-09-26T10:53:40+0000">
+      <Q id="903699" qualifier_id="135" />
+    </Event>
+    <Event id="1232448" event_id="651" event_type_id="17" period_id="4" period_minute="42" period_second="34" min="42" sec="34" team_id="2150" outcome="1" x="92.5" y="30.4" timestamp="2015-09-26T10:53:52+0000" timestamp_milliseconds="978" timer_running="0" last_modified="2015-09-26T10:53:53+0000">
+      <Q id="903701" qualifier_id="135" />
+    </Event>
+    <Event id="1232450" event_id="654" event_type_id="8" period_id="4" period_minute="42" period_second="41" min="42" sec="41" player_id="1087" team_id="2150" outcome="1" x="93.0" y="36.6" timestamp="2015-09-26T10:53:59+0000" timestamp_milliseconds="275" timer_running="0" last_modified="2015-09-26T10:54:01+0000">
+      <Q id="903705" qualifier_id="166" value="6" />
+      <Q id="903703" qualifier_id="167" value="98.7" />
+      <Q id="903702" qualifier_id="172" />
+      <Q id="903704" qualifier_id="168" value="87.9" />
+    </Event>
+    <Event id="1232455" event_id="614" event_type_id="17" period_id="4" period_minute="42" period_second="51" min="42" sec="51" team_id="1400" outcome="1" x="15.7" y="13.9" timestamp="2015-09-26T10:54:10+0000" timestamp_milliseconds="231" timer_running="0" last_modified="2015-09-26T10:54:10+0000">
+      <Q id="903711" qualifier_id="135" />
+    </Event>
+    <Event id="1232463" event_id="618" event_type_id="17" period_id="4" period_minute="43" period_second="0" min="43" sec="0" team_id="1400" outcome="1" x="22.5" y="23.2" timestamp="2015-09-26T10:54:19+0000" timestamp_milliseconds="28" timer_running="0" last_modified="2015-09-26T10:54:19+0000">
+      <Q id="903716" qualifier_id="135" />
+    </Event>
+    <Event id="1232468" event_id="621" event_type_id="17" period_id="4" period_minute="43" period_second="8" min="43" sec="8" team_id="1400" outcome="1" x="28.4" y="37.6" timestamp="2015-09-26T10:54:26+0000" timestamp_milliseconds="684" timer_running="0" last_modified="2015-09-26T10:54:26+0000">
+      <Q id="903719" qualifier_id="135" />
+    </Event>
+    <Event id="1232473" event_id="625" event_type_id="17" period_id="4" period_minute="43" period_second="15" min="43" sec="15" team_id="1400" outcome="1" x="39.8" y="73.7" timestamp="2015-09-26T10:54:33+0000" timestamp_milliseconds="996" timer_running="0" last_modified="2015-09-26T10:54:34+0000">
+      <Q id="903722" qualifier_id="135" />
+    </Event>
+    <Event id="1232479" event_id="629" event_type_id="17" period_id="4" period_minute="43" period_second="24" min="43" sec="24" team_id="1400" outcome="1" x="53.4" y="76.6" timestamp="2015-09-26T10:54:42+0000" timestamp_milliseconds="730" timer_running="0" last_modified="2015-09-26T10:54:42+0000">
+      <Q id="903728" qualifier_id="135" />
+    </Event>
+    <Event id="1232481" event_id="631" event_type_id="8" period_id="4" period_minute="43" period_second="26" min="43" sec="26" player_id="2273" team_id="1400" outcome="1" x="48.0" y="62.4" timestamp="2015-09-26T10:54:45+0000" timestamp_milliseconds="121" timer_running="0" last_modified="2015-09-26T10:54:48+0000">
+      <Q id="903729" qualifier_id="167" value="81.6" />
+      <Q id="903731" qualifier_id="166" value="34" />
+      <Q id="903730" qualifier_id="168" value="63.7" />
+    </Event>
+    <Event id="1232484" event_id="667" event_type_id="17" period_id="4" period_minute="43" period_second="35" min="43" sec="35" team_id="2150" outcome="1" x="13.4" y="50.8" timestamp="2015-09-26T10:54:53+0000" timestamp_milliseconds="71" timer_running="0" last_modified="2015-09-26T10:54:53+0000">
+      <Q id="903733" qualifier_id="135" />
+    </Event>
+    <Event id="1232508" event_id="635" event_type_id="31" period_id="4" period_minute="43" period_second="38" min="43" sec="38" player_id="2704" team_id="1400" outcome="1" x="81.6" y="63.7" timestamp="2015-09-26T10:54:56+0000" timestamp_milliseconds="917" timer_running="0" last_modified="2015-09-26T10:55:24+0000">
+      <Q id="903745" qualifier_id="63" value="25" />
+    </Event>
+    <Event id="1232491" event_id="671" event_type_id="17" period_id="4" period_minute="43" period_second="46" min="43" sec="46" team_id="2150" outcome="1" x="28.0" y="76.8" timestamp="2015-09-26T10:55:04+0000" timestamp_milliseconds="8" timer_running="0" last_modified="2015-09-26T10:55:04+0000">
+      <Q id="903736" qualifier_id="135" />
+    </Event>
+    <Event id="1232497" event_id="674" event_type_id="17" period_id="4" period_minute="43" period_second="54" min="43" sec="54" team_id="2150" outcome="1" x="41.8" y="68.6" timestamp="2015-09-26T10:55:12+0000" timestamp_milliseconds="86" timer_running="0" last_modified="2015-09-26T10:55:12+0000">
+      <Q id="903739" qualifier_id="135" />
+    </Event>
+    <Event id="1232506" event_id="679" event_type_id="17" period_id="4" period_minute="44" period_second="4" min="44" sec="4" team_id="2150" outcome="1" x="58.0" y="42.8" timestamp="2015-09-26T10:55:22+0000" timestamp_milliseconds="539" timer_running="0" last_modified="2015-09-26T10:55:22+0000">
+      <Q id="903744" qualifier_id="135" />
+    </Event>
+    <Event id="1232516" event_id="685" event_type_id="17" period_id="4" period_minute="44" period_second="13" min="44" sec="13" team_id="2150" outcome="1" x="70.5" y="58.8" timestamp="2015-09-26T10:55:31+0000" timestamp_milliseconds="601" timer_running="0" last_modified="2015-09-26T10:55:31+0000">
+      <Q id="903749" qualifier_id="135" />
+    </Event>
+    <Event id="1232518" event_id="687" event_type_id="8" period_id="4" period_minute="44" period_second="16" min="44" sec="16" player_id="1087" team_id="2150" outcome="1" x="70.5" y="58.8" timestamp="2015-09-26T10:55:34+0000" timestamp_milliseconds="117" timer_running="0" last_modified="2015-09-26T10:55:39+0000">
+      <Q id="903751" qualifier_id="168" value="49.7" />
+      <Q id="903750" qualifier_id="167" value="96.4" />
+      <Q id="903752" qualifier_id="166" value="26" />
+    </Event>
+    <Event id="1232521" event_id="647" event_type_id="17" period_id="4" period_minute="44" period_second="27" min="44" sec="27" team_id="1400" outcome="1" x="3.4" y="61.1" timestamp="2015-09-26T10:55:45+0000" timestamp_milliseconds="822" timer_running="0" last_modified="2015-09-26T10:55:45+0000">
+      <Q id="903754" qualifier_id="135" />
+    </Event>
+    <Event id="1232526" event_id="650" event_type_id="17" period_id="4" period_minute="44" period_second="34" min="44" sec="34" team_id="1400" outcome="1" x="17.1" y="46.9" timestamp="2015-09-26T10:55:52+0000" timestamp_milliseconds="447" timer_running="0" last_modified="2015-09-26T10:55:52+0000">
+      <Q id="903757" qualifier_id="135" />
+    </Event>
+    <Event id="1232532" event_id="653" event_type_id="17" period_id="4" period_minute="44" period_second="43" min="44" sec="43" team_id="1400" outcome="1" x="28.4" y="42.3" timestamp="2015-09-26T10:56:01+0000" timestamp_milliseconds="853" timer_running="0" last_modified="2015-09-26T10:56:02+0000">
+      <Q id="903760" qualifier_id="135" />
+    </Event>
+    <Event id="1232537" event_id="656" event_type_id="17" period_id="4" period_minute="44" period_second="49" min="44" sec="49" team_id="1400" outcome="1" x="31.6" y="21.9" timestamp="2015-09-26T10:56:08+0000" timestamp_milliseconds="306" timer_running="0" last_modified="2015-09-26T10:56:08+0000">
+      <Q id="903763" qualifier_id="135" />
+    </Event>
+    <Event id="1232544" event_id="659" event_type_id="17" period_id="4" period_minute="44" period_second="59" min="44" sec="59" team_id="1400" outcome="1" x="41.3" y="40.7" timestamp="2015-09-26T10:56:18+0000" timestamp_milliseconds="274" timer_running="0" last_modified="2015-09-26T10:56:18+0000">
+      <Q id="903767" qualifier_id="135" />
+    </Event>
+    <Event id="1232599" event_id="729" event_type_id="23" period_id="4" period_minute="45" period_second="0" min="45" sec="0" player_id="10198" team_id="2150" outcome="1" x="97.5" y="11.1" timestamp="2015-09-26T10:57:46+0000" timestamp_milliseconds="864" timer_running="0" last_modified="2015-09-26T10:57:47+0000">
+      <Q id="903806" qualifier_id="2" value="5 Left Wing Threequart" />
+      <Q id="903805" qualifier_id="56" />
+    </Event>
+    <Event id="1232600" event_id="730" event_type_id="24" period_id="4" period_minute="45" period_second="0" min="45" sec="0" player_id="21009" team_id="2150" outcome="1" x="97.5" y="11.1" timestamp="2015-09-26T10:57:46+0000" timestamp_milliseconds="880" timer_running="0" last_modified="2015-09-26T10:57:47+0000">
+      <Q id="903810" qualifier_id="2" value="15 Replacement 2" />
+      <Q id="903809" qualifier_id="63" value="729" />
+      <Q id="903808" qualifier_id="56" />
+    </Event>
+    <Event id="1232547" event_id="662" event_type_id="8" period_id="4" period_minute="45" period_second="3" min="45" sec="3" player_id="11495" team_id="1400" outcome="1" x="45.0" y="51.3" timestamp="2015-09-26T10:56:22+0000" timestamp_milliseconds="165" timer_running="0" last_modified="2015-09-26T10:56:27+0000">
+      <Q id="903770" qualifier_id="168" value="24.5" />
+      <Q id="903769" qualifier_id="167" value="74.3" />
+      <Q id="903771" qualifier_id="166" value="29" />
+    </Event>
+    <Event id="1232552" event_id="703" event_type_id="17" period_id="4" period_minute="45" period_second="19" min="45" sec="19" team_id="2150" outcome="1" x="14.5" y="63.4" timestamp="2015-09-26T10:56:37+0000" timestamp_milliseconds="147" timer_running="0" last_modified="2015-09-26T10:56:37+0000">
+      <Q id="903775" qualifier_id="135" />
+    </Event>
+    <Event id="1232559" event_id="707" event_type_id="17" period_id="4" period_minute="45" period_second="26" min="45" sec="26" team_id="2150" outcome="1" x="28.6" y="43.3" timestamp="2015-09-26T10:56:44+0000" timestamp_milliseconds="412" timer_running="0" last_modified="2015-09-26T10:56:44+0000">
+      <Q id="903778" qualifier_id="135" />
+    </Event>
+    <Event id="1232565" event_id="710" event_type_id="17" period_id="4" period_minute="45" period_second="34" min="45" sec="34" team_id="2150" outcome="1" x="39.6" y="48.7" timestamp="2015-09-26T10:56:52+0000" timestamp_milliseconds="303" timer_running="0" last_modified="2015-09-26T10:56:52+0000">
+      <Q id="903782" qualifier_id="135" />
+    </Event>
+    <Event id="1232571" event_id="714" event_type_id="17" period_id="4" period_minute="45" period_second="42" min="45" sec="42" team_id="2150" outcome="1" x="57.5" y="78.4" timestamp="2015-09-26T10:57:00+0000" timestamp_milliseconds="350" timer_running="0" last_modified="2015-09-26T10:57:00+0000">
+      <Q id="903785" qualifier_id="135" />
+    </Event>
+    <Event id="1232577" event_id="673" event_type_id="31" period_id="4" period_minute="45" period_second="44" min="45" sec="44" player_id="11495" team_id="1400" outcome="1" x="74.3" y="24.5" timestamp="2015-09-26T10:57:03+0000" timestamp_milliseconds="211" timer_running="0" last_modified="2015-09-26T10:57:08+0000">
+      <Q id="903788" qualifier_id="63" value="25" />
+    </Event>
+    <Event id="1232578" event_id="717" event_type_id="17" period_id="4" period_minute="45" period_second="53" min="45" sec="53" team_id="2150" outcome="1" x="69.5" y="53.9" timestamp="2015-09-26T10:57:11+0000" timestamp_milliseconds="396" timer_running="0" last_modified="2015-09-26T10:57:11+0000">
+      <Q id="903789" qualifier_id="135" />
+    </Event>
+    <Event id="1232580" event_id="719" event_type_id="8" period_id="4" period_minute="45" period_second="55" min="45" sec="55" player_id="1087" team_id="2150" outcome="1" x="71.8" y="36.1" timestamp="2015-09-26T10:57:13+0000" timestamp_milliseconds="599" timer_running="0" last_modified="2015-09-26T10:57:17+0000">
+      <Q id="903790" qualifier_id="167" value="97.5" />
+      <Q id="903792" qualifier_id="166" value="26" />
+      <Q id="903791" qualifier_id="168" value="11.1" />
+    </Event>
+    <Event id="1232646" event_id="710" event_type_id="23" period_id="4" period_minute="46" period_second="0" min="46" sec="0" player_id="21385" team_id="1400" outcome="1" x="95.0" y="22.7" timestamp="2015-09-26T10:58:50+0000" timestamp_milliseconds="239" timer_running="0" last_modified="2015-09-26T10:58:50+0000">
+      <Q id="903839" qualifier_id="2" value="17 Replacement 4" />
+      <Q id="903838" qualifier_id="56" />
+    </Event>
+    <Event id="1232647" event_id="711" event_type_id="24" period_id="4" period_minute="46" period_second="0" min="46" sec="0" player_id="20520" team_id="1400" outcome="1" x="95.0" y="22.7" timestamp="2015-09-26T10:58:50+0000" timestamp_milliseconds="271" timer_running="0" last_modified="2015-09-26T10:58:50+0000">
+      <Q id="903843" qualifier_id="2" value="10 Front Row Forward" />
+      <Q id="903841" qualifier_id="56" />
+      <Q id="903842" qualifier_id="63" value="710" />
+    </Event>
+    <Event id="1232587" event_id="678" event_type_id="17" period_id="4" period_minute="46" period_second="6" min="46" sec="6" team_id="1400" outcome="1" x="10.9" y="47.9" timestamp="2015-09-26T10:57:24+0000" timestamp_milliseconds="992" timer_running="0" last_modified="2015-09-26T10:57:25+0000">
+      <Q id="903798" qualifier_id="135" />
+    </Event>
+    <Event id="1232593" event_id="681" event_type_id="17" period_id="4" period_minute="46" period_second="16" min="46" sec="16" team_id="1400" outcome="1" x="30.4" y="21.1" timestamp="2015-09-26T10:57:35+0000" timestamp_milliseconds="163" timer_running="0" last_modified="2015-09-26T10:57:35+0000">
+      <Q id="903801" qualifier_id="135" />
+    </Event>
+    <Event id="1232598" event_id="684" event_type_id="17" period_id="4" period_minute="46" period_second="28" min="46" sec="28" team_id="1400" outcome="1" x="37.9" y="52.8" timestamp="2015-09-26T10:57:46+0000" timestamp_milliseconds="710" timer_running="0" last_modified="2015-09-26T10:57:46+0000">
+      <Q id="903804" qualifier_id="135" />
+    </Event>
+    <Event id="1232606" event_id="687" event_type_id="17" period_id="4" period_minute="46" period_second="38" min="46" sec="38" team_id="1400" outcome="1" x="52.9" y="45.9" timestamp="2015-09-26T10:57:57+0000" timestamp_milliseconds="303" timer_running="0" last_modified="2015-09-26T10:57:57+0000">
+      <Q id="903813" qualifier_id="135" />
+    </Event>
+    <Event id="1232615" event_id="694" event_type_id="17" period_id="4" period_minute="46" period_second="50" min="46" sec="50" team_id="1400" outcome="1" x="78.4" y="36.6" timestamp="2015-09-26T10:58:08+0000" timestamp_milliseconds="475" timer_running="0" last_modified="2015-09-26T10:58:08+0000">
+      <Q id="903817" qualifier_id="135" />
+    </Event>
+    <Event id="1232618" event_id="697" event_type_id="8" period_id="4" period_minute="46" period_second="54" min="46" sec="54" player_id="5070" team_id="1400" outcome="1" x="84.3" y="17.8" timestamp="2015-09-26T10:58:13+0000" timestamp_milliseconds="6" timer_running="0" last_modified="2015-09-26T10:58:14+0000">
+      <Q id="903820" qualifier_id="167" value="95.0" />
+      <Q id="903821" qualifier_id="168" value="22.7" />
+      <Q id="903822" qualifier_id="166" value="11" />
+      <Q id="903819" qualifier_id="172" />
+    </Event>
+    <Event id="1232626" event_id="739" event_type_id="17" period_id="4" period_minute="47" period_second="2" min="47" sec="2" team_id="2150" outcome="1" x="8.8" y="73.7" timestamp="2015-09-26T10:58:20+0000" timestamp_milliseconds="161" timer_running="0" last_modified="2015-09-26T10:58:20+0000">
+      <Q id="903828" qualifier_id="135" />
+    </Event>
+    <Event id="1232631" event_id="742" event_type_id="17" period_id="4" period_minute="47" period_second="8" min="47" sec="8" team_id="2150" outcome="1" x="15.2" y="70.1" timestamp="2015-09-26T10:58:26+0000" timestamp_milliseconds="520" timer_running="0" last_modified="2015-09-26T10:58:26+0000">
+      <Q id="903831" qualifier_id="135" />
+    </Event>
+    <Event id="1232638" event_id="746" event_type_id="17" period_id="4" period_minute="47" period_second="20" min="47" sec="20" team_id="2150" outcome="1" x="30.5" y="76.8" timestamp="2015-09-26T10:58:38+0000" timestamp_milliseconds="895" timer_running="0" last_modified="2015-09-26T10:58:39+0000">
+      <Q id="903834" qualifier_id="135" />
+    </Event>
+    <Event id="1232644" event_id="749" event_type_id="17" period_id="4" period_minute="47" period_second="31" min="47" sec="31" team_id="2150" outcome="1" x="43.4" y="28.6" timestamp="2015-09-26T10:58:49+0000" timestamp_milliseconds="160" timer_running="0" last_modified="2015-09-26T10:58:49+0000">
+      <Q id="903837" qualifier_id="135" />
+    </Event>
+    <Event id="1232653" event_id="755" event_type_id="17" period_id="4" period_minute="47" period_second="40" min="47" sec="40" team_id="2150" outcome="1" x="53.9" y="71.4" timestamp="2015-09-26T10:58:58+0000" timestamp_milliseconds="675" timer_running="0" last_modified="2015-09-26T10:58:58+0000">
+      <Q id="903846" qualifier_id="135" />
+    </Event>
+    <Event id="1232655" event_id="757" event_type_id="8" period_id="4" period_minute="47" period_second="43" min="47" sec="43" player_id="1087" team_id="2150" outcome="1" x="58.9" y="57.0" timestamp="2015-09-26T10:59:01+0000" timestamp_milliseconds="394" timer_running="0" last_modified="2015-09-26T10:59:03+0000">
+      <Q id="903848" qualifier_id="168" value="65.2" />
+      <Q id="903849" qualifier_id="166" value="28" />
+      <Q id="903847" qualifier_id="167" value="87.3" />
+    </Event>
+    <Event id="1232704" event_id="739" event_type_id="23" period_id="4" period_minute="48" period_second="0" min="48" sec="0" player_id="2912" team_id="1400" outcome="1" x="100.0" y="79.1" timestamp="2015-09-26T11:01:22+0000" timestamp_milliseconds="767" timer_running="0" last_modified="2015-09-26T11:01:22+0000">
+      <Q id="903881" qualifier_id="56" />
+      <Q id="903882" qualifier_id="2" value="11 Second Row Forward" />
+    </Event>
+    <Event id="1232705" event_id="740" event_type_id="24" period_id="4" period_minute="48" period_second="0" min="48" sec="0" player_id="11480" team_id="1400" outcome="1" x="100.0" y="79.1" timestamp="2015-09-26T11:01:22+0000" timestamp_milliseconds="782" timer_running="0" last_modified="2015-09-26T11:01:23+0000">
+      <Q id="903886" qualifier_id="2" value="15 Replacement 2" />
+      <Q id="903885" qualifier_id="63" value="739" />
+      <Q id="903884" qualifier_id="56" />
+    </Event>
+    <Event id="1232667" event_id="765" event_type_id="15" period_id="4" period_minute="48" period_second="3" min="48" sec="3" player_id="6089" team_id="2150" outcome="1" x="87.3" y="65.2" timestamp="2015-09-26T10:59:23+0000" timestamp_milliseconds="894" timer_running="0" last_modified="2015-09-26T10:59:25+0000">
+      <Q id="903858" qualifier_id="88" />
+    </Event>
+    <Event id="1232672" event_id="719" event_type_id="17" period_id="4" period_minute="48" period_second="43" min="48" sec="43" team_id="1400" outcome="1" x="57.1" y="34.5" timestamp="2015-09-26T11:00:02+0000" timestamp_milliseconds="159" timer_running="0" last_modified="2015-09-26T11:00:02+0000">
+      <Q id="903861" qualifier_id="135" />
+    </Event>
+    <Event id="1232679" event_id="722" event_type_id="17" period_id="4" period_minute="48" period_second="50" min="48" sec="50" team_id="1400" outcome="1" x="66.4" y="49.0" timestamp="2015-09-26T11:00:09+0000" timestamp_milliseconds="65" timer_running="0" last_modified="2015-09-26T11:00:09+0000">
+      <Q id="903864" qualifier_id="135" />
+    </Event>
+    <Event id="1232683" event_id="725" event_type_id="17" period_id="4" period_minute="48" period_second="58" min="48" sec="58" team_id="1400" outcome="1" x="77.0" y="52.8" timestamp="2015-09-26T11:00:17+0000" timestamp_milliseconds="175" timer_running="0" last_modified="2015-09-26T11:00:17+0000">
+      <Q id="903867" qualifier_id="135" />
+    </Event>
+    <Event id="1232693" event_id="731" event_type_id="17" period_id="4" period_minute="49" period_second="10" min="49" sec="10" team_id="1400" outcome="1" x="92.0" y="55.7" timestamp="2015-09-26T11:00:28+0000" timestamp_milliseconds="549" timer_running="0" last_modified="2015-09-26T11:00:28+0000">
+      <Q id="903871" qualifier_id="135" />
+    </Event>
+    <Event id="1232698" event_id="734" event_type_id="17" period_id="4" period_minute="49" period_second="18" min="49" sec="18" team_id="1400" outcome="1" x="95.5" y="82.7" timestamp="2015-09-26T11:00:36+0000" timestamp_milliseconds="783" timer_running="0" last_modified="2015-09-26T11:00:36+0000">
+      <Q id="903873" qualifier_id="135" />
+    </Event>
+    <Event id="1232700" event_id="736" event_type_id="8" period_id="4" period_minute="49" period_second="23" min="49" sec="23" player_id="1867" team_id="1400" outcome="1" x="90.0" y="72.4" timestamp="2015-09-26T11:00:41+0000" timestamp_milliseconds="721" timer_running="0" last_modified="2015-09-26T11:00:45+0000">
+      <Q id="903877" qualifier_id="166" value="14" />
+      <Q id="903875" qualifier_id="167" value="100.0" />
+      <Q id="903876" qualifier_id="168" value="79.1" />
+      <Q id="903874" qualifier_id="172" />
+    </Event>
+    <Event id="1232711" event_id="743" event_type_id="17" period_id="4" period_minute="50" period_second="27" min="50" sec="27" team_id="1400" outcome="1" x="64.5" y="44.6" timestamp="2015-09-26T11:01:46+0000" timestamp_milliseconds="315" timer_running="0" last_modified="2015-09-26T11:01:46+0000">
+      <Q id="903892" qualifier_id="135" />
+    </Event>
+    <Event id="1232723" event_id="787" event_type_id="17" period_id="4" period_minute="50" period_second="39" min="50" sec="39" team_id="2150" outcome="1" x="22.7" y="64.5" timestamp="2015-09-26T11:02:00+0000" timestamp_milliseconds="625" timer_running="0" last_modified="2015-09-26T11:02:00+0000">
+      <Q id="903900" qualifier_id="135" />
+    </Event>
+    <Event id="1232770" event_id="781" event_type_id="23" period_id="4" period_minute="51" period_second="0" min="51" sec="0" player_id="20733" team_id="1400" outcome="1" x="100.0" y="82.0" timestamp="2015-09-26T11:03:53+0000" timestamp_milliseconds="581" timer_running="0" last_modified="2015-09-26T11:03:53+0000">
+      <Q id="903933" qualifier_id="2" value="14 Replacement 1" />
+      <Q id="903932" qualifier_id="56" />
+    </Event>
+    <Event id="1232771" event_id="782" event_type_id="24" period_id="4" period_minute="51" period_second="0" min="51" sec="0" player_id="10808" team_id="1400" outcome="1" x="100.0" y="82.0" timestamp="2015-09-26T11:03:53+0000" timestamp_milliseconds="581" timer_running="0" last_modified="2015-09-26T11:03:53+0000">
+      <Q id="903936" qualifier_id="63" value="781" />
+      <Q id="903937" qualifier_id="2" value="8 Prop" />
+      <Q id="903935" qualifier_id="56" />
+    </Event>
+    <Event id="1232732" event_id="755" event_type_id="21" period_id="4" period_minute="51" period_second="37" min="51" sec="37" team_id="1400" outcome="1" x="65.7" y="36.6" timestamp="2015-09-26T11:02:56+0000" timestamp_milliseconds="35" timer_running="0" last_modified="2015-09-26T11:02:56+0000" />
+    <Event id="1232737" event_id="759" event_type_id="17" period_id="4" period_minute="51" period_second="45" min="51" sec="45" team_id="1400" outcome="1" x="67.3" y="54.4" timestamp="2015-09-26T11:03:03+0000" timestamp_milliseconds="566" timer_running="0" last_modified="2015-09-26T11:03:03+0000">
+      <Q id="903910" qualifier_id="135" />
+    </Event>
+    <Event id="1232743" event_id="763" event_type_id="17" period_id="4" period_minute="51" period_second="52" min="51" sec="52" team_id="1400" outcome="1" x="78.7" y="54.1" timestamp="2015-09-26T11:03:10+0000" timestamp_milliseconds="472" timer_running="0" last_modified="2015-09-26T11:03:10+0000">
+      <Q id="903913" qualifier_id="135" />
+    </Event>
+    <Event id="1232842" event_id="851" event_type_id="23" period_id="4" period_minute="52" period_second="0" min="52" sec="0" player_id="5041" team_id="2150" outcome="1" x="100.0" y="42.0" timestamp="2015-09-26T11:09:52+0000" timestamp_milliseconds="715" timer_running="0" last_modified="2015-09-26T11:09:52+0000">
+      <Q id="903991" qualifier_id="56" />
+      <Q id="903992" qualifier_id="2" value="16 Replacement 3" />
+    </Event>
+    <Event id="1232843" event_id="852" event_type_id="24" period_id="4" period_minute="52" period_second="0" min="52" sec="0" player_id="2541" team_id="2150" outcome="1" x="100.0" y="42.0" timestamp="2015-09-26T11:09:52+0000" timestamp_milliseconds="731" timer_running="0" last_modified="2015-09-26T11:09:53+0000">
+      <Q id="903995" qualifier_id="63" value="851" />
+      <Q id="903994" qualifier_id="56" />
+      <Q id="903996" qualifier_id="2" value="8 Prop" />
+    </Event>
+    <Event id="1232754" event_id="770" event_type_id="17" period_id="4" period_minute="52" period_second="2" min="52" sec="2" team_id="1400" outcome="1" x="94.5" y="12.1" timestamp="2015-09-26T11:03:20+0000" timestamp_milliseconds="894" timer_running="0" last_modified="2015-09-26T11:03:21+0000">
+      <Q id="903918" qualifier_id="135" />
+    </Event>
+    <Event id="1232759" event_id="774" event_type_id="17" period_id="4" period_minute="52" period_second="12" min="52" sec="12" team_id="1400" outcome="1" x="88.0" y="40.4" timestamp="2015-09-26T11:03:30+0000" timestamp_milliseconds="487" timer_running="0" last_modified="2015-09-26T11:03:30+0000">
+      <Q id="903921" qualifier_id="135" />
+    </Event>
+    <Event id="1232765" event_id="777" event_type_id="17" period_id="4" period_minute="52" period_second="19" min="52" sec="19" team_id="1400" outcome="1" x="95.0" y="53.1" timestamp="2015-09-26T11:03:37+0000" timestamp_milliseconds="800" timer_running="0" last_modified="2015-09-26T11:03:37+0000">
+      <Q id="903924" qualifier_id="135" />
+    </Event>
+    <Event id="1232767" event_id="779" event_type_id="8" period_id="4" period_minute="52" period_second="22" min="52" sec="22" player_id="2273" team_id="1400" outcome="1" x="90.9" y="66.0" timestamp="2015-09-26T11:03:40+0000" timestamp_milliseconds="862" timer_running="0" last_modified="2015-09-26T11:03:43+0000">
+      <Q id="903927" qualifier_id="168" value="82.0" />
+      <Q id="903928" qualifier_id="166" value="19" />
+      <Q id="903926" qualifier_id="167" value="100.0" />
+      <Q id="903925" qualifier_id="172" />
+    </Event>
+    <Event id="1232772" event_id="804" event_type_id="17" period_id="4" period_minute="52" period_second="38" min="52" sec="38" team_id="2150" outcome="1" x="19.3" y="63.2" timestamp="2015-09-26T11:03:58+0000" timestamp_milliseconds="905" timer_running="0" last_modified="2015-09-26T11:03:59+0000">
+      <Q id="903938" qualifier_id="135" />
+    </Event>
+    <Event id="1232778" event_id="807" event_type_id="17" period_id="4" period_minute="52" period_second="43" min="52" sec="43" team_id="2150" outcome="1" x="25.2" y="75.5" timestamp="2015-09-26T11:04:03+0000" timestamp_milliseconds="952" timer_running="0" last_modified="2015-09-26T11:04:04+0000">
+      <Q id="903941" qualifier_id="135" />
+    </Event>
+    <Event id="1232784" event_id="810" event_type_id="17" period_id="4" period_minute="52" period_second="50" min="52" sec="50" team_id="2150" outcome="1" x="48.9" y="43.0" timestamp="2015-09-26T11:04:11+0000" timestamp_milliseconds="77" timer_running="0" last_modified="2015-09-26T11:04:11+0000">
+      <Q id="903945" qualifier_id="135" />
+    </Event>
+    <Event id="1232791" event_id="813" event_type_id="17" period_id="4" period_minute="52" period_second="58" min="52" sec="58" team_id="2150" outcome="1" x="67.1" y="37.9" timestamp="2015-09-26T11:04:19+0000" timestamp_milliseconds="186" timer_running="0" last_modified="2015-09-26T11:04:19+0000">
+      <Q id="903950" qualifier_id="135" />
+    </Event>
+    <Event id="1232798" event_id="818" event_type_id="17" period_id="4" period_minute="53" period_second="6" min="53" sec="6" team_id="2150" outcome="1" x="78.6" y="45.4" timestamp="2015-09-26T11:04:27+0000" timestamp_milliseconds="639" timer_running="0" last_modified="2015-09-26T11:04:27+0000">
+      <Q id="903954" qualifier_id="135" />
+    </Event>
+    <Event id="1232806" event_id="823" event_type_id="17" period_id="4" period_minute="53" period_second="22" min="53" sec="22" team_id="2150" outcome="1" x="95.0" y="51.0" timestamp="2015-09-26T11:04:43+0000" timestamp_milliseconds="92" timer_running="0" last_modified="2015-09-26T11:04:43+0000">
+      <Q id="903958" qualifier_id="135" />
+    </Event>
+    <Event id="1232818" event_id="831" event_type_id="27" period_id="4" period_minute="53" period_second="39" min="53" sec="39" player_id="10946" team_id="2150" outcome="1" x="100.0" y="3.1" timestamp="2015-09-26T11:05:00+0000" timestamp_milliseconds="92" timer_running="0" last_modified="2015-09-26T11:07:59+0000">
+      <Q id="903965" qualifier_id="148" />
+      <Q id="903966" qualifier_id="163" value="-1" />
+    </Event>
+    <Event id="1232828" event_id="800" event_type_id="15" period_id="4" period_minute="53" period_second="58" min="53" sec="58" player_id="11347" team_id="1400" outcome="1" x="100.0" y="82.0" timestamp="2015-09-26T11:08:22+0000" timestamp_milliseconds="417" timer_running="0" last_modified="2015-09-26T11:08:29+0000">
+      <Q id="903975" qualifier_id="46" />
+      <Q id="903974" qualifier_id="88" />
+    </Event>
+    <Event id="1232840" event_id="850" event_type_id="3" period_id="4" period_minute="54" period_second="2" min="54" sec="2" player_id="1087" team_id="2150" outcome="0" x="80.4" y="4.4" timestamp="2015-09-26T11:09:21+0000" timestamp_milliseconds="669" timer_running="0" last_modified="2015-09-26T11:09:23+0000">
+      <Q id="903987" qualifier_id="167" value="100.0" />
+      <Q id="903989" qualifier_id="166" value="22.3" />
+      <Q id="903988" qualifier_id="168" value="42.0" />
+    </Event>
+    <Event id="1232830" event_id="802" event_type_id="1" period_id="4" period_minute="54" period_second="4" min="54" sec="4" player_id="11347" team_id="1400" outcome="1" x="100.0" y="82.0" timestamp="2015-09-26T11:08:28+0000" timestamp_milliseconds="808" timer_running="0" last_modified="2015-09-26T11:08:30+0000">
+      <Q id="903977" qualifier_id="46" />
+    </Event>
+    <Event id="1232850" event_id="855" event_type_id="17" period_id="4" period_minute="54" period_second="49" min="54" sec="49" team_id="2150" outcome="1" x="10.2" y="78.1" timestamp="2015-09-26T11:10:09+0000" timestamp_milliseconds="27" timer_running="0" last_modified="2015-09-26T11:10:09+0000">
+      <Q id="903999" qualifier_id="135" />
+    </Event>
+    <Event id="1232849" event_id="808" event_type_id="31" period_id="4" period_minute="54" period_second="54" min="54" sec="54" player_id="5070" team_id="1400" outcome="1" x="100.0" y="82.0" timestamp="2015-09-26T11:10:03+0000" timestamp_milliseconds="680" timer_running="0" last_modified="2015-09-26T11:10:07+0000">
+      <Q id="903998" qualifier_id="63" value="25" />
+    </Event>
+    <Event id="1232858" event_id="859" event_type_id="17" period_id="4" period_minute="55" period_second="0" min="55" sec="0" team_id="2150" outcome="1" x="26.3" y="59.8" timestamp="2015-09-26T11:10:20+0000" timestamp_milliseconds="12" timer_running="0" last_modified="2015-09-26T11:10:20+0000">
+      <Q id="904004" qualifier_id="135" />
+    </Event>
+    <Event id="1232861" event_id="862" event_type_id="17" period_id="4" period_minute="55" period_second="7" min="55" sec="7" team_id="2150" outcome="1" x="38.6" y="47.4" timestamp="2015-09-26T11:10:26+0000" timestamp_milliseconds="574" timer_running="0" last_modified="2015-09-26T11:10:26+0000">
+      <Q id="904007" qualifier_id="135" />
+    </Event>
+    <Event id="1232867" event_id="865" event_type_id="17" period_id="4" period_minute="55" period_second="14" min="55" sec="14" team_id="2150" outcome="1" x="50.2" y="37.6" timestamp="2015-09-26T11:10:34+0000" timestamp_milliseconds="74" timer_running="0" last_modified="2015-09-26T11:10:34+0000">
+      <Q id="904013" qualifier_id="135" />
+    </Event>
+    <Event id="1232875" event_id="871" event_type_id="17" period_id="4" period_minute="55" period_second="24" min="55" sec="24" team_id="2150" outcome="1" x="62.5" y="62.6" timestamp="2015-09-26T11:10:43+0000" timestamp_milliseconds="511" timer_running="0" last_modified="2015-09-26T11:10:43+0000">
+      <Q id="904017" qualifier_id="135" />
+    </Event>
+    <Event id="1232877" event_id="873" event_type_id="8" period_id="4" period_minute="55" period_second="26" min="55" sec="26" player_id="1087" team_id="2150" outcome="1" x="62.1" y="73.2" timestamp="2015-09-26T11:10:46+0000" timestamp_milliseconds="183" timer_running="0" last_modified="2015-09-26T11:10:50+0000">
+      <Q id="904019" qualifier_id="167" value="91.2" />
+      <Q id="904021" qualifier_id="166" value="29" />
+      <Q id="904018" qualifier_id="172" />
+      <Q id="904020" qualifier_id="168" value="65.7" />
+    </Event>
+    <Event id="1232882" event_id="819" event_type_id="17" period_id="4" period_minute="55" period_second="46" min="55" sec="46" team_id="1400" outcome="1" x="19.5" y="43.8" timestamp="2015-09-26T11:10:56+0000" timestamp_milliseconds="217" timer_running="0" last_modified="2015-09-26T11:10:56+0000">
+      <Q id="904025" qualifier_id="135" />
+    </Event>
+    <Event id="1232886" event_id="821" event_type_id="17" period_id="4" period_minute="55" period_second="54" min="55" sec="54" team_id="1400" outcome="1" x="30.2" y="35.5" timestamp="2015-09-26T11:11:03+0000" timestamp_milliseconds="358" timer_running="0" last_modified="2015-09-26T11:11:03+0000">
+      <Q id="904028" qualifier_id="135" />
+    </Event>
+    <Event id="1232893" event_id="825" event_type_id="17" period_id="4" period_minute="56" period_second="3" min="56" sec="3" team_id="1400" outcome="1" x="41.4" y="43.0" timestamp="2015-09-26T11:11:12+0000" timestamp_milliseconds="904" timer_running="0" last_modified="2015-09-26T11:11:13+0000">
+      <Q id="904032" qualifier_id="135" />
+    </Event>
+    <Event id="1232899" event_id="828" event_type_id="17" period_id="4" period_minute="56" period_second="13" min="56" sec="13" team_id="1400" outcome="1" x="57.3" y="46.4" timestamp="2015-09-26T11:11:22+0000" timestamp_milliseconds="388" timer_running="0" last_modified="2015-09-26T11:11:22+0000">
+      <Q id="904036" qualifier_id="135" />
+    </Event>
+    <Event id="1232905" event_id="834" event_type_id="17" period_id="4" period_minute="56" period_second="21" min="56" sec="21" team_id="1400" outcome="1" x="70.9" y="28.3" timestamp="2015-09-26T11:11:30+0000" timestamp_milliseconds="373" timer_running="0" last_modified="2015-09-26T11:11:30+0000">
+      <Q id="904039" qualifier_id="135" />
+    </Event>
+    <Event id="1232908" event_id="836" event_type_id="8" period_id="4" period_minute="56" period_second="24" min="56" sec="24" player_id="2361" team_id="1400" outcome="1" x="68.9" y="47.4" timestamp="2015-09-26T11:11:33+0000" timestamp_milliseconds="451" timer_running="0" last_modified="2015-09-26T11:11:38+0000">
+      <Q id="904041" qualifier_id="168" value="52.3" />
+      <Q id="904040" qualifier_id="167" value="70.7" />
+      <Q id="904042" qualifier_id="166" value="2" />
+    </Event>
+    <Event id="1232913" event_id="886" event_type_id="27" period_id="4" period_minute="56" period_second="27" min="56" sec="27" player_id="10946" team_id="2150" outcome="1" x="100.0" y="52.1" timestamp="2015-09-26T11:11:46+0000" timestamp_milliseconds="838" timer_running="0" last_modified="2015-09-26T11:12:54+0000">
+      <Q id="904051" qualifier_id="163" value="-1" />
+      <Q id="904050" qualifier_id="148" />
+    </Event>
+    <Event id="1232924" event_id="896" event_type_id="3" period_id="4" period_minute="57" period_second="39" min="57" sec="39" player_id="1087" team_id="2150" outcome="1" x="89.5" y="50.3" timestamp="2015-09-26T11:13:37+0000" timestamp_milliseconds="555" timer_running="0" last_modified="2015-09-26T11:13:39+0000">
+      <Q id="904060" qualifier_id="168" value="47.9" />
+      <Q id="904059" qualifier_id="167" value="100.0" />
+      <Q id="904061" qualifier_id="166" value="14.3" />
+    </Event>
+    <Event id="1232956" event_id="856" event_type_id="23" period_id="4" period_minute="58" period_second="0" min="58" sec="0" player_id="11495" team_id="1400" outcome="1" x="70.7" y="52.3" timestamp="2015-09-26T11:15:01+0000" timestamp_milliseconds="70" timer_running="0" last_modified="2015-09-26T11:15:01+0000">
+      <Q id="904081" qualifier_id="2" value="16 Replacement 3" />
+      <Q id="904080" qualifier_id="56" />
+    </Event>
+    <Event id="1232957" event_id="857" event_type_id="24" period_id="4" period_minute="58" period_second="0" min="58" sec="0" player_id="2704" team_id="1400" outcome="1" x="70.7" y="52.3" timestamp="2015-09-26T11:15:01+0000" timestamp_milliseconds="86" timer_running="0" last_modified="2015-09-26T11:15:01+0000">
+      <Q id="904084" qualifier_id="63" value="856" />
+      <Q id="904083" qualifier_id="56" />
+      <Q id="904085" qualifier_id="2" value="13 Lock Forward" />
+    </Event>
+    <Event id="1232966" event_id="918" event_type_id="23" period_id="4" period_minute="58" period_second="0" min="58" sec="0" player_id="1688" team_id="2150" outcome="1" x="89.3" y="64.7" timestamp="2015-09-26T11:15:17+0000" timestamp_milliseconds="162" timer_running="0" last_modified="2015-09-26T11:15:17+0000">
+      <Q id="904096" qualifier_id="2" value="17 Replacement 4" />
+      <Q id="904095" qualifier_id="56" />
+    </Event>
+    <Event id="1232967" event_id="919" event_type_id="24" period_id="4" period_minute="58" period_second="0" min="58" sec="0" player_id="10933" team_id="2150" outcome="1" x="89.3" y="64.7" timestamp="2015-09-26T11:15:17+0000" timestamp_milliseconds="178" timer_running="0" last_modified="2015-09-26T11:15:17+0000">
+      <Q id="904100" qualifier_id="2" value="10 Front Row Forward" />
+      <Q id="904098" qualifier_id="56" />
+      <Q id="904099" qualifier_id="63" value="918" />
+    </Event>
+    <Event id="1232931" event_id="900" event_type_id="17" period_id="4" period_minute="58" period_second="24" min="58" sec="24" team_id="2150" outcome="1" x="15.5" y="67.5" timestamp="2015-09-26T11:14:23+0000" timestamp_milliseconds="491" timer_running="0" last_modified="2015-09-26T11:14:23+0000">
+      <Q id="904065" qualifier_id="135" />
+    </Event>
+    <Event id="1232937" event_id="903" event_type_id="17" period_id="4" period_minute="58" period_second="34" min="58" sec="34" team_id="2150" outcome="1" x="31.3" y="66.3" timestamp="2015-09-26T11:14:32+0000" timestamp_milliseconds="772" timer_running="0" last_modified="2015-09-26T11:14:32+0000">
+      <Q id="904068" qualifier_id="135" />
+    </Event>
+    <Event id="1232943" event_id="906" event_type_id="17" period_id="4" period_minute="58" period_second="45" min="58" sec="45" team_id="2150" outcome="1" x="42.0" y="32.7" timestamp="2015-09-26T11:14:43+0000" timestamp_milliseconds="585" timer_running="0" last_modified="2015-09-26T11:14:43+0000">
+      <Q id="904071" qualifier_id="135" />
+    </Event>
+    <Event id="1232948" event_id="909" event_type_id="17" period_id="4" period_minute="58" period_second="53" min="58" sec="53" team_id="2150" outcome="1" x="42.7" y="42.8" timestamp="2015-09-26T11:14:52+0000" timestamp_milliseconds="163" timer_running="0" last_modified="2015-09-26T11:14:52+0000">
+      <Q id="904076" qualifier_id="135" />
+    </Event>
+    <Event id="1233141" event_id="997" event_type_id="23" period_id="4" period_minute="59" period_second="0" min="59" sec="0" player_id="11381" team_id="2150" outcome="1" x="56.6" y="56.5" timestamp="2015-09-26T11:20:02+0000" timestamp_milliseconds="766" timer_running="0" last_modified="2015-09-26T11:20:02+0000">
+      <Q id="904234" qualifier_id="2" value="13 Lock Forward" />
+      <Q id="904233" qualifier_id="56" />
+    </Event>
+    <Event id="1233142" event_id="998" event_type_id="24" period_id="4" period_minute="59" period_second="0" min="59" sec="0" player_id="10198" team_id="2150" outcome="1" x="56.6" y="56.5" timestamp="2015-09-26T11:20:02+0000" timestamp_milliseconds="782" timer_running="0" last_modified="2015-09-26T11:20:03+0000">
+      <Q id="904238" qualifier_id="2" value="5 Left Wing Threequart" />
+      <Q id="904237" qualifier_id="63" value="997" />
+      <Q id="904236" qualifier_id="56" />
+    </Event>
+    <Event id="1232958" event_id="914" event_type_id="17" period_id="4" period_minute="59" period_second="2" min="59" sec="2" team_id="2150" outcome="1" x="54.1" y="59.3" timestamp="2015-09-26T11:15:01+0000" timestamp_milliseconds="491" timer_running="0" last_modified="2015-09-26T11:15:01+0000">
+      <Q id="904086" qualifier_id="135" />
+    </Event>
+    <Event id="1232961" event_id="916" event_type_id="8" period_id="4" period_minute="59" period_second="6" min="59" sec="6" player_id="1087" team_id="2150" outcome="1" x="54.1" y="59.3" timestamp="2015-09-26T11:15:04+0000" timestamp_milliseconds="725" timer_running="0" last_modified="2015-09-26T11:15:08+0000">
+      <Q id="904089" qualifier_id="168" value="64.7" />
+      <Q id="904088" qualifier_id="167" value="89.3" />
+      <Q id="904090" qualifier_id="166" value="35" />
+    </Event>
+    <Event id="1232964" event_id="860" event_type_id="17" period_id="4" period_minute="59" period_second="12" min="59" sec="12" team_id="1400" outcome="1" x="15.2" y="36.3" timestamp="2015-09-26T11:15:15+0000" timestamp_milliseconds="882" timer_running="0" last_modified="2015-09-26T11:15:16+0000">
+      <Q id="904094" qualifier_id="135" />
+    </Event>
+    <Event id="1232971" event_id="863" event_type_id="17" period_id="4" period_minute="59" period_second="19" min="59" sec="19" team_id="1400" outcome="1" x="23.9" y="45.9" timestamp="2015-09-26T11:15:22+0000" timestamp_milliseconds="945" timer_running="0" last_modified="2015-09-26T11:15:23+0000">
+      <Q id="904103" qualifier_id="135" />
+    </Event>
+    <Event id="1232977" event_id="866" event_type_id="17" period_id="4" period_minute="59" period_second="28" min="59" sec="28" team_id="1400" outcome="1" x="34.8" y="59.0" timestamp="2015-09-26T11:15:32+0000" timestamp_milliseconds="429" timer_running="0" last_modified="2015-09-26T11:15:32+0000">
+      <Q id="904106" qualifier_id="135" />
+    </Event>
+    <Event id="1232983" event_id="869" event_type_id="17" period_id="4" period_minute="59" period_second="39" min="59" sec="39" team_id="1400" outcome="1" x="49.5" y="48.2" timestamp="2015-09-26T11:15:42+0000" timestamp_milliseconds="929" timer_running="0" last_modified="2015-09-26T11:15:43+0000">
+      <Q id="904109" qualifier_id="135" />
+    </Event>
+    <Event id="1232991" event_id="875" event_type_id="17" period_id="4" period_minute="59" period_second="50" min="59" sec="50" team_id="1400" outcome="1" x="72.7" y="27.6" timestamp="2015-09-26T11:15:53+0000" timestamp_milliseconds="850" timer_running="0" last_modified="2015-09-26T11:15:54+0000">
+      <Q id="904115" qualifier_id="135" />
+    </Event>
+    <Event id="1232993" event_id="929" event_type_id="31" period_id="4" period_minute="59" period_second="52" min="59" sec="52" player_id="6089" team_id="2150" outcome="1" x="89.3" y="64.7" timestamp="2015-09-26T11:15:51+0000" timestamp_milliseconds="52" timer_running="0" last_modified="2015-09-26T11:15:55+0000">
+      <Q id="904116" qualifier_id="63" value="25" />
+    </Event>
+    <Event id="1232996" event_id="877" event_type_id="8" period_id="4" period_minute="59" period_second="53" min="59" sec="53" player_id="2361" team_id="1400" outcome="1" x="69.1" y="42.5" timestamp="2015-09-26T11:15:56+0000" timestamp_milliseconds="756" timer_running="0" last_modified="2015-09-26T11:16:00+0000">
+      <Q id="904119" qualifier_id="167" value="91.1" />
+      <Q id="904121" qualifier_id="166" value="22" />
+      <Q id="904120" qualifier_id="168" value="94.1" />
+      <Q id="904118" qualifier_id="172" />
+    </Event>
+    <Event id="1233001" event_id="881" event_type_id="17" period_id="4" period_minute="60" period_second="8" min="60" sec="8" team_id="1400" outcome="1" x="91.1" y="94.1" timestamp="2015-09-26T11:16:12+0000" timestamp_milliseconds="84" timer_running="0" last_modified="2015-09-26T11:16:12+0000">
+      <Q id="904127" qualifier_id="135" />
+    </Event>
+    <Event id="1233007" event_id="933" event_type_id="17" period_id="4" period_minute="60" period_second="26" min="60" sec="26" team_id="2150" outcome="1" x="6.6" y="42.0" timestamp="2015-09-26T11:16:25+0000" timestamp_milliseconds="270" timer_running="0" last_modified="2015-09-26T11:16:25+0000">
+      <Q id="904132" qualifier_id="135" />
+    </Event>
+    <Event id="1233011" event_id="936" event_type_id="17" period_id="4" period_minute="60" period_second="32" min="60" sec="32" team_id="2150" outcome="1" x="13.4" y="52.3" timestamp="2015-09-26T11:16:31+0000" timestamp_milliseconds="98" timer_running="0" last_modified="2015-09-26T11:16:31+0000">
+      <Q id="904135" qualifier_id="135" />
+    </Event>
+    <Event id="1233017" event_id="939" event_type_id="17" period_id="4" period_minute="60" period_second="37" min="60" sec="37" team_id="2150" outcome="1" x="19.3" y="62.4" timestamp="2015-09-26T11:16:35+0000" timestamp_milliseconds="676" timer_running="0" last_modified="2015-09-26T11:16:35+0000">
+      <Q id="904139" qualifier_id="135" />
+    </Event>
+    <Event id="1233023" event_id="942" event_type_id="17" period_id="4" period_minute="60" period_second="47" min="60" sec="47" team_id="2150" outcome="1" x="30.9" y="65.0" timestamp="2015-09-26T11:16:45+0000" timestamp_milliseconds="629" timer_running="0" last_modified="2015-09-26T11:16:45+0000">
+      <Q id="904143" qualifier_id="135" />
+    </Event>
+    <Event id="1233031" event_id="947" event_type_id="17" period_id="4" period_minute="60" period_second="57" min="60" sec="57" team_id="2150" outcome="1" x="39.1" y="70.6" timestamp="2015-09-26T11:16:55+0000" timestamp_milliseconds="895" timer_running="0" last_modified="2015-09-26T11:16:56+0000">
+      <Q id="904147" qualifier_id="135" />
+    </Event>
+    <Event id="1233099" event_id="979" event_type_id="23" period_id="4" period_minute="61" period_second="0" min="61" sec="0" player_id="6089" team_id="2150" outcome="1" x="100.0" y="52.8" timestamp="2015-09-26T11:18:44+0000" timestamp_milliseconds="580" timer_running="0" last_modified="2015-09-26T11:18:44+0000">
+      <Q id="904198" qualifier_id="2" value="14 Replacement 1" />
+      <Q id="904197" qualifier_id="56" />
+    </Event>
+    <Event id="1233100" event_id="980" event_type_id="24" period_id="4" period_minute="61" period_second="0" min="61" sec="0" player_id="20720" team_id="2150" outcome="1" x="100.0" y="52.8" timestamp="2015-09-26T11:18:44+0000" timestamp_milliseconds="580" timer_running="0" last_modified="2015-09-26T11:18:45+0000">
+      <Q id="904201" qualifier_id="63" value="979" />
+      <Q id="904200" qualifier_id="56" />
+      <Q id="904202" qualifier_id="2" value="9 Hooker" />
+    </Event>
+    <Event id="1233035" event_id="950" event_type_id="8" period_id="4" period_minute="61" period_second="3" min="61" sec="3" player_id="1087" team_id="2150" outcome="1" x="37.5" y="56.5" timestamp="2015-09-26T11:17:02+0000" timestamp_milliseconds="301" timer_running="0" last_modified="2015-09-26T11:17:05+0000">
+      <Q id="904152" qualifier_id="166" value="40" />
+      <Q id="904150" qualifier_id="167" value="77.3" />
+      <Q id="904151" qualifier_id="168" value="35.6" />
+    </Event>
+    <Event id="1233039" event_id="899" event_type_id="17" period_id="4" period_minute="61" period_second="7" min="61" sec="7" team_id="1400" outcome="1" x="33.6" y="58.5" timestamp="2015-09-26T11:17:11+0000" timestamp_milliseconds="36" timer_running="0" last_modified="2015-09-26T11:17:11+0000">
+      <Q id="904156" qualifier_id="135" />
+    </Event>
+    <Event id="1233043" event_id="901" event_type_id="17" period_id="4" period_minute="61" period_second="16" min="61" sec="16" team_id="1400" outcome="1" x="48.2" y="63.7" timestamp="2015-09-26T11:17:20+0000" timestamp_milliseconds="645" timer_running="0" last_modified="2015-09-26T11:17:20+0000">
+      <Q id="904159" qualifier_id="135" />
+    </Event>
+    <Event id="1233048" event_id="905" event_type_id="17" period_id="4" period_minute="61" period_second="23" min="61" sec="23" team_id="1400" outcome="1" x="54.6" y="69.3" timestamp="2015-09-26T11:17:26+0000" timestamp_milliseconds="910" timer_running="0" last_modified="2015-09-26T11:17:27+0000">
+      <Q id="904161" qualifier_id="135" />
+    </Event>
+    <Event id="1233059" event_id="912" event_type_id="17" period_id="4" period_minute="61" period_second="37" min="61" sec="37" team_id="1400" outcome="1" x="75.5" y="53.6" timestamp="2015-09-26T11:17:41+0000" timestamp_milliseconds="113" timer_running="0" last_modified="2015-09-26T11:17:41+0000">
+      <Q id="904165" qualifier_id="135" />
+    </Event>
+    <Event id="1233068" event_id="961" event_type_id="17" period_id="4" period_minute="61" period_second="56" min="61" sec="56" team_id="2150" outcome="1" x="36.3" y="80.2" timestamp="2015-09-26T11:17:54+0000" timestamp_milliseconds="706" timer_running="0" last_modified="2015-09-26T11:17:54+0000">
+      <Q id="904173" qualifier_id="135" />
+    </Event>
+    <Event id="1233074" event_id="965" event_type_id="17" period_id="4" period_minute="62" period_second="3" min="62" sec="3" team_id="2150" outcome="1" x="46.1" y="76.8" timestamp="2015-09-26T11:18:01+0000" timestamp_milliseconds="596" timer_running="0" last_modified="2015-09-26T11:18:01+0000">
+      <Q id="904177" qualifier_id="135" />
+    </Event>
+    <Event id="1233081" event_id="969" event_type_id="17" period_id="4" period_minute="62" period_second="13" min="62" sec="13" team_id="2150" outcome="1" x="65.4" y="20.3" timestamp="2015-09-26T11:18:12+0000" timestamp_milliseconds="299" timer_running="0" last_modified="2015-09-26T11:18:12+0000">
+      <Q id="904180" qualifier_id="135" />
+    </Event>
+    <Event id="1233084" event_id="972" event_type_id="17" period_id="4" period_minute="62" period_second="22" min="62" sec="22" team_id="2150" outcome="1" x="72.5" y="34.8" timestamp="2015-09-26T11:18:21+0000" timestamp_milliseconds="471" timer_running="0" last_modified="2015-09-26T11:18:21+0000">
+      <Q id="904183" qualifier_id="135" />
+    </Event>
+    <Event id="1233090" event_id="974" event_type_id="17" period_id="4" period_minute="62" period_second="31" min="62" sec="31" team_id="2150" outcome="1" x="92.7" y="36.1" timestamp="2015-09-26T11:18:29+0000" timestamp_milliseconds="830" timer_running="0" last_modified="2015-09-26T11:18:30+0000">
+      <Q id="904187" qualifier_id="135" />
+    </Event>
+    <Event id="1233092" event_id="976" event_type_id="8" period_id="4" period_minute="62" period_second="34" min="62" sec="34" player_id="1087" team_id="2150" outcome="1" x="91.2" y="47.9" timestamp="2015-09-26T11:18:32+0000" timestamp_milliseconds="737" timer_running="0" last_modified="2015-09-26T11:18:35+0000">
+      <Q id="904190" qualifier_id="168" value="52.8" />
+      <Q id="904188" qualifier_id="172" />
+      <Q id="904189" qualifier_id="167" value="100.0" />
+      <Q id="904191" qualifier_id="166" value="11" />
+    </Event>
+    <Event id="1233096" event_id="930" event_type_id="17" period_id="4" period_minute="62" period_second="35" min="62" sec="35" team_id="1400" outcome="1" x="0.9" y="41.5" timestamp="2015-09-26T11:18:39+0000" timestamp_milliseconds="143" timer_running="0" last_modified="2015-09-26T11:18:39+0000">
+      <Q id="904194" qualifier_id="135" />
+    </Event>
+    <Event id="1233101" event_id="933" event_type_id="17" period_id="4" period_minute="62" period_second="42" min="62" sec="42" team_id="1400" outcome="1" x="4.3" y="33.0" timestamp="2015-09-26T11:18:45+0000" timestamp_milliseconds="707" timer_running="0" last_modified="2015-09-26T11:18:45+0000">
+      <Q id="904203" qualifier_id="135" />
+    </Event>
+    <Event id="1233106" event_id="935" event_type_id="17" period_id="4" period_minute="62" period_second="48" min="62" sec="48" team_id="1400" outcome="1" x="15.2" y="33.0" timestamp="2015-09-26T11:18:52+0000" timestamp_milliseconds="650" timer_running="0" last_modified="2015-09-26T11:18:52+0000">
+      <Q id="904206" qualifier_id="135" />
+    </Event>
+    <Event id="1233113" event_id="939" event_type_id="17" period_id="4" period_minute="62" period_second="59" min="62" sec="59" team_id="1400" outcome="1" x="22.1" y="58.0" timestamp="2015-09-26T11:19:02+0000" timestamp_milliseconds="794" timer_running="0" last_modified="2015-09-26T11:19:02+0000">
+      <Q id="904210" qualifier_id="135" />
+    </Event>
+    <Event id="1233119" event_id="943" event_type_id="17" period_id="4" period_minute="63" period_second="6" min="63" sec="6" team_id="1400" outcome="1" x="35.2" y="63.4" timestamp="2015-09-26T11:19:10+0000" timestamp_milliseconds="560" timer_running="0" last_modified="2015-09-26T11:19:10+0000">
+      <Q id="904214" qualifier_id="135" />
+    </Event>
+    <Event id="1233121" event_id="945" event_type_id="8" period_id="4" period_minute="63" period_second="9" min="63" sec="9" player_id="2361" team_id="1400" outcome="1" x="35.5" y="75.5" timestamp="2015-09-26T11:19:12+0000" timestamp_milliseconds="857" timer_running="0" last_modified="2015-09-26T11:19:15+0000">
+      <Q id="904218" qualifier_id="166" value="12" />
+      <Q id="904215" qualifier_id="172" />
+      <Q id="904217" qualifier_id="168" value="68.0" />
+      <Q id="904216" qualifier_id="167" value="47.3" />
+    </Event>
+    <Event id="1233125" event_id="990" event_type_id="17" period_id="4" period_minute="63" period_second="39" min="63" sec="39" team_id="2150" outcome="1" x="45.9" y="34.5" timestamp="2015-09-26T11:19:37+0000" timestamp_milliseconds="579" timer_running="0" last_modified="2015-09-26T11:19:37+0000">
+      <Q id="904221" qualifier_id="135" />
+    </Event>
+    <Event id="1233147" event_id="950" event_type_id="31" period_id="4" period_minute="63" period_second="41" min="63" sec="41" player_id="2704" team_id="1400" outcome="1" x="47.3" y="68.0" timestamp="2015-09-26T11:19:45+0000" timestamp_milliseconds="639" timer_running="0" last_modified="2015-09-26T11:21:16+0000">
+      <Q id="904243" qualifier_id="63" value="25" />
+    </Event>
+    <Event id="1233130" event_id="993" event_type_id="17" period_id="4" period_minute="63" period_second="44" min="63" sec="44" team_id="2150" outcome="1" x="52.3" y="47.2" timestamp="2015-09-26T11:19:43+0000" timestamp_milliseconds="266" timer_running="0" last_modified="2015-09-26T11:19:43+0000">
+      <Q id="904224" qualifier_id="135" />
+    </Event>
+    <Event id="1233144" event_id="958" event_type_id="15" period_id="4" period_minute="63" period_second="51" min="63" sec="51" player_id="2704" team_id="1400" outcome="1" x="47.3" y="68.0" timestamp="2015-09-26T11:21:09+0000" timestamp_milliseconds="855" timer_running="0" last_modified="2015-09-26T11:21:11+0000">
+      <Q id="904240" qualifier_id="88" />
+    </Event>
+    <Event id="1233151" event_id="1002" event_type_id="23" period_id="4" period_minute="64" period_second="0" min="64" sec="0" player_id="10933" team_id="2150" outcome="1" x="56.6" y="56.5" timestamp="2015-09-26T11:21:45+0000" timestamp_milliseconds="141" timer_running="0" last_modified="2015-09-26T11:21:45+0000">
+      <Q id="904247" qualifier_id="2" value="10 Front Row Forward" />
+      <Q id="904246" qualifier_id="56" />
+    </Event>
+    <Event id="1233153" event_id="1003" event_type_id="24" period_id="4" period_minute="64" period_second="0" min="64" sec="0" player_id="11381" team_id="2150" outcome="1" x="56.6" y="56.5" timestamp="2015-09-26T11:21:45+0000" timestamp_milliseconds="157" timer_running="0" last_modified="2015-09-26T11:21:45+0000">
+      <Q id="904249" qualifier_id="56" />
+      <Q id="904250" qualifier_id="63" value="1002" />
+      <Q id="904251" qualifier_id="2" value="13 Lock Forward" />
+    </Event>
+    <Event id="1233158" event_id="1007" event_type_id="17" period_id="4" period_minute="64" period_second="34" min="64" sec="34" team_id="2150" outcome="1" x="93.7" y="55.7" timestamp="2015-09-26T11:21:52+0000" timestamp_milliseconds="813" timer_running="0" last_modified="2015-09-26T11:21:53+0000">
+      <Q id="904254" qualifier_id="135" />
+    </Event>
+    <Event id="1233165" event_id="1011" event_type_id="17" period_id="4" period_minute="64" period_second="43" min="64" sec="43" team_id="2150" outcome="1" x="92.7" y="35.3" timestamp="2015-09-26T11:22:01+0000" timestamp_milliseconds="407" timer_running="0" last_modified="2015-09-26T11:22:01+0000">
+      <Q id="904257" qualifier_id="135" />
+    </Event>
+    <Event id="1233171" event_id="1014" event_type_id="17" period_id="4" period_minute="64" period_second="51" min="64" sec="51" team_id="2150" outcome="1" x="89.1" y="36.9" timestamp="2015-09-26T11:22:09+0000" timestamp_milliseconds="735" timer_running="0" last_modified="2015-09-26T11:22:09+0000">
+      <Q id="904262" qualifier_id="135" />
+    </Event>
+    <Event id="1233180" event_id="1019" event_type_id="17" period_id="4" period_minute="65" period_second="2" min="65" sec="2" team_id="2150" outcome="1" x="91.6" y="55.7" timestamp="2015-09-26T11:22:20+0000" timestamp_milliseconds="266" timer_running="0" last_modified="2015-09-26T11:22:20+0000">
+      <Q id="904267" qualifier_id="135" />
+    </Event>
+    <Event id="1233182" event_id="1021" event_type_id="8" period_id="4" period_minute="65" period_second="6" min="65" sec="6" player_id="1087" team_id="2150" outcome="1" x="92.9" y="65.2" timestamp="2015-09-26T11:22:24+0000" timestamp_milliseconds="297" timer_running="0" last_modified="2015-09-26T11:22:26+0000">
+      <Q id="904270" qualifier_id="168" value="78.4" />
+      <Q id="904268" qualifier_id="172" />
+      <Q id="904269" qualifier_id="167" value="100.0" />
+      <Q id="904271" qualifier_id="166" value="10" />
+    </Event>
+    <Event id="1233231" event_id="990" event_type_id="23" period_id="4" period_minute="66" period_second="0" min="66" sec="0" player_id="20520" team_id="1400" outcome="1" x="11.3" y="9.2" timestamp="2015-09-26T11:24:54+0000" timestamp_milliseconds="84" timer_running="0" last_modified="2015-09-26T11:24:54+0000">
+      <Q id="904309" qualifier_id="56" />
+      <Q id="904310" qualifier_id="2" value="10 Front Row Forward" />
+    </Event>
+    <Event id="1233232" event_id="991" event_type_id="24" period_id="4" period_minute="66" period_second="0" min="66" sec="0" player_id="21385" team_id="1400" outcome="1" x="11.3" y="9.2" timestamp="2015-09-26T11:24:54+0000" timestamp_milliseconds="99" timer_running="0" last_modified="2015-09-26T11:24:54+0000">
+      <Q id="904313" qualifier_id="63" value="990" />
+      <Q id="904312" qualifier_id="56" />
+      <Q id="904314" qualifier_id="2" value="17 Replacement 4" />
+    </Event>
+    <Event id="1233191" event_id="1025" event_type_id="21" period_id="4" period_minute="66" period_second="22" min="66" sec="22" team_id="2150" outcome="1" x="88.7" y="71.9" timestamp="2015-09-26T11:23:41+0000" timestamp_milliseconds="125" timer_running="0" last_modified="2015-09-26T11:23:41+0000" />
+    <Event id="1233197" event_id="1030" event_type_id="17" period_id="4" period_minute="66" period_second="32" min="66" sec="32" team_id="2150" outcome="1" x="90.5" y="38.4" timestamp="2015-09-26T11:23:50+0000" timestamp_milliseconds="625" timer_running="0" last_modified="2015-09-26T11:23:50+0000">
+      <Q id="904285" qualifier_id="135" />
+    </Event>
+    <Event id="1233204" event_id="1034" event_type_id="17" period_id="4" period_minute="66" period_second="41" min="66" sec="41" team_id="2150" outcome="1" x="95.2" y="42.3" timestamp="2015-09-26T11:24:00+0000" timestamp_milliseconds="110" timer_running="0" last_modified="2015-09-26T11:24:00+0000">
+      <Q id="904289" qualifier_id="135" />
+    </Event>
+    <Event id="1233209" event_id="1037" event_type_id="17" period_id="4" period_minute="66" period_second="51" min="66" sec="51" team_id="2150" outcome="1" x="97.3" y="49.2" timestamp="2015-09-26T11:24:09+0000" timestamp_milliseconds="914" timer_running="0" last_modified="2015-09-26T11:24:10+0000">
+      <Q id="904292" qualifier_id="135" />
+    </Event>
+    <Event id="1233218" event_id="1042" event_type_id="17" period_id="4" period_minute="67" period_second="5" min="67" sec="5" team_id="2150" outcome="1" x="94.5" y="71.4" timestamp="2015-09-26T11:24:23+0000" timestamp_milliseconds="983" timer_running="0" last_modified="2015-09-26T11:24:24+0000">
+      <Q id="904297" qualifier_id="135" />
+    </Event>
+    <Event id="1233226" event_id="1048" event_type_id="17" period_id="4" period_minute="67" period_second="18" min="67" sec="18" team_id="2150" outcome="1" x="90.4" y="26.8" timestamp="2015-09-26T11:24:36+0000" timestamp_milliseconds="203" timer_running="0" last_modified="2015-09-26T11:24:36+0000">
+      <Q id="904300" qualifier_id="135" />
+    </Event>
+    <Event id="1233228" event_id="1050" event_type_id="8" period_id="4" period_minute="67" period_second="22" min="67" sec="22" player_id="1087" team_id="2150" outcome="1" x="90.4" y="42.3" timestamp="2015-09-26T11:24:40+0000" timestamp_milliseconds="891" timer_running="0" last_modified="2015-09-26T11:24:43+0000">
+      <Q id="904302" qualifier_id="167" value="97.5" />
+      <Q id="904304" qualifier_id="166" value="7" />
+      <Q id="904303" qualifier_id="168" value="47.9" />
+      <Q id="904301" qualifier_id="172" />
+    </Event>
+    <Event id="1233237" event_id="994" event_type_id="21" period_id="4" period_minute="67" period_second="51" min="67" sec="51" team_id="1400" outcome="1" x="8.8" y="62.4" timestamp="2015-09-26T11:25:23+0000" timestamp_milliseconds="614" timer_running="0" last_modified="2015-09-26T11:25:23+0000" />
+    <Event id="1233247" event_id="1056" event_type_id="21" period_id="4" period_minute="68" period_second="41" min="68" sec="41" team_id="2150" outcome="1" x="84.8" y="30.7" timestamp="2015-09-26T11:26:14+0000" timestamp_milliseconds="264" timer_running="0" last_modified="2015-09-26T11:26:14+0000" />
+    <Event id="1233257" event_id="1063" event_type_id="17" period_id="4" period_minute="68" period_second="50" min="68" sec="50" team_id="2150" outcome="1" x="90.5" y="43.0" timestamp="2015-09-26T11:26:28+0000" timestamp_milliseconds="655" timer_running="0" last_modified="2015-09-26T11:26:28+0000">
+      <Q id="904340" qualifier_id="135" />
+    </Event>
+    <Event id="1233262" event_id="1067" event_type_id="27" period_id="4" period_minute="68" period_second="56" min="68" sec="56" player_id="2570" team_id="2150" outcome="1" x="100.0" y="67.0" timestamp="2015-09-26T11:26:34+0000" timestamp_milliseconds="217" timer_running="0" last_modified="2015-09-26T11:26:37+0000">
+      <Q id="904341" qualifier_id="148" />
+      <Q id="904342" qualifier_id="163" value="-1" />
+    </Event>
+    <Event id="1233288" event_id="1084" event_type_id="3" period_id="4" period_minute="69" period_second="52" min="69" sec="52" player_id="1087" team_id="2150" outcome="1" x="83.7" y="69.1" timestamp="2015-09-26T11:28:21+0000" timestamp_milliseconds="481" timer_running="0" last_modified="2015-09-26T11:28:23+0000">
+      <Q id="904368" qualifier_id="167" value="100.0" />
+      <Q id="904370" qualifier_id="166" value="16.8" />
+      <Q id="904369" qualifier_id="168" value="48.5" />
+    </Event>
+    <Event id="1233290" event_id="1086" event_type_id="23" period_id="4" period_minute="70" period_second="0" min="70" sec="0" player_id="1087" team_id="2150" outcome="1" x="100.0" y="48.5" timestamp="2015-09-26T11:28:33+0000" timestamp_milliseconds="449" timer_running="0" last_modified="2015-09-26T11:28:33+0000">
+      <Q id="904372" qualifier_id="56" />
+      <Q id="904373" qualifier_id="2" value="7 Scrum Half" />
+    </Event>
+    <Event id="1233291" event_id="1087" event_type_id="24" period_id="4" period_minute="70" period_second="0" min="70" sec="0" player_id="6089" team_id="2150" outcome="1" x="100.0" y="48.5" timestamp="2015-09-26T11:28:33+0000" timestamp_milliseconds="465" timer_running="0" last_modified="2015-09-26T11:28:33+0000">
+      <Q id="904377" qualifier_id="2" value="14 Replacement 1" />
+      <Q id="904376" qualifier_id="63" value="1086" />
+      <Q id="904375" qualifier_id="56" />
+    </Event>
+    <Event id="1233303" event_id="1017" event_type_id="31" period_id="4" period_minute="70" period_second="29" min="70" sec="29" player_id="10808" team_id="1400" outcome="1" x="8.8" y="62.4" timestamp="2015-09-26T11:28:47+0000" timestamp_milliseconds="312" timer_running="0" last_modified="2015-09-26T11:29:49+0000">
+      <Q id="904387" qualifier_id="63" value="25" />
+    </Event>
+    <Event id="1233300" event_id="1020" event_type_id="15" period_id="4" period_minute="70" period_second="42" min="70" sec="42" player_id="10808" team_id="1400" outcome="1" x="8.8" y="62.4" timestamp="2015-09-26T11:29:43+0000" timestamp_milliseconds="248" timer_running="0" last_modified="2015-09-26T11:29:45+0000">
+      <Q id="904385" qualifier_id="88" />
+    </Event>
+    <Event id="1233306" event_id="1094" event_type_id="23" period_id="4" period_minute="71" period_second="0" min="71" sec="0" player_id="2570" team_id="2150" outcome="1" x="42.0" y="72.7" timestamp="2015-09-26T11:30:12+0000" timestamp_milliseconds="135" timer_running="0" last_modified="2015-09-26T11:30:12+0000">
+      <Q id="904390" qualifier_id="56" />
+      <Q id="904391" qualifier_id="2" value="11 Second Row Forward" />
+    </Event>
+    <Event id="1233307" event_id="1095" event_type_id="24" period_id="4" period_minute="71" period_second="0" min="71" sec="0" player_id="1688" team_id="2150" outcome="1" x="42.0" y="72.7" timestamp="2015-09-26T11:30:12+0000" timestamp_milliseconds="150" timer_running="0" last_modified="2015-09-26T11:30:12+0000">
+      <Q id="904395" qualifier_id="2" value="17 Replacement 4" />
+      <Q id="904394" qualifier_id="63" value="1094" />
+      <Q id="904393" qualifier_id="56" />
+    </Event>
+    <Event id="1233315" event_id="1100" event_type_id="17" period_id="4" period_minute="71" period_second="34" min="71" sec="34" team_id="2150" outcome="1" x="69.5" y="76.6" timestamp="2015-09-26T11:30:30+0000" timestamp_milliseconds="150" timer_running="0" last_modified="2015-09-26T11:30:30+0000">
+      <Q id="904399" qualifier_id="135" />
+    </Event>
+    <Event id="1233320" event_id="1103" event_type_id="17" period_id="4" period_minute="71" period_second="44" min="71" sec="44" team_id="2150" outcome="1" x="77.9" y="42.8" timestamp="2015-09-26T11:30:40+0000" timestamp_milliseconds="87" timer_running="0" last_modified="2015-09-26T11:30:40+0000">
+      <Q id="904403" qualifier_id="135" />
+    </Event>
+    <Event id="1233326" event_id="1107" event_type_id="17" period_id="4" period_minute="71" period_second="53" min="71" sec="53" team_id="2150" outcome="1" x="78.4" y="57.0" timestamp="2015-09-26T11:30:49+0000" timestamp_milliseconds="572" timer_running="0" last_modified="2015-09-26T11:30:49+0000">
+      <Q id="904406" qualifier_id="135" />
+    </Event>
+    <Event id="1233333" event_id="1112" event_type_id="17" period_id="4" period_minute="72" period_second="3" min="72" sec="3" team_id="2150" outcome="1" x="90.0" y="29.6" timestamp="2015-09-26T11:30:59+0000" timestamp_milliseconds="571" timer_running="0" last_modified="2015-09-26T11:30:59+0000">
+      <Q id="904410" qualifier_id="135" />
+    </Event>
+    <Event id="1233345" event_id="1120" event_type_id="21" period_id="4" period_minute="72" period_second="47" min="72" sec="47" team_id="2150" outcome="1" x="90.0" y="29.6" timestamp="2015-09-26T11:31:49+0000" timestamp_milliseconds="805" timer_running="0" last_modified="2015-09-26T11:31:49+0000" />
+    <Event id="1233351" event_id="1037" event_type_id="17" period_id="4" period_minute="72" period_second="53" min="72" sec="53" team_id="1400" outcome="1" x="13.6" y="53.6" timestamp="2015-09-26T11:31:59+0000" timestamp_milliseconds="933" timer_running="0" last_modified="2015-09-26T11:32:00+0000">
+      <Q id="904428" qualifier_id="135" />
+    </Event>
+    <Event id="1233357" event_id="1040" event_type_id="17" period_id="4" period_minute="72" period_second="58" min="72" sec="58" team_id="1400" outcome="1" x="25.7" y="64.7" timestamp="2015-09-26T11:32:05+0000" timestamp_milliseconds="776" timer_running="0" last_modified="2015-09-26T11:32:05+0000">
+      <Q id="904432" qualifier_id="135" />
+    </Event>
+    <Event id="1233363" event_id="1044" event_type_id="17" period_id="4" period_minute="73" period_second="9" min="73" sec="9" team_id="1400" outcome="1" x="36.1" y="50.0" timestamp="2015-09-26T11:32:16+0000" timestamp_milliseconds="558" timer_running="0" last_modified="2015-09-26T11:32:16+0000">
+      <Q id="904436" qualifier_id="135" />
+    </Event>
+    <Event id="1233374" event_id="1051" event_type_id="17" period_id="4" period_minute="73" period_second="29" min="73" sec="29" team_id="1400" outcome="1" x="53.4" y="63.1" timestamp="2015-09-26T11:32:36+0000" timestamp_milliseconds="120" timer_running="0" last_modified="2015-09-26T11:32:36+0000">
+      <Q id="904440" qualifier_id="135" />
+    </Event>
+    <Event id="1233381" event_id="1056" event_type_id="17" period_id="4" period_minute="73" period_second="36" min="73" sec="36" team_id="1400" outcome="1" x="68.7" y="75.3" timestamp="2015-09-26T11:32:43+0000" timestamp_milliseconds="167" timer_running="0" last_modified="2015-09-26T11:32:43+0000">
+      <Q id="904444" qualifier_id="135" />
+    </Event>
+    <Event id="1233390" event_id="1064" event_type_id="17" period_id="4" period_minute="73" period_second="49" min="73" sec="49" team_id="1400" outcome="1" x="87.3" y="23.7" timestamp="2015-09-26T11:32:56+0000" timestamp_milliseconds="104" timer_running="0" last_modified="2015-09-26T11:32:56+0000">
+      <Q id="904447" qualifier_id="135" />
+    </Event>
+    <Event id="1233392" event_id="1066" event_type_id="8" period_id="4" period_minute="73" period_second="52" min="73" sec="52" player_id="2361" team_id="1400" outcome="1" x="87.9" y="43.0" timestamp="2015-09-26T11:32:58+0000" timestamp_milliseconds="979" timer_running="0" last_modified="2015-09-26T11:33:01+0000">
+      <Q id="904448" qualifier_id="172" />
+      <Q id="904451" qualifier_id="166" value="17" />
+      <Q id="904449" qualifier_id="167" value="100.0" />
+      <Q id="904450" qualifier_id="168" value="81.7" />
+    </Event>
+    <Event id="1233400" event_id="1139" event_type_id="17" period_id="4" period_minute="74" period_second="15" min="74" sec="15" team_id="2150" outcome="1" x="31.8" y="44.6" timestamp="2015-09-26T11:33:17+0000" timestamp_milliseconds="459" timer_running="0" last_modified="2015-09-26T11:33:17+0000">
+      <Q id="904457" qualifier_id="135" />
+    </Event>
+    <Event id="1233406" event_id="1142" event_type_id="17" period_id="4" period_minute="74" period_second="24" min="74" sec="24" team_id="2150" outcome="1" x="43.0" y="39.9" timestamp="2015-09-26T11:33:26+0000" timestamp_milliseconds="522" timer_running="0" last_modified="2015-09-26T11:33:26+0000">
+      <Q id="904460" qualifier_id="135" />
+    </Event>
+    <Event id="1233421" event_id="1079" event_type_id="17" period_id="4" period_minute="74" period_second="47" min="74" sec="47" team_id="1400" outcome="1" x="92.5" y="88.9" timestamp="2015-09-26T11:34:37+0000" timestamp_milliseconds="979" timer_running="0" last_modified="2015-09-26T11:34:38+0000">
+      <Q id="904475" qualifier_id="135" />
+    </Event>
+    <Event id="1233431" event_id="1088" event_type_id="17" period_id="4" period_minute="74" period_second="59" min="74" sec="59" team_id="1400" outcome="1" x="92.5" y="88.9" timestamp="2015-09-26T11:34:50+0000" timestamp_milliseconds="620" timer_running="0" last_modified="2015-09-26T11:34:50+0000">
+      <Q id="904480" qualifier_id="135" />
+    </Event>
+    <Event id="1233434" event_id="1091" event_type_id="8" period_id="4" period_minute="75" period_second="2" min="75" sec="2" player_id="2273" team_id="1400" outcome="1" x="88.9" y="58.2" timestamp="2015-09-26T11:34:53+0000" timestamp_milliseconds="370" timer_running="0" last_modified="2015-09-26T11:34:55+0000">
+      <Q id="904483" qualifier_id="167" value="100.0" />
+      <Q id="904485" qualifier_id="166" value="15" />
+      <Q id="904482" qualifier_id="172" />
+      <Q id="904484" qualifier_id="168" value="29.9" />
+    </Event>
+    <Event id="1233445" event_id="1097" event_type_id="31" period_id="4" period_minute="75" period_second="46" min="75" sec="46" player_id="10808" team_id="1400" outcome="1" x="80.0" y="52.1" timestamp="2015-09-26T11:35:37+0000" timestamp_milliseconds="370" timer_running="0" last_modified="2015-09-26T11:35:40+0000">
+      <Q id="904495" qualifier_id="63" value="25" />
+    </Event>
+    <Event id="1233444" event_id="1157" event_type_id="17" period_id="4" period_minute="76" period_second="2" min="76" sec="2" team_id="2150" outcome="1" x="28.4" y="41.0" timestamp="2015-09-26T11:35:39+0000" timestamp_milliseconds="535" timer_running="0" last_modified="2015-09-26T11:35:39+0000">
+      <Q id="904494" qualifier_id="135" />
+    </Event>
+    <Event id="1233452" event_id="1160" event_type_id="17" period_id="4" period_minute="76" period_second="12" min="76" sec="12" team_id="2150" outcome="1" x="41.1" y="32.0" timestamp="2015-09-26T11:35:49+0000" timestamp_milliseconds="285" timer_running="0" last_modified="2015-09-26T11:35:49+0000">
+      <Q id="904499" qualifier_id="135" />
+    </Event>
+    <Event id="1233459" event_id="1163" event_type_id="17" period_id="4" period_minute="76" period_second="20" min="76" sec="20" team_id="2150" outcome="1" x="48.9" y="47.2" timestamp="2015-09-26T11:35:57+0000" timestamp_milliseconds="909" timer_running="0" last_modified="2015-09-26T11:35:58+0000">
+      <Q id="904503" qualifier_id="135" />
+    </Event>
+    <Event id="1233468" event_id="1171" event_type_id="17" period_id="4" period_minute="76" period_second="34" min="76" sec="34" team_id="2150" outcome="1" x="66.4" y="67.8" timestamp="2015-09-26T11:36:11+0000" timestamp_milliseconds="300" timer_running="0" last_modified="2015-09-26T11:36:11+0000">
+      <Q id="904508" qualifier_id="135" />
+    </Event>
+    <Event id="1233474" event_id="1175" event_type_id="17" period_id="4" period_minute="76" period_second="45" min="76" sec="45" team_id="2150" outcome="1" x="78.2" y="76.1" timestamp="2015-09-26T11:36:22+0000" timestamp_milliseconds="253" timer_running="0" last_modified="2015-09-26T11:36:22+0000">
+      <Q id="904513" qualifier_id="135" />
+    </Event>
+    <Event id="1233478" event_id="1178" event_type_id="17" period_id="4" period_minute="76" period_second="52" min="76" sec="52" team_id="2150" outcome="1" x="87.7" y="76.6" timestamp="2015-09-26T11:36:29+0000" timestamp_milliseconds="237" timer_running="0" last_modified="2015-09-26T11:36:29+0000">
+      <Q id="904516" qualifier_id="135" />
+    </Event>
+    <Event id="1233479" event_id="1179" event_type_id="8" period_id="4" period_minute="76" period_second="53" min="76" sec="53" player_id="20720" team_id="2150" outcome="1" x="87.7" y="76.6" timestamp="2015-09-26T11:36:30+0000" timestamp_milliseconds="549" timer_running="0" last_modified="2015-09-26T11:36:34+0000">
+      <Q id="904520" qualifier_id="166" value="18" />
+      <Q id="904517" qualifier_id="172" />
+      <Q id="904519" qualifier_id="168" value="90.2" />
+      <Q id="904518" qualifier_id="167" value="100.0" />
+    </Event>
+    <Event id="1233486" event_id="1111" event_type_id="17" period_id="4" period_minute="76" period_second="59" min="76" sec="59" team_id="1400" outcome="1" x="19.5" y="50.5" timestamp="2015-09-26T11:36:50+0000" timestamp_milliseconds="718" timer_running="0" last_modified="2015-09-26T11:36:50+0000">
+      <Q id="904532" qualifier_id="135" />
+    </Event>
+    <Event id="1233577" event_id="1183" event_type_id="23" period_id="4" period_minute="77" period_second="0" min="77" sec="0" player_id="2541" team_id="2150" outcome="1" x="100.0" y="90.2" timestamp="2015-09-26T11:36:49+0000" timestamp_milliseconds="377" timer_running="0" last_modified="2015-09-26T11:39:51+0000">
+      <Q id="904596" qualifier_id="2" value="8 Prop" />
+      <Q id="904595" qualifier_id="56" />
+    </Event>
+    <Event id="1233485" event_id="1184" event_type_id="24" period_id="4" period_minute="77" period_second="0" min="77" sec="0" player_id="5041" team_id="2150" outcome="1" x="100.0" y="90.2" timestamp="2015-09-26T11:36:49+0000" timestamp_milliseconds="393" timer_running="0" last_modified="2015-09-26T11:36:50+0000">
+      <Q id="904530" qualifier_id="63" value="1183" />
+      <Q id="904531" qualifier_id="2" value="16 Replacement 3" />
+      <Q id="904529" qualifier_id="56" />
+    </Event>
+    <Event id="1233490" event_id="1115" event_type_id="17" period_id="4" period_minute="77" period_second="6" min="77" sec="6" team_id="1400" outcome="1" x="41.8" y="54.6" timestamp="2015-09-26T11:36:57+0000" timestamp_milliseconds="124" timer_running="0" last_modified="2015-09-26T11:36:57+0000">
+      <Q id="904536" qualifier_id="135" />
+    </Event>
+    <Event id="1233496" event_id="1118" event_type_id="17" period_id="4" period_minute="77" period_second="13" min="77" sec="13" team_id="1400" outcome="1" x="54.5" y="54.4" timestamp="2015-09-26T11:37:04+0000" timestamp_milliseconds="124" timer_running="0" last_modified="2015-09-26T11:37:04+0000">
+      <Q id="904540" qualifier_id="135" />
+    </Event>
+    <Event id="1233500" event_id="1120" event_type_id="17" period_id="4" period_minute="77" period_second="24" min="77" sec="24" team_id="1400" outcome="1" x="64.8" y="69.9" timestamp="2015-09-26T11:37:15+0000" timestamp_milliseconds="374" timer_running="0" last_modified="2015-09-26T11:37:15+0000">
+      <Q id="904543" qualifier_id="135" />
+    </Event>
+    <Event id="1233506" event_id="1125" event_type_id="17" period_id="4" period_minute="77" period_second="34" min="77" sec="34" team_id="1400" outcome="1" x="71.4" y="12.6" timestamp="2015-09-26T11:37:25+0000" timestamp_milliseconds="905" timer_running="0" last_modified="2015-09-26T11:37:26+0000">
+      <Q id="904545" qualifier_id="135" />
+    </Event>
+    <Event id="1233510" event_id="1128" event_type_id="17" period_id="4" period_minute="77" period_second="43" min="77" sec="43" team_id="1400" outcome="1" x="72.5" y="22.9" timestamp="2015-09-26T11:37:34+0000" timestamp_milliseconds="61" timer_running="0" last_modified="2015-09-26T11:37:34+0000">
+      <Q id="904547" qualifier_id="135" />
+    </Event>
+    <Event id="1233514" event_id="1130" event_type_id="8" period_id="4" period_minute="77" period_second="46" min="77" sec="46" player_id="2273" team_id="1400" outcome="1" x="72.0" y="49.2" timestamp="2015-09-26T11:37:37+0000" timestamp_milliseconds="498" timer_running="0" last_modified="2015-09-26T11:37:40+0000">
+      <Q id="904552" qualifier_id="166" value="21" />
+      <Q id="904551" qualifier_id="168" value="91.3" />
+      <Q id="904549" qualifier_id="172" />
+      <Q id="904550" qualifier_id="167" value="93.2" />
+    </Event>
+    <Event id="1233517" event_id="1193" event_type_id="17" period_id="4" period_minute="78" period_second="9" min="78" sec="9" team_id="2150" outcome="1" x="5.0" y="17.0" timestamp="2015-09-26T11:37:46+0000" timestamp_milliseconds="939" timer_running="0" last_modified="2015-09-26T11:37:47+0000">
+      <Q id="904554" qualifier_id="135" />
+    </Event>
+    <Event id="1233523" event_id="1194" event_type_id="31" period_id="4" period_minute="78" period_second="10" min="78" sec="10" player_id="10946" team_id="2150" outcome="1" x="5.0" y="17.0" timestamp="2015-09-26T11:37:47+0000" timestamp_milliseconds="736" timer_running="0" last_modified="2015-09-26T11:37:51+0000">
+      <Q id="904556" qualifier_id="63" value="12" />
+    </Event>
+    <Event id="1233526" event_id="1197" event_type_id="17" period_id="4" period_minute="78" period_second="19" min="78" sec="19" team_id="2150" outcome="1" x="7.3" y="35.8" timestamp="2015-09-26T11:37:56+0000" timestamp_milliseconds="377" timer_running="0" last_modified="2015-09-26T11:37:56+0000">
+      <Q id="904559" qualifier_id="135" />
+    </Event>
+    <Event id="1233531" event_id="1200" event_type_id="17" period_id="4" period_minute="78" period_second="30" min="78" sec="30" team_id="2150" outcome="1" x="16.8" y="57.2" timestamp="2015-09-26T11:38:07+0000" timestamp_milliseconds="236" timer_running="0" last_modified="2015-09-26T11:38:07+0000">
+      <Q id="904562" qualifier_id="135" />
+    </Event>
+    <Event id="1233537" event_id="1203" event_type_id="17" period_id="4" period_minute="78" period_second="40" min="78" sec="40" team_id="2150" outcome="1" x="22.3" y="71.4" timestamp="2015-09-26T11:38:18+0000" timestamp_milliseconds="158" timer_running="0" last_modified="2015-09-26T11:38:18+0000">
+      <Q id="904566" qualifier_id="135" />
+    </Event>
+    <Event id="1233546" event_id="1208" event_type_id="17" period_id="4" period_minute="78" period_second="53" min="78" sec="53" team_id="2150" outcome="1" x="30.2" y="64.5" timestamp="2015-09-26T11:38:30+0000" timestamp_milliseconds="502" timer_running="0" last_modified="2015-09-26T11:38:30+0000">
+      <Q id="904569" qualifier_id="135" />
+    </Event>
+    <Event id="1233552" event_id="1147" event_type_id="17" period_id="4" period_minute="78" period_second="56" min="78" sec="56" team_id="1400" outcome="1" x="11.4" y="17.8" timestamp="2015-09-26T11:38:47+0000" timestamp_milliseconds="809" timer_running="0" last_modified="2015-09-26T11:38:48+0000">
+      <Q id="904577" qualifier_id="135" />
+    </Event>
+    <Event id="1233549" event_id="1210" event_type_id="8" period_id="4" period_minute="78" period_second="58" min="78" sec="58" player_id="10107" team_id="2150" outcome="1" x="31.6" y="76.8" timestamp="2015-09-26T11:38:35+0000" timestamp_milliseconds="455" timer_running="0" last_modified="2015-09-26T11:38:39+0000">
+      <Q id="904572" qualifier_id="168" value="94.1" />
+      <Q id="904573" qualifier_id="166" value="66" />
+      <Q id="904571" qualifier_id="167" value="97.5" />
+    </Event>
+    <Event id="1233563" event_id="1154" event_type_id="17" period_id="4" period_minute="79" period_second="10" min="79" sec="10" team_id="1400" outcome="1" x="30.9" y="18.8" timestamp="2015-09-26T11:39:01+0000" timestamp_milliseconds="43" timer_running="0" last_modified="2015-09-26T11:39:01+0000">
+      <Q id="904582" qualifier_id="135" />
+    </Event>
+    <Event id="1233570" event_id="1161" event_type_id="8" period_id="4" period_minute="79" period_second="19" min="79" sec="19" player_id="20734" team_id="1400" outcome="1" x="52.0" y="97.7" timestamp="2015-09-26T11:39:10+0000" timestamp_milliseconds="965" timer_running="0" last_modified="2015-09-26T11:39:13+0000">
+      <Q id="904586" qualifier_id="166" value="39" />
+      <Q id="904584" qualifier_id="167" value="90.7" />
+      <Q id="904585" qualifier_id="168" value="96.7" />
+    </Event>
+    <Event id="1233581" event_id="1222" event_type_id="7" period_id="4" period_minute="80" period_second="0" min="80" sec="0" team_id="2150" outcome="0" x="100.0" y="100.0" timestamp="2015-09-26T11:41:03+0000" timestamp_milliseconds="361" timer_running="0" last_modified="2015-09-26T11:41:03+0000">
+      <Q id="904601" qualifier_id="53" value="0" />
+    </Event>
+    <Event id="1233582" event_id="1166" event_type_id="7" period_id="4" period_minute="80" period_second="0" min="80" sec="0" team_id="1400" outcome="0" x="0.0" y="0.0" timestamp="2015-09-26T11:41:19+0000" timestamp_milliseconds="774" timer_running="0" last_modified="2015-09-26T11:41:27+0000">
+      <Q id="904602" qualifier_id="53" value="0" />
+    </Event>
+    <Event id="1233587" event_id="1225" event_type_id="7" period_id="9" period_minute="0" period_second="0" min="0" sec="0" team_id="2150" outcome="0" x="0.0" y="0.0" timestamp="2015-09-26T11:41:14+0000" timestamp_milliseconds="658" timer_running="0" last_modified="2015-09-26T11:42:40+0000">
+      <Q id="904609" qualifier_id="54" value="1" />
+      <Q id="904608" qualifier_id="53" value="1" />
+    </Event>
+    <Event id="1233588" event_id="1169" event_type_id="7" period_id="9" period_minute="0" period_second="0" min="0" sec="0" team_id="1400" outcome="0" x="0.0" y="0.0" timestamp="2015-09-26T11:41:29+0000" timestamp_milliseconds="836" timer_running="0" last_modified="2015-09-26T11:42:40+0000">
+      <Q id="904610" qualifier_id="53" value="1" />
+      <Q id="904611" qualifier_id="54" value="1" />
+    </Event>
+    <Event id="1233585" event_id="1224" event_type_id="7" period_id="9" period_minute="80" period_second="0" min="80" sec="0" team_id="2150" outcome="0" x="0.0" y="0.0" timestamp="2015-09-26T11:41:12+0000" timestamp_milliseconds="674" timer_running="0" last_modified="2015-09-26T11:41:52+0000">
+      <Q id="904606" qualifier_id="53" value="0" />
+    </Event>
+    <Event id="1233586" event_id="1168" event_type_id="7" period_id="9" period_minute="80" period_second="0" min="80" sec="0" team_id="1400" outcome="0" x="0.0" y="0.0" timestamp="2015-09-26T11:41:28+0000" timestamp_milliseconds="258" timer_running="0" last_modified="2015-09-26T11:42:16+0000">
+      <Q id="904607" qualifier_id="53" value="0" />
+    </Event>
+    <team home_or_away="home" team_id="1400" />
+    <team home_or_away="away" team_id="2150" />
+  </Game>
+</Games>

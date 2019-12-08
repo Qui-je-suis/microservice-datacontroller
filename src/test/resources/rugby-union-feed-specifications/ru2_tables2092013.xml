@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2013 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a01.nexus.opta.net
+     production time:    20130711T155345,965Z
+     production module:  Opta::Feed::XML::RugbyUnion::RU2
+-->
+<table datetime="20130711165345">
+  <comp id="209" long_name="Six Nations" name="Six Nations" round="5" season_id="2013" short_name="6N">
+    <group name="Six Nations">
+      <team id="500" against="66" bonus="0" drawn="0" for="122" losingbonus="0" lost="1" name="Wales" played="5" points="8" pointsdiff="56" rank="1" triesagainst="3" triesbonus="0" triesfor="9" won="4" />
+      <team id="550" against="78" bonus="0" drawn="0" for="94" losingbonus="0" lost="1" name="England" played="5" points="8" pointsdiff="16" rank="2" triesagainst="6" triesbonus="0" triesfor="5" won="4" />
+      <team id="700" against="107" bonus="0" drawn="0" for="98" losingbonus="0" lost="3" name="Scotland" played="5" points="4" pointsdiff="-9" rank="3" triesagainst="9" triesbonus="0" triesfor="7" won="2" />
+      <team id="952" against="111" bonus="0" drawn="0" for="75" losingbonus="0" lost="3" name="Italy" played="5" points="4" pointsdiff="-36" rank="4" triesagainst="8" triesbonus="0" triesfor="5" won="2" />
+      <team id="600" against="81" bonus="0" drawn="1" for="72" losingbonus="0" lost="3" name="Ireland" played="5" points="3" pointsdiff="-9" rank="5" triesagainst="5" triesbonus="0" triesfor="5" won="1" />
+      <team id="650" against="91" bonus="0" drawn="1" for="73" losingbonus="0" lost="3" name="France" played="5" points="3" pointsdiff="-18" rank="6" triesagainst="6" triesbonus="0" triesfor="6" won="1" />
+    </group>
+  </comp>
+</table>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2013 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a02.nexus.opta.net
+     production time:    20130219T164217,283Z
+     production module:  Opta::Feed::XML::RugbyUnion::RU8
+-->
+<RugbyCommentary>
+  <GameDetail away_score="18" away_team_id="650" away_team_name="France" game_id="913013" home_score="23" home_team_id="952" home_team_name="Italy" />
+  <Message type="Leader Table">
+    <Category name="">
+      <Players name="Thierry Dusautoir" number="13" player_id="7286" team_id="650" team_name="France" />
+      <Players name="Fulgence Ouedraogo" number="11" player_id="8436" team_id="650" team_name="France" />
+      <Players name="Pascal Pape" number="11" player_id="3383" team_id="650" team_name="France" />
+    </Category>
+    <Category name="Défenseurs Battus">
+      <Players name="Sergio Parisse" number="3" player_id="3347" team_id="952" team_name="Italy" />
+      <Players name="Giovanbattista Venditti" number="3" player_id="18304" team_id="952" team_name="Italy" />
+      <Players name="Frederic Michalak" number="2" player_id="2475" team_id="650" team_name="France" />
+      <Players name="Wesley Fofana" number="2" player_id="9948" team_id="650" team_name="France" />
+      <Players name="Yoann Huget" number="2" player_id="8471" team_id="650" team_name="France" />
+    </Category>
+  </Message>
+  <Message type="Leader Table">
+    <Category name="">
+      <Players name="Thierry Dusautoir" number="13" player_id="7286" team_id="650" team_name="France" />
+      <Players name="Fulgence Ouedraogo" number="11" player_id="8436" team_id="650" team_name="France" />
+      <Players name="Pascal Pape" number="11" player_id="3383" team_id="650" team_name="France" />
+    </Category>
+    <Category name="Défenseurs Battus">
+      <Players name="Sergio Parisse" number="3" player_id="3347" team_id="952" team_name="Italy" />
+      <Players name="Giovanbattista Venditti" number="3" player_id="18304" team_id="952" team_name="Italy" />
+      <Players name="Frederic Michalak" number="2" player_id="2475" team_id="650" team_name="France" />
+      <Players name="Wesley Fofana" number="2" player_id="9948" team_id="650" team_name="France" />
+      <Players name="Yoann Huget" number="2" player_id="8471" team_id="650" team_name="France" />
+    </Category>
+  </Message>
+  <Message id="857" comment="Le match est terminé." player_id="0" team_id="952" time="80+1" type="End Of Second Half" />
+  <Message id="838" comment="Leonardo Ghiraldini entre en jeu." player_id="7914" team_id="952" time="79" type="Substitution on" />
+  <Message id="837" comment="Kristopher Burton est remplacé." player_id="9252" team_id="952" time="79" type="Substitution off" />
+  <Message id="834" comment="Davide Giazzon (Italy) vient de recevoir un carton jaune." player_id="9072" team_id="952" time="79" type="Yellow card" />
+  <Message id="827" comment="Sergio Parisse a réussi 10 plaquages dans ce match pour le moment." player_id="3347" team_id="952" time="78" type="Player Good Tackles" />
+  <Message id="805" comment="France a remporté 80 rucks dans ce match pour le moment." player_id="0" team_id="650" time="77" type="Team Rucks Won" />
+  <Message id="770" comment="La ligne de défense a été franchie par Giovanbattista Venditti." player_id="18304" team_id="952" time="73" type="Clean Break" />
+  <Message id="762" comment="Fulgence Ouedraogo a réussi 10 plaquages dans ce match pour le moment." player_id="8436" team_id="650" time="73" type="Player Good Tackles" />
+  <Message id="761" comment="Frederic Michalak a réussi 10 plaquages dans ce match pour le moment." player_id="2475" team_id="650" time="73" type="Player Good Tackles" />
+  <Message id="764" comment="Gonzalo Canale entre en jeu." player_id="3671" team_id="952" time="71" type="Substitution on" />
+  <Message id="763" comment="Tommaso Benvenuti est remplacé." player_id="16858" team_id="952" time="71" type="Substitution off" />
+  <Message id="762" comment="Antonio Pavanello entre en jeu." player_id="7852" team_id="952" time="71" type="Substitution on" />
+  <Message id="761" comment="Quintin Geldenhuys est remplacé." player_id="8960" team_id="952" time="71" type="Substitution off" />
+  <Message id="752" comment="Italy a remporté 100 rucks dans ce match pour le moment." player_id="0" team_id="952" time="71" type="Team Rucks Won" />
+  <Message id="747" comment="Francois Trinh-Duc entre en jeu." player_id="8615" team_id="650" time="71" type="Substitution on" />
+  <Message id="746" comment="Yoann Huget est remplacé." player_id="8471" team_id="650" time="71" type="Substitution off" />
+  <Message id="682" comment="France a remporté 60 rucks dans ce match pour le moment." player_id="0" team_id="650" time="69" type="Team Rucks Won" />
+  <Message id="728" comment="Kristopher Burton a réussi un drop." player_id="9252" team_id="952" time="68" type="Drop Goal - Kicked" />
+  <Message id="675" comment="Damien Chouly entre en jeu." player_id="8306" team_id="650" time="68" type="Substitution on" />
+  <Message id="674" comment="Louis Picamoles est remplacé." player_id="9093" team_id="650" time="68" type="Substitution off" />
+  <Message id="644" comment="Luc Ducalcon entre en jeu." player_id="8373" team_id="650" time="66" type="Substitution on" />
+  <Message id="643" comment="Nicolas Mas est remplacé." player_id="2283" team_id="650" time="66" type="Substitution off" />
+  <Message id="677" comment="Kristopher Burton entre en jeu." player_id="9252" team_id="952" time="63" type="Substitution on" />
+  <Message id="676" comment="Luciano Orquera est remplacé." player_id="7015" team_id="952" time="63" type="Substitution off" />
+  <Message id="672" comment="Paul Derbyshire entre en jeu." player_id="8890" team_id="952" time="63" type="Substitution on" />
+  <Message id="671" comment="Simone Favaro est remplacé." player_id="9978" team_id="952" time="63" type="Substitution off" />
+  <Message id="666" comment="Lorenzo Cittadini entre en jeu." player_id="7913" team_id="952" time="62" type="Substitution on" />
+  <Message id="665" comment="Martin Castrogiovanni est remplacé." player_id="3345" team_id="952" time="62" type="Substitution off" />
+  <Message id="619" comment="Mathieu Bastareaud entre en jeu." player_id="9609" team_id="650" time="62" type="Substitution on" />
+  <Message id="618" comment="Florian Fritz est remplacé." player_id="3951" team_id="650" time="62" type="Substitution off" />
+  <Message id="617" comment="Morgan Parra entre en jeu." player_id="8805" team_id="650" time="62" type="Substitution on" />
+  <Message id="616" comment="Maxime Machenaud est remplacé." player_id="17312" team_id="650" time="62" type="Substitution off" />
+  <Message type="Leader Table">
+    <Category name="">
+      <Players name="Pascal Pape" number="11" player_id="3383" team_id="650" team_name="France" />
+      <Players name="Thierry Dusautoir" number="11" player_id="7286" team_id="650" team_name="France" />
+      <Players name="Yoann Maestri" number="10" player_id="9847" team_id="650" team_name="France" />
+    </Category>
+    <Category name="Défenseurs Battus">
+      <Players name="Sergio Parisse" number="3" player_id="3347" team_id="952" team_name="Italy" />
+      <Players name="Alessandro Zanni" number="2" player_id="7796" team_id="952" team_name="Italy" />
+      <Players name="Wesley Fofana" number="2" player_id="9948" team_id="650" team_name="France" />
+      <Players name="Maxime Machenaud" number="2" player_id="17312" team_id="650" team_name="France" />
+      <Players name="Benjamin Fall" number="2" player_id="9813" team_id="650" team_name="France" />
+    </Category>
+  </Message>
+  <Message id="613" comment="Luciano Orquera a converti l'essai." player_id="7015" team_id="952" time="58" type="Conversion - Kicked" />
+  <Message id="563" comment="Romain Taofifenua entre en jeu." player_id="9831" team_id="650" time="58" type="Substitution on" />
+  <Message id="562" comment="Pascal Pape est remplacé." player_id="3383" team_id="650" time="58" type="Substitution off" />
+  <Message id="607" comment="C'est une très belle passe de Luciano Orquera à l'origine de l'essai." player_id="7015" team_id="952" time="56" type="Try Assist" />
+  <Message id="605" comment="Un très bon jeu de passes de Italy mène à l'essai." player_id="3345" team_id="952" time="56" type="Try - Passing Move" />
+  <Message id="596" comment="Italy a remporté 80 rucks dans ce match pour le moment." player_id="0" team_id="952" time="56" type="Team Rucks Won" />
+  <Message id="557" comment="Yoann Maestri a réussi 10 plaquages dans ce match pour le moment." player_id="9847" team_id="650" time="56" type="Player Good Tackles" />
+  <Message id="580" comment="La ligne de défense a été franchie par Sergio Parisse." player_id="3347" team_id="952" time="55" type="Clean Break" />
+  <Message id="570" comment="Edoardo Gori entre en jeu." player_id="18554" team_id="952" time="55" type="Substitution on" />
+  <Message id="569" comment="Tobie Botes est remplacé." player_id="9719" team_id="952" time="55" type="Substitution off" />
+  <Message id="568" comment="Alberto De Marchi entre en jeu." player_id="8525" team_id="952" time="55" type="Substitution on" />
+  <Message id="567" comment="Andrea Lo Cicero est remplacé." player_id="1706" team_id="952" time="55" type="Substitution off" />
+  <Message id="566" comment="Davide Giazzon entre en jeu." player_id="9072" team_id="952" time="55" type="Substitution on" />
+  <Message id="565" comment="Leonardo Ghiraldini est remplacé." player_id="7914" team_id="952" time="55" type="Substitution off" />
+  <Message id="542" comment="La ligne de défense a été franchie par Maxime Machenaud." player_id="17312" team_id="650" time="55" type="Clean Break" />
+  <Message id="473" comment="France a remporté 40 rucks dans ce match pour le moment." player_id="0" team_id="650" time="52" type="Team Rucks Won" />
+  <Message id="470" comment="Vincent Debaty entre en jeu." player_id="3269" team_id="650" time="52" type="Substitution on" />
+  <Message id="469" comment="Yannick Forestier est remplacé." player_id="6081" team_id="650" time="52" type="Substitution off" />
+  <Message id="468" comment="Benjamin Kayser entre en jeu." player_id="6130" team_id="650" time="52" type="Substitution on" />
+  <Message id="467" comment="Dimitri Szarzewski est remplacé." player_id="3258" team_id="650" time="52" type="Substitution off" />
+  <Message id="462" comment="La pénalité tentée par Frederic Michalak est trop courte." player_id="2475" team_id="650" time="51" type="Penalty Goal - Dropped Short" />
+  <Message id="449" comment="Frederic Michalak réussit la pénalité." player_id="2475" team_id="650" time="49" type="Penalty Goal - Kicked" />
+  <Message id="438" comment="Thierry Dusautoir a réussi 10 plaquages dans ce match pour le moment." player_id="7286" team_id="650" time="47" type="Player Good Tackles" />
+  <Message id="451" comment="Italy a remporté 60 rucks dans ce match pour le moment." player_id="0" team_id="952" time="44" type="Team Rucks Won" />
+  <Message id="413" comment="Pascal Pape a réussi 10 plaquages dans ce match pour le moment." player_id="3383" team_id="650" time="44" type="Player Good Tackles" />
+  <Message id="362" comment="Le deuxième mi-temps a débuté." player_id="0" team_id="650" time="40" type="Start Of Second Half" />
+  <Message id="359" comment="L'arbitre siffle la fin de la première période." player_id="0" team_id="650" time="40" type="End Of First Half" />
+  <Message id="347" comment="La ligne de défense a été franchie par Alessandro Zanni." player_id="7796" team_id="952" time="36" type="Clean Break" />
+  <Message id="324" comment="La ligne de défense a été franchie par Wesley Fofana." player_id="9948" team_id="650" time="36" type="Clean Break" />
+  <Message id="297" comment="Frederic Michalak a converti l'essai." player_id="2475" team_id="650" time="33" type="Conversion - Kicked" />
+  <Message id="295" comment="La ligne de défense a été franchie par Benjamin Fall." player_id="9813" team_id="650" time="33" type="Clean Break" />
+  <Message id="291" comment="C'est une très belle passe de Florian Fritz à l'origine de l'essai." player_id="3951" team_id="650" time="33" type="Try Assist" />
+  <Message id="289" comment="Un très bon jeu de passes de France mène à l'essai." player_id="9813" team_id="650" time="33" type="Try - Passing Move" />
+  <Message id="251" comment="Frederic Michalak réussit la pénalité." player_id="2475" team_id="650" time="27" type="Penalty Goal - Kicked" />
+  <Message id="224" comment="France a remporté 20 rucks dans ce match pour le moment." player_id="0" team_id="650" time="26" type="Team Rucks Won" />
+  <Message type="Leader Table">
+    <Category name="">
+      <Players name="Pascal Pape" number="6" player_id="3383" team_id="650" team_name="France" />
+      <Players name="Thierry Dusautoir" number="6" player_id="7286" team_id="650" team_name="France" />
+      <Players name="Frederic Michalak" number="5" player_id="2475" team_id="650" team_name="France" />
+      <Players name="Florian Fritz" number="5" player_id="3951" team_id="650" team_name="France" />
+      <Players name="Dimitri Szarzewski" number="5" player_id="3258" team_id="650" team_name="France" />
+    </Category>
+    <Category name="Défenseurs Battus">
+      <Players name="Sergio Parisse" number="3" player_id="3347" team_id="952" team_name="Italy" />
+      <Players name="Leonardo Ghiraldini" number="1" player_id="7914" team_id="952" team_name="Italy" />
+      <Players name="Alessandro Zanni" number="1" player_id="7796" team_id="952" team_name="Italy" />
+      <Players name="Luciano Orquera" number="1" player_id="7015" team_id="952" team_name="Italy" />
+      <Players name="Tobie Botes" number="1" player_id="9719" team_id="952" team_name="Italy" />
+    </Category>
+  </Message>
+  <Message id="228" comment="Italy a remporté 40 rucks dans ce match pour le moment." player_id="0" team_id="952" time="20" type="Team Rucks Won" />
+  <Message id="190" comment="Luciano Orquera réussit la pénalité." player_id="7015" team_id="952" time="17" type="Penalty Goal - Kicked" />
+  <Message id="156" comment="Luciano Orquera a réussi un drop." player_id="7015" team_id="952" time="14" type="Drop Goal - Kicked" />
+  <Message id="128" comment="Italy a remporté 20 rucks dans ce match pour le moment." player_id="0" team_id="952" time="13" type="Team Rucks Won" />
+  <Message id="103" comment="La tentative de conversion de Frederic Michalak passe à droite des poteaux." player_id="2475" team_id="650" time="12" type="Conversion - Missed Right" />
+  <Message id="101" comment="C'est une très belle passe de Frederic Michalak à l'origine de l'essai." player_id="2475" team_id="650" time="11" type="Try Assist" />
+  <Message id="100" comment="Un très bon jeu de passes de France mène à l'essai." player_id="9093" team_id="650" time="11" type="Try - Passing Move" />
+  <Message id="85" comment="Luciano Orquera a converti l'essai." player_id="7015" team_id="952" time="5" type="Conversion - Kicked" />
+  <Message id="80" comment="C'est une très belle passe de Luciano Orquera à l'origine de l'essai." player_id="7015" team_id="952" time="4" type="Try Assist" />
+  <Message id="79" comment="Un très bon jeu de passes de Italy mène à l'essai." player_id="3347" team_id="952" time="4" type="Try - Passing Move" />
+  <Message id="77" comment="La ligne de défense a été franchie par Luciano Orquera." player_id="7015" team_id="952" time="4" type="Clean Break" />
+  <Message id="3" comment="La partie commence." player_id="0" team_id="952" time="0" type="Start Of First Half" />
+</RugbyCommentary>

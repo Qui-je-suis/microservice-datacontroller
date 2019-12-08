@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2013 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a08.nexus.opta.net
+     production time:    20131230T001224,765Z
+     production module:  Opta::Feed::XML::RugbyUnion::RU24
+-->
+<comp id="201" name="Aviva Premiership" season="Season 2013/2014" season_id="2014">
+  <refs>
+    <ref Id="1000398" av_away_points="18" av_home_points="24" matches="6" matches_card_shown="4" name="Matthew Carley" red_cards="0" yellow_away="5" yellow_cards="7" yellow_first_half="3" yellow_home="2" yellow_second_half="4" />
+    <ref Id="40" av_away_points="11" av_home_points="27" matches="3" matches_card_shown="2" name="David Rose" red_cards="0" yellow_away="1" yellow_cards="3" yellow_first_half="1" yellow_home="2" yellow_second_half="2" />
+    <ref Id="3" av_away_points="18" av_home_points="21" matches="7" matches_card_shown="6" name="Wayne Barnes" red_cards="1" yellow_away="6" yellow_cards="13" yellow_first_half="6" yellow_home="7" yellow_second_half="7" />
+    <ref Id="213" av_away_points="20" av_home_points="17" matches="8" matches_card_shown="5" name="Greg Garner" red_cards="0" yellow_away="5" yellow_cards="6" yellow_first_half="3" yellow_home="1" yellow_second_half="3" />
+    <ref Id="208" av_away_points="14" av_home_points="27" matches="8" matches_card_shown="5" name="JP Doyle" red_cards="0" yellow_away="5" yellow_cards="9" yellow_first_half="4" yellow_home="4" yellow_second_half="5" />
+    <ref Id="1000335" av_away_points="17" av_home_points="24" matches="7" matches_card_shown="6" name="Luke Pearce" red_cards="0" yellow_away="6" yellow_cards="8" yellow_first_half="5" yellow_home="2" yellow_second_half="3" />
+    <ref Id="4" av_away_points="10" av_home_points="15" matches="2" matches_card_shown="2" name="Dean Richards" red_cards="0" yellow_away="2" yellow_cards="3" yellow_first_half="2" yellow_home="1" yellow_second_half="1" />
+    <ref Id="125" av_away_points="20" av_home_points="17" matches="10" matches_card_shown="6" name="Andrew Small" red_cards="0" yellow_away="3" yellow_cards="10" yellow_first_half="1" yellow_home="7" yellow_second_half="9" />
+    <ref Id="16" av_away_points="17" av_home_points="19" matches="6" matches_card_shown="6" name="Martin Fox" red_cards="0" yellow_away="6" yellow_cards="9" yellow_first_half="6" yellow_home="3" yellow_second_half="3" />
+    <ref Id="55" av_away_points="19" av_home_points="18" matches="9" matches_card_shown="4" name="Tim Wigglesworth" red_cards="0" yellow_away="2" yellow_cards="4" yellow_first_half="3" yellow_home="2" yellow_second_half="1" />
+  </refs>
+</comp>

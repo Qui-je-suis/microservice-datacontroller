@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2005 Opta Sportsdata Ltd. All rights reserved. -->
+<!-- PRODUCTION HEADER
+     produced on:        devmdba.sportingstatz.com
+     production time:    20050119T153258,582Z
+     production module:  Opta::Feed::XML::Soccer::F45
+-->
+<!--prod.akan.mdb.optadev.com soccer_slave_ro
+Opta::Feed::XML::Soccer::F45 0.01
+-->
+<OptaFeed timestamp="2013-04-15T15:32:58+00:00">
+  <OptaDocument comp_id="3" comp_name="International" season_id="2012" type="STADIA Latest">
+    <stadium capacity="52500" venue="Suncorp Stadium" venue_id="49">
+      <address city="Brisbane" country="Australia" street="Castlemaine Street, 40"/>
+      <affiliation country="Australia" region="Oceania"/>
+	  <gps latitude="-27.464805" longitude="153.009239"/>
+      <team name="Reds" id="250"/>
+	  <team name="Australia" id="100"/> 
+	</stadium>
+    <stadium capacity="67144" venue="Murrayfield" venue_id="5">
+      <address city="Edinburgh" country="Scotland" street="Roseburn Street"/>
+      <affiliation country="Scotland" region="UK"/>
+	  <gps latitude="55.942328" longitude="-3.241133"/>
+      <team name="Edinburgh" id="1950"/>
+	  <team name="Scotland" id="700"/>
+	</stadium>
+    <stadium capacity="32000" venue="Stadio Flaminio" venue_id="56">
+      <address city="Rome" country="Italy" street="Piazza Maresciallo Pilsudski"/>
+      <affiliation country="Italy" region="Europe"/>
+	  <gps latitude="41.926865" longitude="12.471647"/>
+	  <team name="Italy" id="952"/>
+	</stadium>
+    <stadium capacity="74500" venue="Millenium Stadium" venue_id="4">
+      <address city="Cardiff" country="Wales" street="Westgate Street"/>
+      <affiliation country="Wales" region="UK"/>
+	  <gps latitude="51.478763" longitude="-3.181671"/>
+	  <team name="Wales" id="500"/> 
+	 </stadium>
+    <stadium capacity="82000" venue="Twickenham" venue_id="38">
+      <address city="London" country="England" street="Whitton Road"/>
+      <affiliation country="England" region="UK"/>
+	  <gps latitude="51.456053" longitude="-0.341402"/>
+	  <team name="England" id="550"/> 
+	</stadium>
+  </OptaDocument>
+</OptaFeed>

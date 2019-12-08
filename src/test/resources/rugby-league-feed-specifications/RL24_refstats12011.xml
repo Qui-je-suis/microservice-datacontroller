@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Copyright 2001-2011 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        jobqueue03.sportingstatz.com
+     production time:    20110701T203459,441Z
+     production module:  Opta::Feed::XML::RugbyLeague::RL24
+-->
+<comp id="1" name="Super League" season="Season 2011" season_id="2011">
+  <refs>
+    <ref Id="25" av_away_points="26" av_home_points="24" matches="18" matches_card_shown="2" name="Robert Hicks" red_cards="0" yellow_away="1" yellow_cards="2" yellow_first_half="0" yellow_home="1" yellow_second_half="2" />
+    <ref Id="40" av_away_points="27" av_home_points="26" matches="19" matches_card_shown="5" name="James Child" red_cards="1" yellow_away="4" yellow_cards="10" yellow_first_half="3" yellow_home="6" yellow_second_half="7" />
+    <ref Id="102" av_away_points="26" av_home_points="26" matches="1" matches_card_shown="0" name="M Thomason" red_cards="0" yellow_away="0" yellow_cards="0" yellow_first_half="0" yellow_home="0" yellow_second_half="0" />
+    <ref Id="26" av_away_points="22" av_home_points="26" matches="18" matches_card_shown="2" name="Phil Bentham" red_cards="0" yellow_away="2" yellow_cards="2" yellow_first_half="0" yellow_home="0" yellow_second_half="2" />
+    <ref Id="12" av_away_points="25" av_home_points="26" matches="19" matches_card_shown="1" name="Thierry Alibert" red_cards="1" yellow_away="0" yellow_cards="0" yellow_first_half="0" yellow_home="0" yellow_second_half="0" />
+    <ref Id="22" av_away_points="23" av_home_points="23" matches="19" matches_card_shown="6" name="Ben Thaler" red_cards="2" yellow_away="7" yellow_cards="11" yellow_first_half="4" yellow_home="4" yellow_second_half="7" />
+    <ref Id="38" av_away_points="22" av_home_points="25" matches="2" matches_card_shown="0" name="Gareth Hewer" red_cards="0" yellow_away="0" yellow_cards="0" yellow_first_half="0" yellow_home="0" yellow_second_half="0" />
+    <ref Id="4" av_away_points="18" av_home_points="28" matches="17" matches_card_shown="8" name="Steve Ganson" red_cards="1" yellow_away="6" yellow_cards="10" yellow_first_half="5" yellow_home="4" yellow_second_half="5" />
+    <ref Id="103" av_away_points="27" av_home_points="46" matches="3" matches_card_shown="2" name="Tim Roby" red_cards="0" yellow_away="2" yellow_cards="3" yellow_first_half="0" yellow_home="1" yellow_second_half="3" />
+    <ref Id="10" av_away_points="21" av_home_points="25" matches="20" matches_card_shown="3" name="Richard Silverwood" red_cards="0" yellow_away="3" yellow_cards="5" yellow_first_half="1" yellow_home="2" yellow_second_half="4" />
+  </refs>
+</comp>

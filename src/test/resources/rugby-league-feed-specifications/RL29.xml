@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2014 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        devmdba.sportingstatz.com.net
+     production time:    20140619T091711,968Z
+     production module:  Opta::Feed::XML::RugbyLeague::RL29
+-->
+<Betting_Feed id="3" Away_Team="Sydney City" Away_id="1550" Competition="NRL" Competition_Id="3" Game_Date="2014-03-06" Game_Id="314011" Home_Team="South Sydney" Home_id="3700" Season="Season 2014" Season_Id="2014">
+  <RecentAwayTeamsGames>
+    <Meeting AwayScore="12" AwayTeam="3500" AwayTeamName="Canberra" GameDate="2014-05-31 08:30:00" GameId="314122" HomeScore="26" HomeTeam="1550" HomeTeamName="Sydney City" Status="Result">
+      <Events>
+        <Event Outcome="1" TeamId="1550" Time="8:22" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="10:17" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="17:57" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="19:28" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="32:50" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="34:18" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="56:41" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="58:10" Type="Conversion" />
+        <Event Outcome="1" TeamId="3500" Time="65:2" Type="Try" />
+        <Event Outcome="1" TeamId="3500" Time="66:18" Type="Conversion" />
+        <Event Outcome="1" TeamId="3500" Time="73:27" Type="Try" />
+        <Event Outcome="1" TeamId="3500" Time="74:34" Type="Conversion" />
+        <Event Outcome="0" TeamId="1550" Time="77:48" Type="Drop goal" />
+        <Event Outcome="1" TeamId="1550" Time="79:59" Type="Penalty goal" />
+      </Events>
+    </Meeting>
+    <Meeting AwayScore="32" AwayTeam="1550" AwayTeamName="Sydney City" GameDate="2014-05-23 10:45:00" GameId="314111" HomeScore="12" HomeTeam="1350" HomeTeamName="Canterbury" Status="Result">
+      <Events>
+        <Event Outcome="1" TeamId="1550" Time="16:15" Type="Try" />
+        <Event Outcome="0" TeamId="1550" Time="17:30" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="21:33" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="23:5" Type="Conversion" />
+        <Event Outcome="1" TeamId="1350" Time="26:46" Type="Try" />
+        <Event Outcome="1" TeamId="1350" Time="28:56" Type="Conversion" />
+        <Event Outcome="1" TeamId="1350" Time="39:56" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1550" Time="47:47" Type="Try" />
+        <Event Outcome="0" TeamId="1550" Time="49:19" Type="Conversion" />
+        <Event Outcome="1" TeamId="1350" Time="56:38" Type="Try" />
+        <Event Outcome="0" TeamId="1350" Time="58:36" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="63:31" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="64:43" Type="Conversion" />
+        <Event Outcome="1" TeamId="1350" Time="66:24" Type="Card" />
+        <Event Outcome="1" TeamId="1550" Time="67:25" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="68:25" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="70:27" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="71:52" Type="Conversion" />
+      </Events>
+    </Meeting>
+    <Meeting AwayScore="10" AwayTeam="1550" AwayTeamName="Sydney City" GameDate="2014-05-17 10:30:00" GameId="314105" HomeScore="42" HomeTeam="2150" HomeTeamName="North Queensland" Status="Result">
+      <Events>
+        <Event Outcome="1" TeamId="2150" Time="1:3" Type="Try" />
+        <Event Outcome="0" TeamId="2150" Time="2:29" Type="Conversion" />
+        <Event Outcome="1" TeamId="2150" Time="10:1" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="2150" Time="11:38" Type="Try" />
+        <Event Outcome="1" TeamId="2150" Time="12:45" Type="Conversion" />
+        <Event Outcome="1" TeamId="2150" Time="15:34" Type="Try" />
+        <Event Outcome="1" TeamId="2150" Time="17:13" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="19:24" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="21:8" Type="Conversion" />
+        <Event Outcome="1" TeamId="2150" Time="25:49" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="2150" Time="33:29" Type="Try" />
+        <Event Outcome="0" TeamId="2150" Time="34:57" Type="Conversion" />
+        <Event Outcome="1" TeamId="2150" Time="39:35" Type="Try" />
+        <Event Outcome="1" TeamId="2150" Time="39:58" Type="Conversion" />
+        <Event Outcome="1" TeamId="2150" Time="59:3" Type="Try" />
+        <Event Outcome="1" TeamId="2150" Time="60:36" Type="Conversion" />
+        <Event Outcome="1" TeamId="2150" Time="70:55" Type="Try" />
+        <Event Outcome="1" TeamId="2150" Time="72:22" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="78:2" Type="Try" />
+        <Event Outcome="0" TeamId="1550" Time="79:4" Type="Conversion" />
+      </Events>
+    </Meeting>
+    <Meeting AwayScore="6" AwayTeam="3300" AwayTeamName="Wests" GameDate="2014-05-09 10:40:00" GameId="314091" HomeScore="30" HomeTeam="1550" HomeTeamName="Sydney City" Status="Result">
+      <Events>
+        <Event Outcome="1" TeamId="1550" Time="9:26" Type="Try" />
+        <Event Outcome="0" TeamId="1550" Time="11:11" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="34:47" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="36:26" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="39:3" Type="Try" />
+        <Event Outcome="0" TeamId="1550" Time="39:54" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="44:49" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="46:26" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="58:38" Type="Try" />
+        <Event Outcome="0" TeamId="1550" Time="60:31" Type="Conversion" />
+        <Event Outcome="1" TeamId="3300" Time="68:18" Type="Try" />
+        <Event Outcome="1" TeamId="3300" Time="68:28" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="72:19" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="73:55" Type="Conversion" />
+      </Events>
+    </Meeting>
+    <Meeting AwayScore="34" AwayTeam="1550" AwayTeamName="Sydney City" GameDate="2014-04-25 07:00:00" GameId="314081" HomeScore="14" HomeTeam="2200" HomeTeamName="St George Illawarra" Status="Result">
+      <Events>
+        <Event Outcome="1" TeamId="1550" Time="9:13" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="10:49" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="16:17" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="17:34" Type="Conversion" />
+        <Event Outcome="1" TeamId="2200" Time="25:8" Type="Try" />
+        <Event Outcome="0" TeamId="2200" Time="26:31" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="35:32" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="37:19" Type="Conversion" />
+        <Event Outcome="1" TeamId="2200" Time="39:54" Type="Try" />
+        <Event Outcome="0" TeamId="2200" Time="40:11" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="42:35" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="43:24" Type="Conversion" />
+        <Event Outcome="1" TeamId="2200" Time="61:54" Type="Try" />
+        <Event Outcome="1" TeamId="2200" Time="63:14" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="68:53" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="70:35" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="74:52" Type="Try" />
+        <Event Outcome="0" TeamId="1550" Time="75:41" Type="Conversion" />
+      </Events>
+    </Meeting>
+    <Meeting AwayScore="24" AwayTeam="1550" AwayTeamName="Sydney City" GameDate="2014-04-19 10:30:00" GameId="314075" HomeScore="18" HomeTeam="1600" HomeTeamName="Cronulla" Status="Result">
+      <Events>
+        <Event Outcome="1" TeamId="1600" Time="12:42" Type="Try" />
+        <Event Outcome="1" TeamId="1600" Time="14:26" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="18:3" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="19:51" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="23:51" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="25:0" Type="Conversion" />
+        <Event Outcome="1" TeamId="1600" Time="42:5" Type="Try" />
+        <Event Outcome="1" TeamId="1600" Time="42:59" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="60:35" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="62:21" Type="Conversion" />
+        <Event Outcome="1" TeamId="1600" Time="67:13" Type="Try" />
+        <Event Outcome="1" TeamId="1600" Time="68:33" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="70:57" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="72:42" Type="Conversion" />
+      </Events>
+    </Meeting>
+  </RecentAwayTeamsGames>
+  <RecentHomeTeamsGames>
+    <Meeting AwayScore="10" AwayTeam="2200" AwayTeamName="St George Illawarra" GameDate="2014-06-02 10:00:00" GameId="314126" HomeScore="29" HomeTeam="3700" HomeTeamName="South Sydney" Status="Result">
+      <Events>
+        <Event Outcome="1" TeamId="3700" Time="21:37" Type="Try" />
+        <Event Outcome="1" TeamId="3700" Time="23:31" Type="Conversion" />
+        <Event Outcome="1" TeamId="3700" Time="28:39" Type="Try" />
+        <Event Outcome="1" TeamId="3700" Time="29:16" Type="Conversion" />
+        <Event Outcome="1" TeamId="3700" Time="32:16" Type="Try" />
+        <Event Outcome="1" TeamId="3700" Time="33:50" Type="Conversion" />
+        <Event Outcome="1" TeamId="2200" Time="38:35" Type="Try" />
+        <Event Outcome="0" TeamId="2200" Time="40:1" Type="Conversion" />
+        <Event Outcome="1" TeamId="3700" Time="60:56" Type="Try" />
+        <Event Outcome="0" TeamId="3700" Time="62:43" Type="Conversion" />
+        <Event Outcome="1" TeamId="3700" Time="64:46" Type="Try" />
+        <Event Outcome="1" TeamId="3700" Time="66:44" Type="Conversion" />
+        <Event Outcome="1" TeamId="2200" Time="68:51" Type="Try" />
+        <Event Outcome="1" TeamId="2200" Time="69:24" Type="Conversion" />
+        <Event Outcome="1" TeamId="3700" Time="73:26" Type="Drop goal" />
+      </Events>
+    </Meeting>
+    <Meeting AwayScore="18" AwayTeam="3700" AwayTeamName="South Sydney" GameDate="2014-05-26 10:00:00" GameId="314115" HomeScore="0" HomeTeam="1600" HomeTeamName="Cronulla" Status="Result">
+      <Events>
+        <Event Outcome="1" TeamId="3700" Time="20:0" Type="Try" />
+        <Event Outcome="1" TeamId="3700" Time="21:30" Type="Conversion" />
+        <Event Outcome="1" TeamId="3700" Time="37:33" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="3700" Time="55:3" Type="Try" />
+        <Event Outcome="0" TeamId="3700" Time="56:45" Type="Conversion" />
+        <Event Outcome="1" TeamId="3700" Time="61:55" Type="Try" />
+        <Event Outcome="1" TeamId="3700" Time="63:0" Type="Conversion" />
+      </Events>
+    </Meeting>
+    <Meeting AwayScore="27" AwayTeam="1400" AwayTeamName="Melbourne" GameDate="2014-05-16 10:40:00" GameId="314101" HomeScore="14" HomeTeam="3700" HomeTeamName="South Sydney" Status="Result">
+      <Events>
+        <Event Outcome="1" TeamId="1400" Time="3:13" Type="Try" />
+        <Event Outcome="1" TeamId="1400" Time="4:8" Type="Conversion" />
+        <Event Outcome="1" TeamId="1400" Time="17:27" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1400" Time="23:53" Type="Try" />
+        <Event Outcome="1" TeamId="1400" Time="25:45" Type="Conversion" />
+        <Event Outcome="1" TeamId="3700" Time="30:32" Type="Try" />
+        <Event Outcome="0" TeamId="3700" Time="31:43" Type="Conversion" />
+        <Event Outcome="1" TeamId="1400" Time="40:4" Type="Try" />
+        <Event Outcome="1" TeamId="1400" Time="40:18" Type="Conversion" />
+        <Event Outcome="1" TeamId="3700" Time="42:50" Type="Try" />
+        <Event Outcome="1" TeamId="3700" Time="43:59" Type="Conversion" />
+        <Event Outcome="1" TeamId="3700" Time="50:14" Type="Try" />
+        <Event Outcome="0" TeamId="3700" Time="51:51" Type="Conversion" />
+        <Event Outcome="1" TeamId="1400" Time="56:32" Type="Try" />
+        <Event Outcome="1" TeamId="1400" Time="58:0" Type="Conversion" />
+        <Event Outcome="0" TeamId="1400" Time="70:12" Type="Drop goal" />
+        <Event Outcome="1" TeamId="1400" Time="73:21" Type="Drop goal" />
+      </Events>
+    </Meeting>
+    <Meeting AwayScore="40" AwayTeam="3700" AwayTeamName="South Sydney" GameDate="2014-05-10 08:30:00" GameId="314094" HomeScore="18" HomeTeam="3750" HomeTeamName="Gold Coast" Status="Result">
+      <Events>
+        <Event Outcome="1" TeamId="3700" Time="1:21" Type="Try" />
+        <Event Outcome="1" TeamId="3700" Time="3:2" Type="Conversion" />
+        <Event Outcome="1" TeamId="3700" Time="6:13" Type="Try" />
+        <Event Outcome="0" TeamId="3700" Time="7:22" Type="Conversion" />
+        <Event Outcome="1" TeamId="3700" Time="9:31" Type="Try" />
+        <Event Outcome="1" TeamId="3700" Time="11:15" Type="Conversion" />
+        <Event Outcome="1" TeamId="3700" Time="14:38" Type="Try" />
+        <Event Outcome="1" TeamId="3700" Time="16:19" Type="Conversion" />
+        <Event Outcome="1" TeamId="3750" Time="24:25" Type="Try" />
+        <Event Outcome="1" TeamId="3750" Time="25:43" Type="Conversion" />
+        <Event Outcome="0" TeamId="3700" Time="34:9" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="3750" Time="37:9" Type="Try" />
+        <Event Outcome="1" TeamId="3750" Time="37:52" Type="Conversion" />
+        <Event Outcome="1" TeamId="3700" Time="42:23" Type="Try" />
+        <Event Outcome="1" TeamId="3700" Time="43:20" Type="Conversion" />
+        <Event Outcome="1" TeamId="3700" Time="64:17" Type="Try" />
+        <Event Outcome="1" TeamId="3700" Time="66:5" Type="Conversion" />
+        <Event Outcome="1" TeamId="3700" Time="67:32" Type="Try" />
+        <Event Outcome="1" TeamId="3700" Time="68:59" Type="Conversion" />
+        <Event Outcome="1" TeamId="3750" Time="78:51" Type="Try" />
+        <Event Outcome="1" TeamId="3750" Time="79:34" Type="Conversion" />
+      </Events>
+    </Meeting>
+    <Meeting AwayScore="28" AwayTeam="3700" AwayTeamName="South Sydney" GameDate="2014-04-25 11:00:00" GameId="314083" HomeScore="26" HomeTeam="900" HomeTeamName="Brisbane" Status="Result">
+      <Events>
+        <Event Outcome="1" TeamId="3700" Time="6:47" Type="Try" />
+        <Event Outcome="1" TeamId="3700" Time="7:29" Type="Conversion" />
+        <Event Outcome="1" TeamId="3700" Time="10:11" Type="Try" />
+        <Event Outcome="0" TeamId="3700" Time="11:48" Type="Conversion" />
+        <Event Outcome="1" TeamId="3700" Time="14:8" Type="Try" />
+        <Event Outcome="0" TeamId="3700" Time="16:6" Type="Conversion" />
+        <Event Outcome="1" TeamId="900" Time="26:6" Type="Try" />
+        <Event Outcome="0" TeamId="900" Time="26:50" Type="Conversion" />
+        <Event Outcome="1" TeamId="900" Time="29:35" Type="Try" />
+        <Event Outcome="1" TeamId="900" Time="30:27" Type="Conversion" />
+        <Event Outcome="1" TeamId="900" Time="34:45" Type="Try" />
+        <Event Outcome="1" TeamId="900" Time="35:46" Type="Conversion" />
+        <Event Outcome="1" TeamId="900" Time="42:32" Type="Try" />
+        <Event Outcome="1" TeamId="900" Time="43:56" Type="Conversion" />
+        <Event Outcome="1" TeamId="3700" Time="50:58" Type="Try" />
+        <Event Outcome="1" TeamId="3700" Time="52:28" Type="Conversion" />
+        <Event Outcome="1" TeamId="900" Time="67:25" Type="Try" />
+        <Event Outcome="0" TeamId="900" Time="68:18" Type="Conversion" />
+        <Event Outcome="1" TeamId="3700" Time="72:14" Type="Try" />
+        <Event Outcome="1" TeamId="3700" Time="73:17" Type="Conversion" />
+        <Event Outcome="0" TeamId="900" Time="77:17" Type="Drop goal" />
+        <Event Outcome="1" TeamId="3700" Time="78:58" Type="Penalty goal" />
+      </Events>
+    </Meeting>
+    <Meeting AwayScore="15" AwayTeam="1350" AwayTeamName="Canterbury" GameDate="2014-04-18 07:00:00" GameId="314071" HomeScore="14" HomeTeam="3700" HomeTeamName="South Sydney" Status="Result">
+      <Events>
+        <Event Outcome="1" TeamId="3700" Time="30:16" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="3700" Time="35:38" Type="Try" />
+        <Event Outcome="1" TeamId="3700" Time="37:11" Type="Conversion" />
+        <Event Outcome="1" TeamId="1350" Time="51:58" Type="Try" />
+        <Event Outcome="1" TeamId="1350" Time="53:32" Type="Conversion" />
+        <Event Outcome="1" TeamId="3700" Time="63:36" Type="Try" />
+        <Event Outcome="1" TeamId="3700" Time="65:22" Type="Conversion" />
+        <Event Outcome="1" TeamId="1350" Time="67:23" Type="Try" />
+        <Event Outcome="1" TeamId="1350" Time="68:38" Type="Conversion" />
+        <Event Outcome="1" TeamId="1350" Time="71:40" Type="Penalty goal" />
+        <Event Outcome="0" TeamId="1350" Time="74:50" Type="Drop goal" />
+        <Event Outcome="0" TeamId="3700" Time="76:8" Type="Drop goal" />
+        <Event Outcome="0" TeamId="3700" Time="77:2" Type="Drop goal" />
+        <Event Outcome="1" TeamId="1350" Time="77:44" Type="Drop goal" />
+        <Event Outcome="0" TeamId="3700" Time="80:11" Type="Drop goal" />
+      </Events>
+    </Meeting>
+  </RecentHomeTeamsGames>
+  <RecentMeetings>
+    <Meeting AwayScore="8" AwayTeam="1550" AwayTeamName="Sydney City" GameDate="2014-03-06 09:05:00" GameId="314011" HomeScore="28" HomeTeam="3700" HomeTeamName="South Sydney" Status="Result">
+      <Events>
+        <Event Outcome="1" TeamId="1550" Time="10:23" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="11:55" Type="Conversion" />
+        <Event Outcome="1" TeamId="3700" Time="22:4" Type="Try" />
+        <Event Outcome="1" TeamId="3700" Time="23:45" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="43:50" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="3700" Time="51:13" Type="Try" />
+        <Event Outcome="1" TeamId="3700" Time="52:43" Type="Conversion" />
+        <Event Outcome="1" TeamId="3700" Time="56:51" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="3700" Time="59:52" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="3700" Time="74:32" Type="Try" />
+        <Event Outcome="1" TeamId="3700" Time="76:6" Type="Conversion" />
+        <Event Outcome="1" TeamId="3700" Time="78:6" Type="Try" />
+        <Event Outcome="1" TeamId="3700" Time="78:34" Type="Conversion" />
+      </Events>
+    </Meeting>
+    <Meeting AwayScore="24" AwayTeam="1550" AwayTeamName="Sydney City" GameDate="2013-09-06 10:45:00" GameId="313262" HomeScore="12" HomeTeam="3700" HomeTeamName="South Sydney" Status="Result">
+      <Events>
+        <Event Outcome="1" TeamId="3700" Time="11:8" Type="Try" />
+        <Event Outcome="1" TeamId="3700" Time="12:37" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="18:10" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="19:48" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="21:5" Type="Try" />
+        <Event Outcome="0" TeamId="1550" Time="22:45" Type="Conversion" />
+        <Event Outcome="1" TeamId="3700" Time="35:27" Type="Try" />
+        <Event Outcome="1" TeamId="3700" Time="37:1" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="46:29" Type="Penalty goal" />
+        <Event Outcome="1" TeamId="1550" Time="56:13" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="57:27" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="58:33" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="60:10" Type="Conversion" />
+        <Event Outcome="0" TeamId="1550" Time="75:55" Type="Drop goal" />
+      </Events>
+    </Meeting>
+    <Meeting AwayScore="28" AwayTeam="3700" AwayTeamName="South Sydney" GameDate="2013-03-07 09:05:00" GameId="313011" HomeScore="10" HomeTeam="1550" HomeTeamName="Sydney City" Status="Result">
+      <Events>
+        <Event Outcome="1" TeamId="1550" Time="2:43" Type="Try" />
+        <Event Outcome="0" TeamId="1550" Time="4:11" Type="Conversion" />
+        <Event Outcome="1" TeamId="3700" Time="9:13" Type="Try" />
+        <Event Outcome="1" TeamId="3700" Time="11:18" Type="Conversion" />
+        <Event Outcome="1" TeamId="3700" Time="27:36" Type="Try" />
+        <Event Outcome="1" TeamId="3700" Time="28:6" Type="Conversion" />
+        <Event Outcome="1" TeamId="3700" Time="39:22" Type="Try" />
+        <Event Outcome="0" TeamId="3700" Time="40:0" Type="Conversion" />
+        <Event Outcome="1" TeamId="3700" Time="45:24" Type="Try" />
+        <Event Outcome="1" TeamId="3700" Time="46:44" Type="Conversion" />
+        <Event Outcome="1" TeamId="3700" Time="60:6" Type="Try" />
+        <Event Outcome="1" TeamId="3700" Time="62:0" Type="Conversion" />
+        <Event Outcome="1" TeamId="1550" Time="74:56" Type="Try" />
+        <Event Outcome="1" TeamId="1550" Time="75:44" Type="Conversion" />
+      </Events>
+    </Meeting>
+    <Meeting AwayScore="24" AwayTeam="3700" AwayTeamName="South Sydney" GameDate="2012-07-16 10:00:00" GameId="312194" HomeScore="22" HomeTeam="1550" HomeTeamName="Sydney City" Status="Result" />
+    <Meeting AwayScore="24" AwayTeam="1550" AwayTeamName="Sydney City" GameDate="2012-03-05 08:00:00" GameId="312018" HomeScore="20" HomeTeam="3700" HomeTeamName="South Sydney" Status="Result" />
+    <Meeting AwayScore="20" AwayTeam="1550" AwayTeamName="Sydney City" GameDate="2011-07-16 08:30:00" GameId="311196" HomeScore="21" HomeTeam="3700" HomeTeamName="South Sydney" Status="Result" />
+  </RecentMeetings>
+  <Team id="3700">
+    <Form>
+      <Stat Type="LastSixResults">29-10,18-0,14-27,40-18,28-26,14-15</Stat>
+      <Stat Type="LastSixAway">WWWWWL</Stat>
+      <Stat Type="LastSixHome">WLLLWL</Stat>
+      <Stat Type="LastSixGames">WWLWWL</Stat>
+    </Form>
+  </Team>
+  <Team id="1550">
+    <Form>
+      <Stat Type="LastSixResults">26-12,32-12,10-42,30-6,34-14,24-18</Stat>
+      <Stat Type="LastSixAway">WLWWLW</Stat>
+      <Stat Type="LastSixHome">WWLLWW</Stat>
+      <Stat Type="LastSixGames">WWLWWW</Stat>
+    </Form>
+  </Team>
+</Betting_Feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Copyright 2001-2011 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        jobqueue03.sportingstatz.com
+     production time:    20110703T154440,589Z
+     production module:  Opta::Feed::XML::RugbyLeague::RL2
+-->
+<table datetime="20110703164440">
+  <comp id="1" long_name="Super League" name="Super League" season_id="2011" short_name="SL">
+    <group name="1">
+      <team id="500" against="307" bonus="0" drawn="0" for="762" group_name="1" losingbonus="0" lost="5" name="Warrington" played="20" points="30" pointsdiff="455" rank="1" triesagainst="54" triesbonus="0" triesfor="136" won="15" />
+      <team id="550" against="307" bonus="0" drawn="3" for="544" group_name="1" losingbonus="0" lost="3" name="Wigan" played="19" points="29" pointsdiff="237" rank="2" triesagainst="54" triesbonus="0" triesfor="95" won="13" />
+      <team id="150" against="348" bonus="0" drawn="0" for="547" group_name="1" losingbonus="0" lost="6" name="Huddersfield" played="20" points="28" pointsdiff="199" rank="3" triesagainst="60" triesbonus="0" triesfor="95" won="14" />
+      <team id="350" against="413" bonus="0" drawn="3" for="544" group_name="1" losingbonus="0" lost="6" name="St Helens" played="20" points="25" pointsdiff="131" rank="4" triesagainst="70" triesbonus="0" triesfor="95" won="11" />
+      <team id="800" against="433" bonus="0" drawn="1" for="491" group_name="1" losingbonus="0" lost="7" name="Catalans" played="20" points="25" pointsdiff="58" rank="5" triesagainst="76" triesbonus="0" triesfor="87" won="12" />
+      <team id="250" against="467" bonus="0" drawn="1" for="516" group_name="1" losingbonus="0" lost="9" name="Leeds" played="20" points="21" pointsdiff="49" rank="6" triesagainst="79" triesbonus="0" triesfor="89" won="10" />
+      <team id="50" against="524" bonus="0" drawn="2" for="486" group_name="1" losingbonus="0" lost="8" name="Castleford" played="19" points="20" pointsdiff="-38" rank="7" triesagainst="96" triesbonus="0" triesfor="85" won="9" />
+      <team id="200" against="425" bonus="0" drawn="1" for="490" group_name="1" losingbonus="0" lost="10" name="Hull" played="20" points="19" pointsdiff="65" rank="8" triesagainst="75" triesbonus="0" triesfor="88" won="9" />
+      <team id="400" against="561" bonus="0" drawn="0" for="430" group_name="1" losingbonus="0" lost="11" name="Salford" played="20" points="18" pointsdiff="-131" rank="9" triesagainst="98" triesbonus="0" triesfor="81" won="9" />
+      <team id="3600" against="546" bonus="0" drawn="0" for="514" group_name="1" losingbonus="0" lost="12" name="Hull Kingston Rovers" played="20" points="16" pointsdiff="-32" rank="10" triesagainst="99" triesbonus="0" triesfor="93" won="8" />
+      <team id="7400" against="584" bonus="0" drawn="2" for="416" group_name="1" losingbonus="0" lost="11" name="Bradford" played="20" points="16" pointsdiff="-168" rank="11" triesagainst="105" triesbonus="0" triesfor="71" won="7" />
+      <team id="300" against="674" bonus="0" drawn="1" for="400" group_name="1" losingbonus="0" lost="14" name="Harlequins" played="20" points="11" pointsdiff="-274" rank="12" triesagainst="118" triesbonus="0" triesfor="70" won="5" />
+      <team id="450" against="645" bonus="0" drawn="0" for="347" group_name="1" losingbonus="0" lost="14" name="Wakefield" played="20" points="8" pointsdiff="-298" rank="13" triesagainst="119" triesbonus="0" triesfor="61" won="6" />
+      <team id="7250" against="627" bonus="0" drawn="0" for="374" group_name="1" losingbonus="0" lost="16" name="Crusaders" played="20" points="4" pointsdiff="-253" rank="14" triesagainst="109" triesbonus="0" triesfor="66" won="4" />
+    </group>
+  </comp>
+</table>
