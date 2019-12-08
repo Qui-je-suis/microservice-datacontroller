@@ -1,4 +1,4 @@
-package mgb.mdatacontroller.model;
+package mgb.mdatacontroller.model.example;
 
 public class User
 {

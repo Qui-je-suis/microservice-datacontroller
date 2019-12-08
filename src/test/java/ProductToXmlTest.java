@@ -1,5 +1,5 @@
-import mgb.mdatacontroller.model.Product;
-import mgb.mdatacontroller.model.User;
+import mgb.mdatacontroller.model.example.Product;
+import mgb.mdatacontroller.model.example.User;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;

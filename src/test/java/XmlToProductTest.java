@@ -1,4 +1,4 @@
-import mgb.mdatacontroller.model.Product;
+import mgb.mdatacontroller.model.example.Product;
 import org.junit.Test;
 
 import javax.xml.bind.JAXBContext;

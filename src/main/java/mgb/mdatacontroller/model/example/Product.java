@@ -1,4 +1,4 @@
-package mgb.mdatacontroller.model;
+package mgb.mdatacontroller.model.example;
 
 import javax.xml.bind.annotation.*;
 import java.math.BigDecimal;
