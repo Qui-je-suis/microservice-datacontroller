@@ -10,12 +10,13 @@ import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlElementWrapper;
 import javax.xml.bind.annotation.XmlRootElement;
+import java.util.List;
 
 /**
  * Root element containing all subsequent elements.
  */
 @XmlRootElement(name = "RU10_Profile")
-//@XmlAccessorType(XmlAccessType.FIELD)
+// @XmlAccessorType(XmlAccessType.FIELD)
 public class RU10Profile
 {
 
@@ -28,7 +29,6 @@ public class RU10Profile
   /**
    * The element housing all referee information
    */
-  @XmlElementWrapper
   @XmlElement(name = "official")
   private Official official;
 
@@ -36,14 +36,12 @@ public class RU10Profile
    * Element containing team information.
    */
   @XmlElement(name = "team")
-  @XmlElementWrapper
   private Team team;
 
   /**
    * Element containing venue infomation.
    */
   @XmlElement(name = "venue")
-  @XmlElementWrapper
   private Venue venue;
 
   public RU10Profile()

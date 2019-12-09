@@ -20,7 +20,7 @@ public class XmlToRU10ProfilTest
   @Test
   public void testXmlToObject() throws JAXBException
   {
-    File file = new File("src/test/resources/rugby-union-feed-specifications/ru10_comp-201.xml");
+    File file = new File("src/test/resources/test-jaxb/ru10_comp-201.xml");
     JAXBContext jaxbContext = JAXBContext.newInstance(RU10Profile.class);
     Unmarshaller unmarshaller = jaxbContext.createUnmarshaller();
     ru10Profile = (RU10Profile) unmarshaller.unmarshal(file);
