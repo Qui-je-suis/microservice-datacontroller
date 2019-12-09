@@ -1,3 +1,9 @@
+/**
+ * -------------------------------------------------------------------------
+ * Copyright (C) 2019 QUI JE SUIS !!!. All rights reserved
+ * -------------------------------------------------------------------------
+ */
+
 import mgb.mdatacontroller.model.example.Product;
 import mgb.mdatacontroller.model.example.User;
 import org.junit.After;

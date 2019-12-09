@@ -1,3 +1,9 @@
+/**
+ * -------------------------------------------------------------------------
+ * Copyright (C) 2019 QUI JE SUIS !!!. All rights reserved
+ * -------------------------------------------------------------------------
+ */
+
 import mgb.mdatacontroller.model.RU10Profile;
 import org.junit.Test;
 

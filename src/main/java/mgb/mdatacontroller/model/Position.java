@@ -1,5 +1,13 @@
+/**
+ * -------------------------------------------------------------------------
+ * Copyright (C) 2019 QUI JE SUIS !!!. All rights reserved
+ * -------------------------------------------------------------------------
+ */
 package mgb.mdatacontroller.model;
 
+/**
+ * The usual position the player plays in.
+ */
 public enum Position
 {
   PROP("Prop"),

@@ -1,7 +1,14 @@
+/**
+ * -------------------------------------------------------------------------
+ * Copyright (C) 2019 QUI JE SUIS !!!. All rights reserved
+ * -------------------------------------------------------------------------
+ */
 package mgb.mdatacontroller.model;
 
-import java.util.Date;
 
+/**
+ * Element containing player information.
+ */
 public class Players
 {
 

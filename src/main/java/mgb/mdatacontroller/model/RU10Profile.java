@@ -1,10 +1,15 @@
+/**
+ * -------------------------------------------------------------------------
+ * Copyright (C) 2019 QUI JE SUIS !!!. All rights reserved
+ * -------------------------------------------------------------------------
+ */
 package mgb.mdatacontroller.model;
 
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlElement;
+import javax.xml.bind.annotation.XmlElementWrapper;
 import javax.xml.bind.annotation.XmlRootElement;
-import java.util.List;
 
 /**
  * Root element containing all subsequent elements.
@@ -23,19 +28,22 @@ public class RU10Profile
   /**
    * The element housing all referee information
    */
+  @XmlElementWrapper
   @XmlElement(name = "official")
   private Official official;
 
   /**
-   *
+   * Element containing team information.
    */
   @XmlElement(name = "team")
+  @XmlElementWrapper
   private Team team;
 
   /**
-   *
+   * Element containing venue infomation.
    */
   @XmlElement(name = "venue")
+  @XmlElementWrapper
   private Venue venue;
 
   public RU10Profile()
