@@ -9,6 +9,7 @@ import org.junit.Test;
 
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
+import javax.xml.bind.Marshaller;
 import javax.xml.bind.Unmarshaller;
 import java.io.File;
 
@@ -25,5 +26,12 @@ public class XmlToRU10ProfilTest
     Unmarshaller unmarshaller = jaxbContext.createUnmarshaller();
     ru10Profile = (RU10Profile) unmarshaller.unmarshal(file);
     System.out.println(ru10Profile);
+
+
+    JAXBContext jaxbContext1 = JAXBContext.newInstance(RU10Profile.class);
+    Marshaller marshaller1 = jaxbContext1.createMarshaller();
+    marshaller1.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
+    marshaller1.marshal(ru10Profile, new File("src/test/resources/test-jaxb/ru10_comp-201-2.xml"));
+    marshaller1.marshal(ru10Profile, System.out);
   }
 }

@@ -5,19 +5,20 @@
  */
 package mgb.mdatacontroller.model;
 
+
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlElement;
-import javax.xml.bind.annotation.XmlElementWrapper;
 import javax.xml.bind.annotation.XmlRootElement;
+import java.io.Serializable;
 import java.util.List;
 
 /**
  * Root element containing all subsequent elements.
  */
 @XmlRootElement(name = "RU10_Profile")
-// @XmlAccessorType(XmlAccessType.FIELD)
-public class RU10Profile
+@XmlAccessorType(XmlAccessType.FIELD)
+public class RU10Profile implements Serializable
 {
 
   /**
@@ -30,35 +31,17 @@ public class RU10Profile
    * The element housing all referee information
    */
   @XmlElement(name = "official")
-  private Official official;
+  private List<Official> officials;
 
   /**
    * Element containing team information.
    */
   @XmlElement(name = "team")
-  private Team team;
+  private List<Team> teams;
 
   /**
    * Element containing venue infomation.
    */
   @XmlElement(name = "venue")
-  private Venue venue;
-
-  public RU10Profile()
-  {
-
-  }
-
-  public RU10Profile(Competition competition, Official official, Team team, Venue venue)
-  {
-    this.competition = competition;
-    this.official = official;
-    this.team = team;
-    this.venue = venue;
-  }
-
-  @Override public String toString()
-  {
-    return "RU10Profile{" + "competition=" + competition + ", official=" + official + ", team=" + team + ", venue=" + venue + '}';
-  }
+  private List<Venue> venues;
 }
