@@ -77,4 +77,152 @@ public class Venue
    * The unique Opta venue ID.
    */
   private Integer venueId;
+
+  public Venue()
+  {
+
+  }
+  public Venue(Integer id, Integer capacity, String city, Integer country, Date established, Double latitude, Double longitude, String name, String profile,
+          String street, String teamName, Integer venueId)
+  {
+    this.id = id;
+    this.capacity = capacity;
+    this.city = city;
+    this.country = country;
+    this.established = established;
+    this.latitude = latitude;
+    this.longitude = longitude;
+    this.name = name;
+    this.profile = profile;
+    this.street = street;
+    this.teamName = teamName;
+    this.venueId = venueId;
+  }
+
+  public Integer getId()
+  {
+    return id;
+  }
+
+  public void setId(Integer id)
+  {
+    this.id = id;
+  }
+
+  public Integer getCapacity()
+  {
+    return capacity;
+  }
+
+  public void setCapacity(Integer capacity)
+  {
+    this.capacity = capacity;
+  }
+
+  public String getCity()
+  {
+    return city;
+  }
+
+  public void setCity(String city)
+  {
+    this.city = city;
+  }
+
+  public Integer getCountry()
+  {
+    return country;
+  }
+
+  public void setCountry(Integer country)
+  {
+    this.country = country;
+  }
+
+  public Date getEstablished()
+  {
+    return established;
+  }
+
+  public void setEstablished(Date established)
+  {
+    this.established = established;
+  }
+
+  public Double getLatitude()
+  {
+    return latitude;
+  }
+
+  public void setLatitude(Double latitude)
+  {
+    this.latitude = latitude;
+  }
+
+  public Double getLongitude()
+  {
+    return longitude;
+  }
+
+  public void setLongitude(Double longitude)
+  {
+    this.longitude = longitude;
+  }
+
+  public String getName()
+  {
+    return name;
+  }
+
+  public void setName(String name)
+  {
+    this.name = name;
+  }
+
+  public String getProfile()
+  {
+    return profile;
+  }
+
+  public void setProfile(String profile)
+  {
+    this.profile = profile;
+  }
+
+  public String getStreet()
+  {
+    return street;
+  }
+
+  public void setStreet(String street)
+  {
+    this.street = street;
+  }
+
+  public String getTeamName()
+  {
+    return teamName;
+  }
+
+  public void setTeamName(String teamName)
+  {
+    this.teamName = teamName;
+  }
+
+  public Integer getVenueId()
+  {
+    return venueId;
+  }
+
+  public void setVenueId(Integer venueId)
+  {
+    this.venueId = venueId;
+  }
+
+  @Override public String toString()
+  {
+    return "Venue{" + "id=" + id + ", capacity=" + capacity + ", city='" + city + '\'' + ", country=" + country + ", established=" + established + ", latitude="
+            + latitude + ", longitude=" + longitude + ", name='" + name + '\'' + ", profile='" + profile + '\'' + ", street='" + street + '\'' + ", teamName='"
+            + teamName + '\'' + ", venueId=" + venueId + '}';
+  }
 }

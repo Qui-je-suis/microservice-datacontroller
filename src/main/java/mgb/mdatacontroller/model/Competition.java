@@ -31,4 +31,24 @@ public class Competition
    * A short code used to reference the competition.
    */
   private String compShortName;
+
+  public Competition()
+  {
+
+  }
+
+  public Competition(Integer id, Integer clubCompetition, String compKnowName, String compLongName, String compShortName)
+  {
+    this.id = id;
+    this.clubCompetition = clubCompetition;
+    this.compKnowName = compKnowName;
+    this.compLongName = compLongName;
+    this.compShortName = compShortName;
+  }
+
+  @Override public String toString()
+  {
+    return "Competition{" + "id=" + id + ", clubCompetition=" + clubCompetition + ", compKnowName='" + compKnowName + '\'' + ", compLongName='" + compLongName
+            + '\'' + ", compShortName='" + compShortName + '\'' + '}';
+  }
 }
