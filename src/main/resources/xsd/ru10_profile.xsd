@@ -1,0 +1,137 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="players">
+        <xs:complexType>
+            <xs:simpleContent>
+                <xs:extension base="xs:string">
+                    <xs:attribute type="xs:string" name="birth_date" use="optional"/>
+                    <xs:attribute type="xs:string" name="comments" use="optional"/>
+                    <xs:attribute type="xs:string" name="created" use="optional"/>
+                    <xs:attribute type="xs:string" name="games_started" use="optional"/>
+                    <xs:attribute type="xs:string" name="height" use="optional"/>
+                    <xs:attribute type="xs:string" name="last_edited" use="optional"/>
+                    <xs:attribute type="xs:string" name="nationality_id" use="optional"/>
+                    <xs:attribute type="xs:string" name="place_birth" use="optional"/>
+                    <xs:attribute type="xs:string" name="player_caps" use="optional"/>
+                    <xs:attribute type="xs:string" name="player_first_name" use="optional"/>
+                    <xs:attribute type="xs:short" name="player_id" use="optional"/>
+                    <xs:attribute type="xs:string" name="player_initials" use="optional"/>
+                    <xs:attribute type="xs:string" name="player_known_name" use="optional"/>
+                    <xs:attribute type="xs:string" name="player_last_name" use="optional"/>
+                    <xs:attribute type="xs:string" name="position" use="optional"/>
+                    <xs:attribute type="xs:string" name="position_id" use="optional"/>
+                    <xs:attribute type="xs:string" name="profile" use="optional"/>
+                    <xs:attribute type="xs:short" name="team_id" use="optional"/>
+                    <xs:attribute type="xs:string" name="weight" use="optional"/>
+                </xs:extension>
+            </xs:simpleContent>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="team_profile">
+        <xs:complexType>
+            <xs:simpleContent>
+                <xs:extension base="xs:string">
+                    <xs:attribute type="xs:string" name="id" use="optional"/>
+                    <xs:attribute type="xs:string" name="affiliation_id" use="optional"/>
+                    <xs:attribute type="xs:string" name="birth_date" use="optional"/>
+                    <xs:attribute type="xs:string" name="coach_first_name" use="optional"/>
+                    <xs:attribute type="xs:short" name="coach_id" use="optional"/>
+                    <xs:attribute type="xs:string" name="coach_last_name" use="optional"/>
+                    <xs:attribute type="xs:string" name="comments" use="optional"/>
+                    <xs:attribute type="xs:string" name="created" use="optional"/>
+                    <xs:attribute type="xs:string" name="founded" use="optional"/>
+                    <xs:attribute type="xs:string" name="language_id" use="optional"/>
+                    <xs:attribute type="xs:string" name="last_edited" use="optional"/>
+                    <xs:attribute type="xs:string" name="name" use="optional"/>
+                    <xs:attribute type="xs:string" name="national_team" use="optional"/>
+                    <xs:attribute type="xs:string" name="pa_name" use="optional"/>
+                    <xs:attribute type="xs:string" name="profile" use="optional"/>
+                    <xs:attribute type="xs:string" name="symid" use="optional"/>
+                    <xs:attribute type="xs:short" name="t_id" use="optional"/>
+                    <xs:attribute type="xs:string" name="team_id" use="optional"/>
+                    <xs:attribute type="xs:short" name="venue_id" use="optional"/>
+                </xs:extension>
+            </xs:simpleContent>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="competition">
+        <xs:complexType>
+            <xs:simpleContent>
+                <xs:extension base="xs:string">
+                    <xs:attribute type="xs:short" name="id"/>
+                    <xs:attribute type="xs:byte" name="club_competition"/>
+                    <xs:attribute type="xs:string" name="comp_known_name"/>
+                    <xs:attribute type="xs:string" name="comp_long_name"/>
+                    <xs:attribute type="xs:string" name="comp_short_name"/>
+                </xs:extension>
+            </xs:simpleContent>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="official">
+        <xs:complexType>
+            <xs:simpleContent>
+                <xs:extension base="xs:string">
+                    <xs:attribute type="xs:string" name="id" use="optional"/>
+                    <xs:attribute type="xs:string" name="birth_date" use="optional"/>
+                    <xs:attribute type="xs:string" name="country" use="optional"/>
+                    <xs:attribute type="xs:string" name="created" use="optional"/>
+                    <xs:attribute type="xs:string" name="first_name" use="optional"/>
+                    <xs:attribute type="xs:string" name="language_id" use="optional"/>
+                    <xs:attribute type="xs:string" name="last_edited" use="optional"/>
+                    <xs:attribute type="xs:string" name="last_name" use="optional"/>
+                    <xs:attribute type="xs:int" name="official_id" use="optional"/>
+                    <xs:attribute type="xs:string" name="profile" use="optional"/>
+                </xs:extension>
+            </xs:simpleContent>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="team">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="players" maxOccurs="unbounded" minOccurs="0"/>
+                <xs:element ref="team_profile"/>
+            </xs:sequence>
+            <xs:attribute type="xs:short" name="id" use="optional"/>
+            <xs:attribute type="xs:date" name="coach_birth_date" use="optional"/>
+            <xs:attribute type="xs:string" name="coach_first_name" use="optional"/>
+            <xs:attribute type="xs:short" name="coach_id" use="optional"/>
+            <xs:attribute type="xs:string" name="coach_last_name" use="optional"/>
+            <xs:attribute type="xs:string" name="name" use="optional"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="venue">
+        <xs:complexType>
+            <xs:simpleContent>
+                <xs:extension base="xs:string">
+                    <xs:attribute type="xs:string" name="id" use="optional"/>
+                    <xs:attribute type="xs:byte" name="affiliation_id" use="optional"/>
+                    <xs:attribute type="xs:int" name="capacity" use="optional"/>
+                    <xs:attribute type="xs:string" name="city" use="optional"/>
+                    <xs:attribute type="xs:byte" name="country" use="optional"/>
+                    <xs:attribute type="xs:string" name="created" use="optional"/>
+                    <xs:attribute type="xs:string" name="established" use="optional"/>
+                    <xs:attribute type="xs:string" name="highest_score" use="optional"/>
+                    <xs:attribute type="xs:string" name="language_id" use="optional"/>
+                    <xs:attribute type="xs:string" name="last_edited" use="optional"/>
+                    <xs:attribute type="xs:float" name="latitude" use="optional"/>
+                    <xs:attribute type="xs:float" name="longitude" use="optional"/>
+                    <xs:attribute type="xs:string" name="lowest_score" use="optional"/>
+                    <xs:attribute type="xs:string" name="name" use="optional"/>
+                    <xs:attribute type="xs:string" name="profile" use="optional"/>
+                    <xs:attribute type="xs:string" name="street" use="optional"/>
+                    <xs:attribute type="xs:string" name="team_name" use="optional"/>
+                    <xs:attribute type="xs:short" name="venue_id" use="optional"/>
+                </xs:extension>
+            </xs:simpleContent>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="RU10_Profile">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="competition"/>
+                <xs:element ref="official" maxOccurs="unbounded" minOccurs="0"/>
+                <xs:element ref="team" maxOccurs="unbounded" minOccurs="0"/>
+                <xs:element ref="venue" maxOccurs="unbounded" minOccurs="0"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

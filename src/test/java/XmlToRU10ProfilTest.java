@@ -4,7 +4,7 @@
  * -------------------------------------------------------------------------
  */
 
-import mgb.mdatacontroller.model.RU10Profile;
+import mbg.mdatacontroller.model.RU10Profile;
 import org.junit.Test;
 
 import javax.xml.bind.JAXBContext;
